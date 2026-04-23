@@ -44,8 +44,9 @@ def parse_dat_file(dat_path):
                 'rom_name': rom_node.get('name'),
                 'rom_size': rom_node.get('size'),
                 'rom_crc_hash': rom_node.get('crc'),
-                'rom_sha1_hash': rom_node.get('sha1'),
                 'rom_md5_hash': rom_node.get('md5'),
+                'rom_sha1_hash': rom_node.get('sha1'),
+                'rom_sha256_hash': rom_node.get('sha256'),
                 'region': release_node.get('region') if release_node is not None else None,
             })
     
@@ -127,13 +128,14 @@ def verify_file(df_dat, system_name, game_internal_name, file_path, database_sch
     check_map = {
         'rom_size': (lambda p: str(p.stat().st_size), 'size_check'),
         'rom_crc_hash': (lambda p: hashing.get_file_crc32(p), 'crc_check'),
+        'rom_md5_hash': (lambda p: hashing.get_md5(p), 'md5_check'),
         'rom_sha1_hash': (lambda p: hashing.get_sha1(p), 'sha1_check'),
-        'rom_md5_hash': (lambda p: hashing.get_md5(p), 'md5_check')
+        'rom_sha256_hash': (lambda p: hashing.get_sha256(p), 'sha256_check')
     }
 
     actual_values = {}
     # Initialize checks as None (will become NULL in SQL)
-    checks = {'size_check': None, 'crc_check': None, 'sha1_check': None, 'md5_check': None}
+    checks = {'size_check': None, 'crc_check': None, 'sha1_check': None, 'md5_check': None, 'sha256_check': None}
     verification_results = []
 
     # 2. Dynamic Verification
@@ -164,16 +166,19 @@ def verify_file(df_dat, system_name, game_internal_name, file_path, database_sch
         "rom_system": system_name,
         "dat_game_size": expected.get('rom_size'),
         "dat_crc_hash": expected.get('rom_crc_hash'),
-        "dat_sha1_hash": expected.get('rom_sha1_hash'),
         "dat_md5_hash": expected.get('rom_md5_hash'),
+        "dat_sha1_hash": expected.get('rom_sha1_hash'),
+        "dat_sha256_hash": expected.get('rom_sha256_hash'),
         "game_actual_size": actual_values.get('rom_size'),
         "game_crc_hash": actual_values.get('rom_crc_hash'),
-        "game_sha1_hash": actual_values.get('rom_sha1_hash'),
         "game_md5_hash": actual_values.get('rom_md5_hash'),
-        "game_size_check": checks['size_check'], # Will be None if missing from DAT
-        "crc_check": checks['crc_check'],           # Will be None if missing from DAT
-        "sha1_check": checks['sha1_check'],         # Will be None if missing from DAT
-        "md5_check": checks['md5_check'],           # Will be None if missing from DAT
+        "game_sha1_hash": actual_values.get('rom_sha1_hash'),
+        "game_sha256_hash": actual_values.get('rom_sha256_hash'),
+        "game_size_check": checks['size_check'],
+        "crc_check": checks['crc_check'],
+        "md5_check": checks['md5_check'],
+        "sha1_check": checks['sha1_check'],
+        "sha256_check": checks['sha256_check'],
         "timestamp": datetime.now(timezone.utc).isoformat()
     }
 

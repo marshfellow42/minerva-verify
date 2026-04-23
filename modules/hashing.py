@@ -88,3 +88,8 @@ def get_md5(file_path):
     with open(file_path, "rb") as f:
         digest = hashlib.file_digest(f, "md5")
         return digest.hexdigest()
+    
+def get_sha256(file_path):
+    with open(file_path, "rb") as f:
+        digest = hashlib.file_digest(f, "sha256")
+        return digest.hexdigest()

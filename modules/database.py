@@ -45,16 +45,19 @@ RA_SCHEMA = [
     ("rom_system", "TEXT"),
     ("dat_game_size", "TEXT"),
     ("dat_crc_hash", "TEXT"),
-    ("dat_sha1_hash", "TEXT UNIQUE"),
     ("dat_md5_hash", "TEXT"),
+    ("dat_sha1_hash", "TEXT UNIQUE"),
+    ("dat_sha256_hash", "TEXT"),
     ("game_actual_size", "TEXT"),
     ("game_crc_hash", "TEXT"),
-    ("game_sha1_hash", "TEXT"),
     ("game_md5_hash", "TEXT"),
+    ("game_sha1_hash", "TEXT"),
+    ("game_sha256_hash", "TEXT"),
     ("game_size_check", "INTEGER"),
     ("crc_check", "INTEGER"),
-    ("sha1_check", "INTEGER"),
     ("md5_check", "INTEGER"),
+    ("sha1_check", "INTEGER"),
+    ("sha256_check", "INTEGER"),
     ("timestamp", "TEXT")
 ]
 
