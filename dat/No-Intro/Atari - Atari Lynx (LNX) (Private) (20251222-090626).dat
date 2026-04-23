@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>30</id>
+		<name>Atari - Atari Lynx (LNX) (Private)</name>
+		<description>Atari - Atari Lynx (LNX) (Private)</description>
+		<version>20251222-090626</version>
+		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="8bit-Slicks (World) (Aftermarket) (Unl)" id="0102">
+		<category>Games</category>
+		<description>8bit-Slicks (World) (Aftermarket) (Unl)</description>
+		<rom name="8bit-Slicks (World) (Aftermarket) (Unl).lnx" size="524352" crc="898fa3c7" md5="f075c00931aba8d7624f687c5bbf75ec" sha1="3b25b20f21ca3d90498cd58ff45265227391267b" sha256="ee8919a19f44eab3a93700460c1a6bd878a292b6d495df0e52321703d2664052"/>
+	</game>
+	<game name="Bug's Trip Redux, A (World) (Aftermarket) (Unl)" id="0103">
+		<category>Games</category>
+		<description>Bug's Trip Redux, A (World) (Aftermarket) (Unl)</description>
+		<rom name="Bug's Trip Redux, A (World) (Aftermarket) (Unl).lnx" size="524352" crc="eac2b399" md5="50d38706eb77ad464a10be7a0df508cd" sha1="9871176b5250e10b7c681f195c4b128f7e543b0d" sha256="c4dfc0452b9277f403b2287396ac7dc71e34ec67c1e8ae7779385fb44745bc17"/>
+	</game>
+	<game name="Championship Rally (World) (Aftermarket) (Unl)" id="0105">
+		<category>Games</category>
+		<description>Championship Rally (World) (Aftermarket) (Unl)</description>
+		<rom name="Championship Rally (World) (Aftermarket) (Unl).lnx" size="524352" crc="f965bf77" md5="84ac34ae7ceea51d6725ea089f3f6bd3" sha1="7a488b968a76f53794f5ad96120864ab1b3a6dd4" sha256="90e61a5d27228175133632eabed20ff8e52d2d79a4e10340e6a356305b79d39a"/>
+	</game>
+	<game name="CSS - Traffic Regulation (World) (Digital) (Aftermarket) (Unl)" id="0418">
+		<category>Games</category>
+		<description>CSS - Traffic Regulation (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="CSS - Traffic Regulation (World) (Digital) (Aftermarket) (Unl).lnx" size="262208" crc="289b21e9" md5="4beea4fab7a7210e48f7124787f543f6" sha1="3bf0f084c151d028db1b9272c793ecdecbe34155" sha256="c6e7dfeef0b95d775c4df5f95a8653cf7cc4af8dca7ea623a27b0f622662d47b"/>
+	</game>
+	<game name="Sky Raider Redux (World) (Aftermarket) (Unl)" id="0107">
+		<category>Games</category>
+		<description>Sky Raider Redux (World) (Aftermarket) (Unl)</description>
+		<rom name="Sky Raider Redux (World) (Aftermarket) (Unl).lnx" size="524352" crc="10382808" md5="655135126455ee5b4dd801fd838228c0" sha1="bed57b6708ace4f63438b49d7a08e2fe4b2a04b3" sha256="0356a006ea15598305de34e49a6987f2156a634c09913a5966c1a93e56677879"/>
+	</game>
+	<game name="Unnamed (World) (Aftermarket) (Unl)" id="0106">
+		<category>Games</category>
+		<description>Unnamed (World) (Aftermarket) (Unl)</description>
+		<rom name="Unnamed (World) (Aftermarket) (Unl).lnx" size="524352" crc="1a452edd" md5="20502c54a7e3de1ccef0349ca790b0e0" sha1="d1ac6247f42e8a1fa8db47c68cff9c7d110a11d7" sha256="a39e3e8837edf60183888e64680981705b55d63b2955eea3e4abe752df5201af"/>
+	</game>
+	<game name="Vikings Saga - Protect the Love (World) (Aftermarket) (Unl)" id="0108">
+		<category>Games</category>
+		<description>Vikings Saga - Protect the Love (World) (Aftermarket) (Unl)</description>
+		<rom name="Vikings Saga - Protect the Love (World) (Aftermarket) (Unl).lnx" size="524352" crc="0c361922" md5="7799025c11208d896269fa83c61d79c4" sha1="05fd9dda9836099c2e014f9659981843754f7f13" sha256="63944c91a22bde6dbb934c5880e254d41b2178f9285cdcc2645a96846cd37dde"/>
+	</game>
+	<game name="Vikings Saga - Save the Love (World) (Aftermarket) (Unl)" id="0109">
+		<category>Games</category>
+		<description>Vikings Saga - Save the Love (World) (Aftermarket) (Unl)</description>
+		<rom name="Vikings Saga - Save the Love (World) (Aftermarket) (Unl).lnx" size="524352" crc="443648d1" md5="ae228b473725b4982d15fb9a37aee03d" sha1="593bc6db049993d78caaf16953b8f486bf342356" sha256="6fe81ae695a21205441ecb1248679957b4dc9c76c0d45758bef01d5aa4023710"/>
+	</game>
+	<game name="Wyvern Tales (World) (Aftermarket) (Unl)" id="0100">
+		<category>Games</category>
+		<description>Wyvern Tales (World) (Aftermarket) (Unl)</description>
+		<rom name="Wyvern Tales (World) (Aftermarket) (Unl).lnx" size="524352" crc="d734e3f4" md5="04c2cfaa5d8f10c251fe98a2ad557d2a" sha1="c9d51f9a3b3ba04266a3b4f91869732c5b948ea6" sha256="2dea2faaa30f1229b956adfcdf1bf2c2cb7da4f29412979126d1d2f7796adc8e"/>
+	</game>
+	<game name="YNXA (World) (Aftermarket) (Unl)" id="0143" cloneofid="0145">
+		<category>Games</category>
+		<description>YNXA (World) (Aftermarket) (Unl)</description>
+		<rom name="YNXA (World) (Aftermarket) (Unl).lnx" size="524352" crc="292178a4" md5="091f0b2678f8d70061543aa9485ade6b" sha1="de60b6112df5e6f78fcc61d16ec69f3ef9b0158b" sha256="17fb6c93df8c1679ec23dce7d7a5a2e6bdcb817f2cbcd15805e3693c69c5bd1a"/>
+	</game>
+</datafile>

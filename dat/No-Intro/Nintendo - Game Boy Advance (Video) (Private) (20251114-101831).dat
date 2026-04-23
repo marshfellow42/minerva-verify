@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>297</id>
+		<name>Nintendo - Game Boy Advance (Video) (Private)</name>
+		<description>Nintendo - Game Boy Advance (Video) (Private)</description>
+		<version>20251114-101831</version>
+		<author>BigFred, C. V. Reynolds, DeadSkullzJr, Gefflon, Hiccup, kazumi213, omonim2007, Psychofox11, psykopat, relax, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Night Trap (World) (Aftermarket) (Unl)" id="0046">
+		<category>Video</category>
+		<description>Night Trap (World) (Aftermarket) (Unl)</description>
+		<rom name="Night Trap (World) (Aftermarket) (Unl).gba" size="268435456" crc="d2344bac" md5="2b1c0a0bb583863e427ae70975ed8cf9" sha1="b26dbedb1333510f39b0b633b56889bd9c41bf99" sha256="5ffb0472175c6711934a872bb6126a97f940a6fe93a844c55c4f3d19631f6480"/>
+	</game>
+</datafile>

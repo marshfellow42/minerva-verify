@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>236</id>
+		<name>Google - Android (Samsung Galaxy Apps) (APK)</name>
+		<description>Google - Android (Samsung Galaxy Apps) (APK)</description>
+		<version>20221113-024338</version>
+		<author>Arctic Circle System</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Game Launcher (World) (v6.0.03.1)" id="0005">
+		<description>Game Launcher (World) (v6.0.03.1)</description>
+		<game_id>com.samsung.android.game.gamehome</game_id>
+		<rom name="Game Launcher (World) (v6.0.03.1).apk" size="24165397" crc="73b86441" md5="1a4905fe53fe2c97268433e4fa561499" sha1="7fc56ec6a0a21c359d1679c29086fa1843d28c3c" sha256="221f3159f15a6dcbca0b9f3220daa07b54a121ff11744cb77ecc645267c0dbec"/>
+	</game>
+	<game name="Game Optimizing Service (World) (v3.1.24)" id="0004">
+		<description>Game Optimizing Service (World) (v3.1.24)</description>
+		<game_id>com.samsung.android.game.gos</game_id>
+		<rom name="Game Optimizing Service (World) (v3.1.24).apk" size="4171277" crc="de560c27" md5="1d7d1ad0b5843a1f9158421605a0d91f" sha1="fd78a0019bc88e4de04f2300e122e221b9acc417" sha256="d9fca240e6094186e66b3c3dec9c3cefcac9177c0a0e0ca622fe3c976752869f"/>
+	</game>
+	<game name="Game Optimizing Service (World) (v3.1.24) (Alt)" id="0006" cloneofid="0004">
+		<description>Game Optimizing Service (World) (v3.1.24) (Alt)</description>
+		<rom name="Game Optimizing Service (World) (v3.1.24) (Alt).apk" size="4178809" crc="32d93108" md5="9ad794dca6b132d8ac5495c4a53621b5" sha1="a6111a9d26ad28068d8e91f63fdb82992aaa758f" sha256="1546b7ee9e8f0962f376497aac82d7a707f58ba9752694bc60b806ddd188e4cc"/>
+	</game>
+	<game name="Pokemon GO (USA) (v0.225.0)" id="0002">
+		<description>Pokemon GO (USA) (v0.225.0)</description>
+		<game_id>com.nianticlabs.pokemongo.ares</game_id>
+		<rom name="Pokemon GO (USA) (v0.225.0).apk" size="127950714" crc="c49d938c" md5="80521cfea6be5db4ce4f0ba7da7fe136" sha1="398725bc6b8844168095d6e50f15695955c6c0c2" sha256="113e9983eac8889cfb47f557787dfdb1a5b8455bfe809e8dcd2d950e240b3afa"/>
+	</game>
+	<game name="Pokemon GO (USA) (v0.229.1)" id="0003" cloneofid="0002">
+		<description>Pokemon GO (USA) (v0.229.1)</description>
+		<game_id>com.nianticlabs.pokemongo.ares</game_id>
+		<rom name="Pokemon GO (USA) (v0.229.1).apk" size="127984472" crc="d5afae21" md5="5e829a67ac62830a1059b40b76d91631" sha1="2f16cb7a11e8b33bfbe2b1d681ea2fec79f8ddb0" sha256="3f23848482df4316c254b727c66d518fa2d02aa64d7cf3c4ca3cfd2339216da4"/>
+	</game>
+</datafile>

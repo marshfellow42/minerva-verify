@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This is a DownloadEmAll datafile-->
+<datafile>
+  <header>
+    <name>Apple - Macintosh - SBI Subchannels</name>
+    <description>Apple - Macintosh - SBI Subchannels - Datfile (2) (2022-10-10 09-37-12)</description>
+    <version>2022-10-10 09-37-12</version>
+    <date>2022-10-10 09-37-12</date>
+    <author>DownloadEmAll-GUI v1.8.24 - Redump.org</author>
+    <homepage>http://redump.org</homepage>
+    <url></url>
+    <comment>Redump - DownloadEmAll</comment>
+  </header>
+  <game name="Sims 2, The - Pets (Expansion Pack) (USA)">
+    <description>Sims 2, The - Pets (Expansion Pack) (USA)</description>
+    <rom name="Sims 2, The - Pets (Expansion Pack) (USA).sbi" size="158" crc="c57bc1e1" md5="68803ea8fd7e0e8fc51dc0438f0ddfee" sha1="c4397da34842dd674985c343ddd84c2da52a0c3d" />
+  </game>
+  <game name="Virtual Villagers - A New Home (USA)">
+    <description>Virtual Villagers - A New Home (USA)</description>
+    <rom name="Virtual Villagers - A New Home (USA).sbi" size="158" crc="df49cf52" md5="8bd7e79afa6d0bbb6b7ebbf5c2b589f6" sha1="7c361da51323c6157d363e4d4a9febbdb1f976ac" />
+  </game>
+</datafile>

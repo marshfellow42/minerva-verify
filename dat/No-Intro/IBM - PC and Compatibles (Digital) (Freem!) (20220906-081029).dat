@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>232</id>
+		<name>IBM - PC and Compatibles (Digital) (Freem!)</name>
+		<description>IBM - PC and Compatibles (Digital) (Freem!)</description>
+		<version>20220906-081029</version>
+		<author>FakeShemp, MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Ai Hana Ryuu (World) (Ja) (v1.01) (Windows)" id="0024">
+		<description>Ai Hana Ryuu (World) (Ja) (v1.01) (Windows)</description>
+		<rom name="AiHanaRyu1_1.zip" size="329327271" crc="23fa171e" md5="a3a5aaca29d9d6ca0c9b89680b62fef7" sha1="eed2a8cc34fbaaba46aa3f0b6ec2c42b584429c6"/>
+	</game>
+	<game name="Akazukin Darkseid (World) (Ja) (v1.02) (Windows)" id="0001">
+		<description>Akazukin Darkseid (World) (Ja) (v1.02) (Windows)</description>
+		<rom name="akads.zip" size="42987521" crc="a37e85d4" md5="f158373a693a391820dba41396623813" sha1="4c40b94f5685a274ebe07cc15c8746be8eb0ee76"/>
+	</game>
+	<game name="Blue (World) (Windows)" id="0023">
+		<description>Blue (World) (Windows)</description>
+		<rom name="Blue_Setup.zip" size="495902913" crc="7694c531" md5="05cdef124ce1d7148d9d37074374e312" sha1="dca161491f8430cf73abc0b206e0322e8b74b76d"/>
+	</game>
+	<game name="Doll Empire Academy (World) (Ja) (Windows)" id="0013">
+		<description>Doll Empire Academy (World) (Ja) (Windows)</description>
+		<rom name="Doll_Empire_Academy.zip" size="166330632" crc="3795da98" md5="742491e9f9c0a5629fda3f2514c67612" sha1="8a42b1e051ee9a2cdf367226797ac8c82179d7e4"/>
+	</game>
+	<game name="Full Bokko Youchien (World) (Ja) (Windows)" id="0002">
+		<description>Full Bokko Youchien (World) (Ja) (Windows)</description>
+		<rom name="fullbokko_ver1.00.zip" size="34522875" crc="ddab381c" md5="cfe00ab7453700d689c5de2e01d51557" sha1="6e4f2bd1eb16f3d53fdbd0968f69623cbbb4bef0"/>
+	</game>
+	<game name="Genjuumin Tower (World) (Ja) (Windows)" id="0014">
+		<description>Genjuumin Tower (World) (Ja) (Windows)</description>
+		<rom name="GenjuminTower.zip" size="38729107" crc="9f36dc8f" md5="33d8800cb33a0185b8fb72860744e56e" sha1="448f20d722a6e84eb9098e4f12001469a7684580"/>
+	</game>
+	<game name="Gravitate Zero (World) (Ja) (Windows)" id="0025">
+		<description>Gravitate Zero (World) (Ja) (Windows)</description>
+		<rom name="gravitatezero.zip" size="174125812" crc="58bc242e" md5="54e808a6c03e4d95eba1f1e0519c1d7d" sha1="a6d2cdfc599605c6ee7abfb79d5a339446f309f3"/>
+	</game>
+	<game name="Guran Barusu Densetsu 2 (World) (Ja) (v1.6.3) (Windows)" id="0015">
+		<description>Guran Barusu Densetsu 2 (World) (Ja) (v1.6.3) (Windows)</description>
+		<rom name="butio.zip" size="1454013243" crc="1418e0aa" md5="3276abf09118e4c68fc835e427fb18f1" sha1="ad8637c4282e22e7912e5aaa6c12cf00d2619572"/>
+	</game>
+	<game name="Happy Lucky Island (World) (Ja) (v1.11) (Windows)" id="0026">
+		<description>Happy Lucky Island (World) (Ja) (v1.11) (Windows)</description>
+		<rom name="hapiraki1.11.zip" size="68340951" crc="8612de90" md5="5976a4dd4f7157c7bc83231b8344e240" sha1="2829bb3bac44511d813632d622cf3e43dd26b8ed"/>
+	</game>
+	<game name="Haunt (World) (Ja) (Mac)" id="0016">
+		<description>Haunt (World) (Ja) (Mac)</description>
+		<rom name="27484_deploy_mac.zip" size="157440749" crc="1b663ce5" md5="7150d7f589e3c40eff6105e05e5e1658" sha1="72dea459516f31f6277e47a298fddc7b57891680"/>
+	</game>
+	<game name="Haunt (World) (Ja) (Windows)" id="0017">
+		<description>Haunt (World) (Ja) (Windows)</description>
+		<rom name="27484_deploy_win.zip" size="144709058" crc="5fd182b2" md5="695fceafc53aafdbe983824e20b950b8" sha1="c82ad71971e6d03d44d740c756cb53fd956ba328"/>
+	</game>
+	<game name="Health Butler (World) (Ja) (Windows)" id="0018">
+		<description>Health Butler (World) (Ja) (Windows)</description>
+		<rom name="health_b.zip" size="679249" crc="403fabaf" md5="2a86edf85777ab3b5a109bc0d884b366" sha1="d9d677ebd5e95b65e31fc5461a2653a4be916e1e"/>
+	</game>
+	<game name="Horobi no Yurikago (World) (Ja) (v1.01) (Windows)" id="0003">
+		<description>Horobi no Yurikago (World) (Ja) (v1.01) (Windows)</description>
+		<rom name="horobi.zip" size="471452574" crc="c08fb2f5" md5="d2c2db7be87b4ac32513e20a475275a3" sha1="759443c99720b1de5beec33eadaaf709694650d0"/>
+	</game>
+	<game name="Kimi to Boku to Kireigoto (World) (Ja) (Windows)" id="0004">
+		<description>Kimi to Boku to Kireigoto (World) (Ja) (Windows)</description>
+		<rom name="kimiboku.zip" size="16648852" crc="55ce1452" md5="3af449e24a9cc34e6360b71d875a00e8" sha1="c556ea6a382c6ea939ff468e21656deeeb79b46e"/>
+	</game>
+	<game name="Maduchi no Tsukaite (World) (Ja) (2022-01-09) (Windows)" id="0019">
+		<description>Maduchi no Tsukaite (World) (Ja) (2022-01-09) (Windows)</description>
+		<rom name="DemonsHammer-win32-x64.zip" size="85878839" crc="c0e3b258" md5="b6b5c7886c39741cea597f9bca99d094" sha1="c2400110bf623cc6e158c19d493fccfc7ad25710"/>
+	</game>
+	<game name="Makoto Mobius (World) (Ja) (Windows)" id="0005">
+		<description>Makoto Mobius (World) (Ja) (Windows)</description>
+		<rom name="makoto.zip" size="9006638" crc="2b5bf30c" md5="7e8be22b5fd7646c8c1a2a2a9e472041" sha1="603c220a350f730e4bd1b193aa524b09437bd0f5"/>
+	</game>
+	<game name="Menherafflesia (World) (Ja) (v1.02) (Windows)" id="0006">
+		<description>Menherafflesia (World) (Ja) (v1.02) (Windows)</description>
+		<rom name="menhera_ver1.02.zip" size="115268364" crc="1251224b" md5="b7186c346297dc195b39b50671e79eaa" sha1="21e3a27484f6605e906a7a1dc7d73a43d1c23f38"/>
+	</game>
+	<game name="Mikoto Nikki (World) (Ja) (v1.02) (Windows)" id="0007">
+		<description>Mikoto Nikki (World) (Ja) (v1.02) (Windows)</description>
+		<rom name="mikoto.zip" size="84296189" crc="3f64ba8e" md5="6572174f341195d97d4407875feef826" sha1="8c76b1305160f67c4728f2431fdfd144872c5125"/>
+	</game>
+	<game name="Mix Au Lait (World) (Ja) (Windows)" id="0008">
+		<description>Mix Au Lait (World) (Ja) (Windows)</description>
+		<rom name="mixore.zip" size="170653799" crc="b5fa101a" md5="9eb3e01363cf0dc2f21ffd6f692d0d9f" sha1="38168e28ec33658b217bc63e3fbd7be2435874ed"/>
+	</game>
+	<game name="Mogami Tei - Another Story - Awasa Yuuka Hen (World) (Ja) (Windows)" id="0027">
+		<description>Mogami Tei - Another Story - Awasa Yuuka Hen (World) (Ja) (Windows)</description>
+		<rom name="mogamitei_another-win32-x64.zip" size="1694634678" crc="2be4d5ab" md5="f6166bf634c250e96827cb3d5507d00e" sha1="f7168fcd9ba73af16b2ae7b739c612515788a80a"/>
+	</game>
+	<game name="Mou 1-ri, Iru (World) (Ja) (Windows)" id="0028">
+		<description>Mou 1-ri, Iru (World) (Ja) (Windows)</description>
+		<rom name="mouhitoriiru.zip" size="43089271" crc="45e2919d" md5="f6ea5587798cbdc0ae65b95bd37e27f5" sha1="b2d2ab029bb721a87cb85fc6ee82e75732e2c535"/>
+	</game>
+	<game name="Ningyo no Chouchou Awase (World) (Ja) (Windows)" id="0020">
+		<description>Ningyo no Chouchou Awase (World) (Ja) (Windows)</description>
+		<rom name="ChouChou.zip" size="36752233" crc="e014b9b5" md5="41c0edbac10492bc0e9da9cb4413d40e" sha1="1dfecbd618263df3a4a572a227a9d4774726e104"/>
+	</game>
+	<game name="No. 48 Jikkyou Chuu (World) (Ja) (Mac)" id="0029">
+		<description>No. 48 Jikkyou Chuu (World) (Ja) (Mac)</description>
+		<rom name="28839_deploy_mac.zip" size="323422273" crc="7d0b5d7e" md5="e29e98191913db75f6ae7d0b935bc4d7" sha1="d5cc359a75ffa293dce63ea63ffa06e38ce5f666"/>
+	</game>
+	<game name="No. 48 Jikkyou Chuu (World) (Ja) (Windows)" id="0030">
+		<description>No. 48 Jikkyou Chuu (World) (Ja) (Windows)</description>
+		<rom name="28839_deploy_win.zip" size="310620789" crc="ea216acd" md5="c74b1a8f5262af7c7eb84a50b3de8958" sha1="4b844480d836e7f3bf1c47d5efa12fb5403d1b65"/>
+	</game>
+	<game name="Oto Rhythm (World) (Ja) (v1.5.0) (Windows)" id="0031">
+		<description>Oto Rhythm (World) (Ja) (v1.5.0) (Windows)</description>
+		<rom name="OtoRhythm.zip" size="566764460" crc="bd6614de" md5="9e4a39851f86e5c709f90da021ecb0c2" sha1="31181ed951f57c58d47809858e7e5c8656b627b0"/>
+	</game>
+	<game name="Phenia no Bouken - Samusa no Nazo o Toki Akase! (World) (Ja) (Windows)" id="0021">
+		<description>Phenia no Bouken - Samusa no Nazo o Toki Akase! (World) (Ja) (Windows)</description>
+		<rom name="PhenixAction_ver1.00.zip" size="54936205" crc="a9cd38af" md5="79f5c1342ed5e13d3cc7425fa8af2472" sha1="6612b3095f231fd2d7c481a441db2ccbc81b975c"/>
+	</game>
+	<game name="Shihori Escape (World) (Ja) (v1.01) (Windows)" id="0009">
+		<description>Shihori Escape (World) (Ja) (v1.01) (Windows)</description>
+		<rom name="sihori.zip" size="43647113" crc="aa0a8498" md5="5c0dabe31cc25cba2523cdac8603cdc0" sha1="49f7741a4cd99c56fd38958ebea2d4528fa23d0b"/>
+	</game>
+	<game name="Souhan no Idealismo (World) (Ja) (Windows)" id="0022">
+		<description>Souhan no Idealismo (World) (Ja) (Windows)</description>
+		<rom name="souidea_1.0.zip" size="218066802" crc="33351112" md5="54172b9c33aa80e80e4be31fb497de57" sha1="97d4a66a483b8fa37de75666208bff5956a28f25"/>
+	</game>
+	<game name="Tsukimi Planet (World) (Ja) (Windows)" id="0010">
+		<description>Tsukimi Planet (World) (Ja) (Windows)</description>
+		<rom name="tukimi.zip" size="33557322" crc="7ea785c3" md5="43ab6a2af694ee70143502a783053257" sha1="6be9d70acd9e685b7d227d7bf856c0dfeda1ac4c"/>
+	</game>
+	<game name="Vanilla (World) (Ja) (Demo) (Windows)" id="0011">
+		<description>Vanilla (World) (Ja) (Demo) (Windows)</description>
+		<rom name="vanilla_trial.zip" size="251961604" crc="ed782c03" md5="29378c75d82b23b294fca878bffdc8e7" sha1="e68390fb9c1bb62f343a0067e15eab75918fb4e0"/>
+	</game>
+	<game name="Yanderella (World) (Ja) (Windows)" id="0012">
+		<description>Yanderella (World) (Ja) (Windows)</description>
+		<rom name="yandere.zip" size="92829343" crc="a175cbdc" md5="c3c662bda9bb63f728b6898bb2326a49" sha1="d1b146c59661e57fcf94dfc715ae42b3184398bb"/>
+	</game>
+</datafile>

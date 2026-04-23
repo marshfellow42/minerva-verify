@@ -1,0 +1,286 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>413</id>
+		<name>IBM - PC and Compatibles (Digital) (Press Kits)</name>
+		<description>IBM - PC and Compatibles (Digital) (Press Kits)</description>
+		<version>20230506-085923</version>
+		<author>NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Among Us (World)" id="0009">
+		<category>Documents</category>
+		<description>Among Us (World)</description>
+		<rom name="Among Us Presskit.zip" size="1285850436" crc="599d0c30" md5="a95a40616cf9fd969faf21551e32fcd6" sha1="5d459fbc6f551f88b95f92709b929c0094355dde"/>
+	</game>
+	<game name="Fish Tycoon (World) (Pocket PC)" id="0006">
+		<category>Documents</category>
+		<description>Fish Tycoon (World) (Pocket PC)</description>
+		<rom name="ft_ppc_presskit.zip" size="305693" crc="7f52ae44" md5="47338b17be19af0b4e1160a7184d00a8" sha1="d42b8fc22c2bc8fd15bc7e10bbc7bed506fc165b"/>
+	</game>
+	<game name="Fish Tycoon (World) (Windows)" id="0007" cloneofid="0006">
+		<category>Documents</category>
+		<description>Fish Tycoon (World) (Windows)</description>
+		<rom name="ft_win_presskit.zip" size="1272440" crc="f9236643" md5="b86a2152900d5f30ea5070a6888101fb" sha1="61668ebd1f134031e0c6b7eac9307846ef5efabf"/>
+	</game>
+	<game name="Hat in Time, A (World)" id="0002">
+		<category>Documents</category>
+		<description>Hat in Time, A (World)</description>
+		<rom name="presskit_a-hat-in-time.zip" size="18801554" crc="c75b9197" md5="18f524debfcbfecf01d03ebc0e2cb2e1" sha1="805b3864c80b13113087e8b28c4c17d6330ca618"/>
+	</game>
+	<game name="Hat in Time, A - Nyakuza Metro (World)" id="0003">
+		<category>Documents</category>
+		<description>Hat in Time, A - Nyakuza Metro (World)</description>
+		<rom name="presskit_nyakuza-metro.zip" size="44023863" crc="3362e710" md5="be3ad2d77f363c9f4b609c1f4249280c" sha1="e6a3e57e2697bc19598f2b06b5f0ac44721358a5"/>
+	</game>
+	<game name="Hat in Time, A - Seal the Deal (World)" id="0004">
+		<category>Documents</category>
+		<description>Hat in Time, A - Seal the Deal (World)</description>
+		<rom name="presskit_seal-the-deal.zip" size="43506553" crc="93f59727" md5="1c89f38ee3625646873788ca5bf8a101" sha1="fa895e8a9f8af6c4e019c65bf202897de6943e2c"/>
+	</game>
+	<game name="Hat in Time, A - Vanessa's Curse (World)" id="0005">
+		<category>Documents</category>
+		<description>Hat in Time, A - Vanessa's Curse (World)</description>
+		<rom name="presskit_vanessas-curse.zip" size="48138145" crc="7411b59a" md5="5a94549ce3cac93ffb7349bb46ac5ccb" sha1="0499f96b9242bc5fae25aad04d6a877607927b3c"/>
+	</game>
+	<game name="Outer Wilds (World)" id="0010">
+		<category>Documents</category>
+		<description>Outer Wilds (World)</description>
+		<rom name="outer_wilds_press.zip" size="43454816" crc="14d56d44" md5="26cafc8d3af3b88f73c032797c404d62" sha1="91adeeb158f784d3edad78ec63cf38a622ed8667"/>
+	</game>
+	<game name="Potion Craft - Alchemist Simulator (World)" id="0001">
+		<category>Documents</category>
+		<description>Potion Craft - Alchemist Simulator (World)</description>
+		<rom name="Gifs\Gameplay Short.gif" size="864346" crc="067ba7eb" md5="da4fab0a2a16cf1fa04a250fbe250f85" sha1="5bc2c7dc8113ef4e2421d07645f2ed8694f39222"/>
+		<rom name="Gifs\PotionCraft_1.gif" size="1052682" crc="90be9439" md5="582c882020f79c20b3057dd8cecb5311" sha1="07b014efe5d297f7756976d192493dacb7c9cdc4"/>
+		<rom name="Gifs\PotionCraft_2.gif" size="1625771" crc="73b96af9" md5="3cefa7b7e8d5a25aa336bdfd77680f35" sha1="8aef213a3db0e60cc26b9c802163b6ddc473fb6e"/>
+		<rom name="Gifs\PotionCraft_3.gif" size="570290" crc="6f2c6226" md5="b48f4554c3d82607cafed4662f016cfa" sha1="75d1b80269c715d02c04d2e2e8637311e9a28995"/>
+		<rom name="Gifs\PotionCraft_4.gif" size="3839748" crc="35088bf6" md5="bf12466ab736a9885240a6984deb90d2" sha1="d0d9833c77d9c4d4e02dcc1adeeb42237d5a5e7b"/>
+		<rom name="Gifs\PotionCraft_5.gif" size="1288743" crc="6db5fa99" md5="9d620ced3350f9331fc4e32300dbb24b" sha1="12ed01e647fb369edc8860bc9b1866e210fd1eb4"/>
+		<rom name="Gifs\PotionCraft_6.gif" size="569612" crc="1ac47b41" md5="176b34b5558a8e90bf54215ace8b84d0" sha1="74f6b08f5c34d6041d783695eb0216b305962c26"/>
+		<rom name="Key Art\Banner  1200x1800.png" size="4172735" crc="c7ec1c9f" md5="5083017528db8982aa673c9bf9050859" sha1="62cf0306b5b7e7f7b23787e2d48752ac2210a4ac"/>
+		<rom name="Key Art\Banner 1840x860.png" size="3145643" crc="cf4f3dad" md5="9503ca71de7c9ebcf1c507bed014da39" sha1="f6726ec5df29d36fc9608f3b96eb75028e5d0b5c"/>
+		<rom name="Key Art\Banner 2464x1412.png" size="6610843" crc="93b3afa0" md5="4585c16eb50e21e25c50e3121e9cd6b6" sha1="29bb0f39eba1d9b9f89cbc88a6661531b7cf1158"/>
+		<rom name="Key Art\Banner 736x277.png" size="450504" crc="be63d536" md5="075c8ca47d98b2115b8aa951f6c7eff6" sha1="d275aeb40b7cb14342657b72eb46cb15eaa60575"/>
+		<rom name="Key Art\Chinese\Banner 1200x1800 Chinese.png" size="4179029" crc="45c321e0" md5="a336cc3ac0ab877254593c82d2fb81bf" sha1="044893646fa35bbdc630b13400788e96edc427e2"/>
+		<rom name="Key Art\Chinese\Banner 1840x860 Chinese.png" size="3154493" crc="01a2a14f" md5="bbbd53a4bc847788103bf2b187bafd63" sha1="5a794e8aa1beab3f81172e8f29d32afdeff30a7f"/>
+		<rom name="Key Art\Chinese\Banner 2464x1412 Chinese.png" size="6674433" crc="47581011" md5="988390aabd6d0334b9c89a13b852eabd" sha1="0961fbfe53e8bb52969c25afb7d037503b874d62"/>
+		<rom name="Key Art\Chinese\Banner 924x348 Chinese.png" size="680436" crc="9c68f424" md5="67ee06d58efb82480cc9a086459b9685" sha1="3db1979b95e686ab42e5c27616ed3cdc0ee3d31d"/>
+		<rom name="Key Art\Chinese\Icon 680x680 Chinese.png" size="897398" crc="8a562257" md5="411dd10e289a2d702af8085ee24657de" sha1="d0d36f0061a37d9bfd365ab53cd327be94f4d109"/>
+		<rom name="Key Art\Chinese\Key Art 1920x1080 Chinese.png" size="4379658" crc="96acb29a" md5="fdde65e316cbfd9df98d5348234333a2" sha1="e050d81fe280b5e262747ea26ddab3287d156a89"/>
+		<rom name="Key Art\Chinese\Key Art 3840x2160 Chinese.png" size="15121110" crc="6cc7a585" md5="3dadce5f2d68bdd2286cce4d17b76405" sha1="82de9fb39b78a352f23c69920e43085eb059b9aa"/>
+		<rom name="Key Art\Chinese\Key Art Chinese.psd" size="69013974" crc="3b652759" md5="4f610f8493224a94a9a371ccb295d8b7" sha1="64c47524452c4f5f224fdb438c35a82a7df637cf"/>
+		<rom name="Key Art\Icon 680x680.png" size="900942" crc="50ff3841" md5="d3042d99ee734299a7e359602970762d" sha1="8f3180a58351be0511bb6a02a1c81afe464d535f"/>
+		<rom name="Key Art\Key Art 1920x1080.png" size="4633499" crc="b7bb820c" md5="f38f27978277e994a33c38f1526941c7" sha1="c6bf82700205dc9b7360bc2929ae7bb5b472ba1b"/>
+		<rom name="Key Art\Key Art 3840x2160.png" size="15159194" crc="d405454b" md5="d64d1a29109a3819940b90f10a83af99" sha1="97ba84e12fc94ae83550a4c60b00a4dc216d1955"/>
+		<rom name="Key Art\Key Art.psd" size="72836797" crc="029a0783" md5="eb2a409feb223e1e74dee1d43d663fa6" sha1="a460e092a64221652fc746714ee4838b26d862fb"/>
+		<rom name="Logos\Chinese\Logo Chinese Alt 1.1.png" size="236358" crc="8dbb49e3" md5="73d84bc2f9816cdcde84a73702808c8b" sha1="52f710781c6083d20e5a2fe1169a46b3e0ebcfef"/>
+		<rom name="Logos\Chinese\Logo Chinese Alt 1.2.png" size="236078" crc="ceda5c21" md5="5042574f561c10e06db10531b961836c" sha1="1b6e95bfe9b885394bf615ced76fa7248192337d"/>
+		<rom name="Logos\Chinese\Logo Chinese Alt 2.1.png" size="378702" crc="15a5a7a5" md5="6d676213cb6bc231a3c38f90722deed5" sha1="c5b9bc5cf8299ae2b54ee2c29277144ca5ef16ce"/>
+		<rom name="Logos\Chinese\Logo Chinese Alt 2.2.png" size="378549" crc="89f8add9" md5="4b8d26602e826c1378e0efc7a5c2be33" sha1="64ed9a664cbbf83b49b16633d7b6f9ef1f38c009"/>
+		<rom name="Logos\Chinese\Logo Chinese Alt 3.1.png" size="384794" crc="5521d8c0" md5="6f97a222c3b02fc59a757fc5c9939596" sha1="3f74dc61977632fced7a15aea6f8206e916307da"/>
+		<rom name="Logos\Chinese\Logo Chinese Alt 3.2.png" size="384343" crc="e486f5ff" md5="ec21852f3587155c85b9c7e6d6864629" sha1="55fadbc67dbe713bd5377acf6809bc81d299e401"/>
+		<rom name="Logos\Chinese\Logo Chinese Main 1.png" size="433699" crc="b97cedd6" md5="0e73cbbe4b38f7d83da803fa83e0a793" sha1="5c0aa3225ba54b209c2b89c352f813d5e061fba9"/>
+		<rom name="Logos\Chinese\Logo Chinese Main 2.png" size="434045" crc="6f4e408b" md5="6bd71729dda409d9f47b22e6ce2cbbad" sha1="002f144fa5173fce1d5f38900ca2d8938c334892"/>
+		<rom name="Logos\Logo + Background.png" size="6133767" crc="11d56bab" md5="e302885c765dd705cc8e26727c3ddfe5" sha1="3845406812f2d356c15fe5222fb5fb3914b50192"/>
+		<rom name="Logos\niceplay games\Niceplay Logo.png" size="165469" crc="1137ff2d" md5="23cf6d8b85d29883715fcf52d0b309a2" sha1="f193492321639323de7e0ab11d16fcd9e5445a6c"/>
+		<rom name="Logos\niceplay games\niceplay_16x9.png" size="102966" crc="4225b0ee" md5="81dd848b53358e995b68a5464c528da1" sha1="a935f14a21c66ef939fd6ef50d44fb0491c35c39"/>
+		<rom name="Logos\niceplay games\niceplay_games_long_logo.png" size="7887" crc="f61241ac" md5="430ea602a9b90332671709a048a57e74" sha1="d44565dfef86d45570aaee8ef1cbeddafacb8691"/>
+		<rom name="Logos\niceplay games\niceplay_site_string_backgrounded_v7.png" size="62022" crc="ba4d74e8" md5="bc0fd314ac41b6fed5898c90d95de52b" sha1="64137b2e5ec6af75718f95195d52b29cd8c57eff"/>
+		<rom name="Logos\niceplay games\niceplay_site_string_v7.png" size="45555" crc="7df011c4" md5="5f6b653f6663736cf8bd336ce2fd7c14" sha1="0aeea89c6729c3fcd0019f0f7fdfb872fdad8b2f"/>
+		<rom name="Logos\niceplay games\niceplay_string_v7.png" size="3520" crc="cd559871" md5="81ba75b9abf661c914c4cfe505225262" sha1="bb5d1914fd2f2eb7fa8ed2ca9c355ff458d7bc09"/>
+		<rom name="Logos\niceplay games\niceplay_v7.png" size="86341" crc="2104a7b1" md5="868350f272f76849a96feaef11370096" sha1="b05eeccd57fc42abf3cf7bf7e1ac0d27b8a655f6"/>
+		<rom name="Logos\niceplay games\niceplay_v7_alpha.png" size="70139" crc="fd668155" md5="fd9e5b7fd0d75f70efbe7139040122d2" sha1="ef8bfc2506b12cfcc60b7c8a89f235781efd7e13"/>
+		<rom name="Logos\niceplay games\niceplay_v7_alpha_more_red.png" size="87203" crc="8ab563d5" md5="75b3800dd23db1fe09b2bc79e298885b" sha1="f8323e1efabfe0432f749ea20c841298ef568f21"/>
+		<rom name="Logos\Potion Craft Logo Alt 1.1.png" size="311697" crc="703789c6" md5="497b4218df42adcc9964fdc43f1a6d91" sha1="09f4beeabec2a0c56666ea87a1044d8f7e497a2c"/>
+		<rom name="Logos\Potion Craft Logo Alt 1.2.png" size="311905" crc="26d31811" md5="3a5cc8f61e30920b4e30cd59c3905010" sha1="122170d8833857a0e23278cf2f95efa5cf7cc2d5"/>
+		<rom name="Logos\Potion Craft Logo Alt 2.1.png" size="281702" crc="9a43e159" md5="68737d015d62fac263c9df1b4c698074" sha1="f37f9958be5920b3f625e79cabc144c43b2e9323"/>
+		<rom name="Logos\Potion Craft Logo Alt 2.2.png" size="281586" crc="1421988d" md5="b723adaec57c1f59da4a17cc3c704713" sha1="ee9c668e7f670839e245186a151ca9a50ef4fa76"/>
+		<rom name="Logos\Potion Craft Logo Alt 3.1.png" size="433209" crc="01be103b" md5="450bfb26ccc6ceec4229911e95a24612" sha1="25c4cac90405393f0ca12d31ce127a1fe5e1f9c7"/>
+		<rom name="Logos\Potion Craft Logo Alt 3.2.png" size="433177" crc="ecf9b4c1" md5="0d2a216ffcf53e081b179fcf98f4d745" sha1="f5fde75ae316745bcfc80c42ea720cdb6c9dfbdb"/>
+		<rom name="Logos\Potion Craft Logo Main 1.png" size="498082" crc="79af07c9" md5="547033b22b0868911c0ad24f3485490d" sha1="316929ee72f679f70247155b401b6ad8a7abd043"/>
+		<rom name="Logos\Potion Craft Logo Main 2.png" size="493322" crc="7341e1e7" md5="07444f8c62a00d60521aacaa91a4f85c" sha1="7f592e516f426297ff9e25765bad89e3bdb86372"/>
+		<rom name="Logos\tinyBuild\tiny-build logo.png" size="31508" crc="1499b835" md5="652a3a4239922dc401cb7ef3bae7e307" sha1="fa6fcc81ad9c2b8cd625eb629af2afa003c451bf"/>
+		<rom name="Logos\tinyBuild\TinyBuild + Potion Craft Logo 1.png" size="825082" crc="59c27045" md5="c34140b5155e7253c290e1bb9291c0aa" sha1="e5b4a0b2e1e928d2c608b04ef59a3ff2399dbe38"/>
+		<rom name="Logos\tinyBuild\TinyBuild + Potion Craft Logo 2.png" size="776258" crc="69cc1f64" md5="69630bc8608480ca0164c78bd704a6e5" sha1="b30747582482fdbf483d20fb5275d8be9faec444"/>
+		<rom name="Logos\tinyBuild\TinyBuild + Potion Craft Logo 3.png" size="1074320" crc="0d1806c1" md5="48a3591b964046c28b75f2f2735a9408" sha1="2f7f77a125a0d8ad13abebf0e89b129c5dc11e7e"/>
+		<rom name="Logos\tinyBuild\TinyBuild Logo.png" size="229817" crc="4b37374e" md5="e8f5882db31cf48e629db1ccdd63f2ee" sha1="1f60afaf77300c07a65cc7ee3c6b82d3350a3fe7"/>
+		<rom name="Logos\tinyBuild\tinyBuild_logo.png" size="444679" crc="4bc8f78d" md5="cde3e1b1eee48dbcacb392f1f858f685" sha1="97a7d8e5f6a2ac746228daf46102bc53aa41e642"/>
+		<rom name="Logos\tinyBuild\tinyBuild_vector.ai" size="165298" crc="dca5020d" md5="033ffe49e50463bc313ab4cc24d8e223" sha1="46ac393e50cc377dfdd41a6506a5cd62a899b0d6"/>
+		<rom name="Pictures\Background - Cellar.png" size="26036504" crc="6d9362e5" md5="14e6da7c66d4762322cc96e39a76a02a" sha1="7bfbc367ad87a67edc8e3fb501a4b5afe9bf42f1"/>
+		<rom name="Pictures\Background - Garden.png" size="18871642" crc="6a1a1329" md5="3f52329fe1b44477a10699ce306531fe" sha1="d1465ca70ad84bc572a530b63c52830b4015bd42"/>
+		<rom name="Pictures\Background - Laboratory.png" size="26041205" crc="fbe1e4a4" md5="9c839486aedf3d46de6c3c91af65c73d" sha1="ffa0f16af168edb4e14b67f5f423a9e816a3d9bf"/>
+		<rom name="Pictures\Background - Paper.png" size="7084500" crc="febc9f49" md5="1cee94c348eba7cd97a0945145b4f52c" sha1="ea9641ff7728982b98963d7b3e46afda9249e701"/>
+		<rom name="Pictures\Ingredients - All.png" size="13427224" crc="988deece" md5="c0138b0671c617d894d316d48d58e86a" sha1="3e2d51442965aa8d6bb673c03362d83f726b1a45"/>
+		<rom name="Pictures\Ingredients - Element Air.png" size="712139" crc="be261230" md5="3b9d3aec57449f9cf6bf8050018ff812" sha1="1322ceeb505dda8d3f8b13550e686897e74c6061"/>
+		<rom name="Pictures\Ingredients - Element Earth.png" size="717801" crc="6bf464e9" md5="7096d70d831902f11bfbcfe2534ac5e5" sha1="dbda247037edc9658d515ccc70f003df9aae5863"/>
+		<rom name="Pictures\Ingredients - Element Explosion.png" size="722865" crc="68d518f1" md5="1c9fc0ace8e875c5739b9532c4a45e94" sha1="970aff25468e310cf0d8a9f9a9fac90471ef32b5"/>
+		<rom name="Pictures\Ingredients - Element Fire.png" size="722290" crc="9d784e6c" md5="b45c06ae99d0fb867dc40ae6806d31a0" sha1="6aa1194bc29f185aeb59229723a3f3e73dc709c3"/>
+		<rom name="Pictures\Ingredients - Element Life.png" size="726130" crc="67c4b06c" md5="4097c87eeaca48885ea3003e68171295" sha1="aad61a5c39bbdb9eacf23b9df4405e4a7d321184"/>
+		<rom name="Pictures\Ingredients - Element Magic.png" size="719251" crc="bb1eafc3" md5="7ce48a80c43f99caea40361d376fcd19" sha1="6cc4abbf71353baf0923719a50a45734098e7de0"/>
+		<rom name="Pictures\Ingredients - Element poison.png" size="718166" crc="8e7cbe69" md5="c41cfe6acbff5b6687c1524b7c39e291" sha1="7eefb3ba633ae5ee13db4b0722a15278be3eac58"/>
+		<rom name="Pictures\Ingredients - Element Water.png" size="720171" crc="1e250522" md5="3f8320e689ae8d05b5d45af320593bee" sha1="7cb1be8538ffc32129cb2a94ba46fbff7ee62bee"/>
+		<rom name="Pictures\Ingredients - Garden Plants.png" size="2638327" crc="a8f526c1" md5="acd282e642147a9ebefd318c60e317af" sha1="ca3fc48953e395ea4f85445afd0d93ea5701f9ec"/>
+		<rom name="Pictures\Ingredients - Herbs _ Flowers.png" size="1661630" crc="d9d542ab" md5="b72228f2a5e7780bae678cd33c9a5410" sha1="3ac56987a7828b323a0400d8a7d3330288e22d76"/>
+		<rom name="Pictures\Ingredients - Legendary Stones 1.png" size="1547091" crc="60237f70" md5="19428263fb045936640ca16b7c512a0e" sha1="5741f99ab11183f684b9ea84c53fc270ee4bbfb5"/>
+		<rom name="Pictures\Ingredients - Legendary Stones 2.png" size="1599716" crc="142dca99" md5="06ab5085931faf3de1ed9b34ffe6edcd" sha1="b075762db9889332aded31c721febda411a18824"/>
+		<rom name="Pictures\Ingredients - Mushrooms.png" size="2546483" crc="1b8154f9" md5="2b1c98f2692aa599bd0df66b9154230a" sha1="5cc1e761ba971a7994bfeba7531749cc6a780e3c"/>
+		<rom name="Pictures\Ingredients - Salts 1.png" size="1645971" crc="f24e4bf9" md5="a2e7f41094b3bb914e136c7e1a81f10f" sha1="def2b712cb38800f5c9709cdb622f2bba885b85d"/>
+		<rom name="Pictures\Ingredients - Salts 2.png" size="1962161" crc="01073a49" md5="4fd2a145baacf6f906c57aef918eb908" sha1="67135ad611fba95b7db587b0a45be165df9a9e9e"/>
+		<rom name="Pictures\Ingredients - Various.png" size="6720374" crc="16d6a694" md5="9b5226c05b7ac9e0c48c2a8cee9283c5" sha1="2cedcbbf0fbc94b562da469d9901d24d70e2aa5c"/>
+		<rom name="Pictures\Laboratory Gear - Alchemy Machine.png" size="17970690" crc="7a27bfde" md5="ed4919080deb58f0348f1552151bd766" sha1="785fd9036353f11687279582286279ee53c5f9c9"/>
+		<rom name="Pictures\Laboratory Gear - All.png" size="7443878" crc="e0d38101" md5="7ecc7275600cac73bf479d46d98495d9" sha1="3ee745c4910e6ab576d267fa52f21e1e574650c1"/>
+		<rom name="Pictures\Musical Instruments.png" size="4054655" crc="512189e0" md5="8cd032dd872c12b9217813e14e0d9596" sha1="3758c973294c70dfde7ae86cc7a8287b30eb8f30"/>
+		<rom name="Pictures\NPC _ Scales - Herbalist.png" size="11017338" crc="fda254bf" md5="614d3d4615a4bc0346ddffa2082a1c8f" sha1="340659d4d66eb5020783b2c170b609c84ea09073"/>
+		<rom name="Pictures\NPC _ Scales - Mushroomer.png" size="7934368" crc="e405836d" md5="4c618e95fd678ab0965c6e3a8e315fe8" sha1="29681bbc9cffb1993d64459417f45b969db80d6d"/>
+		<rom name="Pictures\NPC _ Scales - Warrior.png" size="11317031" crc="6fd4dbc4" md5="5247d6871d568ea57ba3939377a74b64" sha1="f76db8a33fa84fd97f6d135467f1f9c96c3c6a75"/>
+		<rom name="Pictures\NPCs - Citizens.png" size="2983900" crc="33359147" md5="57de640871caa18c6f732046b9026108" sha1="ef1f3537fe00f67a367b809684c5788bd086fe25"/>
+		<rom name="Pictures\NPCs - Herbalist _ Mushroomer.png" size="6263192" crc="2ebfa980" md5="997620d4d00fa2652ac727107b219fe1" sha1="653a78c18ff8adfc81ebd7a3d75f33fb07e660d6"/>
+		<rom name="Pictures\NPCs - Mages.png" size="4874599" crc="88f10ba2" md5="98892a296f0176fa704d10e0cd251a5e" sha1="a620941c890bdd3a5a5033fa4cb53dd8db8b576a"/>
+		<rom name="Pictures\NPCs - Merchants.png" size="11377243" crc="30275ca7" md5="ac2a8e10ca2bf43c00a67a1c66a9d4f9" sha1="64512594475f756b117ac2ad04ebec495442bbb2"/>
+		<rom name="Pictures\NPCs - Nobles.png" size="4692853" crc="5b2d3a61" md5="7b009866fb0cdc3bb14ecaf80a28161a" sha1="adfee4e42679bb5414f5f8e26973f5ef26617f19"/>
+		<rom name="Pictures\NPCs - Peasants.png" size="2930599" crc="e160f631" md5="8951cc4b1b4f3c731cc224d00082410a" sha1="9719a05ab1042d3cefce7fdef37beb57a4367de5"/>
+		<rom name="Pictures\NPCs - Rogues.png" size="3184330" crc="61306db9" md5="e531016ec66d9b4a95317fbec79a5df9" sha1="949f6ba4a91ab222971376b8eebc285a164f937f"/>
+		<rom name="Pictures\NPCs - Warlocks.png" size="5634553" crc="cc723342" md5="47b664e85ee219569373e852672fa8dc" sha1="6d704ef100419b9ceaf5b24ed9114e8b485e809b"/>
+		<rom name="Pictures\NPCs - Warriors.png" size="4233440" crc="da353040" md5="683eede0bb93cf7bfb3680945799f714" sha1="eeccb5b56147254791e276f6e5598eb7e66cadfa"/>
+		<rom name="Pictures\Potions.png" size="5816993" crc="1c7e6e1e" md5="9d09fb6a325f32a7eefa2aa6414f2d31" sha1="153d4e69cc4fdfb2aa7469b40c12e75d50d3c9fc"/>
+		<rom name="Pictures\Sale Banner - Dark Elf Merchant.png" size="4179111" crc="49ea28a4" md5="ea735dd6b7a2415c4754876f3487c155" sha1="49b7d93c74154d2c956328ecc4b9af7346b81c92"/>
+		<rom name="Pictures\Sale Banner - Herbalist.png" size="4136477" crc="45bbce77" md5="82b8ce443cfdce1c184d84e0234253fd" sha1="cbb6396511f5888d6617447dc799d9ab58f988bb"/>
+		<rom name="Pictures\Sale Banner - Monster Hunter.png" size="4200204" crc="342d1f36" md5="38d83a51784216ffdaedcc94dac65d34" sha1="1b79d68f86d42de455a26ec4aa01a1674ed3c180"/>
+		<rom name="Pictures\Tree.png" size="9945518" crc="51611007" md5="a0b8a5dce9764f695b5ae68fd5858234" sha1="9757cd25983897671e387f4e7e89aa96675fe9d0"/>
+		<rom name="Pictures\Various NPCs Banner 1.png" size="15671087" crc="cb8138b8" md5="58a55a2577ef33180fab135e8ad92a5c" sha1="7294f0fd13bf1611bc4b594d4cc02bb71891e0c1"/>
+		<rom name="Pictures\Various NPCs Banner 2.png" size="15374826" crc="e084aafa" md5="b13ea15155282a4c3cd034b06b182213" sha1="a7c38212c4ebffffa2ee2d55954d0213349a1fcc"/>
+		<rom name="Potion Craft - Fact Sheet.pdf" size="4317691" crc="46507b07" md5="e1fdcb4bc1bfd52f22b89c35b29e72af" sha1="df1ef4370749f679e574aba26daa58e09fe606d2"/>
+		<rom name="Screenshots\1.png" size="13794014" crc="f205587e" md5="2084929c957b0cf4321b96a3fef58725" sha1="e522051f7cc6ec416e52bc436484fa447bc0f343"/>
+		<rom name="Screenshots\10.png" size="13844866" crc="1b920535" md5="04a2eb0f921841f2947400a66a4ee437" sha1="6169c938416eccab285584ddbb85b833591cb081"/>
+		<rom name="Screenshots\2.png" size="13775831" crc="3664f777" md5="e95c2bbb54a5fdb81abda1109a1cdd51" sha1="fff87bcbaadc0a186897dc9038204c0773cc9232"/>
+		<rom name="Screenshots\3.png" size="14109949" crc="eccad629" md5="f3cef127f7da98c2e779a1dce7fd1eb3" sha1="27aec2d3956bd3575881111c18510e3ab461936f"/>
+		<rom name="Screenshots\4.png" size="14235280" crc="f7f22a5d" md5="d50f636651460c9037cd25a277b111fa" sha1="724340fe5435e7edbbf8e59e9a2536d6dba1337f"/>
+		<rom name="Screenshots\5.png" size="14036590" crc="0fef5d58" md5="829795de9e484a9b5362348386580fc1" sha1="4fd4d0d7e8453ab2dbeccfcc428920ecae0a44e3"/>
+		<rom name="Screenshots\6.png" size="13832774" crc="d95ef8d6" md5="40018ed7e8e975d55702bb284aa7664d" sha1="38d882f8f4eab79f4e6b7971ef48830937429cca"/>
+		<rom name="Screenshots\7.png" size="14470221" crc="19677be2" md5="0ee5a80429b15080811714169d348098" sha1="f9344da1010d63f54bf93b969eaab6704af96b21"/>
+		<rom name="Screenshots\8.png" size="14141905" crc="28c10961" md5="405c3ba5c87b1bfd976d829da19fa720" sha1="27f3cb7e70365547e3882117298b040944548155"/>
+		<rom name="Screenshots\9.png" size="13756096" crc="d9175301" md5="29c162283319b9a169d95cc9f9108996" sha1="752a79916d50a75ddbfedd64914001df07810b5d"/>
+		<rom name="Screenshots\JPG\1.jpg" size="2220525" crc="87140fa9" md5="cfd761ec07c013c2e53759f003c821df" sha1="4cd75f60776b9e4cf6170f01da26087811d77d81"/>
+		<rom name="Screenshots\JPG\10.jpg" size="2356362" crc="2fa55a97" md5="4469f3d6b086de86c7fb6e74db9472b3" sha1="32795cac3025565450eb145037840ce88033cd81"/>
+		<rom name="Screenshots\JPG\2.jpg" size="2350255" crc="df5396d4" md5="8fc2358293084d896c2de29ba57fd608" sha1="edaacdffd002753210063862b7af7096f8de098b"/>
+		<rom name="Screenshots\JPG\3.jpg" size="2472727" crc="03ea05a8" md5="2d88ebed86554cb63c4ab100f96e6be1" sha1="bc7f1f1182b80be859173cd5313c546ae1aede94"/>
+		<rom name="Screenshots\JPG\4.jpg" size="2439576" crc="2394d80e" md5="628b57bbabc943dcb7b1a7a543cd82be" sha1="536d1f0e7c8b69de3f69bc1ef76dad503b639f76"/>
+		<rom name="Screenshots\JPG\5.jpg" size="2369791" crc="7fd7265d" md5="003007cf73486f43fb50fa6d7326a7d9" sha1="e0572031ac11172b0e75ddeafa816513d0afafaf"/>
+		<rom name="Screenshots\JPG\6.jpg" size="2251391" crc="b9e7c236" md5="f1bef63f460aebdbc355788642d5899a" sha1="7ba8f63bb5b104292e5ecd4ef32255de494245a5"/>
+		<rom name="Screenshots\JPG\7.jpg" size="2348194" crc="36471adc" md5="7c690ce3c5714358b5c5adeb4322da5a" sha1="9327408fb50af2e02d5ff9652524d7d4be798976"/>
+		<rom name="Screenshots\JPG\8.jpg" size="2332791" crc="d27f5202" md5="bd140f369be0a0f0416cb8220a3e23bd" sha1="4528297f7ec38c2cdcb503d309bfbcf57a28343b"/>
+		<rom name="Screenshots\JPG\9.jpg" size="2317252" crc="dee0ad35" md5="281276561bdbc00143baaa3134c8d281" sha1="034634b6f04d88bcfbae17abdf470c4a34e87667"/>
+		<rom name="Sprites\Attic.png" size="19572469" crc="69bfcb00" md5="85cb4dcd73df6fef248da9d9817adefa" sha1="59dab1fbdf51f721193dde1f0c961585984f3d6c"/>
+		<rom name="Sprites\Bed.png" size="2119012" crc="da020141" md5="d1fb6cb1db970f0a48b22250addc9b0b" sha1="dc1960a9be21b6c34954b033af87633c71a9f933"/>
+		<rom name="Sprites\Ingredient Garden Plant - Bloodthorn.png" size="396386" crc="132b39c3" md5="e1c98fbfc782fb3619c5670d6587084d" sha1="62bdf4e833926ec94c3ca57a0a11e06e30f67bdf"/>
+		<rom name="Sprites\Ingredient Garden Plant - Fireball.png" size="307096" crc="6348d9fd" md5="eba60a9add8c3b374dee2e8566f1604a" sha1="d9c34fd94f6fcbd0d9a87418fc919aa6548b3220"/>
+		<rom name="Sprites\Ingredient Garden Plant - Goldthorn.png" size="681383" crc="8342c8a3" md5="7b545173c0b685fc366988fec751f880" sha1="7fe58620774897c9d06a30561c03ed289642c406"/>
+		<rom name="Sprites\Ingredient Garden Plant - Hairy Banana.png" size="619162" crc="f3f1d9f9" md5="b52c4921b4796235ffce429e0c8f51fc" sha1="be52d02a844fec1a6e56cdc1f85db72d839f6c6d"/>
+		<rom name="Sprites\Ingredient Garden Plant - Ice Fruit.png" size="332654" crc="1c3f458e" md5="f338e52beee23f42110e958f96f23b57" sha1="872bd47712630b25bddfdfbf22cb3dde0e9601ac"/>
+		<rom name="Sprites\Ingredient Garden Plant - Lifeleaf.png" size="679133" crc="8d1670c0" md5="deae315e3a0c4ba6cc98fabd69191a40" sha1="f8710aefa6cccdf8fcf2a6dde1247eb7d8331235"/>
+		<rom name="Sprites\Ingredient Garden Plant - Terraria.png" size="620076" crc="9e0b0564" md5="649dee644b9b5cd093d2439c09be0611" sha1="10772ec64ecbfb0345bf9d126c230b5b2c1c5716"/>
+		<rom name="Sprites\Ingredient Garden Plant - Thornstick.png" size="529537" crc="efcbedae" md5="85a71e675054a41940b8433eeac3813d" sha1="3c4826e515af4f5190433c84d51dfeb88c6b7541"/>
+		<rom name="Sprites\Ingredient Garden Plant - Thunder Thistle.png" size="522864" crc="d56c2e97" md5="47f79f1ef90e645bdc47004a1f4b9689" sha1="dac841ad5782addd7d9551fe98e19a4cd04479da"/>
+		<rom name="Sprites\Ingredient Garden Plant - Waterbloom.png" size="287854" crc="40ed9c9c" md5="280752d1483698c0de16abf93d60fd3e" sha1="b8039587ddce01245958f14a9449d382f0da71c4"/>
+		<rom name="Sprites\Ingredient Garden Plant - Windbloom.png" size="360502" crc="34aa9e86" md5="1117863ce858b137c49c6ac06bb0a34f" sha1="16e6c1b6bcdee8faa59d275de61ccc85d046589f"/>
+		<rom name="Sprites\Ingredients - All.png" size="7288156" crc="20e6dbc6" md5="4b03cf3bc64b76fceefee0705d3554b9" sha1="a88ba13e35f2e8fb342ae72fa4bc8652d0c7a1e8"/>
+		<rom name="Sprites\Ingredients - Element Air.png" size="884711" crc="cc90f712" md5="3b159da3fa1d42cc30884f357f474a93" sha1="c40ce4718b30c91f4b5eb146875223c563e76f95"/>
+		<rom name="Sprites\Ingredients - Element Earth.png" size="893014" crc="95111243" md5="b1a0c2ac0839a122bef2d34bfa277d21" sha1="19d000f81756ef7de81316e28bdfb9151b81d388"/>
+		<rom name="Sprites\Ingredients - Element Explosion.png" size="884633" crc="210ea499" md5="98c7bb528956ff808f1847caa17d107e" sha1="8d26bfa3a6c35dbaec2b501297058a9f65cb23d0"/>
+		<rom name="Sprites\Ingredients - Element Fire.png" size="832336" crc="dfa2559f" md5="d5fdc73dd98c0603a7d90b3726210eaa" sha1="f7eb4a5c0276f6fad4efe6d738fa03a6140e85a4"/>
+		<rom name="Sprites\Ingredients - Element Life.png" size="943592" crc="1ea4a9b9" md5="02f36b07e2f492afcfbb45eea58b408c" sha1="7fb0d61a2e0cceff15bd6acece2501c738766ea6"/>
+		<rom name="Sprites\Ingredients - Element Magic.png" size="907123" crc="20134e87" md5="1d85a60b592356e92e008b460a480e97" sha1="e77666d8029ae1f65111e6ba06c8d4df31d7638b"/>
+		<rom name="Sprites\Ingredients - Element Poison.png" size="878784" crc="f193040d" md5="0c626875a625319f2289dea9423e9b57" sha1="f10707c14445902ec3f5929bfe2c4e1483dab6df"/>
+		<rom name="Sprites\Ingredients - Element Water.png" size="917014" crc="04d3a1c7" md5="4ad09c2db30a6e9cba56bd45ec944afc" sha1="7fe7e260d2e82a740b123619da20e51c1eca455d"/>
+		<rom name="Sprites\Ingredients - Herbs _ Flowers.png" size="603128" crc="cd0f3d46" md5="77645440cef24c2ad6cb041daf25912f" sha1="b6578516d386e786bf2a8d5b5e31796d9848e51c"/>
+		<rom name="Sprites\Ingredients - Legendary Stones 1.png" size="652523" crc="d247c628" md5="afc8307ead00098fcd7512a6dc872fe3" sha1="78570c95607c3d52109ad9ef0b1094a13d658609"/>
+		<rom name="Sprites\Ingredients - Legendary Stones 2.png" size="716200" crc="a7bc0cb6" md5="fec57dbe3ef6c3d57471266ad2c527e1" sha1="10a64a179185a534be09a39224b23cb67a29e53b"/>
+		<rom name="Sprites\Ingredients - Mushrooms.png" size="800566" crc="b017e592" md5="28d196774a295a7d750c473478c0adeb" sha1="be6389ab5d1f63f8c6664a9fbd60bf032db4442a"/>
+		<rom name="Sprites\Ingredients - Salts 1.png" size="731996" crc="0763444a" md5="befacc0ea80fc565815a6ed5801f0a96" sha1="b06b557754db9053c268d8b6a41a251cc2024607"/>
+		<rom name="Sprites\Ingredients - Salts 2.png" size="785548" crc="4214d862" md5="44b023aeb7cf35e9d763b889520de255" sha1="8b4f8a814db80d09a431e2d5227e9b794170a999"/>
+		<rom name="Sprites\Ingredients - Various.png" size="2537447" crc="62cef337" md5="49636d292de45db717ecd22191a5cddb" sha1="7229d388bc7de206c9e1907b04cb177645a3cc97"/>
+		<rom name="Sprites\Laboratory Gear - Alchemy Machine.png" size="9566337" crc="f09d228e" md5="3e8eded2f3554316d2298276a26ecffd" sha1="a4a290d532de51ab162fe7b4d5a303c76d4ad007"/>
+		<rom name="Sprites\Laboratory Gear - All.png" size="3943072" crc="3d40070d" md5="1c27014ab7c96db5603b839102608bcd" sha1="931931d2aef64ffc960d53b1839df440fd06caeb"/>
+		<rom name="Sprites\Laboratory Gear - Bellows.png" size="1004424" crc="a5970c18" md5="acd797acecc572b44b138e362125993b" sha1="dcee9ef70065be2b46acea547181c28753918b59"/>
+		<rom name="Sprites\Laboratory Gear - Cauldron.png" size="1146279" crc="c2d0991d" md5="fda9ca6821e5a703b3c7d1c6370fb5e8" sha1="0393d1d39cdcb3c6e70b081cd255bbf8d8c0ad33"/>
+		<rom name="Sprites\Laboratory Gear - Ladle.png" size="638533" crc="1e6c52ec" md5="c247ea7a3c5194b7e9d3c69a7b0ad3f9" sha1="71a707192232f0badf8bde104394e852a4cb468d"/>
+		<rom name="Sprites\Musical Instruments.png" size="2077160" crc="c7314561" md5="ac9a64d0a28f683109b2df18c199987f" sha1="bcffd1caa6c12268755d13d31e8b438f4f007423"/>
+		<rom name="Sprites\NPC - Adventurer Male 1.png" size="2976932" crc="2a07a39a" md5="e393d9db3ab466a0d305681b8216ba87" sha1="9051fb9030c969bd899c71cb67f786600e5f1736"/>
+		<rom name="Sprites\NPC - Adventurer Male 2.png" size="3285941" crc="167228b1" md5="35a6f4c6995dcf970aa5f96332e8b4ca" sha1="3e7a5366eb2de1acb789495db1774aa17eb766bf"/>
+		<rom name="Sprites\NPC - Archdruid.png" size="4797188" crc="fb839404" md5="e15f484d289cc50c8edcc31ca3f33c69" sha1="0480427bf0478b6e0d32a3a2affaa736d6e19d2e"/>
+		<rom name="Sprites\NPC - Dark Elf Merchant.png" size="2378227" crc="fd159e09" md5="ef6726edb76dd13db375e82ead17db3b" sha1="8ebce1271f7adc74f9bbb0e625aadc6ee61f068a"/>
+		<rom name="Sprites\NPC - Demo Hallucination.png" size="3335019" crc="2c374032" md5="32176457d85ed8b1cedea7def9bac69d" sha1="be4df876803249aa34623190605377f216ac6b26"/>
+		<rom name="Sprites\NPC - Dwarf.png" size="3333768" crc="4a2c0eb6" md5="3a92f52f39aa7710128443a13ab6c5ac" sha1="bb5e91c56b960db1f3003a29ed8c1a8df64d5d93"/>
+		<rom name="Sprites\NPC - Female Citizen 1.png" size="2099230" crc="2d6cb578" md5="e51a16746b9a070efd94489c9cf493c3" sha1="3147ad01183d0b51d3c4e8a1d0a749271b1079ef"/>
+		<rom name="Sprites\NPC - Female Citizen 2.png" size="2082465" crc="1ce6e2f0" md5="d15475a33954e47a8025090e516a4ddf" sha1="15c12aa139408ce86389c77bcb441e595cf18871"/>
+		<rom name="Sprites\NPC - Fisherman.png" size="3838542" crc="12487f07" md5="1b82de1fd4709ec3aeda2dc500618ef7" sha1="d320b55f847cdb04e511f1c7a3e95d318285b924"/>
+		<rom name="Sprites\NPC - Herbalist Girl.png" size="2313537" crc="5a4eee33" md5="c4ce0ac412316196ae3f8da4059cea1b" sha1="bfb733876e102a5db4191f74b638a3d64e73dc84"/>
+		<rom name="Sprites\NPC - Mage Female 1.png" size="2677582" crc="df645fe5" md5="ed55853b56dc9e47202a02cb640ce485" sha1="c5820c5050bc8de83e7191d74fc204259dd6b9d3"/>
+		<rom name="Sprites\NPC - Mage Female 2.png" size="2725193" crc="5d43a361" md5="7095718735a8324544f4aeeca992c0ae" sha1="77b979f878ce42936f15b78b0bee075e5b62759c"/>
+		<rom name="Sprites\NPC - Mage Male 1.png" size="3508163" crc="240efe5d" md5="35bac61ea2b5eb16dc6f8abcebb5763e" sha1="7831bbd4bcf4693498e2dbdb2e0f08517546a28f"/>
+		<rom name="Sprites\NPC - Mage Male 2.png" size="3096286" crc="1a460d66" md5="6d61182c829bab971660accd7c114af5" sha1="ff25a7ccdc55d598cae534ac5c68eefe8cf16ab5"/>
+		<rom name="Sprites\NPC - Male Citizen 1.png" size="2488361" crc="8075ad8e" md5="ee60534a5633f0a8a3b4eacdb3410a7d" sha1="a8e6c7887f777a8269166a07e3c7310175a5c15a"/>
+		<rom name="Sprites\NPC - Male Citizen 2.png" size="2613171" crc="ebd763fc" md5="47e0ade8c5c65f52c79e9aa696fe5258" sha1="04a5d9654800fa5955ef8d2b0bd5a245e42b80f8"/>
+		<rom name="Sprites\NPC - Master Alchemist.png" size="3486258" crc="65c900b8" md5="4941b03668a16cef72c822e25a6e1ea1" sha1="e9a7f6e25a2ea5b416dfc91b03bdc0288f4eafc3"/>
+		<rom name="Sprites\NPC - Monster Hunter.png" size="3039213" crc="4c0ca552" md5="dc73226431fa8d1ec2253654cdcc7aa2" sha1="8b75640a04c4bb997aa72f99ecf96716ed55deb2"/>
+		<rom name="Sprites\NPC - Mushroomer.png" size="2308676" crc="f9969caa" md5="d5753af71a067b893a8e2eb229ee2227" sha1="dd70db7982e7611051e468d505bf843001d53382"/>
+		<rom name="Sprites\NPC - Mysterious Visitor.png" size="2736827" crc="7e9b448f" md5="2bf311c493d783ec7724bd7b671b3b74" sha1="0c0e080cfc629db1d4de6f9b3314c14bc8206523"/>
+		<rom name="Sprites\NPC - Noble Female 1.png" size="2293881" crc="c4d9bea3" md5="8398c754c921513ce7ac4a9743bc4d55" sha1="170ed7d6a47618911a158c384f5efabbf6e5d218"/>
+		<rom name="Sprites\NPC - Noble Female 2.png" size="3022689" crc="58b4cb3a" md5="46b2143ba0341b12cf40ad51432e7882" sha1="73b255395f8025b248c9c869afc7a745bc1aee28"/>
+		<rom name="Sprites\NPC - Noble Male 1.png" size="3532762" crc="8e5addf7" md5="b231313011f150c8de63dba6bf46b051" sha1="c130336e54d4c6d9e3feae136652cffdcc8bb5e6"/>
+		<rom name="Sprites\NPC - Noble Male 2.png" size="3342281" crc="9608c740" md5="1c0ee0827dde15b72fcf95df81a56a90" sha1="3a946b79612e0a61252c2c7443b2339fbabed476"/>
+		<rom name="Sprites\NPC - Peasant Female 1.png" size="1726232" crc="ac68fdb4" md5="bca8b116af9adb0f075b4f04a939fb4a" sha1="f97697547594c39253d390d4b0dfa00aa4616d7b"/>
+		<rom name="Sprites\NPC - Peasant Female 2.png" size="1841429" crc="cc454a61" md5="4850a9325d63d833eda2cf1da2b34fa9" sha1="a6b91e4ae921d8c4142c2dbf7ff3cd28d191f5e4"/>
+		<rom name="Sprites\NPC - Peasant Male 1.png" size="2243694" crc="1760d9a3" md5="3a7fc10c4deb485311a5ba92dda818bd" sha1="4a3cbd7daaad919ea5ab42520c3993705600fc95"/>
+		<rom name="Sprites\NPC - Peasant Male 2.png" size="2114586" crc="7c803b9a" md5="f530b86d0c689e9ccd3dfc7ef216456d" sha1="3af7ffeedd8708b181dd5c97abe4b92d570f46cb"/>
+		<rom name="Sprites\NPC - Rogue Female 1.png" size="1992105" crc="5669f310" md5="ad7089516719220b5b74f83882120213" sha1="0c4312bc0665cd82d4ce99fa2491ee8d58d30278"/>
+		<rom name="Sprites\NPC - Rogue Female 2.png" size="1861409" crc="3287984e" md5="5f29bd0a681a727a2ed50c680aa15ed3" sha1="b6e192ce28d5141e568afd89a203657bedac0541"/>
+		<rom name="Sprites\NPC - Rogue Male 1.png" size="2688732" crc="945b9200" md5="aca9e16c76dfe93aa4b071b7dd31f0f6" sha1="194c623c585cda725a103dc4d217db2dee058292"/>
+		<rom name="Sprites\NPC - Rogue Male 2.png" size="2636458" crc="6b25f949" md5="e383cbc97557f9f28aa333d1269c56b6" sha1="737e2df332563fbed51e8b2a949d1c2adbf17289"/>
+		<rom name="Sprites\NPC - Rogue.png" size="2692740" crc="26b15356" md5="15c601e5bdedce429df0f6fab468b353" sha1="5a86b677d59914d2126afb1b3586a02b6443cc91"/>
+		<rom name="Sprites\NPC - Succubus.png" size="2321655" crc="746fe19a" md5="b09892d8a091b9dd2d4703a77c0fec1f" sha1="541d1d3db5d85f8facf12b15426dec6427859f21"/>
+		<rom name="Sprites\NPC - Traveling Merchant.png" size="2841349" crc="5363c9ba" md5="ed550bbb088052b00b7dbb8073c81387" sha1="4bcf767fa05d6c6f348f494a21db67d9a6663e24"/>
+		<rom name="Sprites\NPC - Warlock Female 1.png" size="2408665" crc="ef7a22fb" md5="7a9d1da9c947ef9955bcb6fff9303beb" sha1="5f5e77ff600287a85febc14e99f61203bf393f2d"/>
+		<rom name="Sprites\NPC - Warlock Female 2.png" size="2267217" crc="def54d47" md5="b277bd723124b724723e0a890b157e4b" sha1="aa144bfb3f1c60677f63a0dd5530069683def0e6"/>
+		<rom name="Sprites\NPC - Warlock Male 1.png" size="3047160" crc="537c6575" md5="77b5b47536cc8e3a73c4e36ffcd67d8a" sha1="2702faae85a073130073c862b0da48b56752dede"/>
+		<rom name="Sprites\NPC - Warlock Male 2.png" size="2671334" crc="dd908587" md5="5f45bcd97a21fbb4057c00a46846b6e1" sha1="d3ffb2aa3dc8332a5805c343227f3619d5cc4b49"/>
+		<rom name="Sprites\NPC - Warrior Female 1.png" size="2533481" crc="1fdb6c90" md5="27c3df85aadfe492db8be258f2e401ec" sha1="428e0b5a21729543d382fb6f5b6b5b62b5956455"/>
+		<rom name="Sprites\NPC - Warrior Female 2.png" size="3315256" crc="b0b566b9" md5="a172fe7b505ae9c499e01c818056ce00" sha1="fc73dcb7cef74db783f8ceb964a386cbd69f4b15"/>
+		<rom name="Sprites\NPC - Warrior Male 1.png" size="2488469" crc="d5e3820d" md5="99dee6f41e627900ff41e45d33d467bf" sha1="5a894ea29d87753ef2a11cef5de844b2d0c79e58"/>
+		<rom name="Sprites\NPC - Warrior Male 2.png" size="2742198" crc="b5b5c3e5" md5="47c6bc05ab1d33085e3cf4ab4c975520" sha1="5fc80ff477640b56ee41266ec6f3a99ebf1aff1c"/>
+		<rom name="Sprites\NPC - Warrior.png" size="2984124" crc="bf96d55b" md5="5d1e18d9fa0bf5f2cd9f4bbb69284016" sha1="3cc78819e329706723bbe9d94ea2fd86fd389a78"/>
+		<rom name="Sprites\NPC - Witch.png" size="2592030" crc="b113d01a" md5="d3426c512fd1f3cae24579bcaeda1d84" sha1="eeeb23aab274f700464bed742c3c694e06516689"/>
+		<rom name="Sprites\NPCs - Citizens.png" size="2168785" crc="688d9b25" md5="8d70c70da4d64b0e11bb991256a54353" sha1="a29790a477729595105b240b86de4eec9fd7a494"/>
+		<rom name="Sprites\NPCs - Mages.png" size="3252950" crc="b563c5e3" md5="c65d9a27d3c0af2ec16be6eca2f13687" sha1="354a83630aaab2b3c304f062ce75f93dd8cf0afc"/>
+		<rom name="Sprites\NPCs - Nobles.png" size="2982612" crc="8e862151" md5="e343d797a5b5d9d2f4f64e81b80aecd8" sha1="5f09caf8d3126902ae1168ca30bb86cba276fae9"/>
+		<rom name="Sprites\NPCs - Peasants.png" size="2180279" crc="837a7a17" md5="12dde2c87798ea8f3ea531f682c3063b" sha1="519010b1e5d357d035739985cea55828eab8275a"/>
+		<rom name="Sprites\NPCs - Rogues.png" size="2267990" crc="928320c3" md5="ef52f2ac0a5e4599dc847fcfab09f626" sha1="5ca96873ec0b3c94e09db682f7c6ade2fc797a6e"/>
+		<rom name="Sprites\NPCs - Warlocks.png" size="3189989" crc="1f63400d" md5="4a134a512c3d78fc71e58a155da857ba" sha1="1755ecac2aedacd15d9018edb57a37c64190e75b"/>
+		<rom name="Sprites\NPCs - Warriors.png" size="2724217" crc="ebeb7810" md5="6735f987be7ffa1980b1660400e7abdc" sha1="8f55df0be66e1e0db0beb6edfbbf3ab1023ac3bb"/>
+		<rom name="Sprites\Ornamental Border.png" size="5228844" crc="7d0cccc8" md5="06eded70e880c08ac586badda946c76e" sha1="dc4c4938bcdc8c3ec7efa161a3a0410f9848eef5"/>
+		<rom name="Sprites\Paper - Book.png" size="15557684" crc="cdfe8b2e" md5="3f477543777cfaf519ad28994b433d9f" sha1="ba5ac2d73a0b0da692a533bad51fd599e4bea6ee"/>
+		<rom name="Sprites\Paper - Burnt.png" size="17131585" crc="9b6b9c0e" md5="31b208ffdb59dcef61b6516c65da1fed" sha1="5a64264f1c0d967e4b1f0673f89278c4b8964a15"/>
+		<rom name="Sprites\Paper - Sheet 1.png" size="17287037" crc="24481341" md5="51a41ae3d7e91824f5560c61ba32c3bb" sha1="91f3c441cce6afb4407cfad2fa48f0313d467b90"/>
+		<rom name="Sprites\Paper - Sheet 2.png" size="5128082" crc="e0c30e1c" md5="1efa3b6fd607f81d5d74ec66372a2882" sha1="745724a8f18f04d6531f774a231be57892495a39"/>
+		<rom name="Sprites\Paper - Sheet 3.png" size="21553653" crc="57844c83" md5="6d6ea8737aa514a529ccb726cfad3eba" sha1="87651e45428c4d5c734f3f1d6053514e01e6ba04"/>
+		<rom name="Sprites\Paper - Sheet 4.png" size="3256772" crc="9894369b" md5="d3bfa78f60d4a2cbba6c41e53e6ce2d1" sha1="570102181a39729e4a4af9815c4af8d470aa409c"/>
+		<rom name="Sprites\Paper - Sheet 5.png" size="5706091" crc="26489ab0" md5="586ce250a5ed70bb1b431252090e25ce" sha1="7813c2f0c67dafa40a87658fca9257f1bb7516c3"/>
+		<rom name="Sprites\Paper - Sheet 6.png" size="12143324" crc="c3690ad0" md5="01acd258ed4378bf073c95b2bfb64439" sha1="524b20bf81cc37959cf335aa1da7c4871f7369ac"/>
+		<rom name="Sprites\Paper - Speech Bubble 1.png" size="2334102" crc="25d9b86b" md5="34527cde93097e2a5fc40046b9071ed7" sha1="f748ac15f014552939a3b318db117a5399770e06"/>
+		<rom name="Sprites\Paper - Speech Bubble 2.png" size="1442362" crc="3a46da9b" md5="5700b59fb48c94332900ff8a1858b23e" sha1="c5efdc59b94c8a716e393f3eb5ed273a5049c5df"/>
+		<rom name="Sprites\Paper - Speech Bubble 3.png" size="580898" crc="3167f125" md5="b6ce80ab011e13027f9fd928e8460998" sha1="2e68318333783caace8fe3d0567140cd04662256"/>
+		<rom name="Sprites\Potions.png" size="2722490" crc="e731f62c" md5="6c5d787f2611c457762a2b755bf9c2f7" sha1="e6713f93e26d5b87b83542d669afe99dd9c0b9c0"/>
+		<rom name="Sprites\Scales 1.png" size="1773007" crc="7f23afd4" md5="185e51290092176b3fb164dd362dc1e3" sha1="691b37af3ee532d69c4ad0a9d49146d1ecf2124e"/>
+		<rom name="Sprites\Scales 2.png" size="1718409" crc="80f6c914" md5="4dd988b36331a1e1c99ef69fc737bac6" sha1="24054415a9975c31dd5366617f9c29b7a772fe68"/>
+		<rom name="Sprites\Scroll Shelf.png" size="643783" crc="cd7bb7cd" md5="e8f5d51de051df4dde5111f25a0f0b8a" sha1="ed9f785d90319af152d8814743ab85b2213bf703"/>
+		<rom name="Sprites\Tree.png" size="8469655" crc="0b0d4a1a" md5="80399d137a5327df2111d9a0659d5d38" sha1="60f7d660f79849d6f8b75604501c145efb594a71"/>
+	</game>
+	<game name="Village Sim (World) (Palm OS)" id="0008">
+		<category>Documents</category>
+		<description>Village Sim (World) (Palm OS)</description>
+		<rom name="vs_presskit.zip" size="709432" crc="cd1d1d6a" md5="fc0a00947de57a04c4555de8144243cd" sha1="5fd02cbcd110ca06e71143811b6c9d29559295a3"/>
+	</game>
+</datafile>

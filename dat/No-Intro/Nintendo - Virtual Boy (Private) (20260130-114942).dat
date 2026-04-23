@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>15</id>
+		<name>Nintendo - Virtual Boy (Private)</name>
+		<description>Nintendo - Virtual Boy (Private)</description>
+		<version>20260130-114942</version>
+		<author>BigFred, bikerspade, BitLooter, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, NESBrew12, omonim2007, psykopat, rarenight, relax, Rifu, SonGoku, Tauwasser, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Virtual WarZone (World) (Aftermarket) (Unl)" id="0077">
+		<category>Games</category>
+		<description>Virtual WarZone (World) (Aftermarket) (Unl)</description>
+		<rom name="Virtual WarZone (World) (Aftermarket) (Unl).vb" size="4194304" crc="6a1e6ac5" md5="2a1a53dcd89b1bda0d168e11da32aa7b" sha1="c43d905b372ea096fd831c3e9b63fcd88b887dcf" sha256="5707c23e845065c052543695629ab3a4ce942efe8f07822746f3b5109fefe942"/>
+	</game>
+</datafile>

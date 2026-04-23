@@ -1,0 +1,1617 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>235</id>
+		<name>Google - Android (Amazon Appstore) (APK)</name>
+		<description>Google - Android (Amazon Appstore) (APK)</description>
+		<version>20251119-132515</version>
+		<author>Arctic Circle System, Hiccup, number, rarenight</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="10bii Financial Calculator (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.2.5) (v162)" id="0003">
+		<description>10bii Financial Calculator (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.2.5) (v162)</description>
+		<rom name="com.inadaydevelopment.cashcalculator-162.apk" size="8460532" crc="fcf8c6de" md5="781f4ee7a9c4fe1a88f536b32854ef12" sha1="69052ccba6934811fcea68c3f8a42e554a747409" sha256="904a82842587eb629a84b27a5e0b41629e76c2a8b0a91525b10d3354c04d1357"/>
+	</game>
+	<game name="150 Flavorful Cupcake Recipe (World) (v5.1) (v16)" id="0236">
+		<description>150 Flavorful Cupcake Recipe (World) (v5.1) (v16)</description>
+		<rom name="com.flavorfulapps.cupcakerecipes-16.apk" size="4332647" crc="fa5ed38a" md5="e8f65badecf31d0ebc9a74798946acd0" sha1="151b924ba48cbca3822f4e7593fde062cb8a0e8c" sha256="878829ad8e0afed3636ebf8814b4592ece2ceeba6adc8c6e8b1344a3f9523a44"/>
+	</game>
+	<game name="20 Minute Meals (World) (De) (v1.3) (v13)" id="0004">
+		<description>20 Minute Meals (World) (De) (v1.3) (v13)</description>
+		<rom name="com.zolmo.twentymm-13.apk" size="19847565" crc="f6c62242" md5="88a36a1e12265b31cf9144852ae75a33" sha1="c53f2720716ab16a71a57f35c211263547596df6" sha256="7aff298b88afae265c63d5cd64ebb6a6209bde2bfcaf04ceb59496602731ba65"/>
+	</game>
+	<game name="2Do (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.2.7) (v6233)" id="0005">
+		<description>2Do (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.2.7) (v6233)</description>
+		<rom name="com.guidedways.android2do-6233.apk" size="13895874" crc="d3051720" md5="80f2fe6894fdeabd6dc3959a407c3a0d" sha1="3bcae998e7d992aa41cf5ee3c55722cef1ac74f3" sha256="94371a38c7bbd2ca6ad55a02225775d84feb5945aece402b15640bbba4f5009d"/>
+	</game>
+	<game name="4 in a 3D Row (World) (v2.0) (v2)" id="0006">
+		<description>4 in a 3D Row (World) (v2.0) (v2)</description>
+		<rom name="com.NeonFIveStudio.ina3DRow-2.apk" size="15590380" crc="2d7ccade" md5="6a33c76d39f6fbbd35729198de623c9a" sha1="ae6fdddcf53c8d797747a68879ca2427aaf484de" sha256="49217a6b4cb14465e38030d60096277ea7ec0d962418759f448b24f2d23b4f64"/>
+	</game>
+	<game name="80 Days (World) (v1.4.1b5) (v14105)" id="0237">
+		<description>80 Days (World) (v1.4.1b5) (v14105)</description>
+		<rom name="com.inkle.eightydays-14105.apk" size="161436212" crc="e0231267" md5="7535f2c8027e48a2594091f45e1ab2aa" sha1="673056405a08d5c2905a5fb82328cfa39f19d618" sha256="64448270f0ae2867407b5bcd2e8280e210810a0fa541f39dfc8d6278a5d82ad9"/>
+	</game>
+	<game name="A Better Camera Unlocked (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v3.43) (v103)" id="0165">
+		<description>A Better Camera Unlocked (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v3.43) (v103)</description>
+		<rom name="com.almalence.opencam_plus-103.apk" size="13786920" crc="60a459a5" md5="29c991a47eb8b989d85cb92e804055c4" sha1="ef87901988b6a676c7879f35e8aacb005a29f98e" sha256="899da35c465c689be6b4f9a556730d39cdb1daccd0e3a9712d52a5a5c541e3b7"/>
+	</game>
+	<game name="A Calendar Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.8.3) (v2008022)" id="0235">
+		<description>A Calendar Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.8.3) (v2008022)</description>
+		<rom name="org.withouthat.acalendarplus-2008022.apk" size="9014557" crc="468dce6e" md5="419d1b50ff83971c1b638b91766e49c0" sha1="57b7dddd52de2f1449a6d894a48b6b5edc14adaa" sha256="d19d1a0550582501a85c84afaa54b142923520bd290d22bef191154fb0e668eb"/>
+	</game>
+	<game name="ABBYY TextGrabber + Translator Lite (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.9.1) (v106)" id="0163">
+		<description>ABBYY TextGrabber + Translator Lite (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.9.1) (v106)</description>
+		<rom name="com.abbyy.mobile.textgrabber.lite-106.apk" size="20594972" crc="93ed0ca0" md5="af56dd97c294eb3cfdcbda1ecbf955e5" sha1="86788398e50722ce36ce2773605ef3027d8ff656" sha256="242f7df65a58bf2e258ef2cb7f5c74eb7ec32daca10e357646902734b2d464f4"/>
+	</game>
+	<game name="ABC 123 Fun (World) (v2.2) (v2002000)" id="0164">
+		<description>ABC 123 Fun (World) (v2.2) (v2002000)</description>
+		<rom name="air.ABC123Fun-2002000.apk" size="19282318" crc="ab7aaa56" md5="aae8576edb8d33c3f6a86c085848600e" sha1="8c86170148f5c554be99937ab47a7f409e0f28da" sha256="08eeca8565648f13ee658143f0deeb12099d1e61a2c0ad4ca933107227c7416f"/>
+	</game>
+	<game name="AccuWeather (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.0.0-amazonPaid) (v2000125)" id="0238">
+		<description>AccuWeather (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.0.0-amazonPaid) (v2000125)</description>
+		<rom name="com.accuweather.amazon.paid.android-2000125.apk" size="29697928" crc="f5d2fd55" md5="bcb7f3480b37de0878f7c9b8ea4bbbca" sha1="50f34124d5732f1611a7329ac4c9586d507d7476" sha256="d510472ad8a0e01fdf17acef9510d68529452f96151e96116408302b21c1204b"/>
+	</game>
+	<game name="Aces Gin Rummy (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.0.6) (v20006)" id="0009">
+		<description>Aces Gin Rummy (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.0.6) (v20006)</description>
+		<rom name="com.concretesoftware.ginrummy_amazon-20006.apk" size="19406086" crc="2e44b373" md5="e6e78f2139f095e0ba0908236956443c" sha1="a61d509f57d9d7e82479021239f4fe0b91ee7d82" sha256="390bca5d883dc8855c499d4fb2f9d8cf6504717e888369828a02cfe9cdde3ddf"/>
+	</game>
+	<game name="Advanced Calculator (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Zh,Ko,Pl,Ru,El) (v1.05.0) (v1050)" id="0010">
+		<description>Advanced Calculator (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Zh,Ko,Pl,Ru,El) (v1.05.0) (v1050)</description>
+		<rom name="com.pixatel.apps.calculator-1050.apk" size="429748" crc="1a11803b" md5="0e4beb6d726493f9119751419ccd9cab" sha1="41fff7b62ba40d818def0faea07a0db48998b8db" sha256="35d0110a86b565a70d3f275ed0361c7f1cbeda85c9620a1011c07f139ac11ce4"/>
+	</game>
+	<game name="Age of Zombies (World) (En,Fr,Es,Pt,Zh) (v1.2.81) (v1281115)" id="0011">
+		<description>Age of Zombies (World) (En,Fr,Es,Pt,Zh) (v1.2.81) (v1281115)</description>
+		<rom name="com.halfbrick.ageofzombies-1281115.apk" size="45147902" crc="defebb8c" md5="b37ac001c3aa10cf1435315c53ff4190" sha1="048b5e3718c68e56c10e68fcb25b745fa80fb064" sha256="e65580593f6eb6bc4f5b703adf77ab00a30182dc065639cf5d187fe52ed0ca80"/>
+	</game>
+	<game name="AGK Launcher (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6)" id="0007">
+		<description>AGK Launcher (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6)</description>
+		<rom name="com.agk.fire.launcher-6.apk" size="1058624" crc="3875a064" md5="87b08659cbc3bbb1c73d021a2077d078" sha1="3cc54eb9ff384dff6ba4325fd27cbcd407da60ac" sha256="8223947dff2be37cf501f6c7ab38470616d19262225fded747e87e19e144a7fe"/>
+	</game>
+	<game name="AI Type Keyboard Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.0.0-Amazon) (v50000)" id="0399">
+		<description>AI Type Keyboard Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.0.0-Amazon) (v50000)</description>
+		<rom name="com.aitype.android.amazon.pfull-50000.apk" size="29099289" crc="a6338fb7" md5="4d3b3d2c10d8ebfb978bfaf5433805e7" sha1="5ffc6d0c97f764db0d6b3673ee2c3e739b243068" sha256="ff15036add3e3823da56696d96967655b6290d4231b0a97561ae97ab2e227bb7"/>
+	</game>
+	<game name="Air Receiver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.1.3) (v2020161761)" id="0239">
+		<description>Air Receiver (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.1.3) (v2020161761)</description>
+		<rom name="com.softmedia.receiver-2020161761.apk" size="20033302" crc="8e8d6272" md5="f7454fdc6e7bad423bb3b7eaab3434bf" sha1="d74a16ea2b9da5ea54880415f454fdde41d0cb05" sha256="72a3f13f8a53bd77dac288fffa682c8478a01c122b95dc085000928af92f9c36"/>
+	</game>
+	<game name="Airo Ball (World)" id="0240">
+		<description>Airo Ball (World)</description>
+		<rom name="com.dualcarbon.airoball-1.apk" size="17824142" crc="d6327ae7" md5="ebe8a94092879875a83ff3bcff5fbcdd" sha1="a7662d56b2403e07f0353dd98cf923554c111c18" sha256="76dbde42a8582626c481d054f942bce137d6f9c9a46eb1e0ef81dcf0e22a027f"/>
+	</game>
+	<game name="Airport Mania (World) (v1.21) (v10)" id="0241">
+		<description>Airport Mania (World) (v1.21) (v10)</description>
+		<rom name="com.amazon.airportmaniahd-10.apk" size="20333493" crc="5e6cf493" md5="af592792edd5718b4f7df6d8c9c77f08" sha1="b8d7c2363e026ac4897980e5197708f4bdb6774d" sha256="00f5934604cada71b19ef542c15b8f51539c1a57704a396eb48d829a59874782"/>
+	</game>
+	<game name="Airport Mania 2 HD (World) (v1.19) (v29)" id="0242">
+		<description>Airport Mania 2 HD (World) (v1.19) (v29)</description>
+		<rom name="com.southwindsgames.am2m-29.apk" size="20633319" crc="243521e0" md5="9c92b3f580dcee0d09a1914c1571b69f" sha1="ccd115eea9ac98e2d92ef0c42e3319e0691691f3" sha256="6a596957d0d2fee051a0ff34f398dd5a52a622c6fd03aed1a1831d78abf0749e"/>
+	</game>
+	<game name="Alarm Clock (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.0.6) (v40047)" id="0243">
+		<description>Alarm Clock (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.0.6) (v40047)</description>
+		<rom name="com.macropinch.axe.pro-40047.apk" size="3462782" crc="feac98af" md5="4c2716fb1dfc85d7473539d6d3118043" sha1="614f18104e28495b0afe991739367a8aac67a115" sha256="48c63181606d25da5d39799be1f464d6dd29670ad9adb1b954047130c1a0cc77"/>
+	</game>
+	<game name="Alarm Clock Xtreme (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.0.1.1.1) (v193440)" id="0244">
+		<description>Alarm Clock Xtreme (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.0.1.1.1) (v193440)</description>
+		<rom name="com.alarmclock.xtreme-193440.apk" size="8074919" crc="324f347f" md5="5ca4675e76b33a0e3d177c49696b0f64" sha1="55ad545903f59299d0bb2bbe59b3572f07579a48" sha256="5d401645fc6cb13e25d79e87fb82257142f2e2ca00ae31abf012c901ffb1f3a3"/>
+	</game>
+	<game name="Alice Trapped in Wonderland (World) (v1.4) (v15)" id="0245">
+		<description>Alice Trapped in Wonderland (World) (v1.4) (v15)</description>
+		<rom name="com.mediacitygames.games.alicetrapped-15.apk" size="118860130" crc="839d9e74" md5="1c85c064718e32859be8625738145dc2" sha1="68a09c29ede1ded08a336e998314316e5af8e628" sha256="dea3f5d65fc600f1afc396a405e64797a14628f3f08645d8d722d2b3f73e8880"/>
+	</game>
+	<game name="Angry Birds Seasons (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.6.1) (v6610)" id="0246">
+		<description>Angry Birds Seasons (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.6.1) (v6610)</description>
+		<rom name="com.rovio.angrybirdsseasons-6610.apk" size="105316955" crc="3fc60f9d" md5="1d95bef359fc61e3a8c27fbec0fb968a" sha1="2408646210c7968c9fb34ff4ad5402ccb6b449c5" sha256="00b179f21743a2f80d9faea6cbff25be9734c71db6ff24de4d02fdd709baab38"/>
+	</game>
+	<game name="Angry Birds Seasons (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.6.2) (v6620)" id="0247">
+		<description>Angry Birds Seasons (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.6.2) (v6620)</description>
+		<rom name="com.rovio.angrybirdsseasonsHD-6620.apk" size="105573106" crc="e8a1d386" md5="0307398bfaf5dc088d065f888dea0acf" sha1="16b5915a4649d0a26a73eaf5ce5046681fccc7e9" sha256="ce77503ce500a5c65def6e94a2fe72998988fc9682269d323fbcbe20faa3043d"/>
+	</game>
+	<game name="Angry Birds Space Premium (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.2.1) (v2143)" id="0012">
+		<description>Angry Birds Space Premium (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.2.1) (v2143)</description>
+		<rom name="com.rovio.angrybirdsspace.premium-2143.apk" size="50532841" crc="4ec3f98f" md5="3f0f27f3debc7d79da2e84b90f566567" sha1="39ffe1bfc43f4650eee3580435eb39716a9b41cd" sha256="ac83a9193bd0ebaa15039ca0a8a277e14cfcc9bc54d3139158e89f5762243a61"/>
+	</game>
+	<game name="Anthill (World) (v1.0.10) (v10)" id="0013">
+		<description>Anthill (World) (v1.0.10) (v10)</description>
+		<rom name="com.thumbstargames.anthillpremium-10.apk" size="20916067" crc="6c4e9788" md5="f970a413aa46f6ee7112e44e772a4c77" sha1="8b64a134294b0990754dc2ce3645be1011f0afb3" sha256="de23a9684096b0814438c0f8d89639ab5bbf40fc14e9ff592e1deb3985b86719"/>
+	</game>
+	<game name="APPoint (World) (De) (v3.0.0) (v25)" id="0008">
+		<description>APPoint (World) (De) (v3.0.0) (v25)</description>
+		<rom name="com.appoint-25.apk" size="722217" crc="6016e9ab" md5="ac61159073e0ee94ab24b0d953ab0535" sha1="3e43b0429a65448d62641b2b0cb989a951041b66" sha256="a83060652e5e2873b7a14be4646e61ee20a2cf572f229852ffe30c16e50e1be0"/>
+	</game>
+	<game name="Apps2SD (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v10.7) (v107)" id="0014">
+		<description>Apps2SD (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v10.7) (v107)</description>
+		<rom name="in.co.pricealert.apps2sd-107.apk" size="17096414" crc="aa3e4fa5" md5="99fc52d34f384a7ed0847500d63acf37" sha1="e93d4d736f72d3f681da98a4813278423d85a589" sha256="e077eab0c577ce4eb03a4ddcfcfb803db635f05ce8200a1f8ca882e07dc6c32b"/>
+	</game>
+	<game name="Archipelago (World) (Ja,Fr,De,Es,It) (v2.08) (v15)" id="0015">
+		<description>Archipelago (World) (Ja,Fr,De,Es,It) (v2.08) (v15)</description>
+		<rom name="com.sgg.archipelago-15.apk" size="2396121" crc="acc735be" md5="0f7e3a662920fa03d11ca2b663a57841" sha1="2a3ee357b226d0c6da6ef0252fe8e1e712a35cf7" sha256="895a74bbc6be1b8d11a9e6ad8d3fd3887de529f49a0655d76e0b1e6e81482ed3"/>
+	</game>
+	<game name="AstroSurf (World) (v2) (v7)" id="0016">
+		<description>AstroSurf (World) (v2) (v7)</description>
+		<rom name="com.Moanbej.Astrosurf-7.apk" size="24351805" crc="92e62e5a" md5="9fc3c08e9389348fa04141170d50740e" sha1="2b34fc8476242c942d4cc5301ddbbfcb449ee457" sha256="0220149c3158a284f9679a867a7fd37f062fac48d19075bd30ec019216d31127"/>
+	</game>
+	<game name="Atari's Greatest Hits (USA) (v2.0)" id="0001">
+		<description>Atari's Greatest Hits (USA) (v2.0)</description>
+		<rom name="Atari's Greatest Hits (USA) (v2.0).apk" size="45252532" crc="420a4cec" md5="924ccd483a449bbcae72c71dc8067473" sha1="9c5c893f0dffdc67c91b39f9bfc2e9e08589eb97" sha256="ebfb4a21c286c81140fd9683bacc287e87f6eea19cf14135c9b4c14a81a1804e"/>
+	</game>
+	<game name="Atomus HD (World) (v2.1) (v21)" id="0017">
+		<description>Atomus HD (World) (v2.1) (v21)</description>
+		<rom name="com.sunglab.bigbanghd-21.apk" size="19010322" crc="5edbf593" md5="5b7240ab89c48cd5ff12b0df50f79176" sha1="c6692cde270330e4587310ec6d2386e7154672fa" sha256="539c61ca7f536008464026769eb7dc34c9bdbf20b5503a7839c82772dba4576a"/>
+	</game>
+	<game name="Autodesk SketchBook (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko) (v2.1.1) (v25)" id="0018">
+		<description>Autodesk SketchBook (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko) (v2.1.1) (v25)</description>
+		<rom name="com.sketchbook-25.apk" size="7674631" crc="113db4d6" md5="bbd54dbeb7a22284b9c6a141b51fcab9" sha1="f0aa3b676ff7b3701f93442b17a0842c0d8d0550" sha256="372236bf3145c1a7eafd45c1298ccf60aaa271d964feb5a33b697f5ed3c9bd6d"/>
+	</game>
+	<game name="Autodesk SketchBook (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko) (v2.9.3) (v23)" id="0019">
+		<description>Autodesk SketchBook (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko) (v2.9.3) (v23)</description>
+		<rom name="com.adsk.sketchbookhd-23.apk" size="11630696" crc="cec977ee" md5="3cf3481c57f31695810fd9d1c318e6f4" sha1="4b94edbe1a25fb727275fb5918e0bd5c15ee1810" sha256="31d0185b931cc1b54d3a8d7e4ada2a7181fe96db4e26e5db21612183f54d48ed"/>
+	</game>
+	<game name="Badland (World) (v3.2.0.6)" id="0002">
+		<description>Badland (World) (v3.2.0.6)</description>
+		<rom name="Badland (World) (v3.2.0.6).apk" size="184954454" crc="4952cc73" md5="e2828af025cbcee428cbf99dc1c2fabb" sha1="3c602210e28950806fe5fd371381c3860e14a2f5" sha256="51200d2dcdc6567d31d4b1565969cb8a74198a9f43b4c3ec9c426017c6211176"/>
+	</game>
+	<game name="Blox (World) (v1.49) (v49)" id="0249">
+		<description>Blox (World) (v1.49) (v49)</description>
+		<rom name="com.entwicklerx.blox-49.apk" size="2490677" crc="2d03eb9b" md5="275605d416c0b47de24b8fd9c6a47661" sha1="b986661d58885d3c47b8918312383cde8da9299e" sha256="a0e14c10d637a3b753f39deb4522d2678928f4ed90f1eb9654e98d673127211e"/>
+	</game>
+	<game name="Box It! 2 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.0.3) (v12000300)" id="0250">
+		<description>Box It! 2 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.0.3) (v12000300)</description>
+		<rom name="com.digimentgames.android.boxit2-12000300.apk" size="13503905" crc="9c333664" md5="eae067b382b644ca633ffc4fd0b3b509" sha1="593d8ac70e73131430012efb2f939bef7113a657" sha256="936919c36ffec1747205781fb4ea7bf785795b0e52a67eaa3f6eea180e0f901f"/>
+	</game>
+	<game name="Brain Trainer Special Pro (World) (Ja,De,Es,Zh) (v7.1.6) (v24)" id="0251">
+		<description>Brain Trainer Special Pro (World) (Ja,De,Es,Zh) (v7.1.6) (v24)</description>
+		<rom name="brain.trainer.full-24.apk" size="7500100" crc="69fa049e" md5="149d57265efe969e3007d74a2b8ec933" sha1="642f92215567d2e080b2c4879d59f41a87800523" sha256="3eb7b8ce19238f6b05e29a1af04c33efaf30b76d94cc0c7f896f33bb08d71bab"/>
+	</game>
+	<game name="Brain Trivia (World) (Es) (v5.0) (v7)" id="0252">
+		<description>Brain Trivia (World) (Es) (v5.0) (v7)</description>
+		<rom name="com.agilefusion.braintrivia-7.apk" size="5249704" crc="54827b9b" md5="7cded50411efafd899e8523fe7c8ad9c" sha1="5f852da6a237185648d2b9cb1cace164500181cc" sha256="654c3358f27cbddb7224bcad46d13185b7211a89cffee5d5c131fcb68822f7fa"/>
+	</game>
+	<game name="BT Handwriting with Dnealian (World) (v10)" id="0248">
+		<description>BT Handwriting with Dnealian (World) (v10)</description>
+		<rom name="com.buildandteach.handwriting-10.apk" size="25021178" crc="e5ba64dc" md5="447a3c6ca74b58f5d1610b2a31f2d473" sha1="75fe97a8949dea6c3c6c87f571a18dafa9483c22" sha256="52e3fe65fbea4ab862bdedbd8ada9242033602b686c6a0094285e33c1b2ebc24"/>
+	</game>
+	<game name="BuildCalc (World) (v2.1.22) (v38)" id="0253">
+		<description>BuildCalc (World) (v2.1.22) (v38)</description>
+		<rom name="com.buildcalc.buildcalc-38.apk" size="7040850" crc="d7a33447" md5="ab8e477753e512e0de2743450c48afbc" sha1="c9f6ab4d0d1f5e84590142535c40178e5b77cf72" sha256="da40354fd75e252c2192b3b4d39439f9c5e3e3a28b028936e430a5fdf9e7afd7"/>
+	</game>
+	<game name="Bullseye Premium (World) (v2.12) (v212)" id="0254">
+		<description>Bullseye Premium (World) (v2.12) (v212)</description>
+		<rom name="com.fizzpow.bullseye_premium-212.apk" size="22296322" crc="61f4593d" md5="0c245b7ce8acac537114910305252e37" sha1="47ac70173753490ed932c00b25584b78f5248131" sha256="6b1a23b8444867272d4be7b7759f81736adabe26e62c84b9edabd7f3196344be"/>
+	</game>
+	<game name="Bunny Jumping (World) (It) (v1.0.1)" id="0255">
+		<description>Bunny Jumping (World) (It) (v1.0.1)</description>
+		<rom name="com.aiuspaktyn.bunnyjumpingmzn.android-1.apk" size="1838407" crc="2f2bbfe6" md5="9dd4ac2d7a68b36dc2b749856cb81319" sha1="d5e2622c8a03bcb2d62cb1ca6a9c1d24ea2b7731" sha256="cb8e27eae8b6e5d3fba09170377597675339fac3c2e6d8473af93c483bc63e77"/>
+	</game>
+	<game name="Buy Me a Pie! (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.8.11) (v45)" id="0020">
+		<description>Buy Me a Pie! (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.8.11) (v45)</description>
+		<rom name="com.buymeapie.amazon.bmap.pro-45.apk" size="4440151" crc="42512776" md5="701f957ad6813277f367e83ddeb5fd71" sha1="923cd87f9e285c18aba281a02e01f422821f7e88" sha256="9580835b5022332877a922919313bdfeee8b16482f7d40bb906aa96204603151"/>
+	</game>
+	<game name="Byte Saver (World) (v1.2) (v3)" id="0021">
+		<description>Byte Saver (World) (v1.2) (v3)</description>
+		<rom name="com.SolipsisticGames.ByteSaver-3.apk" size="8892841" crc="681812f6" md5="405047c4ddb35b1863404da657474df3" sha1="fd3ed8d91b4924ec624ed5ae6c951b3488203bb6" sha256="b2098a5a1fa18ba4eb16f79de7859ebfdf61ef72ce0733f8bc9d547f6393e7e8"/>
+	</game>
+	<game name="C25K Pro (World) (v1.7.5.1) (v34)" id="0022">
+		<description>C25K Pro (World) (v1.7.5.1) (v34)</description>
+		<rom name="com.guyhoffman.c25k.pro-34.apk" size="674993" crc="0e3e5d8b" md5="9730af6fb355cd03a58a408974cc4c3e" sha1="72be93d8b634d50eb9b78295691d98ecb9916a06" sha256="0d385dfc26c9af4ef1310da1b6b720dc62f142554ba7f3393cccf2d1d741b9f5"/>
+	</game>
+	<game name="Calculator (World) (v3.2.1.1) (v57)" id="0023">
+		<description>Calculator (World) (v3.2.1.1) (v57)</description>
+		<rom name="com.sdp.calculator-57.apk" size="907539" crc="8a83d53a" md5="3c4f672ebd344a33844c32c6a71b9075" sha1="4b6bfaf08018b3d14e9133c8605d8089591b4325" sha256="19ac4a1405cd978b34d62950d6a64575b575c27db49d965424b830d8404238a8"/>
+	</game>
+	<game name="Calculator Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.9.9) (v5992)" id="0024">
+		<description>Calculator Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.9.9) (v5992)</description>
+		<rom name="com.digitalchemy.calculator.decimal-5992.apk" size="7317348" crc="f27f15b5" md5="96b1f7df098bec7c739c703e20d9266d" sha1="e50f4b259486a6e50b54b788a694fe1a187bd54c" sha256="ad7b7cb2031b87dbbd5aea0bdcbee7c8faeb940dd1e72b9a0995398639726a75"/>
+	</game>
+	<game name="Calculator Pro (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v2.2) (v20)" id="0025">
+		<description>Calculator Pro (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v2.2) (v20)</description>
+		<rom name="com.apalon.calculator-20.apk" size="9795702" crc="652aa66e" md5="049a1100e1b8a0bfd538c75a4bd70987" sha1="311b5936a00f717a4dc6f3e865c1b91d0e433586" sha256="6dd9ae99e7dd5cc623762a4ff0bdeaee16087a5743ca709225a229a5e39a904f"/>
+	</game>
+	<game name="Calorie Counter - MyNetDiary (World) (Es,Ru) (v2.1.6a) (v80)" id="0087">
+		<description>Calorie Counter - MyNetDiary (World) (Es,Ru) (v2.1.6a) (v80)</description>
+		<rom name="com.fourtechnologies.mynetdiary.ad-80.apk" size="11759864" crc="57dff050" md5="a8985b9cccd48b30325897d3d0889538" sha1="c66bdc7fb89de0acc6aa428bad656642b3fa0b2f" sha256="679889e043cb24c4f410d751e16dbe21cb465d88f53cc765eac147ce4c04817f"/>
+	</game>
+	<game name="Cam Widget (World) (v1.6) (v6)" id="0256">
+		<description>Cam Widget (World) (v1.6) (v6)</description>
+		<rom name="com.andrewparis.camwidget-6.apk" size="1515726" crc="dfe391eb" md5="c9a14ecd485ad60f25d06a439f0b3229" sha1="334d54e305dd775f13a735baeea31aa217e1b485" sha256="be799af285ba2e6c75536ff1a9b6a6af034e14b74dd102e7b951a3ebafaf9549"/>
+	</game>
+	<game name="Camera ZOOM FX (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.1.3) (v153)" id="0257">
+		<description>Camera ZOOM FX (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.1.3) (v153)</description>
+		<rom name="slide.cameraZoom-153.apk" size="5767226" crc="eaa6101e" md5="e1678a2cb499183c810d8fb1a8da6a80" sha1="4b092211eef5b7ea092fda1f3d2c80014f587f6b" sha256="9d69f5c22198e34ceebc0b8edb7e4e4ba064461f1cdf3f6ab95b09696bba8de5"/>
+	</game>
+	<game name="Camping Checklist (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v7.0) (v21)" id="0258">
+		<description>Camping Checklist (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v7.0) (v21)</description>
+		<rom name="com.jimbl.campingchecklistamz-21.apk" size="1697548" crc="466a1585" md5="ef38ec647ee72753d5fe155ba8e14e16" sha1="197dac650199e6a137108b67086c29320fe8a057" sha256="cc4331e3b5f3678750eac4ab11c24009db4da5144c481756ac4af34b3b033118"/>
+	</game>
+	<game name="Canyon Hunter (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.0) (v2004)" id="0259">
+		<description>Canyon Hunter (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.0) (v2004)</description>
+		<rom name="com.solverlabs.amazon.caveescape-2004.apk" size="47896183" crc="81406f2d" md5="8709dc28c3676f8e115cfcd4644a439c" sha1="62ebc109d6a817f04ff0d2ca99fa7879f17f7cf0" sha256="905bec255ef9fdbd51c083a7500911e13dc6bddc55f4f95ddd7e23fbd4f074c5"/>
+	</game>
+	<game name="Chimpact (World) (v3.0) (v13)" id="0260">
+		<description>Chimpact (World) (v3.0) (v13)</description>
+		<rom name="com.start.Chimpact-13.apk" size="54555096" crc="567572d0" md5="655ade3500d623db95e9ef088def9c83" sha1="35a8b0042f809a24d2f9df2ddcb6bae70bce4d2b" sha256="13d4a609ed85142630355cc803dd5cab590fe24961a4a14e20b1fd3e7b3f060d"/>
+	</game>
+	<game name="Chimpact 2 Family Tree (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.1218.1) (v30)" id="0261">
+		<description>Chimpact 2 Family Tree (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.1218.1) (v30)</description>
+		<rom name="com.amz.games505.chimpact2familytree-30.apk" size="52439991" crc="f1d4ead5" md5="038a03d45126620a1f23dd2734e7ace5" sha1="1c6b53cb88e75d5e8656a1f45b81abcfcbb39d54" sha256="4adfa0bd587ce94697b5829747e260bd513a1a2a93e4426adc9d4fa6dfd1b3a1"/>
+	</game>
+	<game name="Clockwork Tales (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v1.2) (v1028)" id="0262">
+		<description>Clockwork Tales (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v1.2) (v1028)</description>
+		<rom name="com.artifexmundi.clockwork.amzn.full-1028.apk" size="298618803" crc="df91ccc4" md5="7d4e459f99e887d2aee018358054315c" sha1="a75b7f434434fb01ec9cde4a5dc9a480551bc42c" sha256="2fba9ce4df60852bf1f8ec2c4fa72f19b1681c05ea8f79062869b6a5c403862e"/>
+	</game>
+	<game name="Color Oil Pro (World) (Fr,De,Es,It,Ru) (v1.3.1) (v5)" id="0263">
+		<description>Color Oil Pro (World) (Fr,De,Es,It,Ru) (v1.3.1) (v5)</description>
+		<rom name="com.kyworks.coloroil.paid.amz-5.apk" size="10849414" crc="da5850a7" md5="d0d6d83c2299dd471a1ce791acc893c5" sha1="2550606a2da74705b31cc2d1507605f793b88b6c" sha256="693c87531cfc9f7427f43139fefe936157e7e8d8e89d7d53b898040d76748dea"/>
+	</game>
+	<game name="Color Sheep (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.3.2) (v34)" id="0264">
+		<description>Color Sheep (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.3.2) (v34)</description>
+		<rom name="com.TrinketStudios.ColorSheep-34.apk" size="54239591" crc="a0a35013" md5="d0dd3bdbdb27f3d7b2b1fbbd6df8866a" sha1="e7c2346000a12105f53e4b3bf732062f8200ef9d" sha256="7e7bff5a0e3e6a3f4acc92e6ceea86b2ca852dadc917e60451c7024c9e073a62"/>
+	</game>
+	<game name="Color Splash FX (World) (v1.4.1) (v21)" id="0265">
+		<description>Color Splash FX (World) (v1.4.1) (v21)</description>
+		<rom name="slide.colorSplashFX-21.apk" size="2663147" crc="5dcb1c7b" md5="8666768c3f0a42896d5d60cdcc9c1788" sha1="24c668643056b6c4d1f23095f1ebb409baead4e0" sha256="0c187f7971eaf8363197cf9151fd9966a89993bf54f513aaa4a7b52f7e93e288"/>
+	</game>
+	<game name="Color Switch (World) (v1.31) (v19)" id="0266">
+		<description>Color Switch (World) (v1.31) (v19)</description>
+		<rom name="com.neverjustbecause.colorswitch-19.apk" size="2844622" crc="7f717e26" md5="ec8754091c9d141059512df6f5c5ec4c" sha1="6d1cd98d535d768e262c9041c0ab4928457c4330" sha256="6426b213933522c7fbaf87778cd11e0a3e4006c5ae4f9eb4bb50431edf1837df"/>
+	</game>
+	<game name="ConnectZ (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El)" id="0268">
+		<description>ConnectZ (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El)</description>
+		<rom name="de.weblantis.connectz-1.apk" size="26847892" crc="d1e2b379" md5="b806a5d99b3458e6a3ae95e54d3b6605" sha1="bde5cb3a0fee7ad94068eaec098177cf23c98029" sha256="68f6ae516f3071e770f39be91eb365cbe37e176d9f7ca7cc49a6517c9c5d135f"/>
+	</game>
+	<game name="Continuity 2 (World) (v1.2.1) (v13)" id="0269">
+		<description>Continuity 2 (World) (v1.2.1) (v13)</description>
+		<rom name="com.noodlecake.continuity-13.apk" size="11879142" crc="def0151a" md5="f6e717872bb972363a65dfad94265af1" sha1="57d125e0e548b3408617e66c25c8ebc527366164" sha256="298870f17f562d4375318f8b74fd7651bb7c373a5763096e949a67386c824e2d"/>
+	</game>
+	<game name="Convertor Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v8.0) (v80000)" id="0270">
+		<description>Convertor Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v8.0) (v80000)</description>
+		<rom name="name.udell.convertor-80000.apk" size="2121566" crc="f1afb9a2" md5="fc9936f117fbe182ffe5dcb1aca667dc" sha1="0cb260c84c2b36b6877b8596c5d43b3bdac7cd79" sha256="d381019d99d2964d245e6da55362e37b29cce0928f4340cacdf2e8267d1de85f"/>
+	</game>
+	<game name="ConZentrate (World) (Es) (v7.5) (v15)" id="0267">
+		<description>ConZentrate (World) (Es) (v7.5) (v15)</description>
+		<rom name="com.shaktiapps.games.omball-15.apk" size="21762908" crc="4225d530" md5="afdd29b37258ef37b16215f9d32d52e1" sha1="11376704ae91678af82cd08455ed8925582ed906" sha256="a287a5120c2680a23fc04a65b31cda14b74b048d20f9d9f789ec289cb568de38"/>
+	</game>
+	<game name="Courli (World) (Es) (v1.5) (v10)" id="0166">
+		<description>Courli (World) (Es) (v1.5) (v10)</description>
+		<rom name="de.accdb.ckrauss.courli-10.apk" size="28413280" crc="14b14dfc" md5="b0175d2c9fd84acde512cf546246fa3b" sha1="d9a297dd0d9f175ed3656a76696063c7df0572b6" sha256="e45534e0cef2b6d3e7d58b1d0fedfdae1e868cf0bc710fb0e6ca818689a63549"/>
+	</game>
+	<game name="Crazy Harbor (World)" id="0167">
+		<description>Crazy Harbor (World)</description>
+		<rom name="com.appgeneration.harbour-1.apk" size="5629185" crc="ba349f0b" md5="db88a22273519e7d2de0648aa4314aab" sha1="47b1a67359a22299cfee1da8c0e469a6995955c5" sha256="6d1fb8ea78f23fe24bba95ce78e5c96417e169acbb50e22cdb0cb9fc41f1a826"/>
+	</game>
+	<game name="Crazy Rocket (World) (v2)" id="0168">
+		<description>Crazy Rocket (World) (v2)</description>
+		<rom name="com.crazy.crazyrocket-2.apk" size="9562028" crc="968e7828" md5="814cfe9910739a6b15cdfbe30d203c6a" sha1="518fa5dd6cd10e8f002fc1248c879ba4cdfd6914" sha256="dafd22cea6fbde9a833f7691b198f81da2ea4ea0762c13e0d953138f5ec2e5e4"/>
+	</game>
+	<game name="Creative Rhythm Metronome Free (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v7.9) (v62)" id="0169">
+		<description>Creative Rhythm Metronome Free (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v7.9) (v62)</description>
+		<rom name="com.amparosoft.progressivemetronome-62.apk" size="4890061" crc="20800d6f" md5="e256e3be4112237c42bf89cef680e760" sha1="baba404c16b142a10f5f9993f0f07391c4a7eef8" sha256="f7e4d708f3c240e472e6a9ed8f7f512811cc048d6020a442c12f015b66150e92"/>
+	</game>
+	<game name="CrossMe Color Premium Nonograms (World) (Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v2.9.16) (v224)" id="0271">
+		<description>CrossMe Color Premium Nonograms (World) (Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (v2.9.16) (v224)</description>
+		<rom name="com.mobiledynamix.crossm.ecolor.premium-224.apk" size="25565652" crc="9fdcbf5d" md5="07d9cd6b864b1d1d5e7d8b88f30cf00d" sha1="f11c6ac90fbdd817089be820659d78c0f1822102" sha256="f85a9eb87daa74208ad61f656b6d22cfaf7b1d8895d7c96a1ca22bfb9c77fd50"/>
+	</game>
+	<game name="Cubes vs. Spheres (World) (v1.24) (v5)" id="0272">
+		<description>Cubes vs. Spheres (World) (v1.24) (v5)</description>
+		<rom name="com.ShockPanda.CubesVsSpheres-5.apk" size="10653822" crc="8830928c" md5="9d3d665ed029f72fdb31eadcc50de9cb" sha1="11454dd233990a453a6c98f26f5eae390672fe20" sha256="c3d0ede5024e168cdadf5a66684f3a868fc52980bdec7da433144e5088f8f570"/>
+	</game>
+	<game name="Cubetris (World) (v1.8) (v9)" id="0273">
+		<description>Cubetris (World) (v1.8) (v9)</description>
+		<rom name="com.trivialabs.game.cubetris-9.apk" size="9995692" crc="cebc84b0" md5="2ecc34308e356e705a97ab67407de401" sha1="eafc63617ffe8dbe58bebefd04a7c0b9c880f884" sha256="e42b01b2b16002c869f72f3a3e75f2f00603d623f49c29325821cfe75de9334d"/>
+	</game>
+	<game name="Cubimania (World) (v1.0.1) (v101)" id="0274">
+		<description>Cubimania (World) (v1.0.1) (v101)</description>
+		<rom name="com.TheHohngCompany.Cubimania-101.apk" size="30902385" crc="00c97c1e" md5="46463c8e1b4aed926f5285bb138b827a" sha1="5518e1bd97f772dee5759079afcfb99712e354df" sha256="7de9bec09bbfa7d1ca1853eb0e8010f3741704d36cbfa635674046c6601908cb"/>
+	</game>
+	<game name="Cubistry (World) (v2.0.2) (v1204)" id="0275">
+		<description>Cubistry (World) (v2.0.2) (v1204)</description>
+		<rom name="com.TheHohngCompany.Cubistry-1204.apk" size="23708510" crc="045b28e9" md5="503c9615ad4d23e2ef04abe69b5a72bc" sha1="225617998ad8300aa527a5d1dc3eb0bad73a18c9" sha256="b517d2b773ca0e569c20d9b31e8284300d3246e1bead1542c7daa02e72401735"/>
+	</game>
+	<game name="Diet Assistant Pro (World) (It) (v@7F070190) (v27)" id="0278">
+		<description>Diet Assistant Pro (World) (It) (v@7F070190) (v27)</description>
+		<rom name="com.aportela.diets.pro.view-27.apk" size="1174103" crc="6ce3993e" md5="47c5de832bad162aee5c80f8211aada8" sha1="d117f1d4238fd1636008d609844c6eaa37a11fbc" sha256="4ef1de47bf5e0023f600a4a6120a656212a947d86a07c87b3148fa7f8e33ca67"/>
+	</game>
+	<game name="Distant Suns Max (World) (v1.2.8) (v800128)" id="0279">
+		<description>Distant Suns Max (World) (v1.2.8) (v800128)</description>
+		<rom name="com.distantsuns.dsmax-800128.apk" size="33037172" crc="7cdfcc53" md5="9ae57946cd79e7a09cb82949075118b3" sha1="13943ee07d9165a9ceb6111a85676f07648cf8dc" sha256="7e4168f1c395d44a2e9ddc8945f0ebcde9be3d6f6af782ea871a4ce534ec6c55"/>
+	</game>
+	<game name="Docs To Go (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.002) (v11526)" id="0026">
+		<description>Docs To Go (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.002) (v11526)</description>
+		<rom name="com.dataviz.docstogo-11526.apk" size="8377078" crc="71d02ef1" md5="7d2abb7b7f8e24bea8b49c0e0543f5b7" sha1="495a684a99d4be3e8fca4e08a5c08dea05f67bb0" sha256="e8dfeca47a597f720219904f4086d1531a8e813a7fdbb914bc125f4fa055e96b"/>
+	</game>
+	<game name="Docs To Go Key (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v4.002) (v11517)" id="0027">
+		<description>Docs To Go Key (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v4.002) (v11517)</description>
+		<rom name="com.dataviz.docstogoapp-11517.apk" size="247279" crc="dcd24ccb" md5="10180863d88ff78eb47876fc69b12d40" sha1="91e236e7657080937bca583112c3d154ff62de43" sha256="9cceaf5f2ee8cd06e196d456f2edbf7fba124d94313b06dd8b9be0e34133ad3a"/>
+	</game>
+	<game name="DoggCatcher (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.2.4148) (v4148)" id="0028">
+		<description>DoggCatcher (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.2.4148) (v4148)</description>
+		<rom name="com.snoggdoggler.android.applications.doggcatcher.v1_0-4148.apk" size="6734918" crc="1df607fc" md5="33773127606c5f19595b3ec1c55d8351" sha1="262ec1a80b33818cda8965c490b9c6bc36b6ef5d" sha256="b5ab6c464715b33daf09e9d7f0c22e7d1cc1ca6752e8d16f945b92d28ca7f7ed"/>
+	</game>
+	<game name="Dogistry (World) (v1.5.0) (v1203)" id="0029">
+		<description>Dogistry (World) (v1.5.0) (v1203)</description>
+		<rom name="com.TheHohngCompany.Dogistry-1203.apk" size="31870427" crc="08bfccf0" md5="857e17bfed88d86ae30021dc42d4942e" sha1="7ff1955b652be42ed28810838677ee1cc537a0c9" sha256="37919302f996d8fd3f1acfd261913e559a263b33540b7077f16dbeacb23a631a"/>
+	</game>
+	<game name="Dragon Quest (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.5) (v12)" id="0171">
+		<description>Dragon Quest (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.5) (v12)</description>
+		<rom name="com.square_enix.android_kindle.DQI_K-12.apk" size="35710256" crc="a0dca58f" md5="276ec0cb8b9cd7c2d9346d2ee31729b4" sha1="11cbb5c69faed9513c98fd6510dd526b8676ddfa" sha256="0bfcf0e42f9e01f77f782340628534c543075c6539a402353564aa8cc4d5b83a"/>
+	</game>
+	<game name="Dragon Quest VIII (World) (Ja) (v10000)" id="0172">
+		<description>Dragon Quest VIII (World) (Ja) (v10000)</description>
+		<rom name="com.square_enix.android_kindle.DQVIII_K-10000.apk" size="1568520317" crc="309673bc" md5="8620bf0f8315b81e29f2bf922073e3a4" sha1="c67cc406eec16f6d75495acb748e5ecc9a5511d8" sha256="7c46099853d4996ea3f3c1603eb108abb92872a104fbb0aa1016d57addca53dd"/>
+	</game>
+	<game name="Dragon Warlord (World) (Es,Ko) (v1.0.2) (v102)" id="0030">
+		<description>Dragon Warlord (World) (Es,Ko) (v1.0.2) (v102)</description>
+		<rom name="com.playzen.DragonWarTCG_AMZ-102.apk" size="47551793" crc="96544b0f" md5="4b15f496a2ec71b322afb55acceb9db0" sha1="42032d383706db6b6e90266b17615998c3b2fba5" sha256="85908aceb061551faf3d5a6e010b1a98c3345393fea0d6b6a9ae23e7b3d82703"/>
+	</game>
+	<game name="Draw a Stickman - Epic (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Zh,Ko,Ru) (v1.4.3.113) (v113)" id="0173">
+		<description>Draw a Stickman - Epic (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Zh,Ko,Ru) (v1.4.3.113) (v113)</description>
+		<rom name="com.hitcents.stickmanepic-113.apk" size="81252264" crc="17ce124d" md5="0486aba73a9db4e738846b207a965129" sha1="fcc7fc145980eb6ad275138c2fd7da68b061a21d" sha256="757db652cd481aefffa7654f4e27ae0775b900ef46f2200c039fdb1c72ac9d88"/>
+	</game>
+	<game name="Drawing Pad (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Zh,Ko,Pl,Ru) (v1.2.90) (v90)" id="0174">
+		<description>Drawing Pad (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Zh,Ko,Pl,Ru) (v1.2.90) (v90)</description>
+		<rom name="org.pogi.DrawingPad-90.apk" size="45432402" crc="4bd35371" md5="e95d319e6bd288c0a384664034d0d45e" sha1="4dd3887a04cbcf142251987e75798d9e398dd386" sha256="409241687816f5aa97ce82a7dcb56ad11589c6ae8339f517dca27906789063a2"/>
+	</game>
+	<game name="Duke Nukem 3D (World) (v1.0.7) (v7)" id="0031">
+		<description>Duke Nukem 3D (World) (v1.0.7) (v7)</description>
+		<rom name="com.machineworksnorthwest.duke3d-7.apk" size="28347398" crc="e85bc14f" md5="115a254895e90d073ac0f2bba919aa6c" sha1="ab67a063d27f1abfc233399f447234c9813af041" sha256="650cff914e48aea31f731acd86360c4a6367d6ec48929257b5651054d98289b7"/>
+	</game>
+	<game name="Dummy Defense (World) (v1.4.1) (v6)" id="0032">
+		<description>Dummy Defense (World) (v1.4.1) (v6)</description>
+		<rom name="com.andrewgarrison.dummydefense-6.apk" size="25075786" crc="4f209f85" md5="642b2a360734acba79aaa6ff1a8a3e96" sha1="dbd8fefe3efaf89790bfa30c84dc834dffb36d7d" sha256="9c825e3cf572a040786073fb0b22c784faa75623609f47ffe0d08be70b51eb7e"/>
+	</game>
+	<game name="Earn to Die (World) (v1.0.26) (v1000026)" id="0175">
+		<description>Earn to Die (World) (v1.0.26) (v1000026)</description>
+		<rom name="com.notdoppler.earntodieofficial-1000026.apk" size="52088646" crc="7b93a5b6" md5="8ca70eec87a7c8a2fe848e0927d246df" sha1="b4986ace00fad1671a52875f66c28ee30cbb4c33" sha256="f7af4ad28b87879c6c5ed34ffc166d39384a1c8d8aa6369631ca2f0b2ea87a22"/>
+	</game>
+	<game name="Easy Voice Recorder Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.5.1) (v11069)" id="0036">
+		<description>Easy Voice Recorder Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.5.1) (v11069)</description>
+		<rom name="com.digipom.easyvoicerecorder.pro-11069.apk" size="5517567" crc="7dbf9e93" md5="20ac4cdd8637cccf84125d1b28d3965b" sha1="2e4ec36b2118f66544622a7732536111a1377ad5" sha256="20aa5ced3784ca5a0e59b796875b8caa2e47bf261d3fb750ee3905504579349b"/>
+	</game>
+	<game name="EasyMoney (World) (v1.6.6) (v101)" id="0034">
+		<description>EasyMoney (World) (v1.6.6) (v101)</description>
+		<rom name="com.handyapps.easymoney10-101.apk" size="2174553" crc="0425a071" md5="10ed9edce89a3e6109abb003df9fb098" sha1="2eb107b539087c9bb54a69ed6b382cc12c5294a9" sha256="13b2cdc884bcec479afbfe470af55a3488319f1b968a7082575eb21a707fb46c"/>
+	</game>
+	<game name="EasyTether Pro (World) (Ru) (v1.1.19) (v40)" id="0035">
+		<description>EasyTether Pro (World) (Ru) (v1.1.19) (v40)</description>
+		<rom name="com.mstream.easytether_polyclef-40.apk" size="239230" crc="e7bb0f00" md5="9faf8ef44f2280301f4ee81bcb64bbe1" sha1="1f8d876ceb93695f4e28a01e76da27d29edc39d3" sha256="3399a9f651a2f8ef3012bd25e6ae9e3a8fe7987118b411e1e75b998631704bd1"/>
+	</game>
+	<game name="Edge Extended (World) (v1.92.4.1) (v1353111488)" id="0033">
+		<description>Edge Extended (World) (v1.92.4.1) (v1353111488)</description>
+		<rom name="net.mobigame.edge.extended-1353111488.apk" size="23810658" crc="20aee9c2" md5="9c8660347e2e9acbcb47f326c1e0264b" sha1="e396b3dda2cd801bd8357dd98e924e8c899031cb" sha256="2173117574d87e960870c110769d0c2c23c29f657d93c40f47f4ffac7732dff0"/>
+	</game>
+	<game name="Eve of the Genesis (World) (Ja) (v2.0.8) (v19)" id="0280">
+		<description>Eve of the Genesis (World) (Ja) (v2.0.8) (v19)</description>
+		<rom name="kemco.wws.eog.hd.amazon-19.apk" size="11723497" crc="eaa7db50" md5="947aae411ccf15b92a595b553fe51508" sha1="4e1a27252108515961b2abcef8a7e3d196564b14" sha256="a60e3d0df8edb1575b5b869c8c4ffbee459f317aa054524a9a5912c763bf34b7"/>
+	</game>
+	<game name="Excel - Contacts (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v2.6.6.2)" id="0037">
+		<description>Excel - Contacts (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v2.6.6.2)</description>
+		<rom name="com.samapp.excelcontacts.excelcontactsfullamazon-1.apk" size="2291495" crc="a83f91e6" md5="2d36dc1fd57baa55530e908dfe13afae" sha1="84e2954d68996b9c52a813e8391453d4fa078c58" sha256="cdeadcadbf27eb9ce4145ce0a8b51fde8c7eec0ddcf917e80fb68467769e1e08"/>
+	</game>
+	<game name="Expense Manager Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.0.1) (v16)" id="0276">
+		<description>Expense Manager Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.0.1) (v16)</description>
+		<rom name="in.appbulous.ExpenseManager-16.apk" size="5762222" crc="f0a5a11d" md5="bb40bff66f01d14cc879a71c94ee5eed" sha1="23b57ae08da56bd37fdc50f92e537d44dbc1cc0d" sha256="69247d0fc32872426c46d16e47629e1ec480f0a54e0cc6db994caa047d60b129"/>
+	</game>
+	<game name="Falldown 3D (World) (Ja,Fr,Es,Zh) (v2.0.0) (v3)" id="0282">
+		<description>Falldown 3D (World) (Ja,Fr,Es,Zh) (v2.0.0) (v3)</description>
+		<rom name="com.applidium.falldownkindle-3.apk" size="7700879" crc="cb7e65a6" md5="0a792689fb4807c7ed97a8cc6b7de0c7" sha1="9d887af8546fb88f527cdbc7a7e834994d862c4b" sha256="6cb8e260c7e344b90726e98ec862d424ff57d8ba8eca3db4d284ace7d2902516"/>
+	</game>
+	<game name="Fantastic 4 In A Row (World) (v1.3.9) (v9)" id="0281">
+		<description>Fantastic 4 In A Row (World) (v1.3.9) (v9)</description>
+		<rom name="com.ensenasoft.fourinarowhd-9.apk" size="30456257" crc="ae23ac50" md5="48b5353e2deee896cc768abfa106fa80" sha1="1152f249855d757c50aad8b891edb3be9ae7a8d5" sha256="33dee1a2a57bcc4413b900669e20cff26aced77f1b54f70fc4ad5e7be51f2d68"/>
+	</game>
+	<game name="Fantastic 4 In A Row 2 (World) (v1.1) (v2)" id="0283">
+		<description>Fantastic 4 In A Row 2 (World) (v1.1) (v2)</description>
+		<rom name="com.ensenasoft.fantasticfourinarow2-2.apk" size="20099163" crc="9dce45b0" md5="7419326eab9d8368232501b34318f577" sha1="fb05595f48f8ec1d89fa8bc01842f0556388c727" sha256="1be991efd8931331b4b563231bf888f5bdc4a28565b919763cb2142dfc058644"/>
+	</game>
+	<game name="Fast Food Nutrition (World) (v1.1.8) (v10)" id="0284">
+		<description>Fast Food Nutrition (World) (v1.1.8) (v10)</description>
+		<rom name="com.fastfood.nutrition-10.apk" size="9796813" crc="1dff663a" md5="077cb705aa92f0e150e67349b7d37b37" sha1="9dddd1c5b2b89be11d7f9dca37123df3a063755b" sha256="ab523c4216dd3a52e9431582ad637564b3597492b028c8c12bd86424b4f30b24"/>
+	</game>
+	<game name="Fighting Fantasy - Blood of the Zombies (World) (v1.0.3.3) (v1033)" id="0233">
+		<description>Fighting Fantasy - Blood of the Zombies (World) (v1.0.3.3) (v1033)</description>
+		<rom name="au.com.tinmangames.ff.botz.android-1033.apk" size="37161415" crc="45b568b8" md5="a85e3d09e78c0d9ea7715b8906ff623d" sha1="986f934647d719b4c96e0360ef52121f41d76f34" sha256="f59d7cb9578114d8fe7066313de72aefead6a87448ebbe4f648ef0ee0919caf3"/>
+	</game>
+	<game name="Final Fantasy V (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.2.2) (v12200)" id="0038">
+		<description>Final Fantasy V (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.2.2) (v12200)</description>
+		<rom name="com.square_enix.android_amazon.FFV_KIN-12200.apk" size="159344750" crc="826afdcf" md5="56d76f443f391cdb8d1eb5160ae85707" sha1="71e2df92ca013e17f53c5deddd71c4975658df18" sha256="aba193185b66dc3e609a35a22bae2a7312be3e21cce46e63d0af78b93dd24ea4"/>
+	</game>
+	<game name="Fishy Canal Escape (World)" id="0048">
+		<description>Fishy Canal Escape (World)</description>
+		<rom name="com.fishycanalescape-1.apk" size="6687155" crc="c93d94fb" md5="3c5bfe47db4c57b60fda2dc6f931bd2e" sha1="d8ded353c8a76e216af59ac434197542aca6d051" sha256="0b97f5adb804856c56b30c8201bc9aa0d64e1062e8992367814423e59df1da91"/>
+	</game>
+	<game name="Flash Math (World) (v1.0.5) (v1000005)" id="0285">
+		<description>Flash Math (World) (v1.0.5) (v1000005)</description>
+		<rom name="air.com.scriptMicro.flashMath-1000005.apk" size="13436956" crc="5fc2a63e" md5="5ac5b9e58ddbf6f17097e3d97edeac70" sha1="4891499805e26c42055bc4c9a07a7b15a194fefe" sha256="7fe360944d4cf92a7f8dcca98c0f4b87216f816a0abd2534532f167fc31477c5"/>
+	</game>
+	<game name="Flashcard Machine (World) (v1.6.3) (v22)" id="0039">
+		<description>Flashcard Machine (World) (v1.6.3) (v22)</description>
+		<rom name="com.flashcardmachine.app-22.apk" size="4598337" crc="ab93bc3d" md5="6bcaf9b66162d7eb2bb8f2e8dd1a5546" sha1="7bffc0626a6505e1d3a56ea630f706eb4c6ed56a" sha256="2b9a3b6d8795132a959caccfb663ff16d71512804118d3d7f22354568126354a"/>
+	</game>
+	<game name="Flasia HD (World) (v3.2) (v32)" id="0040">
+		<description>Flasia HD (World) (v3.2) (v32)</description>
+		<rom name="com.sunglab.fluidart-32.apk" size="19188831" crc="f3284ef3" md5="18a4a03350d801cd33db2efdff394897" sha1="9809f59708c30c1c91d00e3ba86a692f89898f6c" sha256="696fbeb57ef47e386282d5821a2a4344d002af063cca8bc6b96f948de93f6c71"/>
+	</game>
+	<game name="Flavorful Cake Recipes (World)" id="0041">
+		<description>Flavorful Cake Recipes (World)</description>
+		<rom name="com.flavorfulapps.cakerecipes-1.apk" size="2159657" crc="b78adf7d" md5="79da880ff4b4646b1adef24a8033ae76" sha1="1eb1f28223117076c4df0f5f2034e25603c903fb" sha256="0a5d6aa6d91b0f5cd4a9247d680b8492b6185eb1713b77ab11a3707dae831c77"/>
+	</game>
+	<game name="Fleksy (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.0.1) (v214)" id="0042">
+		<description>Fleksy (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.0.1) (v214)</description>
+		<rom name="com.syntellia.fleksy.amazon.keyboard-214.apk" size="13740924" crc="406e481c" md5="4b5499ffc47042ac7b9bf0f5ccb5f869" sha1="0fbe63368966af33a84892ee52e6ac56d61417fb" sha256="ed8d93bc380b4195e166bf954e06c58fe404a0e3715dd0758aa4bde446b1bcab"/>
+	</game>
+	<game name="Flick Golf! (World) (v1.3) (v9)" id="0286">
+		<description>Flick Golf! (World) (v1.3) (v9)</description>
+		<rom name="com.fullfat.android.flickgolf-9.apk" size="24618895" crc="8b3ea8b5" md5="74814322a2fdf7289cfa2c0e8f2949b2" sha1="c667119b7d2d60c6a70f5e871f945d2eb737a06e" sha256="1e2c5630d1dd8fd95b00e8dbf61aa8de45b2a76624438ed8fe2414d013c19d95"/>
+	</game>
+	<game name="Flick Soccer (World) (v1.0.4) (v5)" id="0287">
+		<description>Flick Soccer (World) (v1.0.4) (v5)</description>
+		<rom name="com.fullfat.android.flicksoccer-5.apk" size="18117804" crc="f2abd583" md5="26c4802b137cece8e5c4bc4253cba85c" sha1="d75203baaf2edbaa4261d20617f02f1813f33ab8" sha256="058a29648d1bc3da7d607dd0d28982c6e6af142473dc83d17398b672001c2ee6"/>
+	</game>
+	<game name="Flip Boarder (World) (v1.4.1) (v11)" id="0288">
+		<description>Flip Boarder (World) (v1.4.1) (v11)</description>
+		<rom name="com.umbrellasoftware.flipboarder-11.apk" size="12623774" crc="c547034d" md5="ed891b212dbe56a447b82755e343ee9b" sha1="e2dbf23c6080b280df6b1fba63203324eed2f42e" sha256="52f28ee795ff1516ad7041de76e6f35a95f2a12399e1ae6a58da2db0574a5232"/>
+	</game>
+	<game name="FlipPix Jigsaw - Notes (World) (Es) (v1.10) (v110)" id="0193">
+		<description>FlipPix Jigsaw - Notes (World) (Es) (v1.10) (v110)</description>
+		<rom name="com.gabysoft.flippixnotes-110.apk" size="20295606" crc="be2f243c" md5="a1a0fb1b7a8c7dc65b4880345e3a1ccd" sha1="3c832238674d70f3a1baf2d8c73ee02683dd6cc0" sha256="0fe4ce76169e2dc24160f118b5464bfbd61b06c913d114bbe69cb2c09d8d4be7"/>
+	</game>
+	<game name="Food Subs (World)" id="0043">
+		<description>Food Subs (World)</description>
+		<rom name="com.hedgesappdev.foodsubs.ui-1.apk" size="329475" crc="e2bb2980" md5="afebc451b5ec8c081c55176a4fa4916a" sha1="4d9780ba879f365f346607759be005f894e1828c" sha256="3830f6c1267c8cc4f85d4a64b48499203f54dbd8107a742136542844205a157d"/>
+	</game>
+	<game name="Football League 2025 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v0.1.39) (v139)" id="0176">
+		<description>Football League 2025 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v0.1.39) (v139)</description>
+		<rom name="com.football.soccer.league.amazon-139.apk" size="240744938" crc="0ef51dc8" md5="5067a7ddaa9de1021a754e0a05fd6132" sha1="98f0e0a7abd9ba7c7e073db83c65f3c8acb92486" sha256="e43ca5e91aec83ee4713521bb4a846ee44bba80a4b133b01931e767d7c8db800"/>
+	</game>
+	<game name="Formula Wizard (World) (v2.1.1) (v9)" id="0044">
+		<description>Formula Wizard (World) (v2.1.1) (v9)</description>
+		<rom name="com.ndroidstudios.android.formulawizard-9.apk" size="3651763" crc="b3d5e292" md5="606f9a441454ebf62daca010045324ba" sha1="6d5433bbb3373554f9e52d7636ba2bea5128f1ca" sha256="d024ddcc97b2bfa1b8d0f3d457d803657a40aa6753db55910d838c5598a27b05"/>
+	</game>
+	<game name="Four Little Knights (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.3) (v6)" id="0045">
+		<description>Four Little Knights (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.3) (v6)</description>
+		<rom name="com.afksoft.FourLittleKnights-6.apk" size="17792184" crc="2cac7b9a" md5="41162fcfa80a8376df035a0da19d1856" sha1="3f7585ba0a9b30b85fd16a6fdbccef00bf391646" sha256="4fa7dc7a3392a30b72e1e6dda5e32452053f6829d218be0d59e00b7bcd08f635"/>
+	</game>
+	<game name="Fraction Calculator Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.9.2) (v3920)" id="0046">
+		<description>Fraction Calculator Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.9.2) (v3920)</description>
+		<rom name="com.digitalchemy.calculator.fraction-3920.apk" size="9005405" crc="6f9fa5b1" md5="21fc145a620f206d485f485dc9f607f2" sha1="b5cfe9aab9d636ed0fbd9232d59d293bf41a8e91" sha256="580f790b39eea307d89063b5b7a45d1403a92a73419a1d78d023b82cabbbef8e"/>
+	</game>
+	<game name="Fruit Ninja Puss in Boots (World) (v1000)" id="0047">
+		<description>Fruit Ninja Puss in Boots (World) (v1000)</description>
+		<rom name="com.halfbrick.fruitninjapib-1000.apk" size="22411672" crc="5a4bf342" md5="b7c843aa449d62ca060810c5145b554f" sha1="ec990205874c86a6b5f1145062af2dd677198dc1" sha256="9abadb1be8770cb10cf041a59bd6adb5bf8e4f20aa039e4e158dd51782f6d67a"/>
+	</game>
+	<game name="Galazer Deluxe (World) (Fr,De,Es,It,Pt) (v1.2.5) (v13)" id="0178">
+		<description>Galazer Deluxe (World) (Fr,De,Es,It,Pt) (v1.2.5) (v13)</description>
+		<rom name="com.joycogames.galazerdeluxe-13.apk" size="6060710" crc="e213bd3e" md5="c92ceba89dff7a9749c5c994d2ff7afd" sha1="97ee11899c68cdf6e8e0685f92c52c5d00f711be" sha256="1da897ecc3647fbaa7a33b8b9e6e7473643c28066acc08f3b4beae38ea4082bb"/>
+	</game>
+	<game name="Game of Thrones Season 1 (World) (Fr,De,Es,It) (v1.46) (v14610)" id="0293">
+		<description>Game of Thrones Season 1 (World) (Fr,De,Es,It) (v1.46) (v14610)</description>
+		<rom name="com.telltalegames.gameofthrones100-14610.apk" size="1002840629" crc="2d409577" md5="5fbbea7d69df7a297328a52d4c48a8b3" sha1="06e56c8cbc1b4f282bd3f39842afd32158b3aed9" sha256="0b9ee8625ac78cde9305f67aa0871d2504a9f68b4d1ecabcd36d956faa67b4e4"/>
+	</game>
+	<game name="Game of Words (World) (v1.8) (v9)" id="0179">
+		<description>Game of Words (World) (v1.8) (v9)</description>
+		<rom name="com.trivialabs.games.gameofwords-9.apk" size="2451035" crc="9f0e8e8f" md5="a3c381e9db36763bf4508b7da975d2c2" sha1="f09dea81b2e73eaef2193550ec47b005f1b79a8a" sha256="097be4341067b2e5c462a56ff5a4ebe002fd2f0f650f9ce51b9d49538aa8c6db"/>
+	</game>
+	<game name="Gangstar 4 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.3.2) (v23222)" id="0050">
+		<description>Gangstar 4 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.3.2) (v23222)</description>
+		<rom name="com.gameloft.android.AMAZ.GloftGGAS-23222.apk" size="35722356" crc="1ce73282" md5="da99ec999bd86bb9a26c2cd61859f4d4" sha1="191efde6652d4e69e0e74f9ab7ed219f64a1e792" sha256="3915db3d6ffc970e2fd339d5cf5c5531d49b63bc6e162f257c5406b62b7b2cda"/>
+	</game>
+	<game name="Garfields Escape (World) (v1.0.5) (v105)" id="0051">
+		<description>Garfields Escape (World) (v1.0.5) (v105)</description>
+		<rom name="com.webprancer.amazon.garfieldescape-105.apk" size="40841167" crc="e7cfb46d" md5="869f93333883ff355c4cf60491722208" sha1="1d7e6d49d812f20c29385f4f4d6e10d29cc84e39" sha256="8750834b8a0b1c75be8d6d992e873551108f9f63202ad1ad42bc5e891fa2ff2f"/>
+	</game>
+	<game name="Gelato Mania (World)" id="0052">
+		<description>Gelato Mania (World)</description>
+		<rom name="com.vanillabreeze.gelatomania.samsung.paid-1.apk" size="17909823" crc="62c73c8b" md5="5de4636567c0241ef365a5573d75b181" sha1="3b10db4e307474a73d0a23126c2387a2b9feed5f" sha256="5e0bafaac48b53489a09df9261f83b2d7ee3145c1f738dbd1083a017e6151692"/>
+	</game>
+	<game name="Gem Spinner II (World) (v1.5.10) (v1005010)" id="0053">
+		<description>Gem Spinner II (World) (v1.5.10) (v1005010)</description>
+		<rom name="com.mycompany.gemspinner2paid-1005010.apk" size="18141521" crc="3e354746" md5="9f0646d9a63dbebd12852000cd93c8b2" sha1="d657652988278f4df35e2957ff74a7905f39a5f9" sha256="04547dbed57a6d9b397c838b030ba557eaa06cd9e31ee6b016a57461b2b1e2fe"/>
+	</game>
+	<game name="Gemistry (World) (v1.5.0) (v1203)" id="0054">
+		<description>Gemistry (World) (v1.5.0) (v1203)</description>
+		<rom name="com.TheHohngCompany.Gemistry-1203.apk" size="34865232" crc="16293323" md5="a5f0f6dd242a41a5fa73d4b9757c3d37" sha1="f6928a6c6417c9bbabaeacb27e340af0e6a6c9b7" sha256="b822b418d16bbf76f4b3e2aed7668d3dc3693ff792f371e5d59d2ac39d1e0f1d"/>
+	</game>
+	<game name="Genius Scan+ (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.1.1) (v1038)" id="0180">
+		<description>Genius Scan+ (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.1.1) (v1038)</description>
+		<rom name="com.thegrizzlylabs.geniusscan-1038.apk" size="14989530" crc="9d18f1e4" md5="899c9b6d8442e268823f8a7545aabb89" sha1="1397d997544b8d37ace6c80be32771f83c7cc121" sha256="9028a8c2abd61f6a84f1131dae0711bf443273005a2c18f51b043ecd61088e45"/>
+	</game>
+	<game name="Get Ready to Escape (World) (v1.0.1) (v1000001)" id="0289">
+		<description>Get Ready to Escape (World) (v1.0.1) (v1000001)</description>
+		<rom name="air.com.mobestmedia.getreadytoescape-1000001.apk" size="36388217" crc="474a94a7" md5="b37c82f40e83b6b3391fb6956bb3dd38" sha1="d14f43ecd0e70e1427139e73de5af26d7a540f2e" sha256="0d994a3d9aa3ab7eec492c7afb3800d32469e4879be532d84b65a94337a36b6e"/>
+	</game>
+	<game name="Ghost Radar - Connect (World) (v4.5.13) (v36)" id="0290">
+		<description>Ghost Radar - Connect (World) (v4.5.13) (v36)</description>
+		<rom name="com.spudpickles.gr.connect-36.apk" size="18073860" crc="d48d8946" md5="46a0282a5a70b0b698643dd22748b912" sha1="e449534f80661911f60ed4d3f5c46e903c24372d" sha256="c1489a498891e04e31f2abdfaf04018dc25a1f6f4a45354a8add0d5ab0b7f858"/>
+	</game>
+	<game name="Giraffes Preschool Playground (World) (v1.996.3) (v1400720962)" id="0291">
+		<description>Giraffes Preschool Playground (World) (v1.996.3) (v1400720962)</description>
+		<rom name="com.tomatointeractive.gpp-1400720962.apk" size="33924285" crc="12ab7c45" md5="bdafced37bd49911527a44889c12ecaa" sha1="235a05dd8cd73f9be85e38651499c6f27c089237" sha256="b9dc5b4248535fa3e1555fe36c7b18aff582f94838f38f0d0fc2797f4e765eef"/>
+	</game>
+	<game name="Give My Ball Back (World) (v1.0.1) (v3)" id="0055">
+		<description>Give My Ball Back (World) (v1.0.1) (v3)</description>
+		<rom name="com.nravo.myball-3.apk" size="35454041" crc="d8ca9eb7" md5="27fcc4e926de2d14acbd063ed6696a19" sha1="a17a28a721966566ebef646950750b7f7f60d7a4" sha256="ba21721c26ebdc4650e008b508e0b7aa6c271310638db696de0aebc6558ca64b"/>
+	</game>
+	<game name="Glow Hockey 2 Pro (World)" id="0292">
+		<description>Glow Hockey 2 Pro (World)</description>
+		<rom name="com.natenai.glowhockey2proamazon-1.apk" size="17678970" crc="a6ed7f3c" md5="95a0c1ed10db52030e41a0a0cb9302ed" sha1="837f5f20745f82bcc3ac9f04de3234b73a20de51" sha256="187abe08ea60b37ed2d2a1e565bc3253d4df380fc0bec4b7555b305d713b96b6"/>
+	</game>
+	<game name="Going Nuts (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.12) (v23)" id="0056">
+		<description>Going Nuts (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.12) (v23)</description>
+		<rom name="net.endgames.goingnuts.am-23.apk" size="30293021" crc="e325555e" md5="5039b9e3d69aec81ab87df25307f7076" sha1="c3cd85cde6bafe43a897650783cb2f2f81f495ad" sha256="e0b60cd7290a5f4c5047b1711447e9388bcd407317af067f2439f5f0a226c123"/>
+	</game>
+	<game name="Gold Miner Classic (World) (v1.53) (v8)" id="0057">
+		<description>Gold Miner Classic (World) (v1.53) (v8)</description>
+		<rom name="com.hotjoy-8.apk" size="12093777" crc="c991f2f9" md5="5d41e3a7e614dec2e601c9c3b4f9f4a4" sha1="727ea6a2991b70729a1e3359b5cd51941aa9411c" sha256="d0731e3d07ee7430a1f6da18f15e6dc8cffe0df1ae8ccb3fcd71b7824d39b54f"/>
+	</game>
+	<game name="GP Retro (World) (v4.7) (v10)" id="0049">
+		<description>GP Retro (World) (v4.7) (v10)</description>
+		<rom name="com.smallthinggame.amazon.gpretro-10.apk" size="21525234" crc="aebd34e8" md5="5d40eaafc7d6f6cc8b2cfaa6717a0145" sha1="793e857432b2340d928a8f6112dba76e27fa1fe2" sha256="cf01e153b3d033244bc48cdcf98adc56cdf499f97173250ba016cc6313edda29"/>
+	</game>
+	<game name="Granny Smith (World) (v1.2.0) (v10200)" id="0058">
+		<description>Granny Smith (World) (v1.2.0) (v10200)</description>
+		<rom name="com.mediocre.grannysmith.amazon-10200.apk" size="20694634" crc="12ce34e6" md5="8afe9f750f8382d3871ad571a87eba3f" sha1="d26bf5439b8700f99ca421e0213e8a2daab5944a" sha256="1c323953e1360bd446f1b73d84448ec3f28fa83af218aabbcb77c96f85b09de2"/>
+	</game>
+	<game name="Graphing Calculator by Mathlab - PRO (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.15.160) (v160)" id="0059">
+		<description>Graphing Calculator by Mathlab - PRO (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.15.160) (v160)</description>
+		<rom name="us.mathlab.android-160.apk" size="8427292" crc="476566c2" md5="5fcce832035a37bcf71c4d92826f242a" sha1="53f902d63b19ec66561fca4e13dea038157da1ba" sha256="f82c1ed8181fa39aa5e0db49a12586dbd6b787f437b10e7948885840edaadf1f"/>
+	</game>
+	<game name="Gravity Guy (World) (v1.1.1) (v4)" id="0060">
+		<description>Gravity Guy (World) (v1.1.1) (v4)</description>
+		<rom name="com.miniclip.gravityguyamazon-4.apk" size="18227692" crc="dc4e617f" md5="a4c085a681c44636a059a5b34556aff4" sha1="e5141ca2928890338a0c6f2e476495165bb800e9" sha256="fa106d1c1b55c532dd1849081a683cf6e9e5b7f2f9d87409f4803c43a4c870a2"/>
+	</game>
+	<game name="Great Reads (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Zh,Ko,Pl,Ru) (v1.9.8) (v1009008)" id="0061">
+		<description>Great Reads (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Zh,Ko,Pl,Ru) (v1.9.8) (v1009008)</description>
+		<rom name="air.com.secretbuilders.gamebook.oupPaid-1009008.apk" size="60652314" crc="9b002f91" md5="dedb3efc97678af8dbad5eb38c61306a" sha1="e0c429530d1ec0f73a3ad5a1331fb48581ead4c2" sha256="3edbd873459719c7fd2691452ee7ceb644f1983832c6f5bf1b2ce0ce010792a5"/>
+	</game>
+	<game name="Greedy Spiders (World) (v2.4) (v903240)" id="0062">
+		<description>Greedy Spiders (World) (v2.4) (v903240)</description>
+		<rom name="com.blyts.greedyspiders-903240.apk" size="21306571" crc="a8c8aaf8" md5="f978a8c4fe1fd359dbc3f83cef2438c7" sha1="38f5b45285f66f00454f43edc6a13f138006c166" sha256="65f62082eeca207a51fe61fcfe22f1230494144b03ded6e615a538ca2bb62336"/>
+	</game>
+	<game name="Greedy Spiders 2 (World) (Fr,De,Es,It,Pt) (v1.4.1) (v9141)" id="0063">
+		<description>Greedy Spiders 2 (World) (Fr,De,Es,It,Pt) (v1.4.1) (v9141)</description>
+		<rom name="com.blyts.greedyspiders2-9141.apk" size="21978353" crc="0236f081" md5="4679658c9f3c71ea95338151793555eb" sha1="6a449c551f8ac4593ecdde3bcbae92bd1868a1ce" sha256="d2a89b4c139c6783c9ccbf6bf080c18de5d623f9d931dd69f481f57a666fd1ec"/>
+	</game>
+	<game name="Green Valley Defence (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1093) (v1093)" id="0064">
+		<description>Green Valley Defence (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1093) (v1093)</description>
+		<rom name="rugovit.igrica-1093.apk" size="41768609" crc="8bba29e1" md5="c890aeff01462439e4bbff5d14f5d012" sha1="104164144f81b5d5aebb3931ee7eeff437c19437" sha256="f2d09f4e79e9d4d9e52ac0e5597325f4fe7d19ba5b0606121d3b6243daf32729"/>
+	</game>
+	<game name="Grill-It! (World) (v1.5) (v7)" id="0065">
+		<description>Grill-It! (World) (v1.5) (v7)</description>
+		<rom name="com.grillingcompanion.grillit-7.apk" size="2772121" crc="9fd074ff" md5="2e575c1235b2227675c53b0de7b748c0" sha1="24679066429e5540760b909c916e8d45400f6f66" sha256="f553b34816a1a112f8a8d5d16b7082a3764016f29ee6c47e8907b598e482e2e2"/>
+	</game>
+	<game name="Grim Joggers (World) (v1.2.7) (v127)" id="0066">
+		<description>Grim Joggers (World) (v1.2.7) (v127)</description>
+		<rom name="com.the10tons.grimjoggers.amazon-127.apk" size="19277151" crc="7311f9b6" md5="23cab1dec4d6b21f31ff7945530049f8" sha1="f7dd65cb149f6eb544e55042ecf754ce8d2dfac8" sha256="10445edbdb34545a1a25d45cd280902a145e82829cf565947cae48569db2a7a6"/>
+	</game>
+	<game name="Guess The Movie-Full (World) (v2.89) (v31)" id="0067">
+		<description>Guess The Movie-Full (World) (v2.89) (v31)</description>
+		<rom name="com.june.guessthemovie.paid-31.apk" size="31712347" crc="6f137a76" md5="71eaf235dab87dec34d91bcf4a823785" sha1="b91da1d7e883e788c6ad4fe7697c2f8d54490a0c" sha256="6c3fc7ceed9cb56193f43a1f382a06af4e5af3dd3bb771760519db997869147c"/>
+	</game>
+	<game name="Guitar Pro (World) (Ja,Fr,De,Es,Pt,Zh,Ko,Ru) (v1.5.8) (v21)" id="0294">
+		<description>Guitar Pro (World) (Ja,Fr,De,Es,Pt,Zh,Ko,Ru) (v1.5.8) (v21)</description>
+		<rom name="com.arobasmusic.guitarpro-21.apk" size="14852434" crc="77a5f95b" md5="a320c73bfd470c09b453bdd665dbdc2a" sha1="4df492cb807b7967b4be07a624450f4cb4098075" sha256="d2b86e1e064c8cd15a7283568ac121378b8142b796a8b0ff4b28d77f39024704"/>
+	</game>
+	<game name="Guitar Riff Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (vSmoother Experience) (v227)" id="0295">
+		<description>Guitar Riff Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (vSmoother Experience) (v227)</description>
+		<rom name="com.veitch.learntomaster.grp-227.apk" size="10753271" crc="9368fd2a" md5="3554d5bc0e6d802a42986eab4132b7c6" sha1="1419f8378bd5eff46be24e4f26575c3692af5422" sha256="1b252045c175a364821cc9f1216653c45521e7849c8969fa286ebfe95b7bb4fa"/>
+	</game>
+	<game name="Gumdrop Bridge (World) (v1.0.5) (v6) (Ad-Free)" id="0068">
+		<description>Gumdrop Bridge (World) (v1.0.5) (v6) (Ad-Free)</description>
+		<rom name="com.fridgecat.android.gumdropbridge.full-6.apk" size="4419174" crc="d73e4a44" md5="97a1a62e522f896518e1b81c99937a32" sha1="77305e1c3acc7a81d2b9c14dab76637a1f5c7e6b" sha256="16d29138700ce70c4336fa06791464687f9de4b56842d246b20b1dd48d52cec6"/>
+	</game>
+	<game name="Hack, Slash, Loot (World) (v1.4) (v5)" id="0298">
+		<description>Hack, Slash, Loot (World) (v1.4) (v5)</description>
+		<rom name="com.DavidWilliamson.HackSlashLoot-5.apk" size="22653739" crc="b5185f55" md5="15c5c098aeb8daf70ec6c70980e97c4d" sha1="3f585bd9dc754d7f4b93d01ac7e436492eaeb965" sha256="dd810d7522b60267b2fb9ddfa0e5c3a25d260561e18ff5a88e52a8824f861596"/>
+	</game>
+	<game name="Halloweenistry (World) (v2.0.2) (v1203)" id="0299">
+		<description>Halloweenistry (World) (v2.0.2) (v1203)</description>
+		<rom name="com.TheHohngCompany.Halloweenistry-1203.apk" size="22519901" crc="cc239e32" md5="8a98e852adaa9e29a7bfc77ea7c6aaf2" sha1="a2b9caf656956ee0a1d33d2d9cea68685976f804" sha256="d46074c89c704f53f73dd3e3db8a89db68dc4f276f35b8505f0c2f7a98cbeefb"/>
+	</game>
+	<game name="Hidden Objects Ireland Quest (World) (v1.1) (v2)" id="0297">
+		<description>Hidden Objects Ireland Quest (World) (v1.1) (v2)</description>
+		<rom name="com.detentiongames.hiddenobjectsirelandadventure-2.apk" size="55162902" crc="3a1e84e4" md5="cb7cf7d858238b0a3c4ecfc0eee96ea4" sha1="9f517760b435e851d489ad73685d239e9ad70660" sha256="f06f3020c334fb9c7127a736d393772229e430a7334ac93650caefce673435df"/>
+	</game>
+	<game name="Highrise Heroes (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.02) (v3)" id="0069">
+		<description>Highrise Heroes (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.02) (v3)</description>
+		<rom name="com.noodlecake.highriseheroes-3.apk" size="37922072" crc="c7d6dd4c" md5="3b918bccafac3a75b12c923869c2b6f2" sha1="50a33f1b1944fa4bc7cfc149850da98341b3e9e3" sha256="1af9c4689a1497193a621a1f9feb71bf6e6889d4a63cb15156089fef3da09aa4"/>
+	</game>
+	<game name="Higurashi When They Cry Onikakushi (World) (v1.1) (v2)" id="0296">
+		<description>Higurashi When They Cry Onikakushi (World) (v1.1) (v2)</description>
+		<rom name="com.seams.whentheycry.kp1-2.apk" size="1703664" crc="7ee04ee0" md5="b2e50d32274cfd684cf18798b9c87cf2" sha1="43c560fee85decb4c8f6c26fdedd8b562dfd8928" sha256="59abd1a452f5bc0d2d10cea3fa9e9e022780ca469b43c60ba936c5d8816da244"/>
+	</game>
+	<game name="Hollywood Escape (World) (v8)" id="0300">
+		<description>Hollywood Escape (World) (v8)</description>
+		<rom name="com.mobigrow.hollywoodescape-8.apk" size="58368137" crc="309eaaef" md5="89225c9c78fa46dd8b4441ac7f00c24c" sha1="bdd4f1e3944dacc5373c64a54f8c0b5cba37e6de" sha256="a9742c3fadd983598da33a13799b293cad5c45ea195af5dee70d9fa4558a61c1"/>
+	</game>
+	<game name="Home Budget Manager (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.3.0) (v13)" id="0301">
+		<description>Home Budget Manager (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.3.0) (v13)</description>
+		<rom name="com.siri.budget-13.apk" size="6991264" crc="3c064766" md5="a7290b50412eb18be2dcf8c9a70d8701" sha1="bb03420358277277a2c8b95795b0557d813289b4" sha256="efd3f3bb1961d2a1cbcecf0654433ced8b29d211fa4f3bde840531b1d27fc81c"/>
+	</game>
+	<game name="Homescapes (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v8.0.5) (v10008005)" id="0181">
+		<description>Homescapes (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v8.0.5) (v10008005)</description>
+		<rom name="com.playrix.homescapes.amazon-10008005.apk" size="214156879" crc="e3b561f4" md5="2ad857c89eee11387aef50202b260971" sha1="b32921d2abcf273b3b50ce8d37584b0977e8a9d0" sha256="f4caf1c0af807956cff9963f3b51da1c545456f1673ae25d43669dbc9fd49d25"/>
+	</game>
+	<game name="HueBrix (World) (v1.4) (v17)" id="0302">
+		<description>HueBrix (World) (v1.4) (v17)</description>
+		<rom name="com.noodlecake.huebrix-17.apk" size="28456390" crc="aaf7294d" md5="9e0b31ca0efc8f41dfa988946545b0ff" sha1="7568f3ef31ea010109fbc5f96429b2278422109a" sha256="13d740e2079bed5bf350ccc1bee5c43b473ae4d1d16aa12a5b267cdbb6b7cfd1"/>
+	</game>
+	<game name="Ice Rage - Hockey (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.16) (v10016)" id="0070">
+		<description>Ice Rage - Hockey (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.16) (v10016)</description>
+		<rom name="com.herocraft.game.icerage-10016.apk" size="29142336" crc="4f4139c6" md5="ed0743aeb819536c0b8780e65f2392d3" sha1="73fcdbb87d260f924ebb20df45b5215b76ae21c4" sha256="38cde3070f7e8d17bad720baeb46adb75016bd2e397ad4ae5fb53e849e372114"/>
+	</game>
+	<game name="Icebreaker (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.23) (v3)" id="0303">
+		<description>Icebreaker (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.23) (v3)</description>
+		<rom name="com.nitrome.icebreaker-3.apk" size="45798926" crc="d76d166f" md5="66c3361a8bd5b6dcaa212403f4433739" sha1="62e26d547e1f76bafe7ae9e36b652f11a806cc2b" sha256="798d08d8b44ddc363b6b44fbcf9618743f0e0d7a54dfcc7397942785246de818"/>
+	</game>
+	<game name="Ichi (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.24) (v28)" id="0304">
+		<description>Ichi (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.24) (v28)</description>
+		<rom name="com.stolencouchgames.ichi-28.apk" size="26224663" crc="befb0a52" md5="76b841a45b7fca657ebe49d33be89940" sha1="2eccdea92ff72bf96a6c71db670d79d6b568fa64" sha256="ebb57c127794f414766d2196891c5c63bcb6c24018d851ce48275106627d9a20"/>
+	</game>
+	<game name="Image Blender Fusion (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.0.0) (v30)" id="0177">
+		<description>Image Blender Fusion (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.0.0) (v30)</description>
+		<rom name="com.techbla.instafusionpaid-30.apk" size="5287831" crc="ea4e3239" md5="5ce46e702ef557b95bde93a9989db08c" sha1="9353a89ed937e37c037a5ca0eb8abef500a07ab8" sha256="48c095a8b81523c44bfeeae05578a8ec3a780a7a0726fd4f035265a5f782e8e7"/>
+	</game>
+	<game name="iMarble Pro (World) (v2.1) (v6)" id="0162">
+		<description>iMarble Pro (World) (v2.1) (v6)</description>
+		<rom name="com.panagola.amazon.game.imarble-6.apk" size="1457082" crc="70796e29" md5="b055fea1e0e9dc173a469ff2ad16d65c" sha1="c547b5d5130bdf0bae57d15af445f527c4cac560" sha256="db0c88ab5bcadea2693cc22126bec41e96230315bbabb091e8371aedb6c83fe8"/>
+	</game>
+	<game name="Inferno+ (World) (v1.03) (v4)" id="0071">
+		<description>Inferno+ (World) (v1.03) (v4)</description>
+		<rom name="com.radiangames.inferno-4.apk" size="43899657" crc="b65b4c77" md5="dceda55a3ddbaa48af2ef44c635f1adc" sha1="eae31de520f2340907b4f847a1a27eedc28145db" sha256="fc1647bd467a137f35ce1461c9e64689e1ce7d12bac58d749b1f463dd2defe10"/>
+	</game>
+	<game name="Informant (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.05.00) (v40500)" id="0072">
+		<description>Informant (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.05.00) (v40500)</description>
+		<rom name="net.webis.pi3-40500.apk" size="13477207" crc="2cc243da" md5="c8db36c3914bc82d731a07931c70a2ad" sha1="1cfbc04d70bc6dbc526381dcaadf74fbdf296858" sha256="9dddcb31dbb587bf1a00bbd0e5ad1fd35d290b466af44ac17930defb28474509"/>
+	</game>
+	<game name="Instapaper (World) (Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (v2.9.2) (v2902)" id="0073">
+		<description>Instapaper (World) (Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (v2.9.2) (v2902)</description>
+		<rom name="com.instapaper.android-2902.apk" size="6200422" crc="17f58275" md5="b7c2a8aa15d24923f790434e9871b2c3" sha1="3eded6b069d5fb7eeff4e5c37bd3db750f854b89" sha256="22ebcc76387912fba436ab0362b968467cd99f565b167c44518416ba64d2c81f"/>
+	</game>
+	<game name="Inverse Universe (World) (v15.0) (v15)" id="0305">
+		<description>Inverse Universe (World) (v15.0) (v15)</description>
+		<rom name="com.firerabbit.android.game.inverse.full-15.apk" size="50595445" crc="5d4a0134" md5="ecfd2e487df6736ad13b567d1fcfbed4" sha1="4d6c080f0eff54f81c32b9a66a6089acc42b0859" sha256="0102f2b21fcc132d6d5cdc68e8e381eb2268e2090a2da8fb4cdf51b5066cb4ca"/>
+	</game>
+	<game name="iReal Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2025.3-amazon) (v20250302)" id="0400">
+		<description>iReal Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2025.3-amazon) (v20250302)</description>
+		<rom name="com.massimobiolcati.irealb-20250302.apk" size="101254974" crc="82d2a85a" md5="105e0c8cbf4e78884f065f93030aeb18" sha1="00272450614873fa1ff9f153bc1ca82677f044d8" sha256="8c8a040a84d7eeeb26f12bb6f6c01470bd12ad3abe37570e1af29d2bab697497"/>
+	</game>
+	<game name="Iron Man 3 (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v1.5.0) (v15003)" id="0074">
+		<description>Iron Man 3 (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v1.5.0) (v15003)</description>
+		<rom name="com.gameloft.android.AMAZ.GloftIMAS-15003.apk" size="15291264" crc="22646945" md5="d188cf29b1be6043ebe9ef3f8021463c" sha1="3b819c6bf77a81a635111e4520a9fc2829bd0fb0" sha256="01a6ab5ef5576d4039f4b0e79c3685a85100104c797b693a8a80e2bd811fa9ca"/>
+	</game>
+	<game name="It's Done! (World) (v2.0.0) (v5)" id="0307">
+		<description>It's Done! (World) (v2.0.0) (v5)</description>
+		<rom name="com.ajlesterassoc.itsdone-5.apk" size="3034933" crc="ce80ed7d" md5="bcd193cb4ac01661962d278809d45f6d" sha1="112b0809ccb2f278254e294fd052fcaacbe86ff8" sha256="9c1335e79f7c6da37fdb768bf575b228fa54e44cad5baf3a24fef89e481bc935"/>
+	</game>
+	<game name="Jack Lumber (World) (v1.5.5) (v55)" id="0308">
+		<description>Jack Lumber (World) (v1.5.5) (v55)</description>
+		<rom name="com.OwlchemyLabs.JackLumber.humble-55.apk" size="36603138" crc="b11faf20" md5="fb5e862fa77d311f4da252f294a2813f" sha1="a9bb202d561d380320d636ce6115f4eafe8cac63" sha256="6c35c32da393e45410c2c53d78ccacb509bdc606196da781ef6c1280bd3e1a81"/>
+	</game>
+	<game name="Joining Hands (World) (v1.1.3) (v113)" id="0309">
+		<description>Joining Hands (World) (v1.1.3) (v113)</description>
+		<rom name="com.mythpeople.joininghands.amazon-113.apk" size="20541294" crc="a1af9aa9" md5="2735b3072ef1dd0294bca38eafc100b6" sha1="5ae9f57658981fcfb9ae03864ee206da9d551e81" sha256="cadc697b806f66bb1fd6512a0b992ce4b83d566403f32a2cf84996c7fd4919e2"/>
+	</game>
+	<game name="Joining Hands 2 (World) (v1.0.15) (v1015)" id="0310">
+		<description>Joining Hands 2 (World) (v1.0.15) (v1015)</description>
+		<rom name="com.the10tons.joininghands2.amazon-1015.apk" size="30224147" crc="a3f30f13" md5="e052738f988c15c5395ebfed07f0dbfc" sha1="e8bc5f4ab22cb00508de0cdf8314ecf44bf4cca7" sha256="47e0934d418a98e023a102186897d5ae617b018b6f3abc4161811796ad869519"/>
+	</game>
+	<game name="Kakuro (World) (Ja,De,Ru) (v2.8.2) (v28)" id="0076">
+		<description>Kakuro (World) (Ja,De,Ru) (v2.8.2) (v28)</description>
+		<rom name="by.squareroot.kakuro-28.apk" size="11969452" crc="2831aaa6" md5="3f44ad7952c26af4bd5c03bb90431504" sha1="4479c084567b40fd8cca97a64d72cbd1068a1cb6" sha256="be8887ab93e2a547ba54f23e11152311a929235d739d8726845bc37aa5864648"/>
+	</game>
+	<game name="Kayak Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.2.1) (v955)" id="0075">
+		<description>Kayak Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.2.1) (v955)</description>
+		<rom name="com.kayak.android.paid-955.apk" size="15831615" crc="9844da3b" md5="5b010846a904544eef03944bb3832605" sha1="95639086545ff8eb5b5907f8643e10f7a5313246" sha256="6f64aa28f872018625848707657241ec427e3abacbf1ae50a60ee042dca9290d"/>
+	</game>
+	<game name="Keep Calm Generator (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.0.3) (v43)" id="0078">
+		<description>Keep Calm Generator (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.0.3) (v43)</description>
+		<rom name="com.enrasoft.keepcalm-43.apk" size="13190042" crc="d3e13a82" md5="cf4339daf5bacd8acf19bfdd484a73aa" sha1="0fcad029b6f9106ea025b4e5aba731af04bfed1f" sha256="3ef4a4355d6d61f1c9bfb01c37d8f37442c88c2787ea53dcad39f49ecbab7a16"/>
+	</game>
+	<game name="KeepTrack Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.7.1) (v112)" id="0077">
+		<description>KeepTrack Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.7.1) (v112)</description>
+		<rom name="com.zagalaga.keeptrackpro-112.apk" size="4895768" crc="8a6415c3" md5="bb61e984c1f6288f4838bbe708867971" sha1="a61edcecc7e6b459dc72da2ae4f21233e6f0962c" sha256="6bb7c32afcb48099e98ab7f18b6b0db8d5bdbce23dcd5e934bbf3a77e439be6e"/>
+	</game>
+	<game name="Kids Measurement Science (World) (v3.3) (v330)" id="0079">
+		<description>Kids Measurement Science (World) (v3.3) (v330)</description>
+		<rom name="com.infinut.firstgrade.measure-330.apk" size="5970119" crc="f5c6652a" md5="0b3e777e0e3c5c4ea7523239670ef45f" sha1="f3a1acaa73f2e4a3909d1452dcdf056cbe4ff0e6" sha256="4d68dcf85b6271307f80909d29dd0a889c0d6020d1ceccc71412eb577eedda0b"/>
+	</game>
+	<game name="Kids Paint (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.9.5) (v125)" id="0080">
+		<description>Kids Paint (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.9.5) (v125)</description>
+		<rom name="virtualgs.kdpaint-125.apk" size="1924908" crc="b14f1570" md5="5d84c446c37e188db8d79e8ff3645fb1" sha1="48c63d026aec3954435c7c81a6c075e8b1d36abf" sha256="761241f8b6c19bb089dc0c2afe5ce65e0a488338ffab30769154d3c80adf1ad3"/>
+	</game>
+	<game name="Kung Fu Panda Holiday (World) (v1.4) (v5)" id="0311">
+		<description>Kung Fu Panda Holiday (World) (v1.4) (v5)</description>
+		<rom name="de.zuuka.kungfupandaholiday-5.apk" size="19543974" crc="a2393ff7" md5="31500e5d051d87cce386c32f884d4116" sha1="d67a593da3d4d66246d529c7679d8ef986cc9730" sha256="b10f7743fc66127c3ba13e00e306b70ad6dec9b7fd70e2f688e24a085d8278be"/>
+	</game>
+	<game name="Lalaloopsy Diner (World) (v1.3.0) (v1003000)" id="0313">
+		<description>Lalaloopsy Diner (World) (v1.3.0) (v1003000)</description>
+		<rom name="air.com.cupcakedigital.mga.lalaloopsy.cooking-1003000.apk" size="28329732" crc="a1d75235" md5="148bde5f8d4fa2705c4481808fb01ea0" sha1="2dba52e446b717d61e299d735e762ddbf4174978" sha256="be0e4abc8a1d54c0236e48f71c2851a6b3d3625f26365d7c9380db3f0326dc81"/>
+	</game>
+	<game name="Lapse It Pro (World) (En,Fr,Es,It,Pt,Zh,Pl) (v4.70) (v470)" id="0314">
+		<description>Lapse It Pro (World) (En,Fr,Es,It,Pt,Zh,Pl) (v4.70) (v470)</description>
+		<rom name="com.ui.LapseItPro-470.apk" size="7224396" crc="ba50e075" md5="a32b9cfd7c6bbca674b1ceb7f74e89a0" sha1="f121191606e369b5df197d8b15e6eebbb35e2c3b" sha256="996b428f272a3ec3d7d0bf2db75c8fb49596ac8249475cf7a246ccc0b352f0b4"/>
+	</game>
+	<game name="Laserbreak Pro (World) (v1.11) (v111)" id="0315">
+		<description>Laserbreak Pro (World) (v1.11) (v111)</description>
+		<rom name="com.apexcreative.games.laserbreakPro-111.apk" size="26626981" crc="f785745a" md5="99fca969c6c27704d6fc0b58e6721284" sha1="22bc899fdb1eb03b36e3c96c7dde5dba502b8c28" sha256="f89b8a50bd707b9fe2861913d0b16adf2c15f5e3875943f1c52e7a4e26ea4889"/>
+	</game>
+	<game name="Last Horizon (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.1.0) (v1001002)" id="0316">
+		<description>Last Horizon (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.1.0) (v1001002)</description>
+		<rom name="com.noodlecake.lasthorizon-1001002.apk" size="53160304" crc="125c6242" md5="6c2671a7a145844d6cdd3a4e018d1b09" sha1="3abcad6001883f2cbf4080d4d8adda18c15255dd" sha256="2c43b2127e93e298aec3d93a044854b71c564846e96a18ffb925d5e56dd0afe2"/>
+	</game>
+	<game name="League of Evil (World) (v1.0.4) (v5)" id="0182">
+		<description>League of Evil (World) (v1.0.4) (v5)</description>
+		<rom name="com.noodlecake.leagueofevil-5.apk" size="17727663" crc="5ee2377e" md5="c95ade4588c9d531997c251bebfbe057" sha1="f6df550b2ea2861745b5e52d309dca6d0506ac44" sha256="d28310382313ddb7bfa3a30329a93264474af247a447afc17102a2bc28dd82ff"/>
+	</game>
+	<game name="LectureNotes (World) (Ja,Fr,De,Es,It,Pt,Ko,Ru) (v2.10.6) (v302)" id="0183">
+		<description>LectureNotes (World) (Ja,Fr,De,Es,It,Pt,Ko,Ru) (v2.10.6) (v302)</description>
+		<rom name="com.acadoid.lecturenotes-302.apk" size="8896762" crc="a52c828b" md5="54a9c896c19f38cdc4d419cc4bed1598" sha1="cf4addda1f71fd5ebb9a948fc1b0dd058344d729" sha256="61e8b43ee542cbed3462bd46c098cbd7492dc840aa0253641a94dc67ad55af40"/>
+	</game>
+	<game name="Lifeline (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.6.1) (v16)" id="0184">
+		<description>Lifeline (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.6.1) (v16)</description>
+		<rom name="com.threeminutegames.lifeline.amazon-16.apk" size="16017952" crc="3581b3de" md5="07a2b87fdaad34c0badfd67cebb9fd9b" sha1="b34fe58c07477227fe9a8ccc22ad1501ea2082c9" sha256="d06266e3896596b8a674b3146f8bd651bdf4d8c3e6c2e87e34cc62fc6184db83"/>
+	</game>
+	<game name="Lifeline - Crisis Line (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.4) (v11)" id="0170">
+		<description>Lifeline - Crisis Line (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.4) (v11)</description>
+		<rom name="com.threeminutegames.lifelinecrisislineamzn-11.apk" size="51227251" crc="65d0e336" md5="d6287e8c58cb176b61d1c7a3146b95c7" sha1="2bb0f5dd4a085ad8ae73b989d9dfdc6e41dc95b8" sha256="aa6102ac7fb4b847f2af516cd45edeceeeffcadff4951f61710255205c185a41"/>
+	</game>
+	<game name="LineUp! (World) (v2.0.5) (v15)" id="0317">
+		<description>LineUp! (World) (v2.0.5) (v15)</description>
+		<rom name="com.blyts.lineup.full-15.apk" size="4915300" crc="b9e2f03b" md5="d7fa496ce223de2a5f4fa8f0e7bf0524" sha1="71991b1e59124a7f49265a10b4cb6aa357fac9f9" sha256="51499622d62e565996d7b60ee01b6ca6935579250094ec720f611d13fbf5cc93"/>
+	</game>
+	<game name="List Master Pro (World) (v2.2.0) (v63)" id="0318">
+		<description>List Master Pro (World) (v2.2.0) (v63)</description>
+		<rom name="com.cjb.listmasterpro-63.apk" size="437756" crc="ac019ac4" md5="9fcac1aab5cd636aec9c00905a340841" sha1="595724b80c80a2f2f450c3349ae5aef8889a1b80" sha256="49620e79abd95a67376abfa84b1f4c99e375b62ec54b9142963b829b06ac872f"/>
+	</game>
+	<game name="Longman Dictionary of Contemporary English 5th Edition (World) (v1.4) (v4)" id="0312">
+		<description>Longman Dictionary of Contemporary English 5th Edition (World) (v1.4) (v4)</description>
+		<rom name="com.mobifusion.android.ldoce5-4.apk" size="25532212" crc="3c852222" md5="515296c6e98281e5aa8f509b7b947c1b" sha1="16820682d387cb53e6d74a4662290ab52b427754" sha256="74ff2b8446d49b4236275298851ad96b2e7e7882ef7051dbcb5810dfe563d6c8"/>
+	</game>
+	<game name="Magic Numbers (World) (v1.6) (v7)" id="0083">
+		<description>Magic Numbers (World) (v1.6) (v7)</description>
+		<rom name="zin4uk.brakinghead.magicnumbers-7.apk" size="2516054" crc="78fa35cf" md5="728f57c384e3c3bc1e5ef6667e1e5c5d" sha1="093544d0a1cfc77c258115f55680b3ce24c5e190" sha256="e8ff6ed23b23ef83c0a6568255d8ac9013fe38ec2ede67c6475d080fd1b4703b"/>
+	</game>
+	<game name="Magic Numbers - Unlocker (World) (v1.1) (v2)" id="0082">
+		<description>Magic Numbers - Unlocker (World) (v1.1) (v2)</description>
+		<rom name="zin4uk.brakinghead.magicnumbers.unlocker-2.apk" size="249368" crc="f6a88afe" md5="33f58ad4050150b7862285a0330f572c" sha1="04e6ef172100bafae49d8b9184f11720eb82121c" sha256="19e9db610585f61af0750b0e62540530d99b220629807dde770d5ffde2004a91"/>
+	</game>
+	<game name="Manga Blitz (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.1) (v2)" id="0084">
+		<description>Manga Blitz (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.1) (v2)</description>
+		<rom name="com.edrem.mangablitz-2.apk" size="2505337" crc="9905e122" md5="36f7663df455f219a3d2f53768beff8a" sha1="b83e9779514ce72293fc66b1faeb8f139e3ded96" sha256="73b33185832edd08f62fa5b6b213576b7c23324dfc9d548c841979d5c52f5489"/>
+	</game>
+	<game name="Master of Words Pro (World) (v1.2.0.1) (v7)" id="0319">
+		<description>Master of Words Pro (World) (v1.2.0.1) (v7)</description>
+		<rom name="com.rockhead.master_of_words_pro-7.apk" size="18921645" crc="69e45731" md5="e1f9ebe069c8aed896910682dd72849d" sha1="7bcf497456bc4ac667f954350442e0729c637f88" sha256="a0fc3e734a66a401b3941227ad86af23d3e2fb260191c88150a37fbb9be06162"/>
+	</game>
+	<game name="Merriam-Webster English Dictionary (World) (v3.4.182.24004) (v353452932)" id="0381">
+		<description>Merriam-Webster English Dictionary (World) (v3.4.182.24004) (v353452932)</description>
+		<rom name="com.slovoed.noreg.merriam_webster.english_english_unabridged-353452932.apk" size="9336591" crc="0dd6cb4e" md5="05bb83f62ad551f865cf02ec795b825b" sha1="102d51d9afa70355e39206863f0c349a8a2de440" sha256="f40fcd0a03e84d00daefe700ea53c9b6f157b9266bc1118589d15af51de613f0"/>
+	</game>
+	<game name="Modern Combat 4 (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v1.1.3) (v1131)" id="0081">
+		<description>Modern Combat 4 (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v1.1.3) (v1131)</description>
+		<rom name="com.gameloft.android.AMAZ.GloftM4AS-1131.apk" size="14326124" crc="a83d36a5" md5="af2295a808b349cd4ea0f43b72034fbc" sha1="06794b82dcd4c2a0ba8b433e04beb1614953c86b" sha256="0aa5e49cf1ad31bfd0a3b02d6a98d2b9f1224833b8c97bf9dc4a83a987934815"/>
+	</game>
+	<game name="Monkey Boxing (World) (v1.05) (v105)" id="0186">
+		<description>Monkey Boxing (World) (v1.05) (v105)</description>
+		<rom name="com.crescentmoongames.monkeyboxing-105.apk" size="17224674" crc="96f724a4" md5="b01ad758a4e48477daaa0a722a27ee52" sha1="20ee5db4acaad1fdb4341734e45076dcd74443ea" sha256="70902086fec8f5e232cf2372b3682bcdfe0a25f2c8d74567e9abb9d717ea0736"/>
+	</game>
+	<game name="Monkey Racing (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v100)" id="0187">
+		<description>Monkey Racing (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v100)</description>
+		<rom name="com.crescentmoongames.monkeyracing-100.apk" size="48315575" crc="14b0cc24" md5="cdab5c46c58bac0253071f420e5618d6" sha1="8ad4cb9a20638cdc459db5f168a64fe9a214cdfe" sha256="dc634d0e50845bb5ed7255c63d874ae800e3b15ba8fb3bace26b1c116b41648e"/>
+	</game>
+	<game name="Monopoly (World) (Fr,De,Es,It,Zh) (v3.1.0) (v31000)" id="0085">
+		<description>Monopoly (World) (Fr,De,Es,It,Zh) (v3.1.0) (v31000)</description>
+		<rom name="com.eamobile.monopoly_full_azn-31000.apk" size="129918896" crc="7211e1e9" md5="77b6a57a910cb79b67a3b6971caec77d" sha1="7ff10469f81a3135ecb39dcd11012279b11d4c3d" sha256="8386948901cf13d6cad1c853841ea711ee939af46afaf1720d7d51db1e30d5ec"/>
+	</game>
+	<game name="Monster Mouth (World) (v1.1) (v10)" id="0320">
+		<description>Monster Mouth (World) (v1.1) (v10)</description>
+		<rom name="com.breaktimestudios.MonsterMouth-10.apk" size="19719149" crc="5c9d4915" md5="1f863de7191285b903c2970ef8824c21" sha1="82d69f94962902b1441f07af0ae4d324ec56c631" sha256="dca8d20bd897a98b4cb291b40bc819c189578b21d71c3468147226ab6537a357"/>
+	</game>
+	<game name="Montezuma Puzzle (World) (v1.0.1) (v2)" id="0188">
+		<description>Montezuma Puzzle (World) (v1.0.1) (v2)</description>
+		<rom name="com.eastoakteam.montezumapuzzle-2.apk" size="39129850" crc="2bd86e90" md5="5c8cfb518d7827efcc8572907d8b49ff" sha1="fec9eb221090f0f6949fbd7997ba1c524cd04665" sha256="7fad039ac377caafd84158286a92dde11700cf8c823e60a25bdf95533e5c794c"/>
+	</game>
+	<game name="Montezuma Puzzle 2 Premium (World)" id="0190">
+		<description>Montezuma Puzzle 2 Premium (World)</description>
+		<rom name="com.eastoakteam.montezumapuzzle2-1.apk" size="39217684" crc="f3940a95" md5="2bd07b4d0afbf0859044f641421e63dd" sha1="e7f641d92c236adc44c7ceb773da83eece113f50" sha256="d6d31f346c73f4f49c7ab241c0b9d4b1ada6162d645cd3de19e53dc7688caa7e"/>
+	</game>
+	<game name="Montezuma Puzzle 3 Premium (World)" id="0191">
+		<description>Montezuma Puzzle 3 Premium (World)</description>
+		<rom name="com.eastoakteam.montezumapuzzle3-1.apk" size="33497404" crc="74139734" md5="27c05811a420003fac7f069f7db1f091" sha1="21165f08a9b17488ecf519ea10cb6136493c6239" sha256="36db30331e7a355b304f6ee2cb7ff49c7c6cc94006005e654a85522b1de14a6a"/>
+	</game>
+	<game name="Montezuma Puzzle 4 Premium (World)" id="0189">
+		<description>Montezuma Puzzle 4 Premium (World)</description>
+		<rom name="com.eastoakteam.montepuzzle4p-1.apk" size="44102702" crc="cbcfb2e0" md5="82a7afdb6a6b220b21ef531470e02e85" sha1="26470ad71c974635486b4d8184736d8345059600" sha256="f1a3048daa65b2140cfeee0a4b2ebb43749fc56cb649ac807c87477d6bd3b105"/>
+	</game>
+	<game name="Mood O'Clock (World) (Es) (v1.065) (v20)" id="0321">
+		<description>Mood O'Clock (World) (Es) (v1.065) (v20)</description>
+		<rom name="com.stereomood.moodoclock-20.apk" size="8823142" crc="3fce67ce" md5="65d6718237fdd6ca1f51bd43664c0d8e" sha1="2962a6a0c204152423a682479dda3fbfa456ff97" sha256="b1ce045137d7ee8f5b4475e12ecc4682a2a3b2b060a561082286a1a50a7634ae"/>
+	</game>
+	<game name="MPS TimeLog Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.9.2 Pro) (v19)" id="0185">
+		<description>MPS TimeLog Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.9.2 Pro) (v19)</description>
+		<rom name="net.mps_software.timelog.pro-19.apk" size="1801154" crc="b16c22be" md5="e31f8c98fafbbf4b136c633757d8813e" sha1="96fc8e82987f17aad2e1b3ff6208a09964335a64" sha256="74bd1c74991e156f80dfedf259052b100ed8a612d6d4d44ccf551c9fef74cc7e"/>
+	</game>
+	<game name="Mr.AahH!! (World) (Ja) (v1.0.2) (v3)" id="0192">
+		<description>Mr.AahH!! (World) (Ja) (v1.0.2) (v3)</description>
+		<rom name="jp.co.ponos.mraahh_amz-3.apk" size="5020219" crc="f9dc1232" md5="42769dbed049c4e3923cfe83cefed3c3" sha1="bed5e83a6fbad6937cc6d0083677cc900fc47035" sha256="84646f5c10d15e867763396e46bd0b6384ad69093fd3142bd04d6e73f532f003"/>
+	</game>
+	<game name="mSecure - Password Manager (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.0.5.006) (v48)" id="0401">
+		<description>mSecure - Password Manager (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.0.5.006) (v48)</description>
+		<rom name="com.mseven.msecure-48.apk" size="15853888" crc="5ffad6bb" md5="3432ed69f75c5ad9000ba7733f26279d" sha1="e3a1b3f01bb2fc4ab0723d56d60b5c8717708948" sha256="9158b6689b8c7137e2e54190662321146792ad02985c88527ef39e46957629e2"/>
+	</game>
+	<game name="My Alarm Clock (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.15) (v32)" id="0088">
+		<description>My Alarm Clock (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.15) (v32)</description>
+		<rom name="com.apalon.myclock-32.apk" size="17452898" crc="fd286044" md5="097f8ce13afe4ce4d55e1380244b665f" sha1="c8fe48b60e54f84a49af8e2c64399b82ac9dd47c" sha256="74dcd2ef8bb34721b1304c21dbfe59e845c3208c5794a02dde920f9a4129f299"/>
+	</game>
+	<game name="My Budget (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.2) (v26)" id="0089">
+		<description>My Budget (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.2) (v26)</description>
+		<rom name="com.avocsoft.myweeklybudget-26.apk" size="1935291" crc="6aa8c304" md5="dc97c51d515fc560d97e4deca6921e13" sha1="051fb1750627f3a05b7d76c632aa46b23b7a0fa1" sha256="f1636ec986cc0265d5f9146dcc0307d2ccda09e4623dccf2269d8c944df42ad1"/>
+	</game>
+	<game name="My Diet Coach Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.0.0) (v1404045400)" id="0090">
+		<description>My Diet Coach Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.0.0) (v1404045400)</description>
+		<rom name="com.inspiredapps.mydietcoachpro-1404045400.apk" size="18966317" crc="1de096ea" md5="b8ca1e447ffda92c55aac0852457c1fe" sha1="406865e5092600b3d404f69a4fa9f50da74c3418" sha256="a7077b92219e9b4e23cbd52f19953f5ed6dccd6d3020f087ea8a474a6951155c"/>
+	</game>
+	<game name="My Expenses Contrib (World) (Fr,De,Es,It,Pl) (v1.3) (v6)" id="0091">
+		<description>My Expenses Contrib (World) (Fr,De,Es,It,Pl) (v1.3) (v6)</description>
+		<rom name="org.totschnig.myexpenses.contrib-6.apk" size="239951" crc="32b54ef2" md5="4b7cd6da565a9e9ccf73e70c0957e04f" sha1="948229d62d81c5369668ca8d1ad4725785313ff1" sha256="ae6829663b371cbfe455d58ddf5cc8f0d2879c0885862c0e86a0019ded552489"/>
+	</game>
+	<game name="My First Puzzles (World) (Fr,De,Es,It) (v1.9) (v16)" id="0200">
+		<description>My First Puzzles (World) (Fr,De,Es,It) (v1.9) (v16)</description>
+		<rom name="com.arent.myfirstpuzzles-16.apk" size="10010900" crc="443b1751" md5="e37ab19504ace6ff65e3cd985fae7f75" sha1="11efd9611737894fb88478b74588350e8aa9b172" sha256="250d287f2d4cab5ec4ef696173cff6b2da8d5d306fde21c49b54e379ae1b114a"/>
+	</game>
+	<game name="My Recipes (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.4.1) (v44)" id="0093">
+		<description>My Recipes (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.4.1) (v44)</description>
+		<rom name="com.bsapps.myrecipes.pro-44.apk" size="3028959" crc="b8a6f837" md5="c36f5d912ced755a4db7854353adcf6b" sha1="17e0be5310b5be3324eb13ad1af756fb119e00f8" sha256="35d21e6bcd58b0777ae1e9c4ecb3e42ce5b819f2f7fa5cb2b72e59ca10709ef3"/>
+	</game>
+	<game name="My RPN Calc (World) (Fr,It) (v1.61) (v161)" id="0092">
+		<description>My RPN Calc (World) (Fr,It) (v1.61) (v161)</description>
+		<rom name="lsrodier.android.calculator-161.apk" size="2689413" crc="0ab6a8a9" md5="ee03e09260659b2f3c4bc756a6a02a48" sha1="c7e31feca2bb7a772f0bc9aa242a0516c5ca08bc" sha256="f3add7ffeb4eda30ed7b94e986901d78fe92872bb2db4576fd5390565a5a1b0f"/>
+	</game>
+	<game name="MyBackup Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.4.0) (v440)" id="0086">
+		<description>MyBackup Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.4.0) (v440)</description>
+		<rom name="com.rerware.android.MyBackupPro-440.apk" size="5815384" crc="2d48b098" md5="08b5ad70b99ed1e4bbedf4477140f58c" sha1="736835ac6abc3662598b45da7826d9d93bd87fd7" sha256="4bdfbf2b640c99e6224912db27e6884280a4e08dc386ed84187c9e7db09ca8dd"/>
+	</game>
+	<game name="Mystery Castle HD - Episode 1 (World) (v1.0.3) (v4)" id="0094">
+		<description>Mystery Castle HD - Episode 1 (World) (v1.0.3) (v4)</description>
+		<rom name="com.runestonegames.mysterycastle.episode1-4.apk" size="31856376" crc="0ae5c383" md5="50fee8eb8174cbb2c42f3b0b03604dce" sha1="85848b721b9b8e6e0de6c54c540e02d6b47479ec" sha256="6e85f5580d8100e6bae09a2fcdd040995c51b5e89d09dd2fe756ddfa0eb87b44"/>
+	</game>
+	<game name="Mythic Mining (World) (v1.41) (v41)" id="0095">
+		<description>Mythic Mining (World) (v1.41) (v41)</description>
+		<rom name="uk.ac.brackda.mythic.mining-41.apk" size="10769809" crc="144d2231" md5="3ab63a6871d4935561af425f43fd8e73" sha1="cd9b41721476e4383603a3009238f5ef1d60b8bf" sha256="06016d443b4211a7cb2831eb56b73e63dacc28ecd7c9fe4404ac4d0765bf2d88"/>
+	</game>
+	<game name="NodeBeat (World) (Es,Nl,Zh) (v1.3.9) (v18)" id="0096">
+		<description>NodeBeat (World) (Es,Nl,Zh) (v1.3.9) (v18)</description>
+		<rom name="com.AffinityBlue.NodeBeat-18.apk" size="8437566" crc="79108323" md5="0421f6e223bdb2480ed1a0f1d3b05f40" sha1="d7cf11c21eba151d82c2c5a424bda38b6ddcbe91" sha256="e1ad097a549f74f0e667305bd3d5a05971a13998c99864cc959d90b6de713ba4"/>
+	</game>
+	<game name="Note Board Ads Free (World) (Es) (v2.0.19) (v43)" id="0097">
+		<description>Note Board Ads Free (World) (Es) (v2.0.19) (v43)</description>
+		<rom name="com.oscardr.tablonnotasAdsFree-43.apk" size="7152260" crc="7ae1c2ae" md5="fcabb127476540f45651e064d832d216" sha1="c6934b46ea3e49b59e565742e874c33b3f772ba1" sha256="faf0668416f674984c8fde37e155fd5061d4398f00f1ccda6e5697da08a6c0b7"/>
+	</game>
+	<game name="Notepad Pro++ (World) (v1.1) (v2)" id="0099">
+		<description>Notepad Pro++ (World) (v1.1) (v2)</description>
+		<rom name="com.kongosapp01-2.apk" size="239461" crc="814fb899" md5="1bef68ff651b90b7cb466cecc07fbd9f" sha1="aa43caa642c1594fd887e666c2e7521d13e45397" sha256="2b78971f5e99e4e53b8416528d67bc48c6ffd4418ddfcdd78f1d699e197492aa"/>
+	</game>
+	<game name="Notepad+ (World) (Ja,Fr,De,Es,It,Pt,Ko,Ru) (v2.4) (v14)" id="0098">
+		<description>Notepad+ (World) (Ja,Fr,De,Es,It,Pt,Ko,Ru) (v2.4) (v14)</description>
+		<rom name="com.apalon.notepad-14.apk" size="19876156" crc="33ee3475" md5="94f7493394615ae74b419ca74af5323f" sha1="f8562c9583523276e9587881b36dc26f385c3e81" sha256="46257878120442ff84ffde4ed404ea720b16fb28298c3afc9f45d8e9c3250e20"/>
+	</game>
+	<game name="Odd Bot Out (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.8) (v14)" id="0100">
+		<description>Odd Bot Out (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.8) (v14)</description>
+		<rom name="com.martinmagni.oddbotoutpaid-14.apk" size="10891805" crc="203f4580" md5="fbb589f2107e0ebbe87cfbe6a90db553" sha1="f302b3c5913bfe486c5a39758aaf4a5ea8e12a5b" sha256="78b9c29f7ab5320629b10514d6a26e502f46c75914840ad3f17a6b0c4807a663"/>
+	</game>
+	<game name="Office Calculator Pro (World) (De) (v5.1.2) (v25)" id="0102">
+		<description>Office Calculator Pro (World) (De) (v5.1.2) (v25)</description>
+		<rom name="net.taobits.officecalculator.android.pro-25.apk" size="764856" crc="f4457b5f" md5="98ba3f5a1a446d846863e9bb7ef28e3c" sha1="71039dd5a269242bbca953371fb15ea46e1705ce" sha256="ed553c3643357733f9dd5fe96efd21dd7247702bda41735687e3fc6e7231491c"/>
+	</game>
+	<game name="OfficeSuite (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v10.2.17086) (v17086)" id="0101">
+		<description>OfficeSuite (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v10.2.17086) (v17086)</description>
+		<rom name="com.mobisystems.editor.office_registered-17086.apk" size="35175954" crc="2e8b7458" md5="1ce7e8e97cc09abedceb3d8f6703e7a5" sha1="37bca512701785515df6d6f41852d3abdad437b6" sha256="cf0b1a348e41717d3adc21f2da19568ff329e1709c45e64f4890f786fc9cf0c1"/>
+	</game>
+	<game name="OmniSketch (World) (v1.4.3) (v14)" id="0103">
+		<description>OmniSketch (World) (v1.4.3) (v14)</description>
+		<rom name="com.softwarelogix.omnisketch-14.apk" size="2241479" crc="81948b42" md5="460c9eb85d32402cdda3b3d8fe7903fa" sha1="9c058480f0bfef3c5bc7d29a50de9f734b7801ba" sha256="b192ad0560d44023a7055ad1feca37259ee117e43fbbc92d080c8477e1b1615d"/>
+	</game>
+	<game name="ONScripter Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.1.9) (v22)" id="0322">
+		<description>ONScripter Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.1.9) (v22)</description>
+		<rom name="com.onscripter.plus-22.apk" size="9173158" crc="1d0df65b" md5="775701b04ee50da06029e201ddbf2d64" sha1="0a1a84722279580847c8ecbb05216a2c7903fb6c" sha256="cde2317a00c7fb9370a02b4a9ffe7c5d4c7bc305dac0070f11bdb9fbee8b8c93"/>
+	</game>
+	<game name="Order and Chaos (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v3.3.1) (v33121)" id="0104">
+		<description>Order and Chaos (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v3.3.1) (v33121)</description>
+		<rom name="com.gameloft.android.AMAZ.GloftMMAS-33121.apk" size="24785148" crc="7dce5e51" md5="5a4dcee4b2c1b48aa3479f5c86dcd1f1" sha1="025d6867b65fca830faae0535dddee6c5936ccd4" sha256="81a3f8f96a3f96a3dd75638aac70d40bcf350e54ef960aa8ab4e13b1c880fd4e"/>
+	</game>
+	<game name="Osmand Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.9.10) (v4910)" id="0323">
+		<description>Osmand Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.9.10) (v4910)</description>
+		<rom name="net.osmand.plus-4910.apk" size="351794768" crc="0051e9e3" md5="94a51bc71eebe5ea9a9663f0cbf0823f" sha1="3990f69abdeafbd4ffec8ac0c5430ac676611fee" sha256="255fef26ec088b8358656fdb4aab1d08fb561c68e67dab9c498f174c6037f327"/>
+	</game>
+	<game name="Oxford Dictionary of English (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.1.039) (v128)" id="0324">
+		<description>Oxford Dictionary of English (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v5.1.039) (v128)</description>
+		<rom name="com.mobisystems.msdict.embedded.wireless.oxford.dictionaryofenglish.full-128.apk" size="14805529" crc="69643adb" md5="cd2b985a8e44ab43e31b714bbc09f162" sha1="14d3f3f2e19affb8cedfe16659e77cba49e0c526" sha256="ebe71ed93dd35cf400923cfe091053933739f10c72bde1b404b400a20b613f2b"/>
+	</game>
+	<game name="Oxford Spanish Dictionary (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.3.106) (v74)" id="0325">
+		<description>Oxford Spanish Dictionary (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.3.106) (v74)</description>
+		<rom name="com.mobisystems.msdict.embedded.wireless.oxford.spanish.full-74.apk" size="2365394" crc="7579080c" md5="90907e549038d33762414e23aa4353a9" sha1="24aa67f4d456f589db9fd36efd6feba855e842ed" sha256="b6a07ffe5f2fcdb8f8f5409c370a1df2215bcc19dfdf4cca14536209f1dfdf77"/>
+	</game>
+	<game name="PAC-MAN Kart Rally (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.9) (v14)" id="0326">
+		<description>PAC-MAN Kart Rally (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.9) (v14)</description>
+		<rom name="com.namcobandaigames.pacmankart-14.apk" size="28729191" crc="4175097d" md5="7e99e5202d3897f075fd15ce1ee966a0" sha1="d3f9eb29cc8b7c9ed2e2c4b0d85be2c531802075" sha256="250420a34ba0fcafa6f00e6877b70b29fc4ce1030c707a03dd3e8cfc311898e4"/>
+	</game>
+	<game name="Paper Camera (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Ko,Ru) (v4.4.1) (v4004001)" id="0328">
+		<description>Paper Camera (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Ko,Ru) (v4.4.1) (v4004001)</description>
+		<rom name="com.dama.papercamera-4004001.apk" size="12236700" crc="beadfe2b" md5="2113859a62b6e56e5bd8f8b93664ebc8" sha1="6dc8447b9ccfc999a603b67f40fa4f31adef0dd5" sha256="6ce50167890380aaf4482228b5b916996014cccceb57c1ee5829617da5143476"/>
+	</game>
+	<game name="Paper Monsters (World) (v2.0) (v20)" id="0327">
+		<description>Paper Monsters (World) (v2.0) (v20)</description>
+		<rom name="com.crescentmoongames.papermonstersfree-20.apk" size="88366659" crc="ce05c4f7" md5="f3d07768fe64e537b5b4afe79288f22f" sha1="39e0398b4ee084d374525ad0919c207abc8e2917" sha256="955a21f8320b27c0fc76f3971ef861da82427ed77b9f84790acc82372d29be72"/>
+	</game>
+	<game name="PDF Converter by IonaWorks (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.0) (v3)" id="0306">
+		<description>PDF Converter by IonaWorks (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.0) (v3)</description>
+		<rom name="com.ionaworks.pdfcreator-3.apk" size="3782203" crc="a9c812db" md5="3a1f6c6bafe58f6811c372012add8fbe" sha1="1476546c32280409176d3e17e52a10f8b1d79126" sha256="236f325180b14729be724108d20a46ea89fe8e90bdce05310ccd5532edb2e8b9"/>
+	</game>
+	<game name="PhotoSuite (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.3.705) (v705)" id="0329">
+		<description>PhotoSuite (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.3.705) (v705)</description>
+		<rom name="com.mobisystems.msgs-705.apk" size="13717236" crc="862b8e93" md5="4694d7038a19a3f5affebe2f20f42e31" sha1="915c27dbf30102e8dba7bb0b8e36c2ec9338cd8c" sha256="eaf0aad8e937370e34661d0f28fc7f12161ae6f5f1d0f7008a12ee017d35820c"/>
+	</game>
+	<game name="Piano Companion Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.51.130) (v730)" id="0330">
+		<description>Piano Companion Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.51.130) (v730)</description>
+		<rom name="com.binitex.pianocompanion-730.apk" size="18573077" crc="55c48f96" md5="d932d63f592a3a7b7b3be9e842cd14d1" sha1="03e4861e37afdc8653124cbba874ab7d9138f265" sha256="5be0188a535cc8e8c1930415fd5fbe71a7cbf613b9ea286328393677eb260e4e"/>
+	</game>
+	<game name="Piano Master (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v2.22) (v22)" id="0105">
+		<description>Piano Master (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v2.22) (v22)</description>
+		<rom name="it.b77.pianomaster2-22.apk" size="5779811" crc="31a5800a" md5="8c85368fb950a38712a52e63fd60f4cf" sha1="154ac2809a7106837e27cd10d9d721a2fd6a3489" sha256="a4b607e033df4e72a7261048ab9788661d4d1a46b3abb6f25133631667a13cf8"/>
+	</game>
+	<game name="Piano Master Christmas Special (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v2.22) (v22)" id="0106">
+		<description>Piano Master Christmas Special (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v2.22) (v22)</description>
+		<rom name="it.b77.pianomasterchristmas-22.apk" size="5719943" crc="ddc87078" md5="29ce4c8d84750aba0ad686de5e2d0c5b" sha1="cfb6143ff0d8e73edb70320936b63dabd45c033c" sha256="07bd79198f80e79eb03d3e1ea990bcec4f6bd339e4c286f79302acd549d89e32"/>
+	</game>
+	<game name="Piano Melody Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (vSmoother Songs) (v273)" id="0107">
+		<description>Piano Melody Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (vSmoother Songs) (v273)</description>
+		<rom name="com.veitch.themelodymaster.pmp-273.apk" size="9625854" crc="eae68a81" md5="3c019aa45efc1b1bb1dae06a6a5a6057" sha1="62e7eedc060af756ac3b4a743b16bd5e1295d6b4" sha256="9665d41f2c578507327ba9d431e59360ca16dc08b663ec072958231da46095f7"/>
+	</game>
+	<game name="PicFrame (World) (v2.8) (v30)" id="0108">
+		<description>PicFrame (World) (v2.8) (v30)</description>
+		<rom name="nz.co.activedevelopment.picframe_android-30.apk" size="3708252" crc="4886144a" md5="7ba0dd034e3946c41c5d7d07b9afd80d" sha1="6bc3ac703180c0b1f3a8a4eabcf8f09945ab2318" sha256="b9ed4dd4f4d4241003118395d591118e1b0601b49f5a6469fbad8dbb859d3f27"/>
+	</game>
+	<game name="Picranium Picross (World) (Zh) (v1.6.1) (v19)" id="0332">
+		<description>Picranium Picross (World) (Zh) (v1.6.1) (v19)</description>
+		<rom name="mobiacs.picranium-19.apk" size="4558680" crc="de03c061" md5="5105b1e6027489b5d8cb6cc8e0538b74" sha1="25e9e362f0336f1d923d04ab9b12228c9a5770fc" sha256="262e03ec6fb99d4077640d0fa8a1079e9d41897a949eecc4b3ea15aad9c2379c"/>
+	</game>
+	<game name="PicShop (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Zh,Ko,Pl,Ru) (v2.94.2) (v2094002)" id="0331">
+		<description>PicShop (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Zh,Ko,Pl,Ru) (v2.94.2) (v2094002)</description>
+		<rom name="air.ca.esdot.PicShop-2094002.apk" size="22723347" crc="c6f2f5f6" md5="8b8f8e898b840d2ea68a0b02ea385671" sha1="ef14e3bd973788e821411661d8f0aede95e386b1" sha256="ec195f671e0fbb5d7f413106cf6af225d7ede2cda5e1a179f83a36f119f124d2"/>
+	</game>
+	<game name="Pigment (World) (v1.1.5) (v48)" id="0333">
+		<description>Pigment (World) (v1.1.5) (v48)</description>
+		<rom name="com.onelivesleft.pigment-48.apk" size="3603916" crc="a657588c" md5="e6f79e91909da17227567ea664790899" sha1="72cddbc3120fc527f09ecc6c8ed1a6e5cf57ef13" sha256="9a471953fa8f60e26762ed0a9592755c4e06903a977b3467374714ab40da104d"/>
+	</game>
+	<game name="Pinball Deluxe Premium (World) (v1.6.9) (v160907)" id="0334">
+		<description>Pinball Deluxe Premium (World) (v1.6.9) (v160907)</description>
+		<rom name="com.greencod.pinball.android-160907.apk" size="24301779" crc="09b39dc0" md5="8decbf6af418679a6f2bacb59cf6e955" sha1="0c0a8c00b246719c2aa1ab9fc9166ebc2ba7f581" sha256="2b5e766242c00113a79866a8c6936a66f155fd7ea680cf14b650a5e080d57b33"/>
+	</game>
+	<game name="Pipe Puzzle (World) (v1.0.2) (v4)" id="0335">
+		<description>Pipe Puzzle (World) (v1.0.2) (v4)</description>
+		<rom name="com.eastoakteam.pipiepuzzle-4.apk" size="25901919" crc="bb8999de" md5="a05f683cdbaea78f5613c7eb08f69a10" sha1="b02fa856e028ca1033dfc3c3cc2b8a27b47fe8d3" sha256="1b3b7952a615bdba32b8a8996e404aee14854b2ca65e4c11e2e17c5e51be0f22"/>
+	</game>
+	<game name="Pivvot (World) (Es) (v1.2) (v2)" id="0336">
+		<description>Pivvot (World) (Es) (v1.2) (v2)</description>
+		<rom name="com.whitakr.Pivvot-2.apk" size="28126950" crc="f841ae27" md5="3373dd060a8a800a57750204ed95c183" sha1="a1a1653101451071ec3999115194b1d8a0a6229d" sha256="b2116d61fd783340f93869688429fea0a93552fc46e88d254cd6757edf79e256"/>
+	</game>
+	<game name="Pixel Rain (World) (v1.3.6) (v9)" id="0337">
+		<description>Pixel Rain (World) (v1.3.6) (v9)</description>
+		<rom name="com.full.pixelrain-9.apk" size="9083625" crc="6d022c5e" md5="b2ce18f9503023afba82641b8fc90dcc" sha1="d01049eaf5c371c3da7d84a1728dd4990e61382a" sha256="7c34938e88e178698ee1f801cc8a572b31cd1c3ea233fb9a8f0d331b91a1c59d"/>
+	</game>
+	<game name="Plants Vs Zombies (World) (En,Fr,De,Es,It,Zh,Ru) (v1.2) (v105)" id="0109">
+		<description>Plants Vs Zombies (World) (En,Fr,De,Es,It,Zh,Ru) (v1.2) (v105)</description>
+		<rom name="com.popcap.pvz-105.apk" size="77114169" crc="0bd8a27d" md5="5c8d48549cff50615f75c8a42822254e" sha1="86db54d3f1b48fa4e2240035042244d6147bf526" sha256="a9d3a034e283e4e9cad3bee73c83eaf2751949cbf868944cded4e837ed306a0a"/>
+	</game>
+	<game name="Plex (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v10.27.1.2743) (v967879537)" id="0338">
+		<description>Plex (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v10.27.1.2743) (v967879537)</description>
+		<rom name="com.plexapp.android-967879537.apk" size="66393877" crc="0155ad0d" md5="56eddad9db8aedb2158ded45a06f7f74" sha1="0be301089422e93576629a2b5ba7b0ee5e3722bf" sha256="89902d19aff55c2e01e9ef7544770d3710e1d713bf00b55032d7c3cedaf4bce4"/>
+	</game>
+	<game name="Pocket Rally (World) (v1.2.1) (v21)" id="0339">
+		<description>Pocket Rally (World) (v1.2.1) (v21)</description>
+		<rom name="com.IMStudio.PocketRally-21.apk" size="44081920" crc="795d0968" md5="71a9cfd2ac63d4b9f0ea3f9111c52ed8" sha1="996c6e033d0bb32c07d837bf159f843ea8f40930" sha256="b9518717bbb5f7931837c60ad298898ccfe3ec316277cbe7a735006a1ac7758e"/>
+	</game>
+	<game name="Polyhedron Runner (World) (v0.1.5) (v6)" id="0196">
+		<description>Polyhedron Runner (World) (v0.1.5) (v6)</description>
+		<rom name="com.alexboldit.onethreeeight-6.apk" size="14099695" crc="30cbfa9e" md5="b0075d6631c0bfcec140e0624b297783" sha1="122d77e3a24d0a487e0557be15cce1dd361b1db4" sha256="3cb7d857b379eea1ed68760a2a71e4784485998b956defb889cbb5956a134b61"/>
+	</game>
+	<game name="Pool Break Lite (World) (Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (v2.5.1) (v251)" id="0197">
+		<description>Pool Break Lite (World) (Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (v2.5.1) (v251)</description>
+		<rom name="com.kb.Carrom3D-251.apk" size="9835215" crc="2ec020ea" md5="269c2d3dc7f23b7cdcc0a8aa9e770825" sha1="4e1511c6c1e82fdae5096dfbb5feba864cd03fea" sha256="769ff947c6e2a23d06d9817b5a96e2d4aa0dfd9fd6ae9d86840ea554128e3917"/>
+	</game>
+	<game name="Pool Master Pro (World) (v2.52) (v18322000)" id="0198">
+		<description>Pool Master Pro (World) (v2.52) (v18322000)</description>
+		<rom name="com.forthblue.pool-18322000.apk" size="3765421" crc="568498d0" md5="3d4fcfedb1145fe3bd8415358dba85c6" sha1="ab9d98dc12ce60f90153e537d5a5d9adbe43a595" sha256="678f33996ec7f40a4fa69e3222f2ba0cf3999c746f88364cee935f2bd8ec216e"/>
+	</game>
+	<game name="Prince of Persia 2 - The Shadow and the Flame (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v2.1.0) (v8)" id="0195">
+		<description>Prince of Persia 2 - The Shadow and the Flame (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v2.1.0) (v8)</description>
+		<rom name="com.ubisoft.princeofpersia.shadowandflame.ggp-8.apk" size="44593586" crc="15d47fdd" md5="a7928372eea0af5a1027df2b1db6e3f5" sha1="22eea67477451598bc6f53127094d4c3b498b9c1" sha256="ecf1b53da209d13b902bcca16b88f9d06fc7128e2659eaadc55be46486ca5572"/>
+	</game>
+	<game name="Prince of Persia Classic (World) (Ja,Fr,De,Es,It,Zh,Ru) (v2.0) (v3)" id="0194">
+		<description>Prince of Persia Classic (World) (Ja,Fr,De,Es,It,Zh,Ru) (v2.0) (v3)</description>
+		<rom name="org.ubisoft.premium.POPClassic-3.apk" size="235996917" crc="5e826f59" md5="66aea7ff237a582aaad67e2f74f2d847" sha1="c76549b3bf598990a86451c638b754746f7a53f4" sha256="2fa6e87546f69438ff54c783a89a4ad11bbbc95670308dc164b1409debdd6eac"/>
+	</game>
+	<game name="PrinterShare (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v12.14.6) (v476)" id="0111">
+		<description>PrinterShare (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v12.14.6) (v476)</description>
+		<rom name="com.dynamixsoftware.printershare.amazon-476.apk" size="2713479" crc="b2da9878" md5="c593eb880b94b8adc2a11eae89d222d1" sha1="eae709d0a5dd6e848b942ec78c5a9e7d5f69d482" sha256="1a06e1e03ce11c45a7df7ec0ad28e053b3b09d98a08b38ae76e5e3d0b583e3b9"/>
+	</game>
+	<game name="PrintHand Premium (World) (Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (v13.9.3) (v4800)" id="0110">
+		<description>PrintHand Premium (World) (Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (v13.9.3) (v4800)</description>
+		<rom name="com.dynamixsoftware.printhand.premium-4800.apk" size="10039277" crc="c180abf8" md5="037d64a5b901cffc61d151017920734a" sha1="62d6c1bcd4f3f4153dd077de016ab86045ab53f3" sha256="8d1e8b29d92adf9fdf5375e5bdae2b7ca01518658127cab7c40bb1111ef381c9"/>
+	</game>
+	<game name="Professor Baboo - Premium Edition (World) (Es) (v1.0.2) (v4)" id="0112">
+		<description>Professor Baboo - Premium Edition (World) (Es) (v1.0.2) (v4)</description>
+		<rom name="com.joycogames.profbaboopremium-4.apk" size="10147856" crc="6aab85db" md5="237ced7f987a7a6b8e635f99e6b82be7" sha1="1b5c324541e0150217868607b2f53b0f3bd95aa1" sha256="bd33a92f49a327f8acb944fee08b56147d977c038f4d81a6d20e9725ef044343"/>
+	</game>
+	<game name="Proxy Settings (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.1) (v130031005)" id="0113">
+		<description>Proxy Settings (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.1) (v130031005)</description>
+		<rom name="com.lechucksoftware.proxy.proxysettings-130031005.apk" size="2818219" crc="3177f45a" md5="e7744a237bcaa4e6ef2f33551821acd8" sha1="b77c0817dcf1984d2c121f024cd44e07ce3fb986" sha256="10c266a8e618d21fe8bb21de41edc3d305684bbc2ebf92b630f38acecd7c6a05"/>
+	</game>
+	<game name="PuzzleBoss - Deserts Jigsaw Puzzles (World) (Fr,De,Es,It,Pt) (v1.8.8) (v123600674)" id="0340">
+		<description>PuzzleBoss - Deserts Jigsaw Puzzles (World) (Fr,De,Es,It,Pt) (v1.8.8) (v123600674)</description>
+		<rom name="com.puzzleboss.jigsaw.Desert.amazon-123600674.apk" size="30141322" crc="f695a898" md5="23319fb3b8fd10b8a81cf58c074548b3" sha1="26eafee2b93f5a80c4aa0900e1aafb4c9d0cb13d" sha256="a4a61eb3730056f0cfd13e4af72debbb239c1ec401d5fb754c2e691806d9343f"/>
+	</game>
+	<game name="PuzzleBoss - Dinosaur Fossils Jigsaw Puzzles (World) (Fr,De,Es,It,Pt) (v1.8.8) (v123600676)" id="0341">
+		<description>PuzzleBoss - Dinosaur Fossils Jigsaw Puzzles (World) (Fr,De,Es,It,Pt) (v1.8.8) (v123600676)</description>
+		<rom name="com.puzzleboss.jigsaw.DinosaurFossils.amazon-123600676.apk" size="23774032" crc="59346ff6" md5="daf610002df90c5c9d64c1aae61fc400" sha1="ed88184188b87e6104a9405102bb3203acebb8fe" sha256="75da4e63cd03a286c91357595aca6eed221ed170d3404762db33ac780dbc3169"/>
+	</game>
+	<game name="PuzzleBoss - New Caledonia Jigsaw Puzzles (World) (Fr,De,Es,It,Pt) (v1.8.8) (v123600786)" id="0342">
+		<description>PuzzleBoss - New Caledonia Jigsaw Puzzles (World) (Fr,De,Es,It,Pt) (v1.8.8) (v123600786)</description>
+		<rom name="com.puzzleboss.jigsaw.NewCaledonia.amazon-123600786.apk" size="24611258" crc="135a7ef0" md5="b8f742baadf17690f7287e8e348a5f86" sha1="d66190fceb83231737f892dcd57f6ffa58db95b8" sha256="0fb8d05de94b687a9c57fe121ba0186d7576c22f6d46ab83c818b19e3f35fbbe"/>
+	</game>
+	<game name="PuzzleBoss - Planes Jigsaw Puzzles (World) (Fr,De,Es,It,Pt) (v1.8.8) (v123600808)" id="0343">
+		<description>PuzzleBoss - Planes Jigsaw Puzzles (World) (Fr,De,Es,It,Pt) (v1.8.8) (v123600808)</description>
+		<rom name="com.puzzleboss.jigsaw.Planes.amazon-123600808.apk" size="22221102" crc="bba2c706" md5="b1b0c8bf7df89d3d9385fdc745f5ee7a" sha1="c19a317a727602970776a4d43141f06931189ae1" sha256="6c83001fe5f0da0bc3c3d07e7ba0bb0b0b4bfed8f9413e8e791bb350307892df"/>
+	</game>
+	<game name="PuzzleBoss - Tall Ships Jigsaw Puzzles (World) (Fr,De,Es,It,Pt) (v1.8.8) (v123600865)" id="0344">
+		<description>PuzzleBoss - Tall Ships Jigsaw Puzzles (World) (Fr,De,Es,It,Pt) (v1.8.8) (v123600865)</description>
+		<rom name="com.puzzleboss.jigsaw.TallShips.amazon-123600865.apk" size="31254397" crc="71c87bfa" md5="2e66e0fc8872dfef9acf88d3ba700e08" sha1="2bc0e2f11182079761bfa0946442ab9b48fe56df" sha256="aa27166ff77296cbd45554e88761cb6804701540a0111f42edd9486b2f18fb7b"/>
+	</game>
+	<game name="PuzzleBoss Scenic 425 Piece (World) (v2.3.6) (v200002117)" id="0345">
+		<description>PuzzleBoss Scenic 425 Piece (World) (v2.3.6) (v200002117)</description>
+		<rom name="com.puzzleboss.jigsaw.Scenic.amazon-200002117.apk" size="48487056" crc="cd15d6b8" md5="7a7f2c4fe87184f26426086df9a2a473" sha1="a3699d54bb985bf92069f9518569fca5e92b3d23" sha256="3bb9f00472be32cec5e17cefbb00225ca7af520867525a81b227ee52aed84c14"/>
+	</game>
+	<game name="QBooru (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v0.8.0) (v5)" id="0346">
+		<description>QBooru (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v0.8.0) (v5)</description>
+		<rom name="fr.fusoft.qbooru-5.apk" size="2057357" crc="6015ea18" md5="187f6d66895e73560ffa96e4776d3244" sha1="259860d330a8a83c1f1fc4a8d00bf4927546d048" sha256="93b907938b12028018aa4e743f7ce626272b0a349469e36b5f01681c9c1f6c89"/>
+	</game>
+	<game name="Quell Memento (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.05) (v8)" id="0347">
+		<description>Quell Memento (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.05) (v8)</description>
+		<rom name="com.fallentreegames.amazon.quellmemento-8.apk" size="48277448" crc="c3c495ef" md5="b80e7bc03e07eb8a8c1bf2fb32307992" sha1="317a38eb6aed4322293ade0d68d9869e43e11611" sha256="4267467c34a5456357748bc80bdb41c85cca579919afdacc70bf296549df4dc1"/>
+	</game>
+	<game name="Quell Reflect (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.80) (v27)" id="0348">
+		<description>Quell Reflect (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.80) (v27)</description>
+		<rom name="com.fallentreegames.amazon.quellreflect-27.apk" size="34400525" crc="b0885fea" md5="25bb3fe2b90b48da2d85f7640e74623f" sha1="5e45fc7f8fb377be4416859a2b27ed2f74f4c620" sha256="83f66f0b517ae6e1583e414486f0d1c163fa886c9d99b8434f95b9052f772ba6"/>
+	</game>
+	<game name="QuestLord (World) (v3.0) (v23)" id="0349">
+		<description>QuestLord (World) (v3.0) (v23)</description>
+		<rom name="com.lavalevel.questlord-23.apk" size="31993355" crc="1735552f" md5="48eb167798437e070aa6dd53954b21dc" sha1="d57d19c0e39fb0d5d9ae0b92eab57d754bfdf06c" sha256="0780f6eacb509f254176808b36b57674f200080a5e27f766b40590f22af10e92"/>
+	</game>
+	<game name="R-Type (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.1.1) (v212)" id="0350">
+		<description>R-Type (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.1.1) (v212)</description>
+		<rom name="com.dotemu.rtype-212.apk" size="20568224" crc="c226307f" md5="d12632c554c1ed4043ef02ce6045597b" sha1="204e95ed0c04da5a9ea33cf323c1799cc95bdbbe" sha256="52c18d47c6ae1be249b0da00fdde56fbe03b81be67d6c32240073f0813314419"/>
+	</game>
+	<game name="Ravensword - Shadowlands (World) (v1.21) (v9)" id="0352">
+		<description>Ravensword - Shadowlands (World) (v1.21) (v9)</description>
+		<rom name="com.crescentmoongames.ravensword2-9.apk" size="546515503" crc="e0aa4596" md5="83b3ccab4d4d56258096c8463fa583b3" sha1="01f02be18ce52666c918255e94d45ae19daa7c1c" sha256="fea9f59a8675f58fa43c3a86cff676e2e599417dcd7055900f572da096807aa4"/>
+	</game>
+	<game name="Reading Trainer (World) (En,Fr,De,Es,It,Pt,Pl,Ru) (v2.3.4-amazon) (v1635)" id="0353">
+		<description>Reading Trainer (World) (En,Fr,De,Es,It,Pt,Pl,Ru) (v2.3.4-amazon) (v1635)</description>
+		<rom name="com.heku.readingtrainer-1635.apk" size="41869997" crc="91b996a4" md5="5beb2a3c26f25c996cd968791dc5f420" sha1="54b1b82178252a86abb911b356731199556398fb" sha256="74e75e227d32338b19e3a3b12dadce6892ef3007b01d28169100d9ee3c6ad664"/>
+	</game>
+	<game name="Real Shanghai Mahjong (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.29) (v32)" id="0354">
+		<description>Real Shanghai Mahjong (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.29) (v32)</description>
+		<rom name="com.lumiere_couleur.android.shanghai-32.apk" size="4104658" crc="d8e820ae" md5="fb3a8490a688da6a574a503bd5b02ddf" sha1="65f3aa7d4fd1e04e640cf582cdaa4f4c75f97958" sha256="5672def1a8806c48017266e6d506a981c77dc52e0a8e947489b5b3e4b6af8e64"/>
+	</game>
+	<game name="Real Sichuan Mahjong (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.12) (v22)" id="0355">
+		<description>Real Sichuan Mahjong (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.12) (v22)</description>
+		<rom name="com.lumiere_couleur.android.sisen-22.apk" size="3533225" crc="b48065ee" md5="7304995543efc955545fc8d4dc4bc174" sha1="23fa76d80757e810f93655d426223edf97c8059b" sha256="6949c6c2b86e7121d763c35bf6653c9f6b1bb5d9bb992c02fede99b41dd80b59"/>
+	</game>
+	<game name="Real Steel (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.48.07) (v14807)" id="0356">
+		<description>Real Steel (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.48.07) (v14807)</description>
+		<rom name="com.jumpgames.RealSteel-14807.apk" size="596668691" crc="4767a53b" md5="6da214f2a0695e6cd3f6ca6e4f6c084e" sha1="768b253b62f59c72c69d4e6808fd27c055adae01" sha256="74c6be3ae049778a03f2b6ac97a19d3b8fa5173e79b3e1513c8b8742626fabda"/>
+	</game>
+	<game name="Reball Pro (World) (Fr,De,Es,It,Ru) (v1.5.1) (v4)" id="0357">
+		<description>Reball Pro (World) (Fr,De,Es,It,Ru) (v1.5.1) (v4)</description>
+		<rom name="com.kyworks.reball.paid.amz-4.apk" size="6742571" crc="90e0858b" md5="c8a4e9078a267f0f11c138ce9ac7e029" sha1="3ecf30eccae1a917706843f525628ef9cb2eedaf" sha256="cfe81294ca65c14f51af391ff9c0d7b41046fe368e08311aee333a68d37b6f2d"/>
+	</game>
+	<game name="Retro Milk Inc. (Ad-Free) (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.4) (v5)" id="0202">
+		<description>Retro Milk Inc. (Ad-Free) (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.4) (v5)</description>
+		<rom name="com.sebalussolutions.milkinc-5.apk" size="5563809" crc="de656510" md5="ab0d301eb773fe4ec1acaf9207c10a64" sha1="4938bbbe2a7f9ea8613624c4d4b09b2525b949dc" sha256="711822bfc21e66b699e466c6fda1ec552a342e048b02feef81732b5f572fcdea"/>
+	</game>
+	<game name="Reward Charts (World)" id="0203">
+		<description>Reward Charts (World)</description>
+		<rom name="com.gaussianknights.games.rewardchart-1.apk" size="9677152" crc="2bb5f182" md5="4bbf5f0b772f1ba0a9262d18e16443d6" sha1="8ca99a970f0ef34b64ee3ed9b00c265bf35b87e6" sha256="2579c6184921868bcaec135ddc4f8dcc689bcd47521060ebdb85d8c5bb532c96"/>
+	</game>
+	<game name="Rhonna Designs for Android (World) (Es) (v1.3.7) (v37)" id="0204">
+		<description>Rhonna Designs for Android (World) (Es) (v1.3.7) (v37)</description>
+		<rom name="com.niftybytes.rhonna_android-37.apk" size="46073629" crc="92c95a7a" md5="2646e81e45c32f818959746c65bae40d" sha1="509749afc5bc04cdc21b2e41b808ab7d53036fcb" sha256="ca8fd94680b598aa5609b6d7bb97c4f4d2c1223c6b14461c0638b7ed76cedee1"/>
+	</game>
+	<game name="Riptide GP - Renegade (World) (v1.2.1) (v24)" id="0360">
+		<description>Riptide GP - Renegade (World) (v1.2.1) (v24)</description>
+		<rom name="com.vectorunit.silver.amazon-24.apk" size="94432373" crc="9c4c7238" md5="5f17550e12c3ded3cbb8129b4b4a39d0" sha1="4b85b0ac960774c604310f14fd14ccada8ea019b" sha256="34b5a8c52df644fdfa5d810cafe3a21ef8331eed5eea7a6e694c04d9bab7e730"/>
+	</game>
+	<game name="Riptide GP2 (World) (Ko) (v1.2) (v13)" id="0359">
+		<description>Riptide GP2 (World) (Ko) (v1.2) (v13)</description>
+		<rom name="com.vectorunit.redamazon-13.apk" size="53311692" crc="7bc8a248" md5="8349883ac48fd8d19a85311b388f8aaf" sha1="b2a4073e8efdc685f0dd3cc00fa2cf0c1093c850" sha256="5d3d624793c8ae0ed076477b6c650a63bad0493edf2c11487fdc92afc4dec8e6"/>
+	</game>
+	<game name="Rocket Nova - Ad Free (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.3.7) (v55)" id="0114">
+		<description>Rocket Nova - Ad Free (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.3.7) (v55)</description>
+		<rom name="com.super2k.rocketmania-55.apk" size="12806686" crc="a5ee6c5a" md5="3a20ad302477cf1dd0fd3b4bf50298a7" sha1="26fd220af4003d35df53a9a8d26d72c68a9d1fec" sha256="76956ddbbeaf8eb501747d7dc5558c4afb51117c8587021b34cdc85a7210e229"/>
+	</game>
+	<game name="Root Explorer (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.12.3) (v225)" id="0115">
+		<description>Root Explorer (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.12.3) (v225)</description>
+		<rom name="com.speedsoftware.rootexplorer-225.apk" size="4357961" crc="77b9dbc6" md5="cdded41e6e8a3a0a4f42fee3e4d27509" sha1="3d4f93a99127d9de1c026f81fb193ca41b80b74f" sha256="3f8afce9c86cee2d8dfcb9f09ae7d055735ddf558d8a71c91479f1944fa4a7cf"/>
+	</game>
+	<game name="Roseistry (World) (v2.0.0) (v200)" id="0116">
+		<description>Roseistry (World) (v2.0.0) (v200)</description>
+		<rom name="com.TheHohngCompany.Roseistry-200.apk" size="20255354" crc="d69f1184" md5="4e43f2812157fb7bba7d188459607cd2" sha1="3bb7d7c40198bd905e1476a549e76dad06d28104" sha256="878d3df011695acdb4f48d8769db5bc5ff4a6c0b10fdc8c5cf8429571ffcab3e"/>
+	</game>
+	<game name="Rotate It (World) (v1.61) (v8)" id="0117">
+		<description>Rotate It (World) (v1.61) (v8)</description>
+		<rom name="com.pixeldelight.games.rotationflow-8.apk" size="9667022" crc="b36fdf7d" md5="f805100f0fb4dd0348a5095d55ca4662" sha1="b19b149b5e84e05c2f78f4bc8990c060009599fd" sha256="adcf1d51c0d35a8c3d6a35e8966a75bd6dcfcfc3666cf532c82ea0b907b29baa"/>
+	</game>
+	<game name="RPGolf (World) (v1.2.3) (v19)" id="0351">
+		<description>RPGolf (World) (v1.2.3) (v19)</description>
+		<rom name="com.chorusworldwide.rpgolf-19.apk" size="70168430" crc="49c1d402" md5="910ca11a4455b7f043b38ffccee63b98" sha1="5fe0e1059dfbb163b7b26931ca64a121ef0a677a" sha256="008195f13988e59a1dcbddf971e8bc15ebd9f9b6c606b61287bcb28307f8eff3"/>
+	</game>
+	<game name="Ruzzle (World) (Fr,De,Es,It,Nl,Pt,Sv,Da,Ru,El) (v2.0.7) (v9000164)" id="0361">
+		<description>Ruzzle (World) (Fr,De,Es,It,Nl,Pt,Sv,Da,Ru,El) (v2.0.7) (v9000164)</description>
+		<rom name="se.maginteractive.rumble-9000164.apk" size="30183077" crc="cb1dd8d0" md5="813c279d1a26b8ca794d7cc91f9dc1d8" sha1="33fe09fcfaa7fdd74442eacd1b7a018885c4d7cf" sha256="d326fc3203fefe2fc91a16b341512b5f8c9ce074f42b41adf11b725e2b062418"/>
+	</game>
+	<game name="Sage Fusion (World)" id="0205">
+		<description>Sage Fusion (World)</description>
+		<rom name="com.kidalang.sagefusion_nogoog-1.apk" size="75995182" crc="14ba3df1" md5="bf7883d181e625938d427d6a758e3404" sha1="771888e3f67270867862d638994703b345adb1b3" sha256="6f7718959fce0d813f089f8723f32378860abc679450630c775750da72baf610"/>
+	</game>
+	<game name="Sailboat Championship (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.52) (v13)" id="0362">
+		<description>Sailboat Championship (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.52) (v13)</description>
+		<rom name="pl.idreams.iSailboatPROHD-13.apk" size="32505026" crc="877f623e" md5="113cfbddeb3feb30926442f44355e5a9" sha1="d9b50596e5a2eb0be989b737ef4ad909f8a95079" sha256="92cd5a1a492aef8dcfe098cd88e3011024e20d15cda722caea92903096ca1da4"/>
+	</game>
+	<game name="ScreenDim Full (World) (v1.68) (v268)" id="0121">
+		<description>ScreenDim Full (World) (v1.68) (v268)</description>
+		<rom name="mobi.omegacentauri.ScreenDim.Full-268.apk" size="911997" crc="99701407" md5="3d5efbc39fc3dd816221578bdbe41d96" sha1="2afdd1c822cb6d61a8c6573b6dd91de9021c090a" sha256="f024cc8b0ca652771103fb4e7a8dad09d5358a05e3b7a5b80da5619ba51bcc01"/>
+	</game>
+	<game name="Scribblenauts Remix (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.9) (v51)" id="0358">
+		<description>Scribblenauts Remix (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.9) (v51)</description>
+		<rom name="com.wb.amzn.scribbleremix-51.apk" size="199961074" crc="01f1523e" md5="fbb46e77a73598743211b5e7b06307fc" sha1="8ca656455cdb2d737833174adc8e72220cd86fe9" sha256="f73eba8b32aab579c46bfde04befcf4c0f7fc8534924b72181b420af596d9074"/>
+	</game>
+	<game name="Sector 11 (World) (Ja) (v@7F070002) (v3)" id="0122">
+		<description>Sector 11 (World) (Ja) (v@7F070002) (v3)</description>
+		<rom name="com.yumeapps.sector11-3.apk" size="13481818" crc="8b483b5e" md5="34cd18abb12b126f26afc22195f92a8b" sha1="63cba894d475bcc1e7bb30695d8975124b9bd269" sha256="b269eb178eb5d2c5bbabf0013d61f033bf790946f0872e190e548b0e87cb8fcd"/>
+	</game>
+	<game name="Series Trivial (World) (v2.0.0) (v7)" id="0123">
+		<description>Series Trivial (World) (v2.0.0) (v7)</description>
+		<rom name="it.naxe.touch.seriestrivial-7.apk" size="3494444" crc="ffba362f" md5="4b43c935de26e135374d45c21ffc935d" sha1="0808a6acfcfbfcbb1b4c3ce5d9c59765d9ad4af0" sha256="aa5b979d8c7d171ef6bd179bcc638ef8274accee305b76b51a68dad67431f661"/>
+	</game>
+	<game name="Servers Ultimate Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v7.1.16) (v18)" id="0124">
+		<description>Servers Ultimate Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v7.1.16) (v18)</description>
+		<rom name="com.icecoldapps.serversultimatepro-18.apk" size="13259843" crc="6f075d6a" md5="12968a00b262bb2fac94280b131a8dae" sha1="bcd05ed9e27c24a8dd6b6a7da52c5c16a5b944a2" sha256="e9b887e3030fa767d4961c3c425d859d733e260b9892ed611b3386ec1e309751"/>
+	</game>
+	<game name="Shine Runner (World) (v1.3.1) (v10)" id="0363">
+		<description>Shine Runner (World) (v1.3.1) (v10)</description>
+		<rom name="com.vectorunit.greenamazon-10.apk" size="27122208" crc="e5d49b6e" md5="3829434fbb6af2ba93fd6cc923094cf8" sha1="85c497acf12a45d2ed9049772745914b8caa6a5a" sha256="55a072938c5b8beecd94a855da47d34590aa78091d43b146560ec66780e0ed4f"/>
+	</game>
+	<game name="Shopper's Paradise HD (World) (v1.0.8) (v9)" id="0364">
+		<description>Shopper's Paradise HD (World) (v1.0.8) (v9)</description>
+		<rom name="com.sgg.sp2-9.apk" size="1910916" crc="692827d6" md5="abe2a05ffee898675412ec16120151c8" sha1="1a42d81a2829e9c192667a237a7a86ae4909a6d8" sha256="c680d091a0ccf44e8b32c1c27b0ffd6e3b2a1e208e6fc9004f863ab7daa70c7f"/>
+	</game>
+	<game name="Shredder Chess (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.4) (v8)" id="0125">
+		<description>Shredder Chess (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.4) (v8)</description>
+		<rom name="com.shredderchess.android-8.apk" size="27577199" crc="3f4592d3" md5="a7fb74ea756b297f1f90d95b246955c4" sha1="697a77ccbd3a3d22e615e5752b90517b11a576ee" sha256="b92d404024a1cc9817271dde1ec2d4d0687632db74703ebdbb3da3203bb8dd71"/>
+	</game>
+	<game name="ShuffleBoard DX (World) (v1.32) (v32)" id="0126">
+		<description>ShuffleBoard DX (World) (v1.32) (v32)</description>
+		<rom name="com.entwicklerx.shuffleboard-32.apk" size="5285697" crc="aa7f84e5" md5="45fd4ec678b62fd2db1eb19fa9a2f776" sha1="3fce08b24e3b09263dd547d1f66eaa98b9c9e2c5" sha256="1a0de3445bb76038b91ef93b50114468cf96ed2a9536ce9476103225c0e05812"/>
+	</game>
+	<game name="ShutterFolio (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.11.3) (v106)" id="0127">
+		<description>ShutterFolio (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.11.3) (v106)</description>
+		<rom name="com.snapwood.shutterfolio-106.apk" size="5992569" crc="d6610e3c" md5="ba21b4c0c56aaea8421d94ff983d6a57" sha1="e84ca49f84231bd14653f53f41a2477d67ad75ec" sha256="bf5cb71e1827a8076dadf7de4a183894a25799f69282804ee0d1119162df85ce"/>
+	</game>
+	<game name="Shuttle+ (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (v2.0.3) (v5598)" id="0128">
+		<description>Shuttle+ (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru) (v2.0.3) (v5598)</description>
+		<rom name="com.simplecity.amp_pro-5598.apk" size="5902361" crc="125263d9" md5="4c4003dcf42e531db9f2fccfe3ef1f67" sha1="038f4d6e12868f0271b21e0fa709cd004c38056e" sha256="1e9b02b5caa8fcacf3d6b0afb0908c9faca7c54c29201228cdd4f2b706acc7cb"/>
+	</game>
+	<game name="SideSwype (World) (v1.03) (v4)" id="0365">
+		<description>SideSwype (World) (v1.03) (v4)</description>
+		<rom name="com.radiangames.sideswype-4.apk" size="47477578" crc="5aae5a55" md5="64fbdcadbadbcec80ae5740ac0c2260d" sha1="13a955d4ad2ce53fa8f7e1e010970ff629925d44" sha256="138cb94e8b1cbf5e5369babd932a889fca22ffbf8919da5076cac038cc3a71f0"/>
+	</game>
+	<game name="Simple Camera (World) (Es,It,Ru) (v9.0) (v24)" id="0368">
+		<description>Simple Camera (World) (Es,It,Ru) (v9.0) (v24)</description>
+		<rom name="appinventor.ai_jake4android.SimpleCamera-24.apk" size="760199" crc="d726225e" md5="6b28b3560fce085fa2d877c26127d667" sha1="34fab49e51b8160e0d9f3e73a9dcd4f2372c0d4e" sha256="c209b5112b40b1a7ccbe87a94a79ca1af46447521b8522b8357d2b1ded83e06b"/>
+	</game>
+	<game name="Simple Pleasures (World) (v1.10) (v110)" id="0369">
+		<description>Simple Pleasures (World) (v1.10) (v110)</description>
+		<rom name="com.gabysoft.flippixsimplepleasures-110.apk" size="30334066" crc="3404c7f2" md5="876afbc397916deb1f82659b54bf9dcb" sha1="82a88fd9091d756d2ee91e117fbe7da5e4bb248b" sha256="dc5816cc9899feea82f8f3ac122a039953d2561e3a060895f808ec949db625ad"/>
+	</game>
+	<game name="Simple Rockets (World) (v1.6.13) (v37)" id="0370">
+		<description>Simple Rockets (World) (v1.6.13) (v37)</description>
+		<rom name="com.jundroo.simplerockets-37.apk" size="24900656" crc="9e3b7e90" md5="1b8174a60b752dfba8a7ad2bb40b9bb8" sha1="04e2695eccf87e7cfd42337ee66fec762aeb5198" sha256="07935fd0c2e04313315637150100b3b05c891531790c66d2a3a82a7cf8a5ea2c"/>
+	</game>
+	<game name="Simple-List Pro (World) (v1.5.3) (v9)" id="0366">
+		<description>Simple-List Pro (World) (v1.5.3) (v9)</description>
+		<rom name="com.j5.android.simplelist.pro-9.apk" size="262335" crc="3f5b260e" md5="c478c24921179d85f591041744cb4380" sha1="663871fbcfff656c0d80898f3584a451f6de1f88" sha256="c95b489d027ff578f228f36b1090b97c22f75a83d37d4651f0b14176b6fa4a6c"/>
+	</game>
+	<game name="SimplePhysics (World) (v2.1.2) (v8)" id="0367">
+		<description>SimplePhysics (World) (v2.1.2) (v8)</description>
+		<rom name="com.andrewgarrison.simplephysics-8.apk" size="8673698" crc="8e09d4ca" md5="81b730443ea31313ea3b0c2d0a253713" sha1="df2fd37c87b7fb6407a0f29871a936fce550a52d" sha256="9883678fc90a6a830d0bbed4fe5766956cecf9113bb7dfa0e1afa21f826dc9a9"/>
+	</game>
+	<game name="Sleep as Android - Smart Alarm (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v20160411.6060) (v2001282)" id="0206">
+		<description>Sleep as Android - Smart Alarm (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v20160411.6060) (v2001282)</description>
+		<rom name="com.urbandroid.sleep-2001282.apk" size="11540432" crc="e456ec34" md5="8834bc851a8c7ede12bad31edce40a20" sha1="444b591991e19c779063531f8814ea8b3474c2c1" sha256="eb1081b140c5d1c26471c348ab10158c7b20f6bb32221b5aecc4537f7b6c3541"/>
+	</game>
+	<game name="Sleep as Android - Smart Alarm Unlock (World) (Ja,De,Pl) (v20150114.9090) (v909022)" id="0207">
+		<description>Sleep as Android - Smart Alarm Unlock (World) (Ja,De,Pl) (v20150114.9090) (v909022)</description>
+		<rom name="com.urbandroid.sleep.full.key-909022.apk" size="189818" crc="e95fcf38" md5="70127db52e5956eb4e495a7ba98c8cd2" sha1="2304f36b248d6d28bf48d47e84ef8bade8f464f7" sha256="de5ebddf5867220d949ad45d525907377db5771cdac257109a7477edcb19822f"/>
+	</game>
+	<game name="Smart Booster (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.7) (v763)" id="0129">
+		<description>Smart Booster (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.7) (v763)</description>
+		<rom name="com.rootuninstaller.ramboosterpro-763.apk" size="4123015" crc="6cf1ae4a" md5="467dc0786457a7720aea79b613127713" sha1="d2fb921da809f92bb1d92d4562cf786ab3d07057" sha256="860f141838dec3c5b09297216bda58026e46f0af50a788a43b3fa84883e13361"/>
+	</game>
+	<game name="Smart Food Score Calculator with Fast Food Nutrition Guide Mobile App (World) (v39.0) (v125)" id="0201">
+		<description>Smart Food Score Calculator with Fast Food Nutrition Guide Mobile App (World) (v39.0) (v125)</description>
+		<rom name="name.file.wwplusfastfood-125.apk" size="6850187" crc="ff6fcd48" md5="1d243068c5c0b6bb96d72862d1d8c475" sha1="8adb70d301a6dbcffae2c3c3cf2e318b9140a9de" sha256="2f13b71bb4455028848707798629a4bff3148f3e00227ecc10342dfa83470269"/>
+	</game>
+	<game name="Smart Office 2 (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v2.3.21) (v8273)" id="0130">
+		<description>Smart Office 2 (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v2.3.21) (v8273)</description>
+		<rom name="com.picsel.tgv.app.smartoffice-8273.apk" size="32904680" crc="8ce52f01" md5="d775f7e0352b52330bb630357c4fe8ec" sha1="666d67c50ba6ae2d012bc725989f61c46e07e0d5" sha256="976b53077b0d252a47b302de29ae108e6aec61bd5d64cd505b01d01d4b2d1834"/>
+	</game>
+	<game name="Smart Repeat (World) (Ja) (v1.14) (v15)" id="0131">
+		<description>Smart Repeat (World) (Ja) (v1.14) (v15)</description>
+		<rom name="com.cjbridge.smartrepeat-15.apk" size="405493" crc="0fe7b3fc" md5="abeaf77a9adfa759ef51e844cbc41ed7" sha1="b867697d3efc926ec06bc3884fc70491ec134527" sha256="de8c332b0f5121b5455ef0c32c8ddf30579d5e323c2cc75003a05116a1c9f0c4"/>
+	</game>
+	<game name="SmoothSync for Cloud Calendar (World) (Fr,De,Es,It,Nl,Zh,Pl,Ru) (v1.8.9 (Amazon)) (v83)" id="0132">
+		<description>SmoothSync for Cloud Calendar (World) (Fr,De,Es,It,Nl,Zh,Pl,Ru) (v1.8.9 (Amazon)) (v83)</description>
+		<rom name="org.dmfs.caldav.icloud-83.apk" size="1226557" crc="e4c420ba" md5="6f6b22b72b049b217eb74086a18d82d3" sha1="2435b5303d6cb7eebea9f228a11035bd031c0a76" sha256="e59772a3815644a849d35d4325fae46b8d82cfb129d176b51158149a7cc28dc9"/>
+	</game>
+	<game name="Sonator Pro (World) (It,Pt) (v1.2.1) (v16)" id="0133">
+		<description>Sonator Pro (World) (It,Pt) (v1.2.1) (v16)</description>
+		<rom name="it.lnc.gmn02-16.apk" size="537623" crc="7c397af1" md5="bb49da63ac29294f469a2bb7c58524c2" sha1="62207cd260f9d7d6e54d033e3105a9046b243897" sha256="a6e3e1a9c2afcf12129cc8021eabf2675b7de1388431f9abf306d3401f48919b"/>
+	</game>
+	<game name="Sonic 4 Episode I (World) (v2.2) (v2021112001)" id="0134">
+		<description>Sonic 4 Episode I (World) (v2.2) (v2021112001)</description>
+		<rom name="com.sega.sonic4epi-2021112001.apk" size="99839618" crc="839ce390" md5="4d648611324d2468e3c8d552ddeda00c" sha1="9f962fa6afd83c47201c5f8bc0111745972a0bc8" sha256="d6b64146b01ae2200b877c0317a32f4e3819d151558c714204e5804d82744b32"/>
+	</game>
+	<game name="Sonic 4 Episode I (World) (Zh) (v2.1) (v8000001)" id="0208">
+		<description>Sonic 4 Episode I (World) (Zh) (v2.1) (v8000001)</description>
+		<rom name="com.sega.sonic4epi-8000001.apk" size="98794941" crc="b2c10fb2" md5="abb90f55d38e69867c34985459664646" sha1="98d0fb736211a3e6e5125e0c0ac442a4be4b6c70" sha256="2c0fd6e4626b9ab4160d48a81642d16091a6327e16b5135d12dc0ccb3a3d0f3a"/>
+	</game>
+	<game name="Sonic CD (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.3) (v12)" id="0209">
+		<description>Sonic CD (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.3) (v12)</description>
+		<rom name="com.sega.soniccd-12.apk" size="206060553" crc="94032c8a" md5="b806577d60fd153f18367d515f805259" sha1="a020a6e858ebbe95962180205b803cebac68ecbb" sha256="9dd11dc1c2e38031f612ec1fefa21eeef0402a05b7fc4d17cc054dfa539d793b"/>
+	</game>
+	<game name="Sonic Jump (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.4.1) (v1024289460)" id="0135">
+		<description>Sonic Jump (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.4.1) (v1024289460)</description>
+		<rom name="com.sonicjump.sonicjump-1024289460.apk" size="53402066" crc="44b11c94" md5="67a58b3e474574318f608bc448011dac" sha1="5d9b5e66688238e1dc098baad94cc7cc0ef9c399" sha256="7d85dbb5e13cb7515fb020e0d4e0e5d37bd9b0da6caac6c2cf35f5aafe4509d6"/>
+	</game>
+	<game name="Sonic The Hedgehog (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.6) (v14)" id="0136">
+		<description>Sonic The Hedgehog (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.6) (v14)</description>
+		<rom name="com.sega.sonic1-14.apk" size="56077411" crc="0785031c" md5="8152cfd189bfb466ab4246e1b3a7107f" sha1="86a32c7ebbd75350e491f9a5fb7143572f0d6e73" sha256="2f72fe401d77ed2c7686c0510c56025d3541cd7d8195694c5cb4c1e2159da36b"/>
+	</game>
+	<game name="Sonic The Hedgehog 2 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.0.3) (v14)" id="0137">
+		<description>Sonic The Hedgehog 2 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.0.3) (v14)</description>
+		<rom name="com.sega.sonic2-14.apk" size="64625707" crc="a13c982f" md5="7f2dd53be7585c30e84ec35eacb813a9" sha1="a15bd43735852b0c4f86b6cc588d693ded6ad19d" sha256="6d6784105528feb4c72b1e7eb3fc7a55f8e2c4bcf365b5ac4447f42b16d6f199"/>
+	</game>
+	<game name="Soul Historica (World) (Ja) (v1.1.4) (v114)" id="0138">
+		<description>Soul Historica (World) (Ja) (v1.1.4) (v114)</description>
+		<rom name="kemco.magitec.soulhistorica.amazon-114.apk" size="10299817" crc="ecc7b57d" md5="671cc006f99004996f2e00b85ecebe90" sha1="aadfd3f3fd3cd1a2991e8e3b0b2150c6e3ee7921" sha256="66ac79a9d91bec32cc0a2eaad3b6c1fcd30ee8e8c5dfcc4f94f39d5790b57203"/>
+	</game>
+	<game name="Space Battleships 3D (World) (v1.3) (v4)" id="0139">
+		<description>Space Battleships 3D (World) (v1.3) (v4)</description>
+		<rom name="geeko.bs3ds.apps-4.apk" size="31032655" crc="a25ae678" md5="bba50d96da5e328a7c80fc87c72654b8" sha1="3400e26e9d235b60f9271e7cb829750496f4a941" sha256="94897153cd387966cfdb390d52c55fdfe1ab1bda8d8bcd9ef190b4a0c01c0b61"/>
+	</game>
+	<game name="SPC - Music Sketchpad (World) (v2.2.5) (v225)" id="0119">
+		<description>SPC - Music Sketchpad (World) (v2.2.5) (v225)</description>
+		<rom name="com.mikrosonic.SPC-225.apk" size="9200125" crc="7c427e9f" md5="525a2066d2acaf8ae42883ec503d8140" sha1="938a8fd75804c4ffcd12692a594ac8ea4dc56067" sha256="efc27f9ac59471c32baa9b873efddac8fab8e398c4829e78fc37403e7f3a083b"/>
+	</game>
+	<game name="Speak for me (World) (Zh) (v1.5) (v9)" id="0140">
+		<description>Speak for me (World) (Zh) (v1.5) (v9)</description>
+		<rom name="com.bim.speakforme-9.apk" size="137065" crc="e82a060b" md5="e1e571be3fc7b375e47d953648efab2c" sha1="277e49176b252b35ec25b56b5b62fdd6e420f3f8" sha256="df365df2568a7b76616269cd05190843fcd59305a498b4ed583149a3a67b883d"/>
+	</game>
+	<game name="Speed Muscles (World) (En,Ja,Fr,De,Es,It) (v1.16) (v16)" id="0141">
+		<description>Speed Muscles (World) (En,Ja,Fr,De,Es,It) (v1.16) (v16)</description>
+		<rom name="com.bessiambre.speedMuscles-16.apk" size="3736383" crc="4786664b" md5="17dff56bcaddf2c1e1721dc754589c58" sha1="124644ee73725663fbd7fd14619c5f2a21abcbb5" sha256="372507de3374042c6175f4028a12c3b09c9a4a6b174b0e70ce5fe8a75287711d"/>
+	</game>
+	<game name="Speed Reading Trainer Full (World) (Es) (v21) (v21)" id="0142">
+		<description>Speed Reading Trainer Full (World) (Es) (v21) (v21)</description>
+		<rom name="com.gxr.speedreaderfull-21.apk" size="12159367" crc="c326b510" md5="29ef5b155112d9839d39118a19f6d337" sha1="95482a35bd77dc815a1d0741f3291461109c4af5" sha256="cf04af7f92a55507a66096d35c796e726bd09407178a3a35231719e5725ff6ca"/>
+	</game>
+	<game name="Spin to Win (World) (Es) (v5.0) (v5)" id="0144">
+		<description>Spin to Win (World) (Es) (v5.0) (v5)</description>
+		<rom name="com.agilefusion.spintowin-5.apk" size="25774721" crc="f00dea49" md5="6ac69ed5916ddc280462434149a88133" sha1="fe2104369f1f3f98305fac54e66211b445498e75" sha256="d8ddce2fb017258b6e76e2b6e3275ca2d6ba3725e1d6a92b116bdd945f14b061"/>
+	</game>
+	<game name="SpinArt (World) (Ja,Fr,Es) (v2.3.4) (v237)" id="0143">
+		<description>SpinArt (World) (Ja,Fr,Es) (v2.3.4) (v237)</description>
+		<rom name="com.sts.SpinArt-237.apk" size="6808753" crc="cdb9c042" md5="6b9e33d61c79863ec2f9f00ad09ff115" sha1="be8d94641ff4147c0ccd1dc7e965a40bc84d095b" sha256="0e956337845497be83f55d04acfc13a8a55820f95507a2f51c0de04157c40441"/>
+	</game>
+	<game name="Splashtop Remote Desktop (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v1.6.6.6) (v67032)" id="0145">
+		<description>Splashtop Remote Desktop (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v1.6.6.6) (v67032)</description>
+		<rom name="com.splashtop.remote-67032.apk" size="3106475" crc="5432f1c6" md5="7762cf40fd58551a2b41b7e61dc9b731" sha1="5cc7caa18e35405cb5c20a9562d59a7c31a1ebff" sha256="5a46394399b8df15cb8504f857b658a8e687fed454c721ab6731a732d3171d4c"/>
+	</game>
+	<game name="Splashtop Remote HD (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v1.9.11.2) (v67035)" id="0146">
+		<description>Splashtop Remote HD (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v1.9.11.2) (v67035)</description>
+		<rom name="com.splashtop.remote.pad-67035.apk" size="3715420" crc="07775d51" md5="bf530ebf9e0c0079c38068bb943b9f8e" sha1="2cabfd89c47cfc79f1f9b5477d203790649b8f0e" sha256="315d5906236d4c2f8b8fe0ed55e36dfd4ae8be39cefca7eaef01e92f589addbd"/>
+	</game>
+	<game name="SQLite Editor (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.5) (v22)" id="0120">
+		<description>SQLite Editor (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.5) (v22)</description>
+		<rom name="com.speedsoftware.sqleditor-22.apk" size="489331" crc="99ed4cb4" md5="b879c100ff52344b1bb98942d4dbdbfa" sha1="9df68d844ff28e792b0ae4cf2bb1cf50e005abb4" sha256="0a3d246ca575388f0e65283e8737a9ac85b9fd31bb44ec9a42488400a09f5ea1"/>
+	</game>
+	<game name="Stardew Valley (World) (v1.6.15.0) (v239)" id="0372">
+		<description>Stardew Valley (World) (v1.6.15.0) (v239)</description>
+		<rom name="com.chucklefish.stardewvalley-239.apk" size="388940363" crc="51cebae4" md5="0b8651307142cdf955901b3c3a1dbf07" sha1="87e4b12a7e37658f644a35c0643569682984a2a1" sha256="9f35544fde119d89d37a32fd9ef4db17e5a35b6bb4b0d7cd20bd2b520bf73f55"/>
+	</game>
+	<game name="Starfall Numbers (World) (v1.42) (v1042000)" id="0373">
+		<description>Starfall Numbers (World) (v1.42) (v1042000)</description>
+		<rom name="air.com.starfall.numbers-1042000.apk" size="48599109" crc="752911c1" md5="d247ad8d7f5908c6d2d366c2bb9e7d17" sha1="89530edfae9e119e23763c6616e5c486825f0004" sha256="14ca6a774f4fbe3c9e648f98efe0d8d1be093954d1987d770648b6f198fdb5ad"/>
+	</game>
+	<game name="StarJim (World) (Fr,Es) (v1.1.4) (v4)" id="0371">
+		<description>StarJim (World) (Fr,Es) (v1.1.4) (v4)</description>
+		<rom name="com.joycogames.starjim-4.apk" size="4137835" crc="19120213" md5="8e5325a19b9f19b3eead200f9b29323b" sha1="9f9b80858c58dff90ac55cfdba36b9ed9c943309" sha256="d40367e63f43a0859bd030cc659cd9172cbca7f139c4afc7e6c479f064ed6fb0"/>
+	</game>
+	<game name="Sudoku (World) (v1.4) (v4)" id="0147">
+		<description>Sudoku (World) (v1.4) (v4)</description>
+		<rom name="com.onecwireless.sudoku-4.apk" size="3984031" crc="a522c60c" md5="d2228b7704b1b703a74e0ec7d0bcbfc4" sha1="174ec5979733f67d2a19a65399bd3d3a6c9b7632" sha256="70fffd0ea34d9344da63954bf52a29d6c347140db38cf3aafab4c9fb9f6c2e4d"/>
+	</game>
+	<game name="Sudoku 01 (World) (Ja) (v1.0.7) (v8)" id="0148">
+		<description>Sudoku 01 (World) (Ja) (v1.0.7) (v8)</description>
+		<rom name="com.nikoli.application.easy01-8.apk" size="3132216" crc="0aeae22d" md5="998c4cd12bc04dabaef9024823925170" sha1="a98efdfd27f92431c4ec40223da2c94523c778e9" sha256="e71838e8e8fda7d9a4f4595beb8268ebbf4eae0cdbf59850bf8a00447bbcc61e"/>
+	</game>
+	<game name="Sudoku 10'000 Pro (World) (Ja,Fr,De,Es,Nl,Ko) (v8.7.0) (v124)" id="0149">
+		<description>Sudoku 10'000 Pro (World) (Ja,Fr,De,Es,Nl,Ko) (v8.7.0) (v124)</description>
+		<rom name="com.onegravity.sudoku.sudoku10kplus-124.apk" size="8375684" crc="84570e59" md5="56dd9c294d6f6c6521d8b1586b5e7af8" sha1="52812227e8d94fd2cbbd08d66599717e49a9ef14" sha256="337619bd98ff762c6db5c2171c1c091a0c1b9c62c4a1bc56982d7f603bd3bd10"/>
+	</game>
+	<game name="Sudoku Forever (World) (Ja,Fr,De,Es) (v2.13) (v41)" id="0150">
+		<description>Sudoku Forever (World) (Ja,Fr,De,Es) (v2.13) (v41)</description>
+		<rom name="com.onegravity.sudoku4ever.plus-41.apk" size="3597366" crc="9e32224e" md5="ba18812ae641d026852e287b75f6a17b" sha1="6a8421da9af2e502fea7f20dc727dd0f5839a7d1" sha256="ee31e392ff729f52bfd0e865436bd1fb3fb14a3da9c9919132d0a06f1f3e357d"/>
+	</game>
+	<game name="Super Monkey Ball 2 - Sakura Edition (World) (Ja) (v1.2) (v3)" id="0118">
+		<description>Super Monkey Ball 2 - Sakura Edition (World) (Ja) (v1.2) (v3)</description>
+		<rom name="com.sega.smb2-3.apk" size="16109190" crc="fc2bd775" md5="4969f634df5c1787ce348951fb050456" sha1="56a983b2cdd6a1113c122fe84211b72d6da0242e" sha256="7fe6efd7e870b30350547a994ee371b2b4e4fac8d752f88ed8163fc29d018949"/>
+	</game>
+	<game name="Sweet Drmzzz (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.8) (v2008000)" id="0161">
+		<description>Sweet Drmzzz (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.8) (v2008000)</description>
+		<rom name="air.air.Drmzzz-2008000.apk" size="37416696" crc="d775168d" md5="7de575fe2f458a8904caf01b8824b971" sha1="ce97d6dd5a25d655878ee7ba94f97c7213717c4b" sha256="5bc06e9955a3c16d9b4ea9b5f0832faa2dc14f75f84a5b2ffc8cc64c0d476cf9"/>
+	</game>
+	<game name="Symphony of the Origin (World) (Ja,Ko) (v1.0.7) (v107)" id="0374">
+		<description>Symphony of the Origin (World) (Ja,Ko) (v1.0.7) (v107)</description>
+		<rom name="kemco.wws.soo.amazon-107.apk" size="53335879" crc="1ff1c935" md5="793a4a8f0ea79b45a19fb940c484ecad" sha1="c1e624c9e14383d1226595f54ed81c71054161bf" sha256="14a07981ff3540419d3f700f21b45defe815e56f4ac90669236b9ec2819f940c"/>
+	</game>
+	<game name="Terraria (World) (v1.4.4.9.5) (v301081)" id="0211">
+		<description>Terraria (World) (v1.4.4.9.5) (v301081)</description>
+		<rom name="com.amz.games505.Terraria-301081.apk" size="170369460" crc="2b69fc49" md5="e5f6e887f06673ccfbd5f97d462e42a3" sha1="e4698b50819dc60e2690a92b5820957d5a63e025" sha256="5693869d5349a577b88249db1f8d4092606d85a64b293f78570f7b2294a55e85"/>
+	</game>
+	<game name="TerraTime Pro (World) (En,Ja,Fr,De,Es,Pt,Ru) (v7.0.2) (v70022)" id="0210">
+		<description>TerraTime Pro (World) (En,Ja,Fr,De,Es,Pt,Ru) (v7.0.2) (v70022)</description>
+		<rom name="com.daylightclock.android.license-70022.apk" size="8959603" crc="ad44d7d9" md5="29344a5cba3000a985196f9d7eebb35d" sha1="8b0a88ae3b9d01f8a3216be6a8e6e7d532329192" sha256="14f09093a6fa32931a0218569673bb80fcc0b0279e8fe329e4624a3da44c69e5"/>
+	</game>
+	<game name="TextTwist 2 (World) (v1.4.18) (v1004002)" id="0212">
+		<description>TextTwist 2 (World) (v1.4.18) (v1004002)</description>
+		<rom name="com.realarcade.TT2-1004002.apk" size="7366428" crc="e8ae654a" md5="4729c3044796b8217cb9d335d5baeb80" sha1="d1a25e659178d1e3ed5c12611cf7bce60f25ac1e" sha256="766b88a99697dea0f5e94b887d47eaa7c4358542fe9376e15352c04f71619853"/>
+	</game>
+	<game name="The Amazing Thief (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.9.2) (v8)" id="0213">
+		<description>The Amazing Thief (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.9.2) (v8)</description>
+		<rom name="com.approw.amazingthief-8.apk" size="7619068" crc="b668863f" md5="65cd40f5f9bc9647ad1bf11d9d80fed9" sha1="6cec80cdfe0b28e421a6438ee4a742fbccf74e45" sha256="0ebc9ee7549e24579c7c4d3effa4415138a47100d60099f48b1d47e461ab23db"/>
+	</game>
+	<game name="The Caravan Truxtribute (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.51) (v12)" id="0214">
+		<description>The Caravan Truxtribute (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.51) (v12)</description>
+		<rom name="com.widepixelgames.truxtribute-12.apk" size="6221116" crc="fbaed89d" md5="6ee67e0f3967e0863d9e380465e09416" sha1="0a5f32cc320dcd9826c25652c37d321a632f6799" sha256="ed8c4709bafc3d8ce7061b4851986223ef43e9a1418d8c3acded3c6aca757cd4"/>
+	</game>
+	<game name="The Free Dictionary (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v15.3) (v1509)" id="0277">
+		<description>The Free Dictionary (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v15.3) (v1509)</description>
+		<rom name="thefreedictionary.dictionary-1509.apk" size="10397242" crc="830e8e39" md5="0d6854efc977a85aed2669c5eca07f89" sha1="919e4e03ef074789013356ce5a2d02757235bccf" sha256="9ca3ed4c43ec11b099c6db81a0261d9587905718bd3d8deb1237329ce5e225ea"/>
+	</game>
+	<game name="Thomas Was Alone (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.3) (v10)" id="0375">
+		<description>Thomas Was Alone (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.3) (v10)</description>
+		<rom name="com.bossastudios.twadroid-10.apk" size="147518204" crc="45e25b58" md5="b08014f2e05571ad5678a2419aca7b7a" sha1="fb63511b7786db07a5e0bbd110eb2efef21b4db4" sha256="904419fafe0aaec07a7e6e50ce819c108a851908877bd3af40ca68b8f7ade94c"/>
+	</game>
+	<game name="Three Words (World) (Es) (v3.0) (v4)" id="0376">
+		<description>Three Words (World) (Es) (v3.0) (v4)</description>
+		<rom name="com.thatssopanda.games.threewords-4.apk" size="10846796" crc="2efac8e2" md5="3ea2ae28c88b5fc0d0ac4ee5b267234f" sha1="816c289a12ae046f623eb9809bbc920352f86e02" sha256="0f636a3ea4e8a4705a1fb8f31e1d2de30a5ec99905bf355d3af027e0ff7b34d9"/>
+	</game>
+	<game name="Threes! (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.2.3.4) (v11)" id="0377">
+		<description>Threes! (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.2.3.4) (v11)</description>
+		<rom name="vo.threes.exclaim.amazon-11.apk" size="54681634" crc="ddb9f050" md5="acc26f7578de3f546b2d4b7575632708" sha1="3733735519db4442bb07303572ac02d2fb380158" sha256="25268bd4e9cc3c71dff504ff8556c8df91f698039b287b6dbc4232c4a15d59f9"/>
+	</game>
+	<game name="Time Mysteries 3 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v1.1) (v1005)" id="0378">
+		<description>Time Mysteries 3 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru) (v1.1) (v1005)</description>
+		<rom name="com.artifexmundi.timemysteries3.amzn.full-1005.apk" size="306212446" crc="b4570dd6" md5="b3297963b0002916036a18d4345cf6fa" sha1="b003815a7ae2931cd534d2ed911196efb6722961" sha256="0d8a85e3aff0eedf1f4265272aceb449b56642f5eb074bb6eb7fe0109d16fde4"/>
+	</game>
+	<game name="Timers4Me &amp; Stopwatch Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.8.5) (v8093)" id="0379">
+		<description>Timers4Me &amp; Stopwatch Plus (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v6.8.5) (v8093)</description>
+		<rom name="com.luckyxmobile.timers4meplus-8093.apk" size="22339545" crc="19fbb7fe" md5="600824600fc8f4edd33e971d2f796615" sha1="7780e635c3e1d585e063002f94a80c3fb4b9332d" sha256="01389f175b3019e6bcfee960fcfb78f2fd0b13e0860c8e43204721e3edd6cc39"/>
+	</game>
+	<game name="Tiny Hope (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v0.9.4) (v6)" id="0380">
+		<description>Tiny Hope (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v0.9.4) (v6)</description>
+		<rom name="com.blyts.tinyhope-6.apk" size="26159552" crc="d9cd11aa" md5="5c1f872209ace08b03ee5b0464d16fb6" sha1="68aadfb25f37ff936821b0bcd37da0cb646f0e21" sha256="189d44071c251c70e73a685628ad4af960f5538e95dcaf14db1a95284fe8d388"/>
+	</game>
+	<game name="Tiny Thief (World) (v35)" id="0151">
+		<description>Tiny Thief (World) (v35)</description>
+		<rom name="com.roviostars.tinythief-35.apk" size="47693196" crc="ccb8cc9b" md5="d132f7486763d862526c63558b0c2e26" sha1="b88053a61f46013da40962a11b0681ea565a248a" sha256="76080000fd83c664763cfe83dca931067a1dc3e014bf9a6e94df63a423d7315d"/>
+	</game>
+	<game name="Total Relaxation (World) (v1.4) (v5)" id="0215">
+		<description>Total Relaxation (World) (v1.4) (v5)</description>
+		<rom name="com.app.totalrelaxation-5.apk" size="20906725" crc="e88664ef" md5="7c8804fd51adecd0539c21989fb76486" sha1="88816338b8aa30ef84e2a0d74905ccac91608c48" sha256="4e957c49067a2ce48546d67ed66a2d5f6f26795e0f45302fcc4036ab90e8a9ab"/>
+	</game>
+	<game name="Touch Retouch (World) (Ja,Fr,De,Es,It,Nl,Pt,Zh,Ru) (v3.2.2) (v20)" id="0218">
+		<description>Touch Retouch (World) (Ja,Fr,De,Es,It,Nl,Pt,Zh,Ru) (v3.2.2) (v20)</description>
+		<rom name="com.advasoft.touchretouch-20.apk" size="6229466" crc="faf7fdde" md5="a0aff0250e5f4772466b07d90875f613" sha1="9e6c93caf535b7ac964a2e896273ee6efddcc94f" sha256="555e6b03a7edecedc8b53aa321ed59f625e9333d33bddae8becc06ccb3895999"/>
+	</game>
+	<game name="TouchDraw (World) (v1.11.8.3) (v200046)" id="0216">
+		<description>TouchDraw (World) (v1.11.8.3) (v200046)</description>
+		<rom name="com.elevenworks.touchdraw-200046.apk" size="20631947" crc="41adfcf7" md5="cac52373fa64946b5568b10255a825b4" sha1="04d63e9564c1f729b61e46497f2fb1b33b9dae58" sha256="d7a1692868f2c0e342347b6fb9abc0f7c090c9ff05b00bf84f7a4ea79dd48de1"/>
+	</game>
+	<game name="TouchUp Pro (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Zh,Ko,Pl,Ru) (v2.8.5) (v2008005)" id="0217">
+		<description>TouchUp Pro (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Zh,Ko,Pl,Ru) (v2.8.5) (v2008005)</description>
+		<rom name="air.com.esdot.PhotoTouchupPro-2008005.apk" size="13862907" crc="0ec79ade" md5="1740373e8f94db26c7806800f0778572" sha1="1007ae75299a08d636f01e333357ad88cb966259" sha256="82aebacf31eb8dfed46805aa44cbcf4fe0a7149a9bab9518207606f23b4aa36f"/>
+	</game>
+	<game name="Trainyard (World) (v1.5.1) (v18)" id="0219">
+		<description>Trainyard (World) (v1.5.1) (v18)</description>
+		<rom name="com.noodlecake.trainyard-18.apk" size="8972940" crc="629372f0" md5="c442f7e1081b4a3b599118583de7b421" sha1="0fc8d926472c6b1069e86dd8febed9f57f368deb" sha256="8754224b676029139d2500b4e5d1196610eab30b0fd1b72f72c6a8bc129fd5e9"/>
+	</game>
+	<game name="Trionix (World) (Es) (v1.11) (v12)" id="0220">
+		<description>Trionix (World) (Es) (v1.11) (v12)</description>
+		<rom name="com.fatleg.trionix-12.apk" size="18476666" crc="1fdf6d9a" md5="241a43c80a6eccf45f5df54fea66f044" sha1="9e0bfe6e8390135749b8f5b5fb25eff30a09308c" sha256="77e0432113556f78451fbb05b054a99ab06d1dcf300429cce50be548994fcc60"/>
+	</game>
+	<game name="Triple A (World) (v1.1) (v2)" id="0221">
+		<description>Triple A (World) (v1.1) (v2)</description>
+		<rom name="com.sunglab.triplea-2.apk" size="13956967" crc="4dc604bf" md5="7209fb1697bc7406ad202d50237740d7" sha1="f2236a0d7eb484df3c6333d089cd627bf22a9730" sha256="c9d842f4473401475b9cc711cb35b94f3aea059b88688e1c3dd12f83748b1d13"/>
+	</game>
+	<game name="Tunable - Music Practice Tools (World) (v1.1.2) (v7)" id="0222">
+		<description>Tunable - Music Practice Tools (World) (v1.1.2) (v7)</description>
+		<rom name="com.affinityblue.tunable-7.apk" size="8542520" crc="b67c21a1" md5="801eb595b18c41975518a00b524886b2" sha1="db0134871c4c5c1cef5bda32d8fa0cf4a5e667ce" sha256="4e28a2ea23b3ce3dfe326802e47a59e7c2bdb4a2bb1e2b345cadddc8e0d45026"/>
+	</game>
+	<game name="Turbo (World) (v3)" id="0223">
+		<description>Turbo (World) (v3)</description>
+		<rom name="com.zuuka.turbo-3.apk" size="22996623" crc="11c581cd" md5="5af5aac61271fe25b9b78930b15365dc" sha1="6560765604ad4ad88b953924d28e3ce54282fa94" sha256="db5b6215fcbe70f73ca9325f7f887610b50653450e983e13214df185f78067d5"/>
+	</game>
+	<game name="Type and Talk (World) (v3.1) (v3)" id="0224">
+		<description>Type and Talk (World) (v3.1) (v3)</description>
+		<rom name="com.textvoices-3.apk" size="1051164" crc="17fbc034" md5="a5559acceaeee6bf2b163da10e284b96" sha1="4c95ab259292357895307cf3125c45cc6a37bb1e" sha256="babd322c2309e8f4fea53563ba25de4ce411d7ac3e7bda4d54e725910cf4ba01"/>
+	</game>
+	<game name="Universal Breathing - Pranayama (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.9.0) (v290)" id="0199">
+		<description>Universal Breathing - Pranayama (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v2.9.0) (v290)</description>
+		<rom name="com.saagara.universalpranayama_fire-290.apk" size="25349991" crc="9c02aaba" md5="962dd011615ffdcbae0a72d8fc54a063" sha1="04d69b7c1472c2b193281f555667bec444449ce7" sha256="793c9d41199f54329dafd328998c96789011e74f44f06e9593db6f705a248826"/>
+	</game>
+	<game name="UniWar (World) (Fr,De,Es,It,Pt,Pl,Ru) (v1.17.51) (v117051)" id="0382">
+		<description>UniWar (World) (Fr,De,Es,It,Pt,Pl,Ru) (v1.17.51) (v117051)</description>
+		<rom name="android.uniwar-117051.apk" size="53258636" crc="dae0a40f" md5="6688d59936cd72cd43f48ed53f7e8891" sha1="a28cfd23bc29085fd58280f09c2d7a3a81fb9f59" sha256="3afd11e66a0b8a0fc202a255a97e9ec886dc087955bf52fb9fd8d774661aba6a"/>
+	</game>
+	<game name="Unolingo (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.9.4) (v80)" id="0383">
+		<description>Unolingo (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.9.4) (v80)</description>
+		<rom name="com.equazi.unolingo-80.apk" size="4994033" crc="e03c0527" md5="6864391294d37cea64149e7667da553e" sha1="3de66bfd058d280f69ea6875149264122f15511a" sha256="b240159b27ab505561162cc123636a1a05d6a79aea6042b0c7f2ac7903151717"/>
+	</game>
+	<game name="Unolingo Series 2 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.9.4) (v80)" id="0384">
+		<description>Unolingo Series 2 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.9.4) (v80)</description>
+		<rom name="com.equazi.unolingo.series2-80.apk" size="5001696" crc="aff4616b" md5="f3ef782497f5ea51871a34167c7bbf15" sha1="a7bb36f499e99cacb53eb9b38043efbd923254d0" sha256="0e2c12a7ae4309d219fde2b4a0441a0b9f0e5b8689fa21b618710804ef129f21"/>
+	</game>
+	<game name="WavePad Audio Editor Free (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v@7F081B84) (v203)" id="0225">
+		<description>WavePad Audio Editor Free (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v@7F081B84) (v203)</description>
+		<rom name="com.nchsoftware.pocketwavepad-203.apk" size="33227640" crc="dcf96d38" md5="b3f8281629b89f95f7e6abe324580910" sha1="5d50695310c5785a943e5db1c8155f57aa989f77" sha256="acf045a36516c52809c42778b7dd1b491ba9680dbb2ae261f2dddf94872058c8"/>
+	</game>
+	<game name="Wayward Souls (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.32.3) (v1459878259)" id="0226">
+		<description>Wayward Souls (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.32.3) (v1459878259)</description>
+		<rom name="com.noodlecake.waywardsouls-1459878259.apk" size="56790529" crc="0cfef3c7" md5="93b594513eef8f0137cedba930898cf2" sha1="08670b3c247c559feede2b249ae4973d1ecdcf4e" sha256="88525c0159a04127b56c03cc4530103825a08a517db50c74c0f060aea47862a4"/>
+	</game>
+	<game name="Weather (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru) (v3.2.5) (v32)" id="0227">
+		<description>Weather (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru) (v3.2.5) (v32)</description>
+		<rom name="com.macropinch.swan.pro-32.apk" size="5483209" crc="b298f9e3" md5="f0302c079328588f83a68ab8efafe284" sha1="ba781f6ecdf8929994b6ac855685b7af39e50741" sha256="52c85e4c6c425e5dc75174d2b19687459631faa2a8a0048a7e1b1f4b6d432e2a"/>
+	</game>
+	<game name="Weather Live (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v4.4) (v35)" id="0228">
+		<description>Weather Live (World) (Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (v4.4) (v35)</description>
+		<rom name="com.apalon.weatherlive-35.apk" size="28304543" crc="abd1a1a8" md5="5787af081d48affdc04681ccdee54327" sha1="a62a41515b3bef76f1fd89f4caabe1c0bf4688b0" sha256="1e902ffb9da3fb0e0ac0a25bc12351f78509ffcfcae524a2bf61f87c6ef6110e"/>
+	</game>
+	<game name="Weird Park - Scary Tales (World) (En,Ja,Fr,De,Es,It,Nl,Ru) (v1.2) (v6)" id="0152">
+		<description>Weird Park - Scary Tales (World) (En,Ja,Fr,De,Es,It,Nl,Ru) (v1.2) (v6)</description>
+		<rom name="com.alawar.WeirdPark2.Amazon-6.apk" size="8745804" crc="25a0689a" md5="b4a3ab36698e64ffad4635a154587b91" sha1="914eb059b6d7684366f4ab23c7926060b4b46985" sha256="7618728697b7d74a50d077b3811d817ef35975b355479bb146f2932767630424"/>
+	</game>
+	<game name="WiFi File Explorer PRO (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.13.2) (v92)" id="0386">
+		<description>WiFi File Explorer PRO (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.13.2) (v92)</description>
+		<rom name="com.dooblou.WiFiFileExplorerPRO-92.apk" size="4374130" crc="febefd5a" md5="676c6de4be634f0ab86fce22f0d86388" sha1="646c4063d1c3fb2641e94e00b998b5dca9313828" sha256="17e315a3caaa0b06882aeaa001da5791195ff4bbd8ea5e34470155458ae769be"/>
+	</game>
+	<game name="WiFi Overview 360 Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.60.04) (v151)" id="0387">
+		<description>WiFi Overview 360 Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v4.60.04) (v151)</description>
+		<rom name="de.android.wifioverviewpro-151.apk" size="10947033" crc="d954b460" md5="38203d647ff2181dbb614055054ab9c1" sha1="80b6c54222c9f6bab746d36be5223a2dc3d8705b" sha256="17fc5546e42a9a33a1294eccc61bc534b6cee1a29e3151d8a4f848424e189f85"/>
+	</game>
+	<game name="Wildlife (World) (Es) (v1.10) (v110)" id="0388">
+		<description>Wildlife (World) (Es) (v1.10) (v110)</description>
+		<rom name="com.gabysoft.flippixwildlife-110.apk" size="33865614" crc="449365bd" md5="f5af30a8d2b10406634bd2f7868f42d9" sha1="eabf8bbdabfeaaf1aea6cb32a1f9cdaa9429e050" sha256="bf6b4a154fb9b90ad284733b62e872019870e91e222d4a016e600acdecbd5bf3"/>
+	</game>
+	<game name="Wolfram Alpha (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.4.15.2020052001) (v2020052001)" id="0389">
+		<description>Wolfram Alpha (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.4.15.2020052001) (v2020052001)</description>
+		<rom name="com.wolfram.android.alpha-2020052001.apk" size="6458451" crc="b2d4652c" md5="ff86ffe8b4ef71dba50fab229ce63eb1" sha1="c74fb03b6598441ff79371e207ca4785ac7f90cb" sha256="23ef2c644a6dd93b30af28a0a0b04b00b511d6c5c409ed759b051ceb12fd38a8"/>
+	</game>
+	<game name="Words And Riddles (World) (Fr,De,Es,Ru) (v2.7.6) (v2007006)" id="0385">
+		<description>Words And Riddles (World) (Fr,De,Es,Ru) (v2.7.6) (v2007006)</description>
+		<rom name="air.com.absolutist.scramblewordshd-2007006.apk" size="12009752" crc="a02d49b3" md5="de35ba3fe2ba711dda59409f9564bf12" sha1="18d75b7c0509527b9ed2bb983b338cbf0c547d13" sha256="129cd038e2b183921ceedba608a78124f771ab4eb34a39bbc60c1cce0135ed78"/>
+	</game>
+	<game name="WordsWorth (World) (Fr,De) (v4.3.6) (v105)" id="0390">
+		<description>WordsWorth (World) (Fr,De) (v4.3.6) (v105)</description>
+		<rom name="com.ninetyninegames.wordsworthpaid-105.apk" size="26103381" crc="b6cc1b0a" md5="26d24f4e3c19d1ffbc0fb8dd0141777f" sha1="40912236d7ea078f87173e1cb073e34a3e24aa22" sha256="8fa61f5ae88a00f4c55ead30aebb298b38e023ffeadf873bd0c4c54681ad1d5d"/>
+	</game>
+	<game name="World Escape (World) (v1.0.2) (v1000002)" id="0392">
+		<description>World Escape (World) (v1.0.2) (v1000002)</description>
+		<rom name="air.com.tedven.worldescape-1000002.apk" size="44834543" crc="2f316f6d" md5="2866b1cb717303415c4d58c884ee172e" sha1="b89a33cc13b73ea0486b8e79ae64bbffd3c4c0b5" sha256="f3630a6fbebaf03ff482b5881d1ee000e1b8965f0a6d3180d54bbd05399b0ad9"/>
+	</game>
+	<game name="World of Goo (World) (Ja,Fr,De,Es,It,Nl,Ko) (v1.1.1) (v15)" id="0393">
+		<description>World of Goo (World) (Ja,Fr,De,Es,It,Nl,Ko) (v1.1.1) (v15)</description>
+		<rom name="com.twodboy.worldofgoofull-15.apk" size="49635121" crc="a63ac5e0" md5="e989c1df68e445c8b849da9cd87018d9" sha1="f7862519237cbf3aafea72eb6bf544404fba2e85" sha256="bbfaa92a9f0521fad901d71a8d1b5653fca12f614646a69aa61f59f7ca6f42dd"/>
+	</game>
+	<game name="WorldCraft (World) (v1.4) (v5)" id="0391">
+		<description>WorldCraft (World) (v1.4) (v5)</description>
+		<rom name="com.blueicegames.Worldcraft58-5.apk" size="16629072" crc="1eb6125d" md5="20367cd12c304c6b747733f8ba868bd7" sha1="dc7eeef33749a4ea10f19af71b278fb474e0c01f" sha256="fa504161ae9d3cd929a22c3e971cf903f28724d759a5c088e5146d606e3db59c"/>
+	</game>
+	<game name="Worms 2 - Armageddon (World) (v1.4.1) (v17)" id="0394">
+		<description>Worms 2 - Armageddon (World) (v1.4.1) (v17)</description>
+		<rom name="com.worms2armageddon.app-17.apk" size="99393400" crc="62e2e983" md5="de57088ef58139338873019d8e15eed6" sha1="35a2ada9131f6d9109fdca4a9874bf35fdae3529" sha256="c79dc2241a3d42c3c7e484463102d88f07bda16487cf4cea4322473b1d02985f"/>
+	</game>
+	<game name="Worms 3 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.16) (v16)" id="0395">
+		<description>Worms 3 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.16) (v16)</description>
+		<rom name="com.worms3.app-16.apk" size="182124444" crc="c0725285" md5="428f00ba3cc74eafca3db079a4913308" sha1="c1257c7375ba03a957979762918e20d6e146e842" sha256="d4cc2076061c76470db7bd35bda67738dc5f5e11e2b412e5c858d6ced66c9e48"/>
+	</game>
+	<game name="Worms 4 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.432182) (v26)" id="0396">
+		<description>Worms 4 (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.0.432182) (v26)</description>
+		<rom name="com.worms4.app-26.apk" size="292060295" crc="06022bb2" md5="f865361b46220d44d89192939f1d9266" sha1="cef9f99e41f082e976bd995caa66eac94b7ba827" sha256="a011d25596f8043b87ff79b173ace57c0e6532848bcf2527aca3cfc1822b99e8"/>
+	</game>
+	<game name="XiiaLive Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.3.2.1) (v30059)" id="0153">
+		<description>XiiaLive Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v3.3.2.1) (v30059)</description>
+		<rom name="com.vblast.xiialive.full-30059.apk" size="14937146" crc="6023384e" md5="8bf60a44761b2a4cce06796c7eed3c2b" sha1="e1f704c51cc2ef9bf6b98ad99625717376e5f8ad" sha256="68b059a5afe627ccbb4643ca3c468438ba709e0a9eccbda101da82c4e6301609"/>
+	</game>
+	<game name="XnExpress Pro (World) (Fr,Es) (v1.61) (v31)" id="0154">
+		<description>XnExpress Pro (World) (Fr,Es) (v1.61) (v31)</description>
+		<rom name="com.xnview.XnExpressPro-31.apk" size="2159956" crc="f372e317" md5="8f4494a272e9c6cbace3f99ef9677009" sha1="09cb47f6e8a1453610d7e69c6c43d1c91b6c290c" sha256="12a377fa1140a1b1e43d5a69c1e54ae96c527ff330fa2d0c30e8e319cbb69fa7"/>
+	</game>
+	<game name="XnInstant Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.19) (v19)" id="0155">
+		<description>XnInstant Pro (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,El) (v1.19) (v19)</description>
+		<rom name="com.xnview.XnInstantPro-19.apk" size="8493859" crc="8b8266db" md5="3eb34ecbc36c5e706ecf1f080f8a6df8" sha1="c25c8b1ecf20d24637c065351a666fe61b60d5ef" sha256="fc885daf5167029ba85d6322064e2c3dcb06b5dbfe6631c34df12710feabf7b5"/>
+	</game>
+	<game name="XnRetro Pro (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Zh,Ko,Pl,Ru) (v1.74) (v67)" id="0156">
+		<description>XnRetro Pro (World) (Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Zh,Ko,Pl,Ru) (v1.74) (v67)</description>
+		<rom name="com.xnview.XnRetroPro-67.apk" size="8862874" crc="0e9c8175" md5="b30f655522242b321170010d2494f706" sha1="67535a00a056b361234dfc1b3f12a0d62d51ba60" sha256="117c8af973ef7ee29714c743bb819e29344041937cf1714603297eeccbf1c764"/>
+	</game>
+	<game name="Yoga (World) (v3.1.0) (v30100)" id="0397">
+		<description>Yoga (World) (v3.1.0) (v30100)</description>
+		<rom name="com.rainfrog.yoga-30100.apk" size="44009821" crc="6fc60fa2" md5="508cea7ce3a8256a6430d0c46c870402" sha1="8ed95877ff0f2a5c745f13a270c5dc5b27980601" sha256="705806426ff51e89b3ce4e3a43f21af9b0b19842c74e7c5812d8387c10bf870c"/>
+	</game>
+	<game name="You Must Escape (World) (v1.0.7) (v1000007)" id="0398">
+		<description>You Must Escape (World) (v1.0.7) (v1000007)</description>
+		<rom name="air.com.mobestmedia.youmustescape-1000007.apk" size="56895343" crc="e5ec0136" md5="52670c0949e02afe770eb0f8afd49da2" sha1="a5897ebd48e96603d84110e82e6ae39dbaa2de89" sha256="3894b44b20cd28d727c94c91d0756282835f7a23ee4edfff8430aedb7c6de02a"/>
+	</game>
+	<game name="ZArchiver (World) (Ja,Fr,De,Es,It,Pt,Da,Zh,Ko,Pl,Ru,El) (v1.0.8) (v10835)" id="0157">
+		<description>ZArchiver (World) (Ja,Fr,De,Es,It,Pt,Da,Zh,Ko,Pl,Ru,El) (v1.0.8) (v10835)</description>
+		<rom name="ru.zdevs.zarchiver-10835.apk" size="5233305" crc="b2603454" md5="9a657b7549f384a175fe4d2ce2dc1709" sha1="63071c61965577736196d5a2a1feb8fcf505d370" sha256="0a6716ddd6bc5a2b500bc46af635b105d132f34f7686ddb6115065aa62d1d054"/>
+	</game>
+	<game name="ZDefense (World) (Zh) (v1.6.7) (v21)" id="0158">
+		<description>ZDefense (World) (Zh) (v1.6.7) (v21)</description>
+		<rom name="mobi.zstudio.avi.full-21.apk" size="7541716" crc="525512dd" md5="889375cab7d15f9e60fe54a6b30fd22d" sha1="0c328e4c4895635a98fecec5ca8c07fcbb06f494" sha256="17dcf88d7b4e45c3de30a7199b05c78dac57d064d1122d7962f1f115a3d3a7e9"/>
+	</game>
+	<game name="Zen (World) (v1.8) (v8)" id="0160">
+		<description>Zen (World) (v1.8) (v8)</description>
+		<rom name="com.soapcreative.zen-8.apk" size="17553196" crc="6b713d23" md5="aab313c361fe586874fb9eb1cd11f404" sha1="1318c0b34b5d8d6bdf0828da09d421804f6c67be" sha256="ce37aa79b8918c7369098131c64b6dc3fec7f2a5be63eb8280dfaf4721228010"/>
+	</game>
+	<game name="Zengrams (World)" id="0159">
+		<description>Zengrams (World)</description>
+		<rom name="com.andreasboye.zengram-1.apk" size="16187164" crc="863ab98f" md5="547cdc4ab3cfb4e81ae8be32151666f0" sha1="53ea641834ad7b33900c9c6414f995ac67a2bdaf" sha256="142b7cc41bbc6636b591367a58e89b2f0aa3d5758481447980c0ef01a9cb652e"/>
+	</game>
+	<game name="Zig Zag Zombie (World) (v1.1.0) (v77)" id="0229">
+		<description>Zig Zag Zombie (World) (v1.1.0) (v77)</description>
+		<rom name="com.parttimeevil.zigzagzombie-77.apk" size="19848627" crc="c01be966" md5="8c7ee369c57618f4b4ce98cddd8434da" sha1="4d53a1d73ff005e01b0138b54678e01c4d455b2d" sha256="b86d8830dea001d7ab5a15c392e5bbe562d3d64592956b48facf07a7e2d130e7"/>
+	</game>
+	<game name="Zig Zag Zombie (World) (v1.1.3) (v98)" id="0230">
+		<description>Zig Zag Zombie (World) (v1.1.3) (v98)</description>
+		<rom name="com.parttimeevil.zigzagzombie-98.apk" size="21304452" crc="9d616d9f" md5="9a49b264f5cd3060c7ab48b32eee6189" sha1="f8918f0f0a22b6162844b37d934ae3cb032a8cdb" sha256="ee354fbbacc461cfdd54d256c43032ead3313c79a96d4520599515f9dc053637"/>
+	</game>
+	<game name="Zombie Highway (World) (v1.5) (v10)" id="0231">
+		<description>Zombie Highway (World) (v1.5) (v10)</description>
+		<rom name="com.auxbrain.zombie_highway-10.apk" size="21160718" crc="0b167aa7" md5="ff4368aa850ce7d24b7eedf6b86745cf" sha1="d2fe5f28f0081faf8be7a62b45d9187325edefb0" sha256="8077ee60f0868328909fa659c455310947a97150f08ba76721e3f55c5f317733"/>
+	</game>
+	<game name="Zombie Madness (World) (Es)" id="0232">
+		<description>Zombie Madness (World) (Es)</description>
+		<rom name="com.pixeldelight.games.zombiemadness-1.apk" size="13286683" crc="90ffaf52" md5="d6fdfc0c85dbbcab7383b23b4c0be169" sha1="ad23ef71fc40ee5456aa98761b8a9e5e2143bd12" sha256="60d4334d1420d5ba2a2a7678cb46867e93356479262ffcc203a050d4abadc9c1"/>
+	</game>
+	<game name="Zooistry (World) (v1.5.0) (v1203)" id="0234">
+		<description>Zooistry (World) (v1.5.0) (v1203)</description>
+		<rom name="com.TheHohngCompany.Zooistry-1203.apk" size="34900452" crc="7cd27c6e" md5="5970672889a2309d48d16698363f6cf9" sha1="9026ab95097cf375c3131a9ef75ff6291e97b5a1" sha256="74121d33f4f1b9f30c10fb6633a8c827438dc53b969fd485bac7a761e4da5b8f"/>
+	</game>
+</datafile>

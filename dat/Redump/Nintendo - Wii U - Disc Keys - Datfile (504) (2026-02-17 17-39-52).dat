@@ -1,0 +1,2030 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This is a DownloadEmAll datafile-->
+<datafile>
+  <header>
+    <name>Nintendo - Wii U - Disc Keys</name>
+    <description>Nintendo - Wii U - Disc Keys - Datfile (504) (2026-02-17 17-39-52)</description>
+    <version>2026-02-17 17-39-52</version>
+    <date>2026-02-17 17-39-52</date>
+    <author>DownloadEmAll-GUI v1.8.24 - Redump.org</author>
+    <homepage>http://redump.org</homepage>
+    <url></url>
+    <comment>Redump - DownloadEmAll</comment>
+  </header>
+  <game name="007 Legends (Europe) (En,Fr,De)">
+    <description>007 Legends (Europe) (En,Fr,De)</description>
+    <rom name="007 Legends (Europe) (En,Fr,De).key" size="16" crc="ee485a2b" md5="b9ca680479a857541cd7ce15a191d06a" sha1="a87e442a460268c0b969686529ef6d639d8fe05b" />
+  </game>
+  <game name="007 Legends (USA) (En,Fr)">
+    <description>007 Legends (USA) (En,Fr)</description>
+    <rom name="007 Legends (USA) (En,Fr).key" size="16" crc="01986c65" md5="9033c7c85458a36985f5cfb07f095aa5" sha1="13a5f98e811ffd8b2f214f563e9eb0fa2ba1a67e" />
+  </game>
+  <game name="ABC Wipeout - Create &amp; Crash (USA)">
+    <description>ABC Wipeout - Create &amp; Crash (USA)</description>
+    <rom name="ABC Wipeout - Create &amp; Crash (USA).key" size="16" crc="812ca0b8" md5="fca6dc1c1930a8263ba665b49e746fab" sha1="cd001adf20ea9198385fcda762bad45a810d6bb2" />
+  </game>
+  <game name="ABC Wipeout 3 (USA)">
+    <description>ABC Wipeout 3 (USA)</description>
+    <rom name="ABC Wipeout 3 (USA).key" size="16" crc="20dab5cc" md5="6a6702bb438db5cc9249046b766921d4" sha1="4bc3ef9ae3f413b8b7b6a4121c8a1c6c662eb281" />
+  </game>
+  <game name="Adventure Time - Explore the Dungeon Because I Don't Know! (Europe) (En,Fr,De,Es,It)">
+    <description>Adventure Time - Explore the Dungeon Because I Don't Know! (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Adventure Time - Explore the Dungeon Because I Don't Know! (Europe) (En,Fr,De,Es,It).key" size="16" crc="87dfeace" md5="87d25ddd852c8ac638de88d5533259a9" sha1="67f820ba507bccf3f656dce322cca2a4651e6931" />
+  </game>
+  <game name="Adventure Time - Explore the Dungeon Because I Don't Know! (USA) (En,Fr,Es)">
+    <description>Adventure Time - Explore the Dungeon Because I Don't Know! (USA) (En,Fr,Es)</description>
+    <rom name="Adventure Time - Explore the Dungeon Because I Don't Know! (USA) (En,Fr,Es).key" size="16" crc="2758e864" md5="23f42ec3ab149ff4219386dbde07bdf6" sha1="82db2f0d1a15db5b1c711f00af1c00b6f320570a" />
+  </game>
+  <game name="Adventure Time - Finn &amp; Jake Investigations (Europe) (En,Fr,De,Es,It)">
+    <description>Adventure Time - Finn &amp; Jake Investigations (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Adventure Time - Finn &amp; Jake Investigations (Europe) (En,Fr,De,Es,It).key" size="16" crc="cc158244" md5="32d18e20558e4655046fe84949ced7ce" sha1="abe72b2e31beecf2fa1bb6177253d20a99f25591" />
+  </game>
+  <game name="Adventure Time - Finn &amp; Jake Investigations (USA) (En,Fr,Es,Pt)">
+    <description>Adventure Time - Finn &amp; Jake Investigations (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Adventure Time - Finn &amp; Jake Investigations (USA) (En,Fr,Es,Pt).key" size="16" crc="734d8842" md5="9101ade204243e0ec4cb8ff0ffcf4084" sha1="76565e376ea956806660728ca3b4ab68f266aea5" />
+  </game>
+  <game name="Amazing Spider-Man 2, The (Europe) (En,Fr,De,Es,It)">
+    <description>Amazing Spider-Man 2, The (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Amazing Spider-Man 2, The (Europe) (En,Fr,De,Es,It).key" size="16" crc="3beb81da" md5="6ccf75e007d498758f8241e8b39c6c97" sha1="2ee29516145c4c2620940e7b8e44a22bf3c446f5" />
+  </game>
+  <game name="Amazing Spider-Man 2, The (USA) (En,Fr)">
+    <description>Amazing Spider-Man 2, The (USA) (En,Fr)</description>
+    <rom name="Amazing Spider-Man 2, The (USA) (En,Fr).key" size="16" crc="fe11645b" md5="a9462090f7b71a00b2b57e752d25c074" sha1="3b3ba41d621714477413f20283d496839cca7fa5" />
+  </game>
+  <game name="Amazing Spider-Man, The - Ultimate Edition (Europe) (En,Fr,De,Es,It)">
+    <description>Amazing Spider-Man, The - Ultimate Edition (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Amazing Spider-Man, The - Ultimate Edition (Europe) (En,Fr,De,Es,It).key" size="16" crc="342f90ac" md5="beb003ed506e35e15ce920d05d64e72f" sha1="c78c906a125c703496daeadb9dc2018d60af5413" />
+  </game>
+  <game name="Amazing Spider-Man, The - Ultimate Edition (USA) (En,Fr,Es)">
+    <description>Amazing Spider-Man, The - Ultimate Edition (USA) (En,Fr,Es)</description>
+    <rom name="Amazing Spider-Man, The - Ultimate Edition (USA) (En,Fr,Es).key" size="16" crc="1edb8e5e" md5="f6848e4470d837a4618de7987de97ac1" sha1="eda70904727eafaea39c3a69fa165229e4a5ff62" />
+  </game>
+  <game name="Angry Birds Star Wars (Europe) (En,Fr,De,Es,It)">
+    <description>Angry Birds Star Wars (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Angry Birds Star Wars (Europe) (En,Fr,De,Es,It).key" size="16" crc="d51f9e6a" md5="7847d1aeb8eaf54700c873982dbcbf75" sha1="71150ecb1aea6d1d4e74810fd79470cef53ce522" />
+  </game>
+  <game name="Angry Birds Star Wars (USA) (En,Fr,Es,Pt)">
+    <description>Angry Birds Star Wars (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Angry Birds Star Wars (USA) (En,Fr,Es,Pt).key" size="16" crc="5819aaed" md5="2e2ee405ca75bb4cf2501ebc7e4b5b38" sha1="284d55585818977b0142a3524a3f005313952ead" />
+  </game>
+  <game name="Angry Birds Trilogy (Europe) (En,Fr,De,Es,It)">
+    <description>Angry Birds Trilogy (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Angry Birds Trilogy (Europe) (En,Fr,De,Es,It).key" size="16" crc="ff45c047" md5="11e47e8c4054502a8fbcabed79383c84" sha1="a9af65dae7658359a7fd59a44d164610a8a56967" />
+  </game>
+  <game name="Angry Birds Trilogy (USA) (En,Fr)">
+    <description>Angry Birds Trilogy (USA) (En,Fr)</description>
+    <rom name="Angry Birds Trilogy (USA) (En,Fr).key" size="16" crc="0577b016" md5="0af26bdbbd25f4306ae3686b6907c945" sha1="81eecfee2301996b184c9a78eda1dd1cdff5bae9" />
+  </game>
+  <game name="Animal Crossing - Amiibo Festival (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Animal Crossing - Amiibo Festival (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Animal Crossing - Amiibo Festival (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="391328c8" md5="4689e03591bd023be7b7c152bd9f9cc4" sha1="b7c01ae7ee72c0cf1c47a9f0fb76688c7576615f" />
+  </game>
+  <game name="Animal Crossing - Amiibo Festival (USA) (En,Fr,Es)">
+    <description>Animal Crossing - Amiibo Festival (USA) (En,Fr,Es)</description>
+    <rom name="Animal Crossing - Amiibo Festival (USA) (En,Fr,Es).key" size="16" crc="1f252215" md5="ef9fb7e4d7f0fe1cb09d2d20ae0f9182" sha1="b917f8df5c6e9a61a9345e1864057e303fcb6ebc" />
+  </game>
+  <game name="Art Academy - Atelier (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Art Academy - Atelier (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Art Academy - Atelier (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="811394f6" md5="79862065dc7133dcac74fa5c17426764" sha1="fc8569f894598c00ee3893eadabb7ccc38c4bbb6" />
+  </game>
+  <game name="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Ru)">
+    <description>Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
+    <rom name="Assassin's Creed III (Europe) (En,Fr,De,Es,It,Nl,Ru).key" size="16" crc="0acf4ef1" md5="297148aeb80079ec2fe5572ca2086504" sha1="f6c0d8b2beee1790c5d9e0b9256a511269905356" />
+  </game>
+  <game name="Assassin's Creed III (Japan)">
+    <description>Assassin's Creed III (Japan)</description>
+    <rom name="Assassin's Creed III (Japan).key" size="16" crc="3246cf30" md5="791039a049dd42980282bdb57cb35b04" sha1="f31c5b457b84b7d68b24b5174eb5873f61c23a67" />
+  </game>
+  <game name="Assassin's Creed III (USA) (En,Fr,Es,Pt)">
+    <description>Assassin's Creed III (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Assassin's Creed III (USA) (En,Fr,Es,Pt).key" size="16" crc="75487890" md5="01d0f006c3ef1b32cfc0e0cd20efe9a5" sha1="cf4ee018e2b8207ca584d729b1802efa09a72402" />
+  </game>
+  <game name="Assassin's Creed IV - Black Flag (Europe) (En,Fr,De,Es,It,Nl,Ru)">
+    <description>Assassin's Creed IV - Black Flag (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
+    <rom name="Assassin's Creed IV - Black Flag (Europe) (En,Fr,De,Es,It,Nl,Ru).key" size="16" crc="be260fac" md5="59c60810f1e32b87a4f59c069e5f1398" sha1="c0f412d3911491013d43ea153b20bcc88087fc60" />
+  </game>
+  <game name="Assassin's Creed IV - Black Flag (Japan)">
+    <description>Assassin's Creed IV - Black Flag (Japan)</description>
+    <rom name="Assassin's Creed IV - Black Flag (Japan).key" size="16" crc="3ab59834" md5="83d6caadca2f07ad90ac20df042dca0e" sha1="d46b657fc45a53cb8e4d47e5a083d0fd0322870f" />
+  </game>
+  <game name="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)">
+    <description>Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Assassin's Creed IV - Black Flag (USA) (En,Fr,Es,Pt).key" size="16" crc="427dd33a" md5="691373fe9612bbbe3a66bedca345ed35" sha1="cc921582449c89d966edad04ed014da4711cee8d" />
+  </game>
+  <game name="Axiom Verge (USA) (En,Fr,De,Es,It,Pt)">
+    <description>Axiom Verge (USA) (En,Fr,De,Es,It,Pt)</description>
+    <rom name="Axiom Verge (USA) (En,Fr,De,Es,It,Pt).key" size="16" crc="a4394f3e" md5="212e6811e0f461bc7f01ab6abcca5100" sha1="44eed6f66b5cfe6bf282f7be28dca45e0713c0e4" />
+  </game>
+  <game name="Baila Latino (Europe) (En,Fr,De,Es,It)">
+    <description>Baila Latino (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Baila Latino (Europe) (En,Fr,De,Es,It).key" size="16" crc="2ad0e383" md5="6e6bb59b9c2056f633b2acf1fa0b563c" sha1="098c0005c448de21cc3cda2605e0a88a86400411" />
+  </game>
+  <game name="Barbie &amp; Her Sisters - Puppy Rescue (Europe) (En,Fr,De,Es,It)">
+    <description>Barbie &amp; Her Sisters - Puppy Rescue (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Barbie &amp; Her Sisters - Puppy Rescue (Europe) (En,Fr,De,Es,It).key" size="16" crc="d96c03fb" md5="3e7f964abd10028f9081c46b596b5976" sha1="0090e2cb4dda0bc2da0f52d9de88c90aaee59712" />
+  </game>
+  <game name="Barbie &amp; Her Sisters - Puppy Rescue (USA) (En,Fr,Es,Pt)">
+    <description>Barbie &amp; Her Sisters - Puppy Rescue (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Barbie &amp; Her Sisters - Puppy Rescue (USA) (En,Fr,Es,Pt).key" size="16" crc="220c9aa4" md5="ff86205c3730b01fb4c9e4e68bf14790" sha1="ec532bebe786ea41dbc9e8e74508f4b079358c1d" />
+  </game>
+  <game name="Barbie Dreamhouse Party (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+    <description>Barbie Dreamhouse Party (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+    <rom name="Barbie Dreamhouse Party (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).key" size="16" crc="248b2722" md5="48e7ff5aab54866011c4802dded4b436" sha1="7f7e9504ea93846106b0c37ce15c75f9cfa8cfdb" />
+  </game>
+  <game name="Barbie Dreamhouse Party (USA) (En,Fr,Es)">
+    <description>Barbie Dreamhouse Party (USA) (En,Fr,Es)</description>
+    <rom name="Barbie Dreamhouse Party (USA) (En,Fr,Es).key" size="16" crc="fe278e53" md5="7039cd45d921f06a513dedd507096d69" sha1="a88c98abf3cf3896c7c42de9dd31ae4dcd25f0b8" />
+  </game>
+  <game name="Batman - Arkham City - Armored Edition (Japan)">
+    <description>Batman - Arkham City - Armored Edition (Japan)</description>
+    <rom name="Batman - Arkham City - Armored Edition (Japan).key" size="16" crc="4228b306" md5="7f4b0018699efd4ab8641ff72d7807ab" sha1="5057bc6be2183148d9d0217a4ca7c63b8eaaf0fa" />
+  </game>
+  <game name="Batman - Arkham City - Armored Edition (USA) (En,Fr,Es,Pt)">
+    <description>Batman - Arkham City - Armored Edition (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Batman - Arkham City - Armored Edition (USA) (En,Fr,Es,Pt).key" size="16" crc="eba32c83" md5="664c2e44066311dd050a68e810108d5b" sha1="73a349bc2a110c6a9b4c9ff9eb22861f176b10c3" />
+  </game>
+  <game name="Batman - Arkham City - Armoured Edition (Europe) (En,Fr,De,Es,It,Ru)">
+    <description>Batman - Arkham City - Armoured Edition (Europe) (En,Fr,De,Es,It,Ru)</description>
+    <rom name="Batman - Arkham City - Armoured Edition (Europe) (En,Fr,De,Es,It,Ru).key" size="16" crc="83ea3b97" md5="e5fe4cf28cb6aa7227e0ea97aff12f26" sha1="697aff5cfd60d26be748e121baeabf2ec36a2152" />
+  </game>
+  <game name="Batman - Arkham Origins (Europe) (En,Fr,De,Es,It,Ru)">
+    <description>Batman - Arkham Origins (Europe) (En,Fr,De,Es,It,Ru)</description>
+    <rom name="Batman - Arkham Origins (Europe) (En,Fr,De,Es,It,Ru).key" size="16" crc="08ef69fe" md5="4157327a9cca14ec0a51eb53a777053a" sha1="feeac52f84ff6336b1b8bad93f2e2c307cca5176" />
+  </game>
+  <game name="Batman - Arkham Origins (Japan)">
+    <description>Batman - Arkham Origins (Japan)</description>
+    <rom name="Batman - Arkham Origins (Japan).key" size="16" crc="209f3ee0" md5="a1082dc99cb34e3afb6bc5b2c1c0ba86" sha1="6113a9de34693ac4b0742e213f1708f2f7f5fa72" />
+  </game>
+  <game name="Batman - Arkham Origins (USA) (En,Fr,Es)">
+    <description>Batman - Arkham Origins (USA) (En,Fr,Es)</description>
+    <rom name="Batman - Arkham Origins (USA) (En,Fr,Es).key" size="16" crc="bd93e108" md5="9f56c0e3a5148dae9f1eb9b9c40b1cac" sha1="b5b31d8f3d743568ee5e684f3480c91ca531aab0" />
+  </game>
+  <game name="Bayonetta (Europe) (En,Ja,Fr,De,Es,It)">
+    <description>Bayonetta (Europe) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Bayonetta (Europe) (En,Ja,Fr,De,Es,It).key" size="16" crc="b6091fc9" md5="32569a89e5c898a939041b5625fab630" sha1="1468297979e4f96ca2d18de25f7b3b7d2e7887f6" />
+  </game>
+  <game name="Bayonetta (Japan) (Rev 1)">
+    <description>Bayonetta (Japan) (Rev 1)</description>
+    <rom name="Bayonetta (Japan) (Rev 1).key" size="16" crc="488d9858" md5="876659aed8f0edbbce3398627f3def86" sha1="2da9b7c53d7ee570414d2cfb5868ba794f551e67" />
+  </game>
+  <game name="Bayonetta (USA) (En,Ja,Fr,De,Es,It)">
+    <description>Bayonetta (USA) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Bayonetta (USA) (En,Ja,Fr,De,Es,It).key" size="16" crc="ddfbe0d3" md5="9d92b50f37589c83180689d0fb08da1c" sha1="002b1a53faef32796441f940d98bdd791805646a" />
+  </game>
+  <game name="Bayonetta 2 (Europe) (En,Ja,Fr,De,Es,It)">
+    <description>Bayonetta 2 (Europe) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Bayonetta 2 (Europe) (En,Ja,Fr,De,Es,It).key" size="16" crc="54f6a81b" md5="876bcfe9c5d7581c32db289d79594f2b" sha1="580f9f6a43221da491e99410549380a6177503b0" />
+  </game>
+  <game name="Bayonetta 2 (Japan)">
+    <description>Bayonetta 2 (Japan)</description>
+    <rom name="Bayonetta 2 (Japan).key" size="16" crc="f8f8893b" md5="d6f411e5bcb6edff35ae68bb1496865e" sha1="87bdead1983f9fbfe0d1c4dd12b8aa900198a196" />
+  </game>
+  <game name="Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It)">
+    <description>Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).key" size="16" crc="b2b40e5b" md5="ebe36078469ae30c4b7f0237d682ed1f" sha1="89c9d2b9b9fda416c76b3675a44eabd7678b97b2" />
+  </game>
+  <game name="Ben 10 - Omniverse (Europe) (En,Fr,De,Es,It,Ru)">
+    <description>Ben 10 - Omniverse (Europe) (En,Fr,De,Es,It,Ru)</description>
+    <rom name="Ben 10 - Omniverse (Europe) (En,Fr,De,Es,It,Ru).key" size="16" crc="49bdb511" md5="22ee383f5b95cf2af697924a667b4984" sha1="7236db3959b03b6d95d86dcd7bcbe6c0c92fad9c" />
+  </game>
+  <game name="Ben 10 - Omniverse (USA) (En,Fr,Es)">
+    <description>Ben 10 - Omniverse (USA) (En,Fr,Es)</description>
+    <rom name="Ben 10 - Omniverse (USA) (En,Fr,Es).key" size="16" crc="ee22dd02" md5="8bfa1b7156a92d0b234c104521531a7b" sha1="400ba9f576db8714870fcfdc5dfc309aed52ca22" />
+  </game>
+  <game name="Ben 10 - Omniverse 2 (Europe) (En,Fr,De,Es,It)">
+    <description>Ben 10 - Omniverse 2 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Ben 10 - Omniverse 2 (Europe) (En,Fr,De,Es,It).key" size="16" crc="bc099072" md5="f84819c3195392bbac28423070bacf48" sha1="32199e35ec5f7fb1ec33c067687c4eca7671467d" />
+  </game>
+  <game name="Ben 10 - Omniverse 2 (USA) (En,Fr,Es)">
+    <description>Ben 10 - Omniverse 2 (USA) (En,Fr,Es)</description>
+    <rom name="Ben 10 - Omniverse 2 (USA) (En,Fr,Es).key" size="16" crc="72bc7f2a" md5="aa4a21c6b22caa8f42c02319ab9b169a" sha1="7da924e9d04beead9a25a92a03725eb0985766a6" />
+  </game>
+  <game name="Biohazard - Revelations - Unveiled Edition (Japan) (Rev 1)">
+    <description>Biohazard - Revelations - Unveiled Edition (Japan) (Rev 1)</description>
+    <rom name="Biohazard - Revelations - Unveiled Edition (Japan) (Rev 1).key" size="16" crc="68ddf7ca" md5="a3d568f5779d41de95111f66a2497f62" sha1="68755558f7d9140071f0218992693af36a64951c" />
+  </game>
+  <game name="Book of Unwritten Tales 2, The (Europe) (En,Fr,De,Es,It)">
+    <description>Book of Unwritten Tales 2, The (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Book of Unwritten Tales 2, The (Europe) (En,Fr,De,Es,It).key" size="16" crc="8ec91adc" md5="d6d6793109700394cb9d29d2ac70b9c4" sha1="26466f0fcef32b0106542e42cfa3835663773ea3" />
+  </game>
+  <game name="Book of Unwritten Tales 2, The (USA) (En,Fr,De,Es,It,Pl)">
+    <description>Book of Unwritten Tales 2, The (USA) (En,Fr,De,Es,It,Pl)</description>
+    <rom name="Book of Unwritten Tales 2, The (USA) (En,Fr,De,Es,It,Pl).key" size="16" crc="16b92baa" md5="12c90e1277b9a98479a96bfb62c9f2f9" sha1="9a1733e96ec20e14f534c61f033b720edba1ca3c" />
+  </game>
+  <game name="Brunswick Pro Bowling (USA)">
+    <description>Brunswick Pro Bowling (USA)</description>
+    <rom name="Brunswick Pro Bowling (USA).key" size="16" crc="719f1714" md5="016d06c02e39695b6080fff6e5e755d0" sha1="89fd61399c480b3447481a188651c6c28017bfd1" />
+  </game>
+  <game name="Cabela's Big Game Hunter - Pro Hunts (USA)">
+    <description>Cabela's Big Game Hunter - Pro Hunts (USA)</description>
+    <rom name="Cabela's Big Game Hunter - Pro Hunts (USA).key" size="16" crc="319ee4aa" md5="d4c16980ae44ea21c73396b0bfb58855" sha1="ed16591bcb0fa991d1984f348d5b1da3f3fe6483" />
+  </game>
+  <game name="Cabela's Dangerous Hunts 2013 (Europe) (En,Fr,De,It)">
+    <description>Cabela's Dangerous Hunts 2013 (Europe) (En,Fr,De,It)</description>
+    <rom name="Cabela's Dangerous Hunts 2013 (Europe) (En,Fr,De,It).key" size="16" crc="70463097" md5="42772f14bfa340e6ebf266a8461e43c2" sha1="d21f224f407f81d5b56e10d6318953508d4ad919" />
+  </game>
+  <game name="Cabela's Dangerous Hunts 2013 (USA) (En,Fr)">
+    <description>Cabela's Dangerous Hunts 2013 (USA) (En,Fr)</description>
+    <rom name="Cabela's Dangerous Hunts 2013 (USA) (En,Fr).key" size="16" crc="80913894" md5="3dfaa24aaea755b995768e660adf7183" sha1="e9a3e4bb5a86539df129fe68367f64680527bb62" />
+  </game>
+  <game name="Call of Duty - Black Ops II (Europe) (En,Fr)">
+    <description>Call of Duty - Black Ops II (Europe) (En,Fr)</description>
+    <rom name="Call of Duty - Black Ops II (Europe) (En,Fr).key" size="16" crc="538e780e" md5="716f22f8409d28d3e64d3a3263320507" sha1="ae8dc4e9d7c89bc47e50dd8c7fa4507c18820a88" />
+  </game>
+  <game name="Call of Duty - Black Ops II (Europe) (Es,It)">
+    <description>Call of Duty - Black Ops II (Europe) (Es,It)</description>
+    <rom name="Call of Duty - Black Ops II (Europe) (Es,It).key" size="16" crc="09959487" md5="60c471a824d1c81bbdb4158418a4254e" sha1="fb4e283c7847611e2fd0c285926ef1106ea576e4" />
+  </game>
+  <game name="Call of Duty - Black Ops II (Germany)">
+    <description>Call of Duty - Black Ops II (Germany)</description>
+    <rom name="Call of Duty - Black Ops II (Germany).key" size="16" crc="b1957a8e" md5="502e6e9194b640da359044df02ab7ac1" sha1="7bf5945cea00c395e009f72c40ea87cdc68c933c" />
+  </game>
+  <game name="Call of Duty - Black Ops II (Japan) (En,Ja)">
+    <description>Call of Duty - Black Ops II (Japan) (En,Ja)</description>
+    <rom name="Call of Duty - Black Ops II (Japan) (En,Ja).key" size="16" crc="d2a0fe1b" md5="f349fec25025c64f525d7a88c62ee902" sha1="ce17ba2934b079bfae6a0db088d0e740b59e11d1" />
+  </game>
+  <game name="Call of Duty - Black Ops II (USA) (En,Fr)">
+    <description>Call of Duty - Black Ops II (USA) (En,Fr)</description>
+    <rom name="Call of Duty - Black Ops II (USA) (En,Fr).key" size="16" crc="114eccae" md5="885f87402ecc378b4c4b11886cc742a2" sha1="bd756d819b84e2e0502a55e09ca390f32e33316e" />
+  </game>
+  <game name="Call of Duty - Ghosts (Europe) (En,Fr,De)">
+    <description>Call of Duty - Ghosts (Europe) (En,Fr,De)</description>
+    <rom name="Call of Duty - Ghosts (Europe) (En,Fr,De).key" size="16" crc="e849e549" md5="42669091132f2a18309a05219cf4a2b9" sha1="b4fb5e93f04e259d75ab006f55c714bf88effcb0" />
+  </game>
+  <game name="Call of Duty - Ghosts (Europe) (Es,It)">
+    <description>Call of Duty - Ghosts (Europe) (Es,It)</description>
+    <rom name="Call of Duty - Ghosts (Europe) (Es,It).key" size="16" crc="49bbe8a7" md5="6e65ebe8a4d761f3dd1dc9e9ac12dfe3" sha1="1fdbb6e00a2af84bb04b8fef3eddad904b928825" />
+  </game>
+  <game name="Call of Duty - Ghosts (Japan)">
+    <description>Call of Duty - Ghosts (Japan)</description>
+    <rom name="Call of Duty - Ghosts (Japan).key" size="16" crc="f442d66f" md5="af5a02cf9fe8f546bde87934564f5a8e" sha1="f8e5810389390bac85bfff8c7bfb0ed2aa5b9bdf" />
+  </game>
+  <game name="Call of Duty - Ghosts (USA) (En,Fr)">
+    <description>Call of Duty - Ghosts (USA) (En,Fr)</description>
+    <rom name="Call of Duty - Ghosts (USA) (En,Fr).key" size="16" crc="41de8a2b" md5="1482a6d9de554922aee27f2ee1924e8e" sha1="11f92d3f0eeb6ba4521652bbef8e94fbc491174c" />
+  </game>
+  <game name="Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It) (Rev 1)">
+    <description>Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+    <rom name="Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It) (Rev 1).key" size="16" crc="f2ff3ce6" md5="5c8fc96e9fc922f5230969166e5d0773" sha1="caf00a52234d54c396b7752af0827bb66d50f7c1" />
+  </game>
+  <game name="Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It)">
+    <description>Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Captain Toad - Treasure Tracker (Europe) (En,Fr,De,Es,It).key" size="16" crc="cef9f1bc" md5="9ac05d7c2ad7c9e5208b66e040ae44a1" sha1="a85dadb937e0e42efaf41b72130e8b274dc877b4" />
+  </game>
+  <game name="Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (Rev 1)">
+    <description>Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (Rev 1).key" size="16" crc="2b5f8867" md5="78524c7c7c9efc74ae9ab3a4bfab200e" sha1="a2c4977be586b0bb9306fa1f8121a39b26f14f56" />
+  </game>
+  <game name="Captain Toad - Treasure Tracker (USA) (En,Fr,Es)">
+    <description>Captain Toad - Treasure Tracker (USA) (En,Fr,Es)</description>
+    <rom name="Captain Toad - Treasure Tracker (USA) (En,Fr,Es).key" size="16" crc="3ebaeb5f" md5="86f9613bb19f2876207dff6a8e1faad7" sha1="4007adaee80e8d49b1276af8d96219887c57d023" />
+  </game>
+  <game name="Cocoto Magic Circus 2 (Europe) (En,Fr,De,Es,It,Nl,Pt)">
+    <description>Cocoto Magic Circus 2 (Europe) (En,Fr,De,Es,It,Nl,Pt)</description>
+    <rom name="Cocoto Magic Circus 2 (Europe) (En,Fr,De,Es,It,Nl,Pt).key" size="16" crc="7123a2fc" md5="c3e81baa721de6f5616e6acc8254932e" sha1="76fa21e8de9d8dd724fa8bd668e9ac78730bdd90" />
+  </game>
+  <game name="Dairantou Smash Brothers for Wii U (Japan) (Rev 1)">
+    <description>Dairantou Smash Brothers for Wii U (Japan) (Rev 1)</description>
+    <rom name="Dairantou Smash Brothers for Wii U (Japan) (Rev 1).key" size="16" crc="a6e62849" md5="65c08a9cbd1977938f8e71aacb119262" sha1="2d95b5bf79c7f24db2f6f5c2471802f883b94cbf" />
+  </game>
+  <game name="Dairantou Smash Brothers for Wii U (Japan) (Rev 4)">
+    <description>Dairantou Smash Brothers for Wii U (Japan) (Rev 4)</description>
+    <rom name="Dairantou Smash Brothers for Wii U (Japan) (Rev 4).key" size="16" crc="40a23b54" md5="87eaac95b125cba1ff87f26c5e6d98a7" sha1="149b9ae8923eee432abd584da7ad7a6b5a029dec" />
+  </game>
+  <game name="Dairantou Smash Brothers for Wii U (Japan) (Rev 7)">
+    <description>Dairantou Smash Brothers for Wii U (Japan) (Rev 7)</description>
+    <rom name="Dairantou Smash Brothers for Wii U (Japan) (Rev 7).key" size="16" crc="3334906c" md5="abfb9c0c48cfcb8df88d14cd7228cffd" sha1="ee9d4b285359edcf49648ef090be76efa70199ff" />
+  </game>
+  <game name="Dairantou Smash Brothers for Wii U (Japan)">
+    <description>Dairantou Smash Brothers for Wii U (Japan)</description>
+    <rom name="Dairantou Smash Brothers for Wii U (Japan).key" size="16" crc="255703a8" md5="3c4a3d74e728ba19367e6a1d30976794" sha1="973a1d06fb09cc75267a81d9de339b1e0665bcf3" />
+  </game>
+  <game name="Darksiders - Warmastered Edition (Europe) (En,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs)">
+    <description>Darksiders - Warmastered Edition (Europe) (En,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs)</description>
+    <rom name="Darksiders - Warmastered Edition (Europe) (En,Fr,De,Es,It,Pt,Zh,Pl,Ru,Cs).key" size="16" crc="b09c4124" md5="50bfc9d0704013960a0c388e8ff8c91f" sha1="3f838b1d46ce31278e7b2d006f566fbca2aa8d23" />
+  </game>
+  <game name="Darksiders - Warmastered Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)">
+    <description>Darksiders - Warmastered Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs)</description>
+    <rom name="Darksiders - Warmastered Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs).key" size="16" crc="30d77089" md5="7ce9daa05cf1fd7af28a5c52a5f4bec5" sha1="3369990c9a40cb07d97bd733b40b957bd5560346" />
+  </game>
+  <game name="Darksiders II (Europe) (En,Fr,De,Es,It)">
+    <description>Darksiders II (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Darksiders II (Europe) (En,Fr,De,Es,It).key" size="16" crc="5d5f7da0" md5="5a5d3332c948afc46deb6a7751aecfb3" sha1="eca980088ffff87a2b100be7f7525e409f6ea800" />
+  </game>
+  <game name="Darksiders II (USA) (En,Fr,Es)">
+    <description>Darksiders II (USA) (En,Fr,Es)</description>
+    <rom name="Darksiders II (USA) (En,Fr,Es).key" size="16" crc="cbfe2244" md5="6b3b90de3685d5164b3753587c7dd16c" sha1="b5fe92b1d553a40a775f6ecdfe2b1ec3f15748a4" />
+  </game>
+  <game name="Deus Ex - Human Revolution - Director's Cut (Europe) (En,Fr,De,Es,It)">
+    <description>Deus Ex - Human Revolution - Director's Cut (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Deus Ex - Human Revolution - Director's Cut (Europe) (En,Fr,De,Es,It).key" size="16" crc="e6555bd9" md5="e06dfba59d6a5f98c7262f60d863c1c8" sha1="087c5d2216ad66587792e2d1c1d18ce2da1c4bab" />
+  </game>
+  <game name="Deus Ex - Human Revolution - Director's Cut (USA) (En,Fr,Es)">
+    <description>Deus Ex - Human Revolution - Director's Cut (USA) (En,Fr,Es)</description>
+    <rom name="Deus Ex - Human Revolution - Director's Cut (USA) (En,Fr,Es).key" size="16" crc="82495f6e" md5="4be02fc8941429682d3855f1f26c306a" sha1="c7382c43c8a571f71c5efa72bac3a88d5d08820f" />
+  </game>
+  <game name="Devil's Third (Europe) (En,Fr)">
+    <description>Devil's Third (Europe) (En,Fr)</description>
+    <rom name="Devil's Third (Europe) (En,Fr).key" size="16" crc="a8317aa0" md5="137d976181e306ca6db6a1ecec15b0f6" sha1="2d4c23b290f6b71f2ab2559c1930ad5d84078554" />
+  </game>
+  <game name="Devil's Third (Japan)">
+    <description>Devil's Third (Japan)</description>
+    <rom name="Devil's Third (Japan).key" size="16" crc="d0062095" md5="8e12b8953b32bb690567eab46dccca81" sha1="97d815cb473493d2c37755497e02d1d587a5fcf2" />
+  </game>
+  <game name="Devil's Third (USA) (En,Fr)">
+    <description>Devil's Third (USA) (En,Fr)</description>
+    <rom name="Devil's Third (USA) (En,Fr).key" size="16" crc="4fe54642" md5="4f7386b4243c8f4c13285077140dc022" sha1="ca60dafe26d614ed8c98009e6a6413171ed05afd" />
+  </game>
+  <game name="Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt)">
+    <description>Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).key" size="16" crc="c8078d43" md5="cac8a6efc75f97eaaebb88b7f37a0139" sha1="7c0f7e2694b1ee14a7e7f067c0ea7b2f0de06f50" />
+  </game>
+  <game name="Disney Epic Mickey 2 - Futatsu no Chikara (Japan)">
+    <description>Disney Epic Mickey 2 - Futatsu no Chikara (Japan)</description>
+    <rom name="Disney Epic Mickey 2 - Futatsu no Chikara (Japan).key" size="16" crc="e86f2875" md5="44a287384981fe0ae14bcfba6ad876b8" sha1="2c07ce92267259482e86c8877f3bd3c7707f86bd" />
+  </game>
+  <game name="Disney Epic Mickey 2 - The Power of Two (Europe) (En,Es)">
+    <description>Disney Epic Mickey 2 - The Power of Two (Europe) (En,Es)</description>
+    <rom name="Disney Epic Mickey 2 - The Power of Two (Europe) (En,Es).key" size="16" crc="4d722b80" md5="740ea5901e309750bf974f8ec706a5d8" sha1="795b829ddbe2a93382d6c64a07d7d04f8df8e2d0" />
+  </game>
+  <game name="Disney Epic Mickey 2 - The Power of Two (Europe) (En,Fr,De,Es,It,Pt)">
+    <description>Disney Epic Mickey 2 - The Power of Two (Europe) (En,Fr,De,Es,It,Pt)</description>
+    <rom name="Disney Epic Mickey 2 - The Power of Two (Europe) (En,Fr,De,Es,It,Pt).key" size="16" crc="1d5b0010" md5="b6d155ee23adb8849ed34cedaa06faa5" sha1="56d20dff3a14cc24d7f4ec6ddf771e3acfde9739" />
+  </game>
+  <game name="Disney Epic Mickey 2 - The Power of Two (Scandinavia) (En,Sv,No,Da)">
+    <description>Disney Epic Mickey 2 - The Power of Two (Scandinavia) (En,Sv,No,Da)</description>
+    <rom name="Disney Epic Mickey 2 - The Power of Two (Scandinavia) (En,Sv,No,Da).key" size="16" crc="1cb2546c" md5="054c2c8c451cb21b48b5e2734529fb8e" sha1="1009d1881d0bc8eaac0e4068faee7a8d9d43a2a9" />
+  </game>
+  <game name="Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es)">
+    <description>Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es)</description>
+    <rom name="Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).key" size="16" crc="e2a0081c" md5="086f8faaa930f419fcf93e95fe64d3f5" sha1="df62214e39aace76bba4dfab318873675809dd0a" />
+  </game>
+  <game name="Disney Infinity (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Disney Infinity (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Disney Infinity (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="a0ddfa32" md5="147b71420bbdb2e0fa7637ac90ec2bcb" sha1="b4d19143603de65b587f2400be9c39cebae8a3d7" />
+  </game>
+  <game name="Disney Infinity (Japan)">
+    <description>Disney Infinity (Japan)</description>
+    <rom name="Disney Infinity (Japan).key" size="16" crc="41fa2bbb" md5="00c6b2bd9166c4711644fba3707a88a0" sha1="721537834e50c0c7cee588f45fc42eca32e8bf58" />
+  </game>
+  <game name="Disney Infinity (Scandinavia) (En,Sv,No,Da,Fi)">
+    <description>Disney Infinity (Scandinavia) (En,Sv,No,Da,Fi)</description>
+    <rom name="Disney Infinity (Scandinavia) (En,Sv,No,Da,Fi).key" size="16" crc="7c67e680" md5="64a08072fd41c5988653b2fcc4046205" sha1="87de468aef949c39660e57b19c2f71973033c090" />
+  </game>
+  <game name="Disney Infinity (USA) (En,Fr,Es,Pt)">
+    <description>Disney Infinity (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Disney Infinity (USA) (En,Fr,Es,Pt).key" size="16" crc="2901d0c7" md5="f5b45e07cdc7d1aa6ef17b2964544944" sha1="8b41d7153aed59039f4ef97148b61484a235a662" />
+  </game>
+  <game name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)">
+    <description>Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
+    <rom name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).key" size="16" crc="6f3b2c09" md5="b201437cccd35e1652890acc9962b4b9" sha1="30b27a50712e28e8a416ccff28e428bc7950ed74" />
+  </game>
+  <game name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)">
+    <description>Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 2)</description>
+    <rom name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl) (Rev 2).key" size="16" crc="a5ab3624" md5="034baf6525a499cc3cec5feec44a2c41" sha1="1516f4a37ee303b58597b60817e4e1077062f781" />
+  </game>
+  <game name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Disney Infinity 2.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="c0283daa" md5="4e8a111f204e62d56c9718a1f488adc0" sha1="7d0d74531faa964c9bdf7a243ab6e4fc1b36523e" />
+  </game>
+  <game name="Disney Infinity 2.0 - Play Without Limits (Scandinavia) (En,Sv,No,Da,Fi) (Rev 2)">
+    <description>Disney Infinity 2.0 - Play Without Limits (Scandinavia) (En,Sv,No,Da,Fi) (Rev 2)</description>
+    <rom name="Disney Infinity 2.0 - Play Without Limits (Scandinavia) (En,Sv,No,Da,Fi) (Rev 2).key" size="16" crc="f6f9d0cc" md5="f657e13367fefc5cd7874ffee75fd12c" sha1="1ba55b6c51f668473b1387245b0e694d9bf2a598" />
+  </game>
+  <game name="Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt) (Rev 1)">
+    <description>Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt) (Rev 1)</description>
+    <rom name="Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt) (Rev 1).key" size="16" crc="79db7819" md5="124fb8c580649c59c1e940b90a272023" sha1="d11240391f949998bbdd6c2c1afafb482607fd55" />
+  </game>
+  <game name="Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt)">
+    <description>Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Disney Infinity 2.0 Edition (USA) (En,Fr,Es,Pt).key" size="16" crc="f5d9410e" md5="7734bdd12a52a7e3b94fabfa820469ac" sha1="b5cfed5d38a19b5604cee2c5195bea0cf904032b" />
+  </game>
+  <game name="Disney Infinity 3.0 (Japan)">
+    <description>Disney Infinity 3.0 (Japan)</description>
+    <rom name="Disney Infinity 3.0 (Japan).key" size="16" crc="2231f092" md5="5dd986aaf2e410aea379f0b3819c8173" sha1="f8a4309c8974852cb1983d188a9a00d6f16808d1" />
+  </game>
+  <game name="Disney Infinity 3.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Disney Infinity 3.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Disney Infinity 3.0 - Play Without Limits (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="8c3f844d" md5="ab64bcce303d14ed13db8acea9aad05f" sha1="b8a60b547fa81ea8ff49d100d8e6819d934c32b7" />
+  </game>
+  <game name="Disney Infinity 3.0 - Play Without Limits (Scandinavia) (En,Sv,No,Da,Fi)">
+    <description>Disney Infinity 3.0 - Play Without Limits (Scandinavia) (En,Sv,No,Da,Fi)</description>
+    <rom name="Disney Infinity 3.0 - Play Without Limits (Scandinavia) (En,Sv,No,Da,Fi).key" size="16" crc="61763593" md5="79032c8d2d71ca66203e4c84fa0adb7a" sha1="6276e81ad61cde1df68c579164befd9f36774df2" />
+  </game>
+  <game name="Disney Infinity 3.0 Edition (USA) (En,Fr,Es) (Rev 2)">
+    <description>Disney Infinity 3.0 Edition (USA) (En,Fr,Es) (Rev 2)</description>
+    <rom name="Disney Infinity 3.0 Edition (USA) (En,Fr,Es) (Rev 2).key" size="16" crc="a86d04c2" md5="15536f5dd1f408caa6a2be0db2f0cf71" sha1="26b4a12e89890349f643f213e25cf7eb925171ac" />
+  </game>
+  <game name="Disney Infinity 3.0 Edition (USA) (En,Fr,Es)">
+    <description>Disney Infinity 3.0 Edition (USA) (En,Fr,Es)</description>
+    <rom name="Disney Infinity 3.0 Edition (USA) (En,Fr,Es).key" size="16" crc="6b0457f1" md5="da23fa22b323757c9b8db138e99bf75c" sha1="3fed4262d52e87b81c998a60a892f49ea0992f66" />
+  </game>
+  <game name="Disney Phineas and Ferb - Quest for Cool Stuff (Europe) (En,Fr,De,Es,It)">
+    <description>Disney Phineas and Ferb - Quest for Cool Stuff (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Disney Phineas and Ferb - Quest for Cool Stuff (Europe) (En,Fr,De,Es,It).key" size="16" crc="91c3ab40" md5="9e45867e52c64c1af1683b463bf8cb7a" sha1="20099ea2ed02bea6555c395e3ca4fb12e5906e35" />
+  </game>
+  <game name="Disney Phineas and Ferb - Quest for Cool Stuff (USA)">
+    <description>Disney Phineas and Ferb - Quest for Cool Stuff (USA)</description>
+    <rom name="Disney Phineas and Ferb - Quest for Cool Stuff (USA).key" size="16" crc="91d17903" md5="88a351bc86d613a91db43554fc26712f" sha1="bdb105ba66e40faf9eaeb981997df29782b5da8c" />
+  </game>
+  <game name="Disney Planes (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Disney Planes (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Disney Planes (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="614f1c8d" md5="fb00332b1b39a59d88de8c6743e2d8a7" sha1="360ff1e310d30ac07d5a61e2a4e33c00fa46411e" />
+  </game>
+  <game name="Disney Planes (Russia)">
+    <description>Disney Planes (Russia)</description>
+    <rom name="Disney Planes (Russia).key" size="16" crc="1e603b30" md5="0917199de03d17b4f3a1e118150b7cbe" sha1="b2b5af6d799f10d3871fa0976769496f4e9cc79e" />
+  </game>
+  <game name="Disney Planes (Scandinavia) (En,Sv,No,Da,Fi)">
+    <description>Disney Planes (Scandinavia) (En,Sv,No,Da,Fi)</description>
+    <rom name="Disney Planes (Scandinavia) (En,Sv,No,Da,Fi).key" size="16" crc="b78f62d7" md5="71c4718191a54a71d6ff8dbe8f20b174" sha1="57f1a5248c76abb030cbf5946c4c43945564fb9f" />
+  </game>
+  <game name="Disney Planes (USA) (En,Fr,Es,Pt)">
+    <description>Disney Planes (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Disney Planes (USA) (En,Fr,Es,Pt).key" size="16" crc="bd7757d3" md5="4abdb1d38752d83de4402c4b990c4bae" sha1="df152263265aa1e4af14eedc160dddd58e150ca6" />
+  </game>
+  <game name="Disney Planes - Fire &amp; Rescue (Europe) (En,Fr,De,Es,It)">
+    <description>Disney Planes - Fire &amp; Rescue (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Disney Planes - Fire &amp; Rescue (Europe) (En,Fr,De,Es,It).key" size="16" crc="0da697c7" md5="6f6d7040259cff30bc654396a1b14ffb" sha1="3b6b933cd23283322fb0505efc2974b83843f52b" />
+  </game>
+  <game name="Disney Planes - Fire &amp; Rescue (USA) (En,Fr,Es,Pt)">
+    <description>Disney Planes - Fire &amp; Rescue (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Disney Planes - Fire &amp; Rescue (USA) (En,Fr,Es,Pt).key" size="16" crc="da3f3430" md5="18f22edf69eee06855faf2f97f447a25" sha1="6afba693605680eacc393e76e87c33e151c5872c" />
+  </game>
+  <game name="Disney-Pixar Cars 3 - Driven to Win (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru)">
+    <description>Disney-Pixar Cars 3 - Driven to Win (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru)</description>
+    <rom name="Disney-Pixar Cars 3 - Driven to Win (Europe) (En,Fr,De,Es,It,Nl,Pl,Ru).key" size="16" crc="2dc52281" md5="f5bbff902a5fc512de4bd0eab0f6ee02" sha1="5a96bf539cd50b8194c1e7762cc24f94d795b0f6" />
+  </game>
+  <game name="Disney-Pixar Cars 3 - Driven to Win (USA) (En,Fr,Es,Pt)">
+    <description>Disney-Pixar Cars 3 - Driven to Win (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Disney-Pixar Cars 3 - Driven to Win (USA) (En,Fr,Es,Pt).key" size="16" crc="68473aaf" md5="82dbcb8dccc0592618c31cbce36752a9" sha1="0344bb2101afc5494709c38cb0c697320e1fd812" />
+  </game>
+  <game name="Donkey Kong - Tropical Freeze (Japan) (Rev 1)">
+    <description>Donkey Kong - Tropical Freeze (Japan) (Rev 1)</description>
+    <rom name="Donkey Kong - Tropical Freeze (Japan) (Rev 1).key" size="16" crc="bc599d6c" md5="5bb79a45d392879d011f8b175f7d83c7" sha1="0de17d40d4b2936d27c822162b922be524410291" />
+  </game>
+  <game name="Donkey Kong - Tropical Freeze (Japan) (Rev 3)">
+    <description>Donkey Kong - Tropical Freeze (Japan) (Rev 3)</description>
+    <rom name="Donkey Kong - Tropical Freeze (Japan) (Rev 3).key" size="16" crc="c8e3985f" md5="3a22b129630b5560ea500485c3c6effd" sha1="ec609d9551ff4feaf23537836e71887840558c0d" />
+  </game>
+  <game name="Donkey Kong Country - Tropical Freeze (Europe) (En,Fr,De,Es,It) (Rev 1)">
+    <description>Donkey Kong Country - Tropical Freeze (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+    <rom name="Donkey Kong Country - Tropical Freeze (Europe) (En,Fr,De,Es,It) (Rev 1).key" size="16" crc="33620a9a" md5="1dbf54d2885d4f838356fe917a02234e" sha1="abc29dedd28b209f9ae4d3f6d2e9cdbf7af93d32" />
+  </game>
+  <game name="Donkey Kong Country - Tropical Freeze (Europe) (En,Fr,De,Es,It)">
+    <description>Donkey Kong Country - Tropical Freeze (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Donkey Kong Country - Tropical Freeze (Europe) (En,Fr,De,Es,It).key" size="16" crc="bc0ebe49" md5="54eaef29caaecadf0c371ef7e0d67563" sha1="9df7cf3ff6eef37f3c7238891f6d9bd0e4e11e48" />
+  </game>
+  <game name="Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (Rev 1)">
+    <description>Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (Rev 1).key" size="16" crc="78c3ca6e" md5="8f77548e92378510a3612be2e1f9b117" sha1="e4692b2314e320239f2010069ee23e6b4547afe7" />
+  </game>
+  <game name="Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es)">
+    <description>Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es)</description>
+    <rom name="Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es).key" size="16" crc="cfeccc85" md5="48583b24ab9e8ca57f88010a5aa3464f" sha1="49c4f97173afb0f0bb71a2e8f2f321bcd2c58fe2" />
+  </game>
+  <game name="Doubutsu no Mori - Amiibo Festival (Japan)">
+    <description>Doubutsu no Mori - Amiibo Festival (Japan)</description>
+    <rom name="Doubutsu no Mori - Amiibo Festival (Japan).key" size="16" crc="e7b093fd" md5="1b44b728c1cd1ce826a8b01abca2b7df" sha1="fea133351637c158746e6afe154256d667819923" />
+  </game>
+  <game name="Dragon Quest X - 5000-nen no Tabiji - Haruka naru Kokyou e Online (Japan)">
+    <description>Dragon Quest X - 5000-nen no Tabiji - Haruka naru Kokyou e Online (Japan)</description>
+    <rom name="Dragon Quest X - 5000-nen no Tabiji - Haruka naru Kokyou e Online (Japan).key" size="16" crc="184e075c" md5="522e4bc6c6562bf6b97de2dfd2bd0f84" sha1="697a7c25a6e6958208f2ad4d054347b3cf1cab85" />
+  </game>
+  <game name="Dragon Quest X - All in One Package (Japan) (BDQJ)">
+    <description>Dragon Quest X - All in One Package (Japan) (BDQJ)</description>
+    <rom name="Dragon Quest X - All in One Package (Japan) (BDQJ).key" size="16" crc="99f71b56" md5="d39c286de34f66e2c979b6198a402842" sha1="358f77a16429d3263a6306b99716d6bb4c6c5f00" />
+  </game>
+  <game name="Dragon Quest X - All in One Package (Japan) (BTPJ)">
+    <description>Dragon Quest X - All in One Package (Japan) (BTPJ)</description>
+    <rom name="Dragon Quest X - All in One Package (Japan) (BTPJ).key" size="16" crc="02004069" md5="9895624606056145eecfac0a0edec73f" sha1="f69790d752daa95b1612aa8d9b87f2e084acd310" />
+  </game>
+  <game name="Dragon Quest X - All in One Package Version 1-Version 4 (Japan)">
+    <description>Dragon Quest X - All in One Package Version 1-Version 4 (Japan)</description>
+    <rom name="Dragon Quest X - All in One Package Version 1-Version 4 (Japan).key" size="16" crc="55b453b1" md5="ebd69f915444d6e56a84d6846cd2986a" sha1="50545e5541855e8970b3832cc344c32dda6ef064" />
+  </game>
+  <game name="Dragon Quest X - Inishie no Ryuu no Denshou Online (Japan)">
+    <description>Dragon Quest X - Inishie no Ryuu no Denshou Online (Japan)</description>
+    <rom name="Dragon Quest X - Inishie no Ryuu no Denshou Online (Japan).key" size="16" crc="ce62d183" md5="fd04c199f9af92668528126c537c9faf" sha1="400a1bf3285cf43bd306daf7db0a5758ffc665c1" />
+  </game>
+  <game name="Dragon Quest X - Mezameshi Itsutsu no Shuzoku Online (Japan) (Rev 1)">
+    <description>Dragon Quest X - Mezameshi Itsutsu no Shuzoku Online (Japan) (Rev 1)</description>
+    <rom name="Dragon Quest X - Mezameshi Itsutsu no Shuzoku Online (Japan) (Rev 1).key" size="16" crc="a9c94486" md5="e51f8e260cd18cfa4b8a9b193516027a" sha1="836027d90028be0aa64d9bbe31feaf41da73a72c" />
+  </game>
+  <game name="Dragon Quest X - Nemureru Yuusha to Michibiki no Meiyuu Online (Japan) (Rev 10)">
+    <description>Dragon Quest X - Nemureru Yuusha to Michibiki no Meiyuu Online (Japan) (Rev 10)</description>
+    <rom name="Dragon Quest X - Nemureru Yuusha to Michibiki no Meiyuu Online (Japan) (Rev 10).key" size="16" crc="8e4accce" md5="80671dbfb5fcdd2be971c1ee0a079d55" sha1="d5516e33d830ba8032cf94c7b9877f6397deac68" />
+  </game>
+  <game name="DreamWorks How to Train Your Dragon 2 (Europe) (En,Fr,De,Es,It,Pt)">
+    <description>DreamWorks How to Train Your Dragon 2 (Europe) (En,Fr,De,Es,It,Pt)</description>
+    <rom name="DreamWorks How to Train Your Dragon 2 (Europe) (En,Fr,De,Es,It,Pt).key" size="16" crc="f10431d8" md5="1232c6a8f4bc1c252eeb11fb59b705a5" sha1="fb8f46c1e41163f0663c89f643daa2d437e1b0c9" />
+  </game>
+  <game name="DreamWorks How to Train Your Dragon 2 (USA) (En,Fr,Es,Pt)">
+    <description>DreamWorks How to Train Your Dragon 2 (USA) (En,Fr,Es,Pt)</description>
+    <rom name="DreamWorks How to Train Your Dragon 2 (USA) (En,Fr,Es,Pt).key" size="16" crc="05b9e081" md5="f95f6f07c786b5f6347ba6e6e54be14b" sha1="c691598384ef7fef5e2b69adb75e9c86f52c47d3" />
+  </game>
+  <game name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (Europe) (En,Fr,De,Es,It)">
+    <description>DreamWorks Kung Fu Panda - Showdown of Legendary Legends (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (Europe) (En,Fr,De,Es,It).key" size="16" crc="1eb70ddf" md5="d71d231f5859bf598527a66411fcf63f" sha1="4da1e8918a333c159e6f4635b11968dcb182462c" />
+  </game>
+  <game name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA) (En,Fr,Es,Pt)">
+    <description>DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA) (En,Fr,Es,Pt)</description>
+    <rom name="DreamWorks Kung Fu Panda - Showdown of Legendary Legends (USA) (En,Fr,Es,Pt).key" size="16" crc="c523075f" md5="6b4ca61802268878f7d9b0b69abd64c7" sha1="1241760f5292057b2e89243cb34bb5879d118374" />
+  </game>
+  <game name="DreamWorks Penguins of Madagascar (Europe) (En,Fr,De,Es,It)">
+    <description>DreamWorks Penguins of Madagascar (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="DreamWorks Penguins of Madagascar (Europe) (En,Fr,De,Es,It).key" size="16" crc="2601ad58" md5="e5d89d5c2bd7f7eaad00aa7df8609cd0" sha1="d8f866ef10307a68ae243fba8743d4c1125a7c7c" />
+  </game>
+  <game name="DreamWorks Penguins of Madagascar (USA) (En,Fr,Es,Pt)">
+    <description>DreamWorks Penguins of Madagascar (USA) (En,Fr,Es,Pt)</description>
+    <rom name="DreamWorks Penguins of Madagascar (USA) (En,Fr,Es,Pt).key" size="16" crc="4af706b9" md5="0fac806efde5e6616f21d0b8f4c97afe" sha1="1296076b7ed7d624bb048a3fe7d1fbabcf0ce25d" />
+  </game>
+  <game name="DreamWorks Rise of the Guardians (Europe) (En,Fr,De,Es,It)">
+    <description>DreamWorks Rise of the Guardians (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="DreamWorks Rise of the Guardians (Europe) (En,Fr,De,Es,It).key" size="16" crc="42af37a5" md5="34c0d2546c08673c0319640133006e54" sha1="637fa43b8a4a5c612e6273b4d1a973bedfd4820b" />
+  </game>
+  <game name="DreamWorks Rise of the Guardians (USA) (En,Fr,Es)">
+    <description>DreamWorks Rise of the Guardians (USA) (En,Fr,Es)</description>
+    <rom name="DreamWorks Rise of the Guardians (USA) (En,Fr,Es).key" size="16" crc="7cc96a93" md5="68343ec6c8cd5a6e6af4f818123279f9" sha1="77cb7493efeb97c126bdac49d52df9f9cecdbc43" />
+  </game>
+  <game name="DreamWorks The Croods - Prehistoric Party! (Europe) (En,Fr,De,Es,It)">
+    <description>DreamWorks The Croods - Prehistoric Party! (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="DreamWorks The Croods - Prehistoric Party! (Europe) (En,Fr,De,Es,It).key" size="16" crc="e986613a" md5="0b866a3cb4a6fcb656e1867fe2078bbc" sha1="feeb62856ac85f30cc9594a7313915970384d54d" />
+  </game>
+  <game name="DreamWorks The Croods - Prehistoric Party! (USA) (En,Fr,Es)">
+    <description>DreamWorks The Croods - Prehistoric Party! (USA) (En,Fr,Es)</description>
+    <rom name="DreamWorks The Croods - Prehistoric Party! (USA) (En,Fr,Es).key" size="16" crc="1c1500fd" md5="90ab284ff08859254983e668853d9718" sha1="bdfffdb80537e2f6ab5d0d06c08a1843806f6e88" />
+  </game>
+  <game name="DreamWorks Turbo - Super Stunt Squad (Europe) (En,Fr,De,Es,It)">
+    <description>DreamWorks Turbo - Super Stunt Squad (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="DreamWorks Turbo - Super Stunt Squad (Europe) (En,Fr,De,Es,It).key" size="16" crc="6cc7f923" md5="81b46d2f938d346406cf672a7711f15d" sha1="a77976240fb226f54049c875dc3859091aa3ee7b" />
+  </game>
+  <game name="DreamWorks Turbo - Super Stunt Squad (USA) (En,Fr,Es)">
+    <description>DreamWorks Turbo - Super Stunt Squad (USA) (En,Fr,Es)</description>
+    <rom name="DreamWorks Turbo - Super Stunt Squad (USA) (En,Fr,Es).key" size="16" crc="f0e82dcb" md5="9d7c288fb91688b728671ccf1a4a0d08" sha1="b7a553e8a2400a50d1235b9e8fe02a8e65e9c49b" />
+  </game>
+  <game name="ESPN Sports Connection (USA) (En,Fr,Es,Pt)">
+    <description>ESPN Sports Connection (USA) (En,Fr,Es,Pt)</description>
+    <rom name="ESPN Sports Connection (USA) (En,Fr,Es,Pt).key" size="16" crc="d9e7ee92" md5="64858099e81978fe8a5cea45b1a76c72" sha1="96e7ad2555f91ac436cdded8b956d3d8f8e4c83b" />
+  </game>
+  <game name="F1 Race Stars - Powered Up Edition (Japan)">
+    <description>F1 Race Stars - Powered Up Edition (Japan)</description>
+    <rom name="F1 Race Stars - Powered Up Edition (Japan).key" size="16" crc="f5156f70" md5="83145c882db6b246a864ed10fdea2b94" sha1="e4a21dabbce72d6b436ce6108250cbc068ebeb3d" />
+  </game>
+  <game name="Famicom Remix 1 + 2 (Japan)">
+    <description>Famicom Remix 1 + 2 (Japan)</description>
+    <rom name="Famicom Remix 1 + 2 (Japan).key" size="16" crc="690a42cf" md5="70ee2a9e9f50e14e4a5395bb42eb473e" sha1="7adbe185bfe4ae8fb1ad6ee8082045eb738546cd" />
+  </game>
+  <game name="Family Party - 30 Great Games - Obstacle Arcade (Europe) (En,Fr,De,Es,It)">
+    <description>Family Party - 30 Great Games - Obstacle Arcade (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Family Party - 30 Great Games - Obstacle Arcade (Europe) (En,Fr,De,Es,It).key" size="16" crc="d83d8c87" md5="3938ac0dbcadd46d7a228f37aa3d145c" sha1="2b232e17268cdc7aeb6312def878c347b3ee1c82" />
+  </game>
+  <game name="Family Party - 30 Great Games - Obstacle Arcade (USA) (En,Fr,Es)">
+    <description>Family Party - 30 Great Games - Obstacle Arcade (USA) (En,Fr,Es)</description>
+    <rom name="Family Party - 30 Great Games - Obstacle Arcade (USA) (En,Fr,Es).key" size="16" crc="152d0eb9" md5="b50ccf9f0c722e1d9e71e2ef30d48e0f" sha1="64171b525a11c7ed1695b626ce77c60363bada62" />
+  </game>
+  <game name="Fast &amp; Furious - Showdown (Europe) (En,Fr,De,Es,It)">
+    <description>Fast &amp; Furious - Showdown (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Fast &amp; Furious - Showdown (Europe) (En,Fr,De,Es,It).key" size="16" crc="9e09146f" md5="db38c9a2fdb43529e34d2e7e299ce2d2" sha1="df5439a78bcf58a6674f53d5a284715a1d3c4c21" />
+  </game>
+  <game name="Fast &amp; Furious - Showdown (USA) (En,Fr)">
+    <description>Fast &amp; Furious - Showdown (USA) (En,Fr)</description>
+    <rom name="Fast &amp; Furious - Showdown (USA) (En,Fr).key" size="16" crc="cd71a58a" md5="d4fe21d2b82f36e37fef7900736c6f35" sha1="a408b63fd9fd041fe1992d3cbcf6fb793af103b6" />
+  </game>
+  <game name="Fast Racing Neo (Europe) (En,Fr,De,Es,It)">
+    <description>Fast Racing Neo (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Fast Racing Neo (Europe) (En,Fr,De,Es,It).key" size="16" crc="b643f62c" md5="649e52e9908c6fe2104f91cd71d1c24a" sha1="21dc5d25a052cf183b2b99edb0c68ccefb8a9fd8" />
+  </game>
+  <game name="FIFA 13 (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>FIFA 13 (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="FIFA 13 (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="b2b287b6" md5="17386ae022d6a73ebc63e779f58f2168" sha1="7f905fdfd4c6338eb177e91f4660645502cdc13c" />
+  </game>
+  <game name="FIFA 13 - World Class Soccer (Japan)">
+    <description>FIFA 13 - World Class Soccer (Japan)</description>
+    <rom name="FIFA 13 - World Class Soccer (Japan).key" size="16" crc="983ec202" md5="278a32041c99cb5a74fb0df4141750b7" sha1="be6c5dfe0b12f1687f509bed55b2aabc89863792" />
+  </game>
+  <game name="FIFA Soccer 13 (USA) (En,Fr,Es)">
+    <description>FIFA Soccer 13 (USA) (En,Fr,Es)</description>
+    <rom name="FIFA Soccer 13 (USA) (En,Fr,Es).key" size="16" crc="c99280bf" md5="09c402929a42255694a48f79c5f29cd3" sha1="ca9d4ec8ca54d9e409c8d288d0731448423810f1" />
+  </game>
+  <game name="Finding Teddy II - Definitive Edition (Europe) (En,Fr,De,Es,It,Pt,Ru)">
+    <description>Finding Teddy II - Definitive Edition (Europe) (En,Fr,De,Es,It,Pt,Ru)</description>
+    <rom name="Finding Teddy II - Definitive Edition (Europe) (En,Fr,De,Es,It,Pt,Ru).key" size="16" crc="16d0e722" md5="bcde0f90988a0b58c2eb5df6e9c2dae2" sha1="9c5fcdba517f5616bc22181a3ca530b66495b5ef" />
+  </game>
+  <game name="Fit Music for Wii U (Europe) (En,Fr,De,Es,It)">
+    <description>Fit Music for Wii U (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Fit Music for Wii U (Europe) (En,Fr,De,Es,It).key" size="16" crc="0dfe9c20" md5="3bf68e401d703365b4f49dc929fe81cf" sha1="9eaacdd432c37754d4181ff5fb3df742550d9999" />
+  </game>
+  <game name="Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! (Japan)">
+    <description>Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! (Japan)</description>
+    <rom name="Fujiko F. Fujio Characters Daishuugou! SF Dotabata Party!! (Japan).key" size="16" crc="ab6e0ad9" md5="7a9e0d06e5bd16f8015b4e0e3d363597" sha1="b8f12c338b91f914f08c26bb2c432d93236221f3" />
+  </game>
+  <game name="Funky Barn (Europe) (En,Fr,De,Es,It)">
+    <description>Funky Barn (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Funky Barn (Europe) (En,Fr,De,Es,It).key" size="16" crc="51b037bf" md5="ab5fabd0b458208fd3415e6cb278a3b8" sha1="42dc3a315499b50bb2e9093d32514e0b15b7e5cc" />
+  </game>
+  <game name="Funky Barn (USA) (En,Fr,Es) (Rev 1)">
+    <description>Funky Barn (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="Funky Barn (USA) (En,Fr,Es) (Rev 1).key" size="16" crc="531720c9" md5="beef2564ee1d7d850eefc2c05ebb8e61" sha1="01cffb6ef889ab88804a73835cf6a204a0d748fb" />
+  </game>
+  <game name="Game &amp; Wario (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Game &amp; Wario (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Game &amp; Wario (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="ebd8e428" md5="d716f4b7a3c56e864a0183455bc5972a" sha1="9d2ab797f9138a2b61cc313f3df4a98636634484" />
+  </game>
+  <game name="Game &amp; Wario (Japan) (Rev 1)">
+    <description>Game &amp; Wario (Japan) (Rev 1)</description>
+    <rom name="Game &amp; Wario (Japan) (Rev 1).key" size="16" crc="54ce7a22" md5="5b0f2b076e748b340e66765bee0222c7" sha1="933dd3f2960cc1382496a9438e6dedddc0ef86d4" />
+  </game>
+  <game name="Game &amp; Wario (USA) (En,Fr,Es)">
+    <description>Game &amp; Wario (USA) (En,Fr,Es)</description>
+    <rom name="Game &amp; Wario (USA) (En,Fr,Es).key" size="16" crc="a7a6d81e" md5="fd86598ccb79d8c4c1b3ace878d05e7f" sha1="5f6a13d8830385e1cb7a418ddb65c0efb6028918" />
+  </game>
+  <game name="Game Party Champions (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Game Party Champions (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Game Party Champions (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="21eb278b" md5="d81fa2060323173a005192844805eff3" sha1="8021d201c1f7037d09c39583149b21844239f19e" />
+  </game>
+  <game name="Game Party Champions (USA) (En,Fr,Es)">
+    <description>Game Party Champions (USA) (En,Fr,Es)</description>
+    <rom name="Game Party Champions (USA) (En,Fr,Es).key" size="16" crc="aaf04c40" md5="7f6b6f9db96d6ba0be99d5936c74ec2f" sha1="fe629736fe08586b0304273e8c08aaaf6e059c5b" />
+  </game>
+  <game name="Gen'ei Ibunroku FE (Japan)">
+    <description>Gen'ei Ibunroku FE (Japan)</description>
+    <rom name="Gen'ei Ibunroku FE (Japan).key" size="16" crc="a5605451" md5="d9e2003ca5a353d6c68091194607112d" sha1="b0680b6db753a6476b81053a60da5d16cff52652" />
+  </game>
+  <game name="Giana Sisters - Twisted Dreams - Director's Cut (USA) (En,Fr,Es)">
+    <description>Giana Sisters - Twisted Dreams - Director's Cut (USA) (En,Fr,Es)</description>
+    <rom name="Giana Sisters - Twisted Dreams - Director's Cut (USA) (En,Fr,Es).key" size="16" crc="e08d1f8a" md5="bd1ddb05875d2d6d51b4660bed1a935f" sha1="6fd70d3058b5c9e93da3e0a4be74172e8fffaa5a" />
+  </game>
+  <game name="Ginsei Shougi - Kyoutendo Toufuu Raijin (Japan)">
+    <description>Ginsei Shougi - Kyoutendo Toufuu Raijin (Japan)</description>
+    <rom name="Ginsei Shougi - Kyoutendo Toufuu Raijin (Japan).key" size="16" crc="3e605502" md5="dff1d42d2a89a23d689b7b54f9910472" sha1="ac8b6fac484d8312a9718542832eca0c3f893554" />
+  </game>
+  <game name="Gotouchi Tetsudou - Gotouchi Chara to Nippon Zenkoku no Tabi (Japan)">
+    <description>Gotouchi Tetsudou - Gotouchi Chara to Nippon Zenkoku no Tabi (Japan)</description>
+    <rom name="Gotouchi Tetsudou - Gotouchi Chara to Nippon Zenkoku no Tabi (Japan).key" size="16" crc="0ca8c22b" md5="f60a801884a94fbe95a59a2a51126d45" sha1="f4876a628ba2a5af0bd6c80df649c15749209708" />
+  </game>
+  <game name="Guitar Hero Live (Europe) (En,Fr,De,Es,It)">
+    <description>Guitar Hero Live (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Guitar Hero Live (Europe) (En,Fr,De,Es,It).key" size="16" crc="94605830" md5="c53dffdd08d41b87869039d1ea621829" sha1="4902fc4224780f4099d016452e800021067c0b5e" />
+  </game>
+  <game name="Guitar Hero Live (USA) (En,Fr,Es)">
+    <description>Guitar Hero Live (USA) (En,Fr,Es)</description>
+    <rom name="Guitar Hero Live (USA) (En,Fr,Es).key" size="16" crc="cd08e432" md5="7ce3882522388aafb41edfe6fe4f5d51" sha1="23e98e0b90358fb24162cc23babc77f505db7886" />
+  </game>
+  <game name="Hello Kitty Kruisers (Europe) (En,Fr,De,Es,It)">
+    <description>Hello Kitty Kruisers (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Hello Kitty Kruisers (Europe) (En,Fr,De,Es,It).key" size="16" crc="3801480e" md5="986191a1bca80bf0b42c752042b825de" sha1="99a4bbe104fe903794c3b221f76ae46691d5500e" />
+  </game>
+  <game name="Hello Kitty Kruisers (USA)">
+    <description>Hello Kitty Kruisers (USA)</description>
+    <rom name="Hello Kitty Kruisers (USA).key" size="16" crc="ed2564fb" md5="9ec8bc1300b5c8c9fb4a5969484a20d9" sha1="8e4ce4b12cc7664b85520d8b9704c89d78be5e63" />
+  </game>
+  <game name="Hot Wheels - World's Best Driver (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Hot Wheels - World's Best Driver (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Hot Wheels - World's Best Driver (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="53ae39dc" md5="c9ecbade184ef1cad5151f8045f44a04" sha1="3f49f8cf7d8e388f99f7bd446eec415c5c660495" />
+  </game>
+  <game name="Hot Wheels - World's Best Driver (USA) (En,Fr,Es,Pt)">
+    <description>Hot Wheels - World's Best Driver (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Hot Wheels - World's Best Driver (USA) (En,Fr,Es,Pt).key" size="16" crc="2bce53c3" md5="e0950838114816336b0839715d6bd794" sha1="70b020c5d331c5eb790307eb6bbd5fd25683528a" />
+  </game>
+  <game name="Hunter's Trophy 2 - Europa (Europe) (En,Fr,De,Es,It)">
+    <description>Hunter's Trophy 2 - Europa (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Hunter's Trophy 2 - Europa (Europe) (En,Fr,De,Es,It).key" size="16" crc="94c8df04" md5="fd58b408d486c47c1ab55267cd28f4fa" sha1="d81a8ef7a039b6e166139d446aa608080c75b820" />
+  </game>
+  <game name="Hyrule Warriors (Europe) (En,Fr,De,Es,It) (Rev 1)">
+    <description>Hyrule Warriors (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+    <rom name="Hyrule Warriors (Europe) (En,Fr,De,Es,It) (Rev 1).key" size="16" crc="ee5dab2f" md5="78e4a31e16810afe6c5e8b615f247888" sha1="8bb3d5a7b7d3d7da2e9ed1918a1d14472c47fba2" />
+  </game>
+  <game name="Hyrule Warriors (Europe) (En,Fr,De,Es,It)">
+    <description>Hyrule Warriors (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Hyrule Warriors (Europe) (En,Fr,De,Es,It).key" size="16" crc="40f18933" md5="55bad516f6565d876d754ff0286912fc" sha1="90ccd714d27a03c3173c86a196e23292de787760" />
+  </game>
+  <game name="Hyrule Warriors (USA) (En,Fr,Es) (Rev 1)">
+    <description>Hyrule Warriors (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="Hyrule Warriors (USA) (En,Fr,Es) (Rev 1).key" size="16" crc="9c916857" md5="deb98b0dadc414e30d8c79c82370fe98" sha1="fcfe192121aa7bd7351ed15b86106efcb4cb2912" />
+  </game>
+  <game name="Hyrule Warriors (USA) (En,Fr,Es)">
+    <description>Hyrule Warriors (USA) (En,Fr,Es)</description>
+    <rom name="Hyrule Warriors (USA) (En,Fr,Es).key" size="16" crc="131972e3" md5="114333a8eae3dc9bddc9cdac44ba5014" sha1="a9a947857c95a48debcc1f88add3608d3beafb8a" />
+  </game>
+  <game name="Injustice - Gods Among Us (Europe) (En,Fr,De,Es,It,Ru)">
+    <description>Injustice - Gods Among Us (Europe) (En,Fr,De,Es,It,Ru)</description>
+    <rom name="Injustice - Gods Among Us (Europe) (En,Fr,De,Es,It,Ru).key" size="16" crc="561a8164" md5="ce25942d6233e98a3d314c5199ad52d6" sha1="7d5869ba094b6ace539b6a220e2915da95961083" />
+  </game>
+  <game name="Injustice - Gods Among Us (USA) (En,Fr,Es,Pt)">
+    <description>Injustice - Gods Among Us (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Injustice - Gods Among Us (USA) (En,Fr,Es,Pt).key" size="16" crc="28825813" md5="548d82aeca4a643f6067ca8b89d56a8f" sha1="3561bd9211506f044b40d5e7b4e854f199fa8964" />
+  </game>
+  <game name="Injustice - Hero no Gekitotsu (Japan)">
+    <description>Injustice - Hero no Gekitotsu (Japan)</description>
+    <rom name="Injustice - Hero no Gekitotsu (Japan).key" size="16" crc="70538e9a" md5="c88e8937276fbffd27da9979d419d26f" sha1="9741d858712985dfeb227c94f7519989a9c453ba" />
+  </game>
+  <game name="Jeopardy! (USA)">
+    <description>Jeopardy! (USA)</description>
+    <rom name="Jeopardy! (USA).key" size="16" crc="05695e7b" md5="0a54b81afc8f649e3389fafe0d5affe3" sha1="e1bd56286674fc671e894367d618e3a85ceb7f49" />
+  </game>
+  <game name="Jett Tailfin (Europe) (En,Fr,De,Es,It)">
+    <description>Jett Tailfin (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Jett Tailfin (Europe) (En,Fr,De,Es,It).key" size="16" crc="eed05aea" md5="b57b8b979f1a9f3fdcfe8b578e83497f" sha1="946de84876a11ad1c5c9f9514f82c66408af0dd3" />
+  </game>
+  <game name="Jikkuri Egokoro Kyoushitsu (Japan) (Rev 1)">
+    <description>Jikkuri Egokoro Kyoushitsu (Japan) (Rev 1)</description>
+    <rom name="Jikkuri Egokoro Kyoushitsu (Japan) (Rev 1).key" size="16" crc="13fb6c6c" md5="b9bdb992482b7b96ef94d3cd5ff81723" sha1="da5832b4f94a5e40a1fb74ea0183b659e5275616" />
+  </game>
+  <game name="Just Dance - Disney Party 2 (Europe) (En,Fr,De,Es,It)">
+    <description>Just Dance - Disney Party 2 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Just Dance - Disney Party 2 (Europe) (En,Fr,De,Es,It).key" size="16" crc="8c98eda0" md5="b0d8446b90e68643e372a03b01f37a9b" sha1="89ed729683384f0a96c010657179bf9c2c68af52" />
+  </game>
+  <game name="Just Dance - Disney Party 2 (USA) (En,Fr,De,Es,It,Pt)">
+    <description>Just Dance - Disney Party 2 (USA) (En,Fr,De,Es,It,Pt)</description>
+    <rom name="Just Dance - Disney Party 2 (USA) (En,Fr,De,Es,It,Pt).key" size="16" crc="9b2bfe82" md5="1f74273905994af0d406b1272c05cc00" sha1="8d0f9cf9e5faf0262f2799075a7d4102404d1ef1" />
+  </game>
+  <game name="Just Dance 2014 (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Just Dance 2014 (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Just Dance 2014 (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="88557a57" md5="ee92a19346e7064587e4eaeb9ecbe519" sha1="f488eab21ed3fc287c22e0b9f62a0d9f247f2ad6" />
+  </game>
+  <game name="Just Dance 2014 (USA) (En,Fr,Es,Pt)">
+    <description>Just Dance 2014 (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Just Dance 2014 (USA) (En,Fr,Es,Pt).key" size="16" crc="3d177e2a" md5="2162d0af0b1f27f125e9345e96d8ca49" sha1="32cfcc03795f1ebde4fc55cce750787ba5d18c1c" />
+  </game>
+  <game name="Just Dance 2015 (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Just Dance 2015 (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Just Dance 2015 (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="1fbfd321" md5="ba1e636fd09e26dac765c0e646f7f1e5" sha1="25feaad69eff9310a9686646a7280f2506670c3d" />
+  </game>
+  <game name="Just Dance 2015 (USA) (En,Fr,Es,Pt)">
+    <description>Just Dance 2015 (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Just Dance 2015 (USA) (En,Fr,Es,Pt).key" size="16" crc="9214b912" md5="96f6369d36b58cb4ab207bdeff08fdcc" sha1="81db36df0b7266cd859726752efcf0b54459ddab" />
+  </game>
+  <game name="Just Dance 2016 (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Just Dance 2016 (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Just Dance 2016 (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="24a9b37d" md5="5c6397ed4605304c4c467aadee939182" sha1="3ddb67a684205764d9e92e064e214233001750b6" />
+  </game>
+  <game name="Just Dance 2016 (USA) (En,Fr,Es,Pt)">
+    <description>Just Dance 2016 (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Just Dance 2016 (USA) (En,Fr,Es,Pt).key" size="16" crc="ac99ab10" md5="2f2b7b5ee8c2d80a82f4da2be8c1c43d" sha1="45a3d616ca515515d6cf8d3bbd9294a07a246f45" />
+  </game>
+  <game name="Just Dance 2017 (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Just Dance 2017 (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Just Dance 2017 (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="c6edb2c3" md5="0edbbf5b26c79252c4b7e8dfda5882f4" sha1="5d3b854d81ab2aafca95b3660fb2ee1cb5cdf914" />
+  </game>
+  <game name="Just Dance 2017 (USA) (En,Fr,Es,Pt)">
+    <description>Just Dance 2017 (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Just Dance 2017 (USA) (En,Fr,Es,Pt).key" size="16" crc="c60329ff" md5="825eec873ea83728431f751cb2ca3912" sha1="89d547c356562342606201ad0570dbd137ee58c8" />
+  </game>
+  <game name="Just Dance 2018 (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Just Dance 2018 (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Just Dance 2018 (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="7207a380" md5="f1c0cf09385b132b3adc396bc8f86e28" sha1="e34f495c96c54a50f2664701470f61109bbca165" />
+  </game>
+  <game name="Just Dance 2018 (USA) (En,Fr,Es,Pt)">
+    <description>Just Dance 2018 (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Just Dance 2018 (USA) (En,Fr,Es,Pt).key" size="16" crc="7914da1b" md5="7d251c434fa28d4a968b335870ba1dff" sha1="349923113986b0fd589b76cafc234b32e84ea3b1" />
+  </game>
+  <game name="Just Dance 2019 (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Just Dance 2019 (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Just Dance 2019 (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="23038960" md5="ddd213ab820054e315afe6102b02d432" sha1="df88e35639b017ebc5db151a4860016d43a92407" />
+  </game>
+  <game name="Just Dance 2019 (USA) (En,Fr,Es,Pt)">
+    <description>Just Dance 2019 (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Just Dance 2019 (USA) (En,Fr,Es,Pt).key" size="16" crc="8f38fb63" md5="69588aa47a2370e31842f1e8d6c2cbfd" sha1="3557b7246e75bc963c6d56773d4c29ffac66fd9a" />
+  </game>
+  <game name="Just Dance 4 (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Just Dance 4 (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Just Dance 4 (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="af1de469" md5="5a83f7243166628b0fa1fd008687214f" sha1="d2fcbd1d456b538ecee1e6cb0b132fd4f642158d" />
+  </game>
+  <game name="Just Dance 4 (USA) (En,Fr,Es,Pt)">
+    <description>Just Dance 4 (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Just Dance 4 (USA) (En,Fr,Es,Pt).key" size="16" crc="d6b185e6" md5="70e3135bf723f04550a479c751948ec1" sha1="49e0a83a404548af508dff27e5f1b0bc43637d56" />
+  </game>
+  <game name="Just Dance Kids 2014 (Europe) (En,Fr,Es)">
+    <description>Just Dance Kids 2014 (Europe) (En,Fr,Es)</description>
+    <rom name="Just Dance Kids 2014 (Europe) (En,Fr,Es).key" size="16" crc="e7301123" md5="6ee125a20a4769a577b7b1f2a0d92a1e" sha1="73b312d5692570a12e15d4984d99b19dbfa75bf5" />
+  </game>
+  <game name="Just Dance Kids 2014 (USA) (En,Fr,Es)">
+    <description>Just Dance Kids 2014 (USA) (En,Fr,Es)</description>
+    <rom name="Just Dance Kids 2014 (USA) (En,Fr,Es).key" size="16" crc="d56ce621" md5="dd46801ef4b96a993817d26bcf146277" sha1="064a20333c1dba429d664e3d6126380560b55c85" />
+  </game>
+  <game name="Just Dance Wii U (Japan) (Rev 1)">
+    <description>Just Dance Wii U (Japan) (Rev 1)</description>
+    <rom name="Just Dance Wii U (Japan) (Rev 1).key" size="16" crc="531c420e" md5="2c08ffe8b43edb66fb4d397a75138c82" sha1="b8335c0762167a8c62c3ebf1fd4f8d5a991e37f5" />
+  </game>
+  <game name="Kamen Rider - Battride War II (Japan)">
+    <description>Kamen Rider - Battride War II (Japan)</description>
+    <rom name="Kamen Rider - Battride War II (Japan).key" size="16" crc="091a9600" md5="5989d833f01c7482e6e7db76e3452a74" sha1="ffed91a34756dbe13a19694962f116bff1c9a75e" />
+  </game>
+  <game name="Kamen Rider - Battride War II - Premium TV &amp; Movie Sound Edition (Japan)">
+    <description>Kamen Rider - Battride War II - Premium TV &amp; Movie Sound Edition (Japan)</description>
+    <rom name="Kamen Rider - Battride War II - Premium TV &amp; Movie Sound Edition (Japan).key" size="16" crc="0faa6055" md5="6a62d4faa7373b35e62d5288d3420270" sha1="802518b735fc2fbf37542734ca70d2270859f8e9" />
+  </game>
+  <game name="Kamen Rider Summonride! (Japan)">
+    <description>Kamen Rider Summonride! (Japan)</description>
+    <rom name="Kamen Rider Summonride! (Japan).key" size="16" crc="2b24528d" md5="ba0458e625b3814894f18914e148c82a" sha1="919c86d7e878e4b6cc0f34fdb454a18d4a782c8d" />
+  </game>
+  <game name="Kirby and the Rainbow Curse (USA) (En,Fr,Es)">
+    <description>Kirby and the Rainbow Curse (USA) (En,Fr,Es)</description>
+    <rom name="Kirby and the Rainbow Curse (USA) (En,Fr,Es).key" size="16" crc="5ab17ff1" md5="749d77d86462b17369761e48bae79d98" sha1="61cb696c02cabd289590cad4844cb30c3d94a873" />
+  </game>
+  <game name="Kirby and the Rainbow Paintbrush (Europe) (En,Fr,De,Es,It)">
+    <description>Kirby and the Rainbow Paintbrush (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Kirby and the Rainbow Paintbrush (Europe) (En,Fr,De,Es,It).key" size="16" crc="ecbd67aa" md5="1cfe0da7eb326339ae84b0537d972b43" sha1="3b008287e00d6e629ccfff9517fb26f8e5715331" />
+  </game>
+  <game name="Legend of Kay - Anniversary (Europe) (En,Fr,De,Es,It)">
+    <description>Legend of Kay - Anniversary (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Legend of Kay - Anniversary (Europe) (En,Fr,De,Es,It).key" size="16" crc="3f0d355e" md5="2b2bc24ce3467ddb0dac5bc6ac891f11" sha1="f60c6f23ca1ad6d90cb35cf62a279b0a021ff2f3" />
+  </game>
+  <game name="Legend of Kay - Anniversary (USA) (En,Fr,De,Es,It)">
+    <description>Legend of Kay - Anniversary (USA) (En,Fr,De,Es,It)</description>
+    <rom name="Legend of Kay - Anniversary (USA) (En,Fr,De,Es,It).key" size="16" crc="665ca90d" md5="a680ba80a45e934eb499e17067856271" sha1="031a2d3682cc42f4d27a0bc3968c4968f0261d76" />
+  </game>
+  <game name="Legend of Zelda, The - Breath of the Wild (Europe) (En,Fr,De,Es,It,Nl,Ru)">
+    <description>Legend of Zelda, The - Breath of the Wild (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
+    <rom name="Legend of Zelda, The - Breath of the Wild (Europe) (En,Fr,De,Es,It,Nl,Ru).key" size="16" crc="e386b097" md5="d429b62b5601011ec49de4d2c16b07a9" sha1="d91428b7aae0d3bda4a0acba05ba65d9ed3104dc" />
+  </game>
+  <game name="Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es)">
+    <description>Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es)</description>
+    <rom name="Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).key" size="16" crc="f3abdfd1" md5="9e01780c5460da77784a2a471586207b" sha1="d6bb249db5a794b4984c395a60daa30579753c2d" />
+  </game>
+  <game name="Legend of Zelda, The - The Wind Waker HD (Europe, Australia) (En,Fr,De,Es,It)">
+    <description>Legend of Zelda, The - The Wind Waker HD (Europe, Australia) (En,Fr,De,Es,It)</description>
+    <rom name="Legend of Zelda, The - The Wind Waker HD (Europe, Australia) (En,Fr,De,Es,It).key" size="16" crc="ed92b144" md5="0291c310658ebdc8e183f6fbc8e88e46" sha1="a0abdccf7ef6133b654549f97aec3fde7d125ebf" />
+  </game>
+  <game name="Legend of Zelda, The - The Wind Waker HD (USA, Asia) (En,Fr,Es)">
+    <description>Legend of Zelda, The - The Wind Waker HD (USA, Asia) (En,Fr,Es)</description>
+    <rom name="Legend of Zelda, The - The Wind Waker HD (USA, Asia) (En,Fr,Es).key" size="16" crc="db9360a9" md5="9b7b573a8bf00eac22eb0d195e88a9c7" sha1="6117d8b7dc9b26a085f7b109b3025b18d66734a6" />
+  </game>
+  <game name="Legend of Zelda, The - Twilight Princess HD (Europe, Australia) (En,Fr,De,Es,It) (Rev 2)">
+    <description>Legend of Zelda, The - Twilight Princess HD (Europe, Australia) (En,Fr,De,Es,It) (Rev 2)</description>
+    <rom name="Legend of Zelda, The - Twilight Princess HD (Europe, Australia) (En,Fr,De,Es,It) (Rev 2).key" size="16" crc="a66bd666" md5="a66b229abe061e6401500c928f8dfaff" sha1="d827d56d55e23cdb24cd0535df009bba7130a675" />
+  </game>
+  <game name="Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es) (Rev 2)">
+    <description>Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es) (Rev 2)</description>
+    <rom name="Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es) (Rev 2).key" size="16" crc="d9621a13" md5="3b23c93e2d4dbd0635624c8dec774ed8" sha1="90294a225d1c995497ea2f97c71012401b96c0b1" />
+  </game>
+  <game name="LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It)">
+    <description>LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="LEGO Batman 2 - DC Super Heroes (Europe) (En,Fr,De,Es,It).key" size="16" crc="79755d20" md5="f7942eb4b81c5a495706406df5de7337" sha1="90ab88ca36dfc7ff715d327578e5a01c6bf104cf" />
+  </game>
+  <game name="LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt)">
+    <description>LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt)</description>
+    <rom name="LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).key" size="16" crc="296fc6b3" md5="6d29f866173120acb781cc79a9d5c527" sha1="2db95d9675f41e6d25fd11ab8ca9b6b13ed5e149" />
+  </game>
+  <game name="LEGO Batman 3 - Beyond Gotham (Europe) (En,Fr,De,Es,It,Nl,Da)">
+    <description>LEGO Batman 3 - Beyond Gotham (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+    <rom name="LEGO Batman 3 - Beyond Gotham (Europe) (En,Fr,De,Es,It,Nl,Da).key" size="16" crc="cf75b1a0" md5="4d96c8670267faf055d165bc2a995d47" sha1="3e89adc93d97da03e71407adacf0bbae1ae05b58" />
+  </game>
+  <game name="LEGO Batman 3 - Beyond Gotham (USA) (En,Fr,Es,Pt)">
+    <description>LEGO Batman 3 - Beyond Gotham (USA) (En,Fr,Es,Pt)</description>
+    <rom name="LEGO Batman 3 - Beyond Gotham (USA) (En,Fr,Es,Pt).key" size="16" crc="012dbab4" md5="5dc6fbe5d14c326bee6d9e3a2ccab56c" sha1="87b2552fe196a1b145669ccdd9f8767168f2249a" />
+  </game>
+  <game name="LEGO Batman 3 - The Game - Gotham kara Uchuu e (Japan)">
+    <description>LEGO Batman 3 - The Game - Gotham kara Uchuu e (Japan)</description>
+    <rom name="LEGO Batman 3 - The Game - Gotham kara Uchuu e (Japan).key" size="16" crc="bf2c48f3" md5="9460d097fe4a8478f904bd8b6ae3a204" sha1="ad5c1f67ab9733bf2d7bde59a1f3a2f2c283e0fa" />
+  </game>
+  <game name="LEGO City Undercover (Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Ru) (Rev 1)">
+    <description>LEGO City Undercover (Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Ru) (Rev 1)</description>
+    <rom name="LEGO City Undercover (Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Ru) (Rev 1).key" size="16" crc="e33f08c0" md5="6d421c9956fe2516efcc76698ce034d7" sha1="b95aa677c113adb62c4b63d419737e1e7b71ce79" />
+  </game>
+  <game name="LEGO City Undercover (Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Ru)">
+    <description>LEGO City Undercover (Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Ru)</description>
+    <rom name="LEGO City Undercover (Europe) (En,Fr,De,Es,It,Nl,Pt,Da,Ru).key" size="16" crc="9aaf4b3d" md5="86f834b59fd0f55a1ab9d120d79997cd" sha1="b5ee52d166701f88586b0e744445700d4924c9c5" />
+  </game>
+  <game name="LEGO City Undercover (Japan)">
+    <description>LEGO City Undercover (Japan)</description>
+    <rom name="LEGO City Undercover (Japan).key" size="16" crc="57f140b6" md5="a5b8f69a8a324178e9971f693aa8ff06" sha1="0c92e417596addcfe48438212cd938be8ee54e1c" />
+  </game>
+  <game name="LEGO City Undercover (USA) (En,Fr,Es) (Rev 1)">
+    <description>LEGO City Undercover (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="LEGO City Undercover (USA) (En,Fr,Es) (Rev 1).key" size="16" crc="54cea45d" md5="b34f88e4a0143ec445bbe54c0c629c33" sha1="a1e2280c59ef3f72ba978aeb7b0ab04a8d0bdebf" />
+  </game>
+  <game name="LEGO City Undercover (USA) (En,Fr,Es)">
+    <description>LEGO City Undercover (USA) (En,Fr,Es)</description>
+    <rom name="LEGO City Undercover (USA) (En,Fr,Es).key" size="16" crc="2ceb96f4" md5="41ef0e6ff81ba243e75eaec16143ed1b" sha1="3f77d8ff5177139222e1c748c164ef78874c2c06" />
+  </game>
+  <game name="LEGO Dimensions (Europe) (En,Fr,De,Nl,Da) (Rev 1)">
+    <description>LEGO Dimensions (Europe) (En,Fr,De,Nl,Da) (Rev 1)</description>
+    <rom name="LEGO Dimensions (Europe) (En,Fr,De,Nl,Da) (Rev 1).key" size="16" crc="53301f88" md5="61fadef36e8277f61f175a19710c334b" sha1="6d5786796710a7da87d93e5842b3d0b9231a6b3e" />
+  </game>
+  <game name="LEGO Dimensions (USA) (En,Fr,Es)">
+    <description>LEGO Dimensions (USA) (En,Fr,Es)</description>
+    <rom name="LEGO Dimensions (USA) (En,Fr,Es).key" size="16" crc="6eab1b50" md5="7731d5de587471158e78719d7577b463" sha1="38a777661aaabb1b270cd9ae9ca30ed61cf1077a" />
+  </game>
+  <game name="LEGO Jurassic World (Europe) (En,Fr,De,Es,It,Nl,Da)">
+    <description>LEGO Jurassic World (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+    <rom name="LEGO Jurassic World (Europe) (En,Fr,De,Es,It,Nl,Da).key" size="16" crc="bc5c82ed" md5="dc4ab0c869b503ae8d9f2cfe270f79c0" sha1="681c3e3a462627917a033f40dbfd32380eb65215" />
+  </game>
+  <game name="LEGO Jurassic World (Japan)">
+    <description>LEGO Jurassic World (Japan)</description>
+    <rom name="LEGO Jurassic World (Japan).key" size="16" crc="d805f5ec" md5="0e7fbb31d4dd29aa292d609034761a32" sha1="545784a445f5ed1671341b84083bbd9b312d5e2d" />
+  </game>
+  <game name="LEGO Jurassic World (USA) (En,Fr,Es,Pt)">
+    <description>LEGO Jurassic World (USA) (En,Fr,Es,Pt)</description>
+    <rom name="LEGO Jurassic World (USA) (En,Fr,Es,Pt).key" size="16" crc="7182ce2c" md5="d30982c3570b060b38ddaca58c9f1870" sha1="3716f108627b278347a7433c1b19a089926606bd" />
+  </game>
+  <game name="LEGO Marvel Avengers (Europe) (En,Fr,De,Es,It,Nl,Da)">
+    <description>LEGO Marvel Avengers (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+    <rom name="LEGO Marvel Avengers (Europe) (En,Fr,De,Es,It,Nl,Da).key" size="16" crc="e0475f11" md5="4a7cf26e8ac8c4df0c84cf18c1b7298b" sha1="73fa52831b851fc01f9c06151c5568d70b8eaec8" />
+  </game>
+  <game name="LEGO Marvel Avengers (Japan)">
+    <description>LEGO Marvel Avengers (Japan)</description>
+    <rom name="LEGO Marvel Avengers (Japan).key" size="16" crc="43132a02" md5="bd8f3cb9a3520e92aa08c81ecd35e00f" sha1="1f50f50a051ca9aebfb0e5a0d1d4e95a0c723c0b" />
+  </game>
+  <game name="LEGO Marvel Avengers (USA) (En,Fr,Es,Pt)">
+    <description>LEGO Marvel Avengers (USA) (En,Fr,Es,Pt)</description>
+    <rom name="LEGO Marvel Avengers (USA) (En,Fr,Es,Pt).key" size="16" crc="8a68a8ba" md5="be5d210a170724ee0ea9669b11b604d9" sha1="23fd1cd78e40f53245bbb1153ae665e7d4cc0a93" />
+  </game>
+  <game name="LEGO Marvel Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da)">
+    <description>LEGO Marvel Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+    <rom name="LEGO Marvel Super Heroes (Europe) (En,Fr,De,Es,It,Nl,Da).key" size="16" crc="5e02faff" md5="7c1bdfee8904732b4da383b4f3b624c5" sha1="d5931a07b2ebe82716fdbe241caa0f1a7f033489" />
+  </game>
+  <game name="LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt)">
+    <description>LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt)</description>
+    <rom name="LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).key" size="16" crc="4ec967bd" md5="08a2f7531c962113e0a50a26d0356b39" sha1="c341c8d0cdda92915189da6946e0dc8b67542eac" />
+  </game>
+  <game name="LEGO Marvel Super Heroes - The Game (Japan)">
+    <description>LEGO Marvel Super Heroes - The Game (Japan)</description>
+    <rom name="LEGO Marvel Super Heroes - The Game (Japan).key" size="16" crc="9bc53c8a" md5="40619f90651c9619628c00daed708ddb" sha1="02707773a305092d689bd40aedc68f94890cc3a7" />
+  </game>
+  <game name="LEGO Movie - The Game (Japan)">
+    <description>LEGO Movie - The Game (Japan)</description>
+    <rom name="LEGO Movie - The Game (Japan).key" size="16" crc="41292384" md5="9269d790af9e373f2920eb2a4a00567c" sha1="f075fc68fc22fea18bc849c53239d289ebc4c560" />
+  </game>
+  <game name="LEGO Movie, The - Videogame (Europe) (En,Fr,Es,It,Nl,Da) (Rev 1)">
+    <description>LEGO Movie, The - Videogame (Europe) (En,Fr,Es,It,Nl,Da) (Rev 1)</description>
+    <rom name="LEGO Movie, The - Videogame (Europe) (En,Fr,Es,It,Nl,Da) (Rev 1).key" size="16" crc="47e268ba" md5="155f05ee449ab94ece250b4c10d41f2a" sha1="d7e31669ff7c6c1a6ed025fc28bd977eb4cb5ea9" />
+  </game>
+  <game name="LEGO Movie, The - Videogame (Europe) (En,Fr,Es,It,Nl,Da)">
+    <description>LEGO Movie, The - Videogame (Europe) (En,Fr,Es,It,Nl,Da)</description>
+    <rom name="LEGO Movie, The - Videogame (Europe) (En,Fr,Es,It,Nl,Da).key" size="16" crc="3527525d" md5="b9d1a344ee444865a668b9d589a9f1db" sha1="52ab844d02f4ac33737138c81f270ff03625680b" />
+  </game>
+  <game name="LEGO Movie, The - Videogame (USA) (En,Fr,Es,Pt) (Rev 1)">
+    <description>LEGO Movie, The - Videogame (USA) (En,Fr,Es,Pt) (Rev 1)</description>
+    <rom name="LEGO Movie, The - Videogame (USA) (En,Fr,Es,Pt) (Rev 1).key" size="16" crc="b9365723" md5="2f644221bafb8a5874ff2432b5457fad" sha1="2da1d3446329242d3b72b3c2b946bd02e0dfdf09" />
+  </game>
+  <game name="LEGO Movie, The - Videogame (USA) (En,Fr,Es,Pt)">
+    <description>LEGO Movie, The - Videogame (USA) (En,Fr,Es,Pt)</description>
+    <rom name="LEGO Movie, The - Videogame (USA) (En,Fr,Es,Pt).key" size="16" crc="85b6ff69" md5="5715afb49ae042a7ebac0dc92e2dff30" sha1="05d2cf81da5eaab91db5451bae1770f0a8c93365" />
+  </game>
+  <game name="LEGO Star Wars - Force no Kakusei (Japan)">
+    <description>LEGO Star Wars - Force no Kakusei (Japan)</description>
+    <rom name="LEGO Star Wars - Force no Kakusei (Japan).key" size="16" crc="4075a162" md5="0cb7e9d017d546a15341968291624180" sha1="99601261d71de0c93b9ae31b3d5954f7738764cc" />
+  </game>
+  <game name="LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da)">
+    <description>LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+    <rom name="LEGO Star Wars - The Force Awakens (Europe) (En,Fr,De,Es,It,Nl,Da).key" size="16" crc="4df83951" md5="31b357f99bc2a161cc31a89904b40615" sha1="00d330c1eaf84bda026de4afd37e56f1f7ecc7cc" />
+  </game>
+  <game name="LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt)">
+    <description>LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt)</description>
+    <rom name="LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).key" size="16" crc="ea19e137" md5="161b59234d5d4bd8a5f8e9ec8a3b5fbe" sha1="1acc34616e7186d6251c9863f64fbb07ae2a7925" />
+  </game>
+  <game name="LEGO The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da)">
+    <description>LEGO The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da)</description>
+    <rom name="LEGO The Hobbit (Europe) (En,Fr,De,Es,It,Nl,Da).key" size="16" crc="3794decb" md5="f5b3363eb0e4b8a58f13d84e7e6d05ae" sha1="a0580bbc0c23d9eb119823ad31de3b2ea2278894" />
+  </game>
+  <game name="LEGO The Hobbit (USA) (En,Fr,Es,Pt)">
+    <description>LEGO The Hobbit (USA) (En,Fr,Es,Pt)</description>
+    <rom name="LEGO The Hobbit (USA) (En,Fr,Es,Pt).key" size="16" crc="124cda65" md5="cc2778c50eb8098f59c7fb4305db72f1" sha1="8698e57292f151a004242a9410282c0079241b17" />
+  </game>
+  <game name="Luv Me Buddies - Wonderland (Europe) (En,Fr,De,Es,It)">
+    <description>Luv Me Buddies - Wonderland (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Luv Me Buddies - Wonderland (Europe) (En,Fr,De,Es,It).key" size="16" crc="b1727660" md5="a236e2d5089a03e17ff10ac52fc84480" sha1="ddcec7179b934405dfce61c27bf2b7bfbcabbdaf" />
+  </game>
+  <game name="Madden NFL 13 (USA)">
+    <description>Madden NFL 13 (USA)</description>
+    <rom name="Madden NFL 13 (USA).key" size="16" crc="eccff456" md5="dbc81b2237abeb15a950bb5877769291" sha1="405791a27bb339008c467b3c6513ab83ab47aaaa" />
+  </game>
+  <game name="Mario &amp; Sonic at Rio Olympic (Japan) (Rev 1)">
+    <description>Mario &amp; Sonic at Rio Olympic (Japan) (Rev 1)</description>
+    <rom name="Mario &amp; Sonic at Rio Olympic (Japan) (Rev 1).key" size="16" crc="cd20d778" md5="3f4549246c6630cd5749de892978c7f0" sha1="d590622a2706223eeaae75f004f3adf1b981d2b3" />
+  </game>
+  <game name="Mario &amp; Sonic at the Rio 2016 Olympic Games (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Mario &amp; Sonic at the Rio 2016 Olympic Games (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Mario &amp; Sonic at the Rio 2016 Olympic Games (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="3186e6ad" md5="d15b6ea9b009d946ad02809a7023f453" sha1="eb0f5517dc5b4653954b5d456ea6e9a52f63d08c" />
+  </game>
+  <game name="Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es)">
+    <description>Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es)</description>
+    <rom name="Mario &amp; Sonic at the Rio 2016 Olympic Games (USA) (En,Fr,Es).key" size="16" crc="3619834d" md5="d708e34f397028fe70cffa0f7cd453e1" sha1="e4ad7dd5c599edbb7f0e62756303aa3f31842f85" />
+  </game>
+  <game name="Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (Europe) (En,Fr,De,Es,It,Nl,Ru)">
+    <description>Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
+    <rom name="Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (Europe) (En,Fr,De,Es,It,Nl,Ru).key" size="16" crc="9eedfc74" md5="ff78c04356c710f78f0ce8be67719ae4" sha1="a668e9f0dedcedcb8f948da2ff10bacf337b7be7" />
+  </game>
+  <game name="Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (USA) (En,Fr,Es)">
+    <description>Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (USA) (En,Fr,Es)</description>
+    <rom name="Mario &amp; Sonic at the Sochi 2014 Olympic Winter Games (USA) (En,Fr,Es).key" size="16" crc="8cc5cf66" md5="e1f82d73c5037d17432b8bfb76427751" sha1="22166ac6ea3106e6875595d167f2b0eb55b4e9ff" />
+  </game>
+  <game name="Mario &amp; Sonic at the Sochi Olympic (Japan) (Rev 1)">
+    <description>Mario &amp; Sonic at the Sochi Olympic (Japan) (Rev 1)</description>
+    <rom name="Mario &amp; Sonic at the Sochi Olympic (Japan) (Rev 1).key" size="16" crc="d0a217e3" md5="e5425b94b0c6c554f6d5a95836ad24ab" sha1="43c3d0586249751a50eb5831f8d0be3943a88833" />
+  </game>
+  <game name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)">
+    <description>Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
+    <rom name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).key" size="16" crc="b0e7a150" md5="fbf7a087674c79d4a4e499f186ad3824" sha1="a5edffd7870d76cf018126f70007e5b7c76821d4" />
+  </game>
+  <game name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 3)">
+    <description>Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 3)</description>
+    <rom name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 3).key" size="16" crc="8956f0d7" md5="54e2c265e84859985bd515f905e216b1" sha1="ac97f6ef8814a44d568af232db0fb738626b9287" />
+  </game>
+  <game name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4)">
+    <description>Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4)</description>
+    <rom name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4).key" size="16" crc="dfb6ff26" md5="7117f2130e37dae6f8ab8676579049b2" sha1="3f4e7a506bf43261f3d3b843a9aa6d534d70d0aa" />
+  </game>
+  <game name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Mario Kart 8 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="46dd50ff" md5="8fdd351e936ed7b1337a2a6700ff0102" sha1="d89cc2b1e384c9ba3301092df8b042d699bbc134" />
+  </game>
+  <game name="Mario Kart 8 (Japan) (Rev 1)">
+    <description>Mario Kart 8 (Japan) (Rev 1)</description>
+    <rom name="Mario Kart 8 (Japan) (Rev 1).key" size="16" crc="3922afcd" md5="fb469bc0542e9cf727cb9e4d3c2bfa3c" sha1="09ba2e1f5ac041a42c11b9d5d3df2db60994b551" />
+  </game>
+  <game name="Mario Kart 8 (Japan) (Rev 3)">
+    <description>Mario Kart 8 (Japan) (Rev 3)</description>
+    <rom name="Mario Kart 8 (Japan) (Rev 3).key" size="16" crc="77ca75dd" md5="ce44fc9d3d438c5265537baa5f63b9d4" sha1="471cd987fab3abea25d5f216cd13c005ae72f9ad" />
+  </game>
+  <game name="Mario Kart 8 (Japan)">
+    <description>Mario Kart 8 (Japan)</description>
+    <rom name="Mario Kart 8 (Japan).key" size="16" crc="1a62c201" md5="c8638c547a604454141030f2f03e4e31" sha1="f03141377618495bd3908f6a03f0bcc63760418d" />
+  </game>
+  <game name="Mario Kart 8 (USA) (En,Fr,Es) (Rev 2)">
+    <description>Mario Kart 8 (USA) (En,Fr,Es) (Rev 2)</description>
+    <rom name="Mario Kart 8 (USA) (En,Fr,Es) (Rev 2).key" size="16" crc="b88c6bac" md5="da6ebffbf681de134715836239db0a0e" sha1="c93038379e4eeff6e5c210db34c8e040a8e8c02f" />
+  </game>
+  <game name="Mario Kart 8 (USA) (En,Fr,Es) (Rev 3)">
+    <description>Mario Kart 8 (USA) (En,Fr,Es) (Rev 3)</description>
+    <rom name="Mario Kart 8 (USA) (En,Fr,Es) (Rev 3).key" size="16" crc="8215eaf7" md5="ba3a7e22b90f52d66e60a5af72e6d03d" sha1="ab7f0dab131700bdbb914a44a799c197cd0120db" />
+  </game>
+  <game name="Mario Kart 8 (USA) (En,Fr,Es) (Rev 5)">
+    <description>Mario Kart 8 (USA) (En,Fr,Es) (Rev 5)</description>
+    <rom name="Mario Kart 8 (USA) (En,Fr,Es) (Rev 5).key" size="16" crc="1b2574b3" md5="d53b346e5a6969917236f13c7ed2bd40" sha1="f4f2dec82009d2c0fe2cbbf58fa04d125f680100" />
+  </game>
+  <game name="Mario Kart 8 (USA) (En,Fr,Es)">
+    <description>Mario Kart 8 (USA) (En,Fr,Es)</description>
+    <rom name="Mario Kart 8 (USA) (En,Fr,Es).key" size="16" crc="ea1e50b0" md5="469d975e9f40ac864a4a13fd42496856" sha1="3a07b74568978d84583c229b58396260ae40203d" />
+  </game>
+  <game name="Mario Party 10 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Mario Party 10 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Mario Party 10 (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="158f1658" md5="4a73d6ca7a3aa5ae741f6053f3bd7c55" sha1="95ca95deaaad5d57163ed54a8345eb747f549239" />
+  </game>
+  <game name="Mario Party 10 (Japan)">
+    <description>Mario Party 10 (Japan)</description>
+    <rom name="Mario Party 10 (Japan).key" size="16" crc="bda1b271" md5="2d5fdef6541f9a54c8d37e8a41d08d0c" sha1="f5bea814e4c8559682e2bf145f373a6ec088ddbe" />
+  </game>
+  <game name="Mario Party 10 (USA) (En,Fr,Es)">
+    <description>Mario Party 10 (USA) (En,Fr,Es)</description>
+    <rom name="Mario Party 10 (USA) (En,Fr,Es).key" size="16" crc="c5ab9025" md5="8086054f9cd4d97899d33c4b4c3c8266" sha1="815b7d9f27c189bd86bba180274a421715342015" />
+  </game>
+  <game name="Mario Tennis - Ultra Smash (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Mario Tennis - Ultra Smash (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Mario Tennis - Ultra Smash (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="de4b065e" md5="da45c5aba685e7b21b1e7bb233dc4c07" sha1="d87356121e87a5290f2db5741350345b92acc643" />
+  </game>
+  <game name="Mario Tennis - Ultra Smash (Japan) (Rev 1)">
+    <description>Mario Tennis - Ultra Smash (Japan) (Rev 1)</description>
+    <rom name="Mario Tennis - Ultra Smash (Japan) (Rev 1).key" size="16" crc="f46bdf0a" md5="9dee7936d8ba68107e4ebabd651f215b" sha1="4c3f1f5041ecb68a173c1963191ef44900a744aa" />
+  </game>
+  <game name="Mario Tennis - Ultra Smash (USA) (En,Fr,Es)">
+    <description>Mario Tennis - Ultra Smash (USA) (En,Fr,Es)</description>
+    <rom name="Mario Tennis - Ultra Smash (USA) (En,Fr,Es).key" size="16" crc="cc500ec0" md5="eff80c8714389f446ce57dcf19c8e344" sha1="e92d9a8cd682a1f10a8f702adc818726e2ae0017" />
+  </game>
+  <game name="Mario vs. Donkey Kong - Minna de Mini Land (Japan)">
+    <description>Mario vs. Donkey Kong - Minna de Mini Land (Japan)</description>
+    <rom name="Mario vs. Donkey Kong - Minna de Mini Land (Japan).key" size="16" crc="5aee8718" md5="23b84dea218e8c5c0d04db9172c7c9bd" sha1="58f8476b36facb640d23ddbdf972066324942b58" />
+  </game>
+  <game name="Marvel Avengers - Battle for Earth (Europe) (En,Fr,De,Es,It,Nl,Pl)">
+    <description>Marvel Avengers - Battle for Earth (Europe) (En,Fr,De,Es,It,Nl,Pl)</description>
+    <rom name="Marvel Avengers - Battle for Earth (Europe) (En,Fr,De,Es,It,Nl,Pl).key" size="16" crc="09337dc7" md5="b2fdec7adf9e9487019548b8f64f03fc" sha1="c62f61ecd53af4dbf0cfbdf13e06ec7b94563a24" />
+  </game>
+  <game name="Marvel Avengers - Battle for Earth (USA) (En,Fr,Es,Pt)">
+    <description>Marvel Avengers - Battle for Earth (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Marvel Avengers - Battle for Earth (USA) (En,Fr,Es,Pt).key" size="16" crc="0c56d464" md5="ad2e03a7fc14f83f4b3bdf1d207ced74" sha1="dfc3381a8ac5f61f433493b19691d9ce17f4b3f4" />
+  </game>
+  <game name="Mass Effect 3 - Special Edition (Europe) (En,Fr,De,Es,It)">
+    <description>Mass Effect 3 - Special Edition (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Mass Effect 3 - Special Edition (Europe) (En,Fr,De,Es,It).key" size="16" crc="b32147fd" md5="3ffd43825ed87a2de6d7730bd0a1b61e" sha1="5613218b784df3f2179dbe98852ef4bc17caa532" />
+  </game>
+  <game name="Mass Effect 3 - Special Edition (USA) (En,Fr,Es)">
+    <description>Mass Effect 3 - Special Edition (USA) (En,Fr,Es)</description>
+    <rom name="Mass Effect 3 - Special Edition (USA) (En,Fr,Es).key" size="16" crc="a17f0743" md5="cebb458428af07668eaef2d36836b9da" sha1="aba1da28a9cda45d7c076971a29e6144fb09497c" />
+  </game>
+  <game name="Mass Effect 3 - Tokubetsuban (Japan)">
+    <description>Mass Effect 3 - Tokubetsuban (Japan)</description>
+    <rom name="Mass Effect 3 - Tokubetsuban (Japan).key" size="16" crc="5ad65789" md5="9a5929f98d2430718d00f8493d9a6dd6" sha1="98aca7f2d40c81834e3fe7e3ed563316ebb49c8a" />
+  </game>
+  <game name="Mighty No. 9 (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)">
+    <description>Mighty No. 9 (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)</description>
+    <rom name="Mighty No. 9 (Europe) (En,Ja,Fr,De,Es,It,Pt,Ru).key" size="16" crc="31bfbab5" md5="131fe1f5f7acc4604fa153c6b15d1cd7" sha1="e94bf44ec33eff2e75501ae086daa9d2f4313620" />
+  </game>
+  <game name="Mighty No. 9 (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)">
+    <description>Mighty No. 9 (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)</description>
+    <rom name="Mighty No. 9 (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).key" size="16" crc="4227bcc6" md5="732af143a1304b98f5f00750a82336e5" sha1="7b8f6a28d5e681273aaf42e5d5566417961dbcbc" />
+  </game>
+  <game name="Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (Europe) (En,Fr,De,Es,Pt,Ru)">
+    <description>Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (Europe) (En,Fr,De,Es,Pt,Ru)</description>
+    <rom name="Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (Europe) (En,Fr,De,Es,Pt,Ru).key" size="16" crc="3c16cf88" md5="6bf527af7ec4a6d7a1d52ab308466299" sha1="a5288ff55b5461429dc79dad358ffaa58ad08af2" />
+  </game>
+  <game name="Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA) (En,Fr,Es,Pt)">
+    <description>Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Minecraft - Story Mode - A Telltale Games Series - The Complete Adventure (USA) (En,Fr,Es,Pt).key" size="16" crc="02cf261c" md5="5e0325ac079d0ca76a2c2b96ebac9958" sha1="3b42cb96c6ae9a8a256d8ff171e7b0ff5be71622" />
+  </game>
+  <game name="Minecraft - Wii U Edition (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (Rev 1)">
+    <description>Minecraft - Wii U Edition (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (Rev 1)</description>
+    <rom name="Minecraft - Wii U Edition (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (Rev 1).key" size="16" crc="44ffea34" md5="443f7374cd5da76bbb45edd10822e359" sha1="55bdb46b63915beb7a844154c846c8de9be775e8" />
+  </game>
+  <game name="Minecraft - Wii U Edition (Japan) (Rev 1)">
+    <description>Minecraft - Wii U Edition (Japan) (Rev 1)</description>
+    <rom name="Minecraft - Wii U Edition (Japan) (Rev 1).key" size="16" crc="871542bc" md5="99b80ce718d1b76ec57f464c530db317" sha1="ea3600e577ff444e826ca932799d064811a11fd8" />
+  </game>
+  <game name="Minecraft - Wii U Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (Rev 1)">
+    <description>Minecraft - Wii U Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (Rev 1)</description>
+    <rom name="Minecraft - Wii U Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru) (Rev 1).key" size="16" crc="2a655022" md5="e2a2124d1377f5f68364ed0bfe28b8a6" sha1="bca0b0396dbb7adef5e0beb4cec3c41c5e068961" />
+  </game>
+  <game name="Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+    <description>Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+    <rom name="Monster High - 13 Wishes (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).key" size="16" crc="2838ce49" md5="74d01dcad9b45527daa235ad710a08bc" sha1="b11883ebc2e6d6cd82248bfec653b8ba4ccfe745" />
+  </game>
+  <game name="Monster High - 13 Wishes (USA) (En,Fr,Es)">
+    <description>Monster High - 13 Wishes (USA) (En,Fr,Es)</description>
+    <rom name="Monster High - 13 Wishes (USA) (En,Fr,Es).key" size="16" crc="cb4de08a" md5="bcfa740c4607b7024b297260174e9953" sha1="47ae7d79f24469e9f5a1cb767c907b0e4339d438" />
+  </game>
+  <game name="Monster High - New Ghoul in School (Europe) (En,Fr,De,Es,It)">
+    <description>Monster High - New Ghoul in School (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Monster High - New Ghoul in School (Europe) (En,Fr,De,Es,It).key" size="16" crc="8fb92fba" md5="b515b2eb2cb7ebb801b879107322489a" sha1="562bd11a9f21f07b05669942fa28f99cdad3d97c" />
+  </game>
+  <game name="Monster High - New Ghoul in School (USA) (En,Fr,Es,Pt)">
+    <description>Monster High - New Ghoul in School (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Monster High - New Ghoul in School (USA) (En,Fr,Es,Pt).key" size="16" crc="99503f13" md5="98068361f21255327d0f11956176d9aa" sha1="d699e2a055b1175fd864d33f851a14e14a36e8b6" />
+  </game>
+  <game name="Monster Hunter 3 Ultimate (Europe) (En,Fr,De,Es,It)">
+    <description>Monster Hunter 3 Ultimate (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Monster Hunter 3 Ultimate (Europe) (En,Fr,De,Es,It).key" size="16" crc="9571ad26" md5="1a04b26271cdeaf52266ae8e0ffae4cf" sha1="cb0f8cdfd5e45d6a0b206750dbb0506071876ea5" />
+  </game>
+  <game name="Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It)">
+    <description>Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It)</description>
+    <rom name="Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It).key" size="16" crc="539108c9" md5="569641da033ed0836570f56f239f50fa" sha1="b2d7913ca01f7009dcfd9b4d9e48cd697e5e24b5" />
+  </game>
+  <game name="Monster Hunter 3G - HD Ver. (Japan)">
+    <description>Monster Hunter 3G - HD Ver. (Japan)</description>
+    <rom name="Monster Hunter 3G - HD Ver. (Japan).key" size="16" crc="afaf42d3" md5="66c63a5c698f8c3e24eed5c5983e205f" sha1="efdadf0b25f4745c444cfb0e7d352f50b8e8ef62" />
+  </game>
+  <game name="Monster Hunter Frontier G - Beginner's Package (Japan) (Rev 1)">
+    <description>Monster Hunter Frontier G - Beginner's Package (Japan) (Rev 1)</description>
+    <rom name="Monster Hunter Frontier G - Beginner's Package (Japan) (Rev 1).key" size="16" crc="858c665e" md5="a96c9763ab980e5502a7f53777fece0d" sha1="062eac22bc690403918e299583d7a049f4f5fe43" />
+  </game>
+  <game name="Monster Hunter Frontier G - Memorial Package (Japan)">
+    <description>Monster Hunter Frontier G - Memorial Package (Japan)</description>
+    <rom name="Monster Hunter Frontier G - Memorial Package (Japan).key" size="16" crc="763e9ecf" md5="bbb8574a53aea4fb9860d57e853e2764" sha1="38cf048b844b0b8f532e40385deaea80a1722b66" />
+  </game>
+  <game name="Monster Hunter Frontier G5 - Premium Package (Japan)">
+    <description>Monster Hunter Frontier G5 - Premium Package (Japan)</description>
+    <rom name="Monster Hunter Frontier G5 - Premium Package (Japan).key" size="16" crc="a56b0cc5" md5="af62dbb7227da5a82a4f944b4543df61" sha1="abecdd35aa07d0ccd5c1575556223bb80f051bcd" />
+  </game>
+  <game name="Monster Hunter Frontier G6 - Premium Package (Japan)">
+    <description>Monster Hunter Frontier G6 - Premium Package (Japan)</description>
+    <rom name="Monster Hunter Frontier G6 - Premium Package (Japan).key" size="16" crc="ef0c1759" md5="336b7188b113b7a27d8729d8eea90ef4" sha1="facb151a94a17d252ec613d4a9b874a0a97d8b27" />
+  </game>
+  <game name="Monster Hunter Frontier G7 - Premium Package (Japan)">
+    <description>Monster Hunter Frontier G7 - Premium Package (Japan)</description>
+    <rom name="Monster Hunter Frontier G7 - Premium Package (Japan).key" size="16" crc="dfed8b8d" md5="72532cd7c71249c995ef646952605492" sha1="483aa26e79306cc6b9affcc3922a41d9680c7c65" />
+  </game>
+  <game name="Monster Hunter Frontier G8 - Premium Package (Japan)">
+    <description>Monster Hunter Frontier G8 - Premium Package (Japan)</description>
+    <rom name="Monster Hunter Frontier G8 - Premium Package (Japan).key" size="16" crc="4e011f88" md5="273dd4c4cfbe5ed657fb9140075106ca" sha1="73e187e5acd5dcd0eb82361094c4a9650df71701" />
+  </game>
+  <game name="Monster Hunter Frontier G9 - Premium Package (Japan)">
+    <description>Monster Hunter Frontier G9 - Premium Package (Japan)</description>
+    <rom name="Monster Hunter Frontier G9 - Premium Package (Japan).key" size="16" crc="2a3e586a" md5="3bac9accd848c7c9a230ede4cb48cc95" sha1="d8b36e0660a9fb0dc8e98ee54234c991830ed4f9" />
+  </game>
+  <game name="Monster Hunter Frontier GG - Premium Package (Japan)">
+    <description>Monster Hunter Frontier GG - Premium Package (Japan)</description>
+    <rom name="Monster Hunter Frontier GG - Premium Package (Japan).key" size="16" crc="d80ae559" md5="1391f0d6528e4e102f181beaea77430a" sha1="ad19e5a288e2899a02f98064daa1984092c2c00b" />
+  </game>
+  <game name="Musou Orochi 2 Hyper (Japan)">
+    <description>Musou Orochi 2 Hyper (Japan)</description>
+    <rom name="Musou Orochi 2 Hyper (Japan).key" size="16" crc="3f10d419" md5="a92665bbb87ffd33e73ff348f310f4e0" sha1="79e481e677aeae521d385eef60e7519244c99b43" />
+  </game>
+  <game name="NBA 2K13 (Europe) (En,Fr,De,Es,It)">
+    <description>NBA 2K13 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="NBA 2K13 (Europe) (En,Fr,De,Es,It).key" size="16" crc="64dde50c" md5="e348c028478272078020cb70c012580c" sha1="c82a2312252f45a6de724b804c8da3eaea4cd541" />
+  </game>
+  <game name="NBA 2K13 (USA) (En,Fr,Es)">
+    <description>NBA 2K13 (USA) (En,Fr,Es)</description>
+    <rom name="NBA 2K13 (USA) (En,Fr,Es).key" size="16" crc="17464e46" md5="6adb69158924cccebfa608477f4320a8" sha1="02af6331bbccb7c22bbc3e5e8aa350710ec4549f" />
+  </game>
+  <game name="Need for Speed - Most Wanted U - A Criterion Game (Europe) (En,Fr,De,Es,It)">
+    <description>Need for Speed - Most Wanted U - A Criterion Game (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Need for Speed - Most Wanted U - A Criterion Game (Europe) (En,Fr,De,Es,It).key" size="16" crc="f497d843" md5="9a04ebde8b6eb8a7e18e49bbc50602dd" sha1="7152839e741e314fb7f26f9745ce06de61eee55f" />
+  </game>
+  <game name="Need for Speed - Most Wanted U - A Criterion Game (Japan)">
+    <description>Need for Speed - Most Wanted U - A Criterion Game (Japan)</description>
+    <rom name="Need for Speed - Most Wanted U - A Criterion Game (Japan).key" size="16" crc="14389c08" md5="b303a04997aac4ee32c9e613d2c22f51" sha1="f4023d20d5da21a3970c15486b0a58d03bd9e211" />
+  </game>
+  <game name="Need for Speed - Most Wanted U - A Criterion Game (USA) (En,Fr,Es)">
+    <description>Need for Speed - Most Wanted U - A Criterion Game (USA) (En,Fr,Es)</description>
+    <rom name="Need for Speed - Most Wanted U - A Criterion Game (USA) (En,Fr,Es).key" size="16" crc="55539d03" md5="a8163bf62a4272ad90f865064c291d6e" sha1="1ff1a7f9bf9e06a9f281073602a3989b100e3a45" />
+  </game>
+  <game name="NES Remix Pack (USA) (En,Fr,Es)">
+    <description>NES Remix Pack (USA) (En,Fr,Es)</description>
+    <rom name="NES Remix Pack (USA) (En,Fr,Es).key" size="16" crc="36c1fbe3" md5="d4c5d7397cc9cce811f0147b1c493093" sha1="57983abede4a8d09e64946d593dadca7eab1a8c1" />
+  </game>
+  <game name="New Super Luigi U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>New Super Luigi U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="New Super Luigi U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="db7a5d96" md5="bea9f8d0547996d975fddb9c62938341" sha1="8ab4d6115a5f13569388eb08ae9a77e5b78a28f7" />
+  </game>
+  <game name="New Super Luigi U (Japan)">
+    <description>New Super Luigi U (Japan)</description>
+    <rom name="New Super Luigi U (Japan).key" size="16" crc="983f28e8" md5="4773e60bffb1ce0ae7e94e57950b5cd0" sha1="46ab2a9835f0746937d03c1db3b609336158b823" />
+  </game>
+  <game name="New Super Luigi U (USA) (En,Fr,Es)">
+    <description>New Super Luigi U (USA) (En,Fr,Es)</description>
+    <rom name="New Super Luigi U (USA) (En,Fr,Es).key" size="16" crc="c59019a2" md5="4e327f2caddce99f5e0b4c575fac4516" sha1="5bd1feef38070587c100732a3a2ace0b13187022" />
+  </game>
+  <game name="New Super Mario Bros. U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>New Super Mario Bros. U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="New Super Mario Bros. U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="f79b3720" md5="d267c3efe3a29f6102b74839991940d9" sha1="b275f733f8ff4e743417abaa149e927766baff98" />
+  </game>
+  <game name="New Super Mario Bros. U (Japan)">
+    <description>New Super Mario Bros. U (Japan)</description>
+    <rom name="New Super Mario Bros. U (Japan).key" size="16" crc="d60d8da4" md5="c74e315675b3621cc274aabb1dfdc2ee" sha1="bf9ec348c30a428d3666d519812568cc88d1bcb7" />
+  </game>
+  <game name="New Super Mario Bros. U (USA) (En,Fr,Es) (Rev 2)">
+    <description>New Super Mario Bros. U (USA) (En,Fr,Es) (Rev 2)</description>
+    <rom name="New Super Mario Bros. U (USA) (En,Fr,Es) (Rev 2).key" size="16" crc="4f60bc74" md5="bf2e97af40e968d04b1dd04b93c2edcd" sha1="5e7853cbed921bed503c2ef6f2602cd048af631e" />
+  </game>
+  <game name="New Super Mario Bros. U + New Super Luigi U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>New Super Mario Bros. U + New Super Luigi U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="New Super Mario Bros. U + New Super Luigi U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="795910c9" md5="876243b0070e81446582d7feee6cc093" sha1="3e745e9cc25a444ee0f28f4e8c60c989a6b9c1f6" />
+  </game>
+  <game name="New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es)">
+    <description>New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es)</description>
+    <rom name="New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).key" size="16" crc="b4b6b366" md5="6f63c7c933cf40f9c030f20f981b5aef" sha1="7bee32c7d4f1d688c9f78ec57b5a750558aa87f8" />
+  </game>
+  <game name="Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (Europe) (En,Fr,De,Es,It,Nl,Sv)">
+    <description>Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
+    <rom name="Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (Europe) (En,Fr,De,Es,It,Nl,Sv).key" size="16" crc="2058917e" md5="00d922ce12eae40fbb9f912ddbabde11" sha1="2919e931c2f16e3c06a83fe8d5a079fcaec6844c" />
+  </game>
+  <game name="Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA) (En,Fr)">
+    <description>Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA) (En,Fr)</description>
+    <rom name="Nickelodeon SpongeBob SquarePants - Plankton's Robotic Revenge (USA) (En,Fr).key" size="16" crc="a75f8ddd" md5="c79819d872e49783f8aa7938eba06492" sha1="f0eb6ea82854ed46dd40c6d571773cae0d0fb270" />
+  </game>
+  <game name="Ninja Gaiden 3 - Razor's Edge (Europe) (En,Ja,Fr,De,Es,It)">
+    <description>Ninja Gaiden 3 - Razor's Edge (Europe) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Ninja Gaiden 3 - Razor's Edge (Europe) (En,Ja,Fr,De,Es,It).key" size="16" crc="da979fa8" md5="267130ff13096a9ca9ba2949611dcc16" sha1="b67ba62b6c025fcce4cad5f31170683b8c195590" />
+  </game>
+  <game name="Ninja Gaiden 3 - Razor's Edge (Japan)">
+    <description>Ninja Gaiden 3 - Razor's Edge (Japan)</description>
+    <rom name="Ninja Gaiden 3 - Razor's Edge (Japan).key" size="16" crc="282d4dcd" md5="754516c781b6425c7533e833485bd6c4" sha1="c54df4a456665f6b0e7930160951ab37ecd00d21" />
+  </game>
+  <game name="Ninja Gaiden 3 - Razor's Edge (USA) (En,Ja,Fr,De,Es,It)">
+    <description>Ninja Gaiden 3 - Razor's Edge (USA) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Ninja Gaiden 3 - Razor's Edge (USA) (En,Ja,Fr,De,Es,It).key" size="16" crc="5b9538d7" md5="7d018798af236c78d8a188e916d05e28" sha1="b40d5f30e7441cc91e73b84856a6a2e18ced5acf" />
+  </game>
+  <game name="Nintendo Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Nintendo Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Nintendo Land (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="8414e4d2" md5="6f67baad6404388cbdb10796e105ca0f" sha1="aec357c31b8774fd2286170508360008b669c013" />
+  </game>
+  <game name="Nintendo Land (Japan)">
+    <description>Nintendo Land (Japan)</description>
+    <rom name="Nintendo Land (Japan).key" size="16" crc="61500c24" md5="c49e8af2cb084171d0c8f5a61cd5806f" sha1="75254e454ce1f50db3ee430cc05884331efad1cd" />
+  </game>
+  <game name="Nintendo Land (USA) (En,Fr,Es)">
+    <description>Nintendo Land (USA) (En,Fr,Es)</description>
+    <rom name="Nintendo Land (USA) (En,Fr,Es).key" size="16" crc="db85c4f9" md5="3806ff17e4a133c73fdb08335ae0974f" sha1="85734695770134c329b395ef07a611e8c1d173fe" />
+  </game>
+  <game name="One Piece - Unlimited World R (Japan)">
+    <description>One Piece - Unlimited World R (Japan)</description>
+    <rom name="One Piece - Unlimited World R (Japan).key" size="16" crc="d0f350be" md5="dda10ce3829562a920ece29603c10c3a" sha1="4b2a73a751f814aa2ef001ffecda1e72bf387d07" />
+  </game>
+  <game name="One Piece - Unlimited World Red (Europe) (En,Fr,De,Es,It)">
+    <description>One Piece - Unlimited World Red (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="One Piece - Unlimited World Red (Europe) (En,Fr,De,Es,It).key" size="16" crc="73d23f3f" md5="e9777b5f507618e6478c8df484e6a619" sha1="f767d1c0fb76d4d334c6f8704333ee74ab23d420" />
+  </game>
+  <game name="Pac-Man and the Ghostly Adventures (Europe) (En,Fr,De,Es,It)">
+    <description>Pac-Man and the Ghostly Adventures (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Pac-Man and the Ghostly Adventures (Europe) (En,Fr,De,Es,It).key" size="16" crc="5fe12dc4" md5="6dbd151e511393c19ceb89ec68e54c95" sha1="bfd00d2862b30cca91dbeaea96288b34e8ecf1ca" />
+  </game>
+  <game name="Pac-Man and the Ghostly Adventures (USA) (En,Fr,Es,Pt)">
+    <description>Pac-Man and the Ghostly Adventures (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Pac-Man and the Ghostly Adventures (USA) (En,Fr,Es,Pt).key" size="16" crc="42d591aa" md5="02d5bd8e5704eff8dfae15bf85651b23" sha1="c87b5c5081e01e10276c56aaef0ec7acd94d3c69" />
+  </game>
+  <game name="Pac-Man and the Ghostly Adventures 2 (Europe) (En,Fr,De,Es,It)">
+    <description>Pac-Man and the Ghostly Adventures 2 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Pac-Man and the Ghostly Adventures 2 (Europe) (En,Fr,De,Es,It).key" size="16" crc="de90da3a" md5="c628fb77ac8e7837f3fdd9f6e9bdb1cd" sha1="608e324c3389d9349ea088524c7e5d738ba13031" />
+  </game>
+  <game name="Pac-Man and the Ghostly Adventures 2 (USA) (En,Fr,Es,Pt)">
+    <description>Pac-Man and the Ghostly Adventures 2 (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Pac-Man and the Ghostly Adventures 2 (USA) (En,Fr,Es,Pt).key" size="16" crc="92dc7067" md5="0ecb4f120a1457f3f6c22c743bc2b548" sha1="43ea7bb809adf7faddd36d79d28f0b0fc2d29c86" />
+  </game>
+  <game name="Paper Mario - Color Splash (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Paper Mario - Color Splash (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Paper Mario - Color Splash (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="e7c95a15" md5="ecc2d6c63004323733521c9d88bfa678" sha1="c33665d9fd964f12b813aa68779f1c0f8762e5b7" />
+  </game>
+  <game name="Paper Mario - Color Splash (Japan)">
+    <description>Paper Mario - Color Splash (Japan)</description>
+    <rom name="Paper Mario - Color Splash (Japan).key" size="16" crc="18b3d9ab" md5="69926e57223ccf705ab505e847160b6e" sha1="c59ed76ce20549803ed13704298353d6a3311aae" />
+  </game>
+  <game name="Paper Mario - Color Splash (USA) (En,Fr,Es)">
+    <description>Paper Mario - Color Splash (USA) (En,Fr,Es)</description>
+    <rom name="Paper Mario - Color Splash (USA) (En,Fr,Es).key" size="16" crc="b5ecc899" md5="51edbebb63b7fb4b0e41bdc923832462" sha1="3d69772cbbff1532e63a44253e182e99cf1c5616" />
+  </game>
+  <game name="Pikmin 3 (Europe) (En,Fr,De,Es,It)">
+    <description>Pikmin 3 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Pikmin 3 (Europe) (En,Fr,De,Es,It).key" size="16" crc="3ba5c2ed" md5="2e7802f0a5c259fb3f384efdbe24c9f2" sha1="ffad4f9fbe631dd6a7d9b456acfe67fc4c720ecc" />
+  </game>
+  <game name="Pikmin 3 (Japan)">
+    <description>Pikmin 3 (Japan)</description>
+    <rom name="Pikmin 3 (Japan).key" size="16" crc="e0ab6c34" md5="824ceb5ee8dda712681a639c8f383098" sha1="d00303e43fb422250d039873ce60d8d9fc47c114" />
+  </game>
+  <game name="Pikmin 3 (USA) (En,Fr,Es) (Rev 1)">
+    <description>Pikmin 3 (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="Pikmin 3 (USA) (En,Fr,Es) (Rev 1).key" size="16" crc="222d0388" md5="78ed998c640f44280d27405e06f322ce" sha1="e2b6c37db586c6f679600255a5912723d5409530" />
+  </game>
+  <game name="Pokken - Pokken Tournament (Japan)">
+    <description>Pokken - Pokken Tournament (Japan)</description>
+    <rom name="Pokken - Pokken Tournament (Japan).key" size="16" crc="f0526919" md5="59d1e46e0c02b8f9753185b89bffd586" sha1="816a1e7839c4114094e3220c2851cc3881cee032" />
+  </game>
+  <game name="Pokken Tournament (Europe) (En,Fr,De,Es,It)">
+    <description>Pokken Tournament (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Pokken Tournament (Europe) (En,Fr,De,Es,It).key" size="16" crc="a37437e3" md5="1f82905f792880fd4c3adf67687a8ab3" sha1="248c1bc168eff02c7ffb7bf8ffaf4a20f8508460" />
+  </game>
+  <game name="Pokken Tournament (USA) (En,Fr,Es)">
+    <description>Pokken Tournament (USA) (En,Fr,Es)</description>
+    <rom name="Pokken Tournament (USA) (En,Fr,Es).key" size="16" crc="5c4008fa" md5="c28d2de99518672b7e41ec2b61772319" sha1="8be533e7cd5c3b539e8cab9bfd513b07fd77fb69" />
+  </game>
+  <game name="Project Zero - Maiden of Black Water (Europe) (En,Fr,De)">
+    <description>Project Zero - Maiden of Black Water (Europe) (En,Fr,De)</description>
+    <rom name="Project Zero - Maiden of Black Water (Europe) (En,Fr,De).key" size="16" crc="a8792019" md5="5d05a2f27747159eb6ed06d5a41c5531" sha1="8916d4244b07ef8858f9f9bfc413491435c91a5c" />
+  </game>
+  <game name="Puyo Puyo Tetris (Japan)">
+    <description>Puyo Puyo Tetris (Japan)</description>
+    <rom name="Puyo Puyo Tetris (Japan).key" size="16" crc="e84fcde7" md5="ffee0dd7568dbd6d242fd2cd6815f6e1" sha1="65c14d5e513e04a49f887972dc418e741aa1e498" />
+  </game>
+  <game name="Rabbids Land (Europe) (En,Fr,De,Es,It,Nl,Ru)">
+    <description>Rabbids Land (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
+    <rom name="Rabbids Land (Europe) (En,Fr,De,Es,It,Nl,Ru).key" size="16" crc="844b8722" md5="b60e2418ff9ec18ebcc8d03a08dd0b87" sha1="e91817345991188ded0749d0acddda7f538cdf0c" />
+  </game>
+  <game name="Rabbids Land (Japan)">
+    <description>Rabbids Land (Japan)</description>
+    <rom name="Rabbids Land (Japan).key" size="16" crc="18ac4c20" md5="c026c1b3dd6b026b3b98a61384857b78" sha1="8a8d0c0e7758af25b53d91dafa6ca8094c73e711" />
+  </game>
+  <game name="Rabbids Land (USA) (En,Fr,Es,Pt)">
+    <description>Rabbids Land (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Rabbids Land (USA) (En,Fr,Es,Pt).key" size="16" crc="297607dc" md5="02f05d1f650e211272779ab3abce1f0d" sha1="a1e4c21b086180df9050cf99e62d8164cb0459ca" />
+  </game>
+  <game name="Rapala Pro Bass Fishing (USA)">
+    <description>Rapala Pro Bass Fishing (USA)</description>
+    <rom name="Rapala Pro Bass Fishing (USA).key" size="16" crc="45c8982a" md5="a596bebb54db72515c7aa9a14194a9e6" sha1="ae22648808f9bae79fe6de58de95a077c521b156" />
+  </game>
+  <game name="Rayman Legends (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Rayman Legends (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Rayman Legends (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="045a9f8f" md5="d3fc87edb735a48b4297dd55bcc00d0b" sha1="b79bcbd1ca5dc82f97ed5b61e5b2ec4099d25dfd" />
+  </game>
+  <game name="Rayman Legends (Japan)">
+    <description>Rayman Legends (Japan)</description>
+    <rom name="Rayman Legends (Japan).key" size="16" crc="27d1abd9" md5="0f6b732a669638570ee9fd3509bda5ed" sha1="698e276fab25f16849b6ded38c75986ff5f65dbb" />
+  </game>
+  <game name="Rayman Legends (USA) (En,Fr,Es)">
+    <description>Rayman Legends (USA) (En,Fr,Es)</description>
+    <rom name="Rayman Legends (USA) (En,Fr,Es).key" size="16" crc="ce5f1f5f" md5="3b9d827ca2e2540b495bebe55956de8d" sha1="d451f67a19d4ec851300b49986922616b325cb3b" />
+  </game>
+  <game name="Resident Evil - Revelations (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru) (Rev 1)">
+    <description>Resident Evil - Revelations (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru) (Rev 1)</description>
+    <rom name="Resident Evil - Revelations (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru) (Rev 1).key" size="16" crc="8ba5f705" md5="832f72cf5a98c6293fc34d96ccf3b2b9" sha1="796da1c1fe35a2f0849ef52438acf0322a6e54a2" />
+  </game>
+  <game name="Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru) (Rev 1)">
+    <description>Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru) (Rev 1)</description>
+    <rom name="Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru) (Rev 1).key" size="16" crc="1053893e" md5="265148abc0fdc7012182c8c4bd321fa0" sha1="a56da5540b6d613df0e27b7c6f384ba1a692c3ca" />
+  </game>
+  <game name="Rodea the Sky Soldier (Europe) (En,Ja,Fr,De)">
+    <description>Rodea the Sky Soldier (Europe) (En,Ja,Fr,De)</description>
+    <rom name="Rodea the Sky Soldier (Europe) (En,Ja,Fr,De).key" size="16" crc="505567a7" md5="cc3232b05628b518309e46ad38f02106" sha1="566446e10cfa3d92af0c117d0cc24e08d6072b48" />
+  </game>
+  <game name="Rodea the Sky Soldier (Japan)">
+    <description>Rodea the Sky Soldier (Japan)</description>
+    <rom name="Rodea the Sky Soldier (Japan).key" size="16" crc="f653f8e0" md5="db35aafa48b5bbc55b0465a37a68b12b" sha1="ea5d07683576e60e4aabec15bd88968f94a94472" />
+  </game>
+  <game name="Rodea the Sky Soldier (USA) (En,Ja,Fr,De)">
+    <description>Rodea the Sky Soldier (USA) (En,Ja,Fr,De)</description>
+    <rom name="Rodea the Sky Soldier (USA) (En,Ja,Fr,De).key" size="16" crc="d683ab75" md5="15e49a36b2cf4a50ed193b30c9597d45" sha1="940079e2a57a02c17d5260faf18ce2e339bc87c4" />
+  </game>
+  <game name="Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It)">
+    <description>Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).key" size="16" crc="7e5e8260" md5="97ce5b1f2ea65688733d71a149cc1b24" sha1="734d8a63701c03a3957010cec39ad7507d56404c" />
+  </game>
+  <game name="Ryuu ga Gotoku 1 &amp; 2 HD for Wii U (Japan)">
+    <description>Ryuu ga Gotoku 1 &amp; 2 HD for Wii U (Japan)</description>
+    <rom name="Ryuu ga Gotoku 1 &amp; 2 HD for Wii U (Japan).key" size="16" crc="a97d5aad" md5="bf5505bb0da4dcce018c4312716fd206" sha1="6671567a5043971a96afb2b2d51ff268ce27e8f6" />
+  </game>
+  <game name="Sangokushi 12 (Japan)">
+    <description>Sangokushi 12 (Japan)</description>
+    <rom name="Sangokushi 12 (Japan).key" size="16" crc="709109cf" md5="0cf5c822a181cee1d4656b39094ba9ff" sha1="8da08cb6ffc8d55e7d30488f831185c7af19a5e6" />
+  </game>
+  <game name="Sangokushi 12 with Power-Up Kit (Japan)">
+    <description>Sangokushi 12 with Power-Up Kit (Japan)</description>
+    <rom name="Sangokushi 12 with Power-Up Kit (Japan).key" size="16" crc="6de11a61" md5="440094d710ca722c196287c0210d4045" sha1="03fd39afb0c236414667b8fc053c21d24baedb6f" />
+  </game>
+  <game name="Scribblenauts Unlimited (Australia)">
+    <description>Scribblenauts Unlimited (Australia)</description>
+    <rom name="Scribblenauts Unlimited (Australia).key" size="16" crc="ec20197b" md5="60566bd962cd479be8d2dcbd5a25871c" sha1="2a056819f2970791fc19d6dace8ab177dcdd9d8d" />
+  </game>
+  <game name="Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)">
+    <description>Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl) (Rev 1)</description>
+    <rom name="Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl) (Rev 1).key" size="16" crc="c594747a" md5="13a0e18149e10c625fc1ad25c2b5575e" sha1="c7a6202bd1919f0b8be84963ccbbd6c22698eaf5" />
+  </game>
+  <game name="Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Scribblenauts Unlimited (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="7b4e0525" md5="0970472ce2d2d285534fdb5ae77f57b1" sha1="cba0e2ac3ab7211abe4fddd3e5758c9ec4b8eb54" />
+  </game>
+  <game name="Scribblenauts Unlimited (USA) (En,Fr,Es,Pt)">
+    <description>Scribblenauts Unlimited (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Scribblenauts Unlimited (USA) (En,Fr,Es,Pt).key" size="16" crc="37125d49" md5="39312879526b65469e539c7b769b6df5" sha1="1bb706f1d3612eca6d0f6a442a5340646e0ad4d7" />
+  </game>
+  <game name="Scribblenauts Unmasked - A DC Comics Adventure (Australia)">
+    <description>Scribblenauts Unmasked - A DC Comics Adventure (Australia)</description>
+    <rom name="Scribblenauts Unmasked - A DC Comics Adventure (Australia).key" size="16" crc="a49f58ff" md5="fd760c84a2e60a6018916c5acf30c6ce" sha1="9212c44e481f2ed78a44d49944e1df996a27f0e9" />
+  </game>
+  <game name="Scribblenauts Unmasked - A DC Comics Adventure (USA) (En,Fr,Es,Pt)">
+    <description>Scribblenauts Unmasked - A DC Comics Adventure (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Scribblenauts Unmasked - A DC Comics Adventure (USA) (En,Fr,Es,Pt).key" size="16" crc="f05002d6" md5="3bdfb9f5ab67dab6b3621871b3a450be" sha1="7764590da2749f953fa6b765ff0a7d6e9a0cef01" />
+  </game>
+  <game name="Shakedown - Hawaii (USA)">
+    <description>Shakedown - Hawaii (USA)</description>
+    <rom name="Shakedown - Hawaii (USA).key" size="16" crc="60ca56a0" md5="8579da72c4732ff680c9489fd1ea7617" sha1="de42cabddfb2206e16cbab13996b397bec4c7ff2" />
+  </game>
+  <game name="Shantae - Half-Genie Hero (USA) (En,Fr,Es)">
+    <description>Shantae - Half-Genie Hero (USA) (En,Fr,Es)</description>
+    <rom name="Shantae - Half-Genie Hero (USA) (En,Fr,Es).key" size="16" crc="fabecd03" md5="89357ab6d8eb6143668fdbbf1e429fbe" sha1="779bfdb7933dc3a6c4df15d6c9657acdfc757e3d" />
+  </game>
+  <game name="Shin Hokuto Musou (Japan)">
+    <description>Shin Hokuto Musou (Japan)</description>
+    <rom name="Shin Hokuto Musou (Japan).key" size="16" crc="815ff2ed" md5="e26c7595cad08eebe8c2ce36dbdec8b1" sha1="d63c851363cf976fcfa0effda9be5cb235d62a86" />
+  </game>
+  <game name="Shmup Collection (Europe)">
+    <description>Shmup Collection (Europe)</description>
+    <rom name="Shmup Collection (Europe).key" size="16" crc="a6dc2e28" md5="52f7195b41c96528d59c5e685ecaf478" sha1="eeb073381316d714926daf8e2efcd5ee09cae396" />
+  </game>
+  <game name="Shovel Knight (Europe) (En,Fr,De,Es,It)">
+    <description>Shovel Knight (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Shovel Knight (Europe) (En,Fr,De,Es,It).key" size="16" crc="c2b4b5f3" md5="1e8e46cdcbaf8a1b4f42303731eda619" sha1="26040ae0dba92dd89246f5be94a261d70958e256" />
+  </game>
+  <game name="Shovel Knight (USA)">
+    <description>Shovel Knight (USA)</description>
+    <rom name="Shovel Knight (USA).key" size="16" crc="0ca1677d" md5="7ea8ae4da67d3cc376da43aafccc28d1" sha1="94bdedc37de42522f42abeea63d575460b379e1d" />
+  </game>
+  <game name="Simple Series for Wii U Vol. 1 - The Family Party (Japan)">
+    <description>Simple Series for Wii U Vol. 1 - The Family Party (Japan)</description>
+    <rom name="Simple Series for Wii U Vol. 1 - The Family Party (Japan).key" size="16" crc="bb426b04" md5="449aeb853ad8d8485ceaf0c65e91c0e1" sha1="96b86d37bd5e06eff6faa11bc7c4015807745017" />
+  </game>
+  <game name="Sing Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Sing Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Sing Party (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="d9ddf97b" md5="4d2f99be6df91fa5df3166840c78401e" sha1="f4337d2d91b5659a78f9c8e45b18b0a5d336cdfb" />
+  </game>
+  <game name="Sing Party (USA) (En,Fr,Es,Pt)">
+    <description>Sing Party (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Sing Party (USA) (En,Fr,Es,Pt).key" size="16" crc="3744855f" md5="eacc53aec9654bd0ac893177a5f8a703" sha1="90f12e634649579d4c002a2ccb42fe1197e4a9c0" />
+  </game>
+  <game name="Skylanders - Giants (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+    <description>Skylanders - Giants (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+    <rom name="Skylanders - Giants (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).key" size="16" crc="b5239f57" md5="1b7a8e9f1359ae8355dde7cbb4eea1c9" sha1="83f5d6f171d721aebaf8ce714bd13957dedde6da" />
+  </game>
+  <game name="Skylanders - Giants (USA) (En,Fr,Es,Pt)">
+    <description>Skylanders - Giants (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Skylanders - Giants (USA) (En,Fr,Es,Pt).key" size="16" crc="faba52c1" md5="3af1c76cacf4500a6876a9d6db86efee" sha1="397901a26555171ef001c42057a8e442304c0c07" />
+  </game>
+  <game name="Skylanders - Imaginators (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Demo)">
+    <description>Skylanders - Imaginators (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Demo)</description>
+    <rom name="Skylanders - Imaginators (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Demo).key" size="16" crc="f3b61aa8" md5="554bf9e525645aaca48898d43397fe86" sha1="1f4ed92c047b9ca2e019b59024fa261e680fa17e" />
+  </game>
+  <game name="Skylanders - Imaginators (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+    <description>Skylanders - Imaginators (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+    <rom name="Skylanders - Imaginators (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).key" size="16" crc="6e04bda2" md5="9d53a2893cfc759c4d73aaa85174ce9c" sha1="9028770999103cd4babeed5662e655aa96a5dfa2" />
+  </game>
+  <game name="Skylanders - Imaginators (USA) (En,Fr,Es,Pt)">
+    <description>Skylanders - Imaginators (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Skylanders - Imaginators (USA) (En,Fr,Es,Pt).key" size="16" crc="fb57db0a" md5="7bf49e96929cc7ad397a6da67aff9aea" sha1="4eb8939a7f56ac0f8c8d66dfe72aef0930bef37a" />
+  </game>
+  <game name="Skylanders - Spyro's Adventure (Japan)">
+    <description>Skylanders - Spyro's Adventure (Japan)</description>
+    <rom name="Skylanders - Spyro's Adventure (Japan).key" size="16" crc="98d80862" md5="2445fc7d907d7dca1c3c883e38f63e78" sha1="10f8d99c251ed79055d5db6f4206d8d027fdd782" />
+  </game>
+  <game name="Skylanders - SuperChargers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+    <description>Skylanders - SuperChargers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+    <rom name="Skylanders - SuperChargers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).key" size="16" crc="7f32df10" md5="7742681ade718a45a7d984e205aae3b1" sha1="108c31bb25096e76f92f6d87ea25583d0e40849f" />
+  </game>
+  <game name="Skylanders - SuperChargers (USA) (En,Fr,Es,Pt)">
+    <description>Skylanders - SuperChargers (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Skylanders - SuperChargers (USA) (En,Fr,Es,Pt).key" size="16" crc="a08de623" md5="9192aed0eccdd7702caee81985068e57" sha1="36221c4355e681dd81d588640742d7c0e85375df" />
+  </game>
+  <game name="Skylanders - Swap Force (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+    <description>Skylanders - Swap Force (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+    <rom name="Skylanders - Swap Force (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).key" size="16" crc="8fb29c4f" md5="ee092c62f251490b54bd6ce901db4a04" sha1="70932eb10d7c7030c187477208a9fab18395d0df" />
+  </game>
+  <game name="Skylanders - Swap Force (USA) (En,Fr,Es,Pt)">
+    <description>Skylanders - Swap Force (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Skylanders - Swap Force (USA) (En,Fr,Es,Pt).key" size="16" crc="546db4c6" md5="fb7ee26fe20994131077a3e84132f7af" sha1="63c672dba940784f5671a53d6ba7a6d36d00cd4f" />
+  </game>
+  <game name="Skylanders - Trap Team (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)">
+    <description>Skylanders - Trap Team (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)</description>
+    <rom name="Skylanders - Trap Team (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).key" size="16" crc="89c55f53" md5="5518da94fdc77c5f41ffb8b7a55829b7" sha1="dd8327ae8355d04672de1d07fd673039c47fd57a" />
+  </game>
+  <game name="Skylanders - Trap Team (USA) (En,Fr,Es,Pt)">
+    <description>Skylanders - Trap Team (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Skylanders - Trap Team (USA) (En,Fr,Es,Pt).key" size="16" crc="4c81f605" md5="cbefbc2780270c8545cf196309886219" sha1="619af530e54cfa75a9c80ea7542ee0f1cef7c0c0" />
+  </game>
+  <game name="Smurfs 2, The (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)">
+    <description>Smurfs 2, The (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)</description>
+    <rom name="Smurfs 2, The (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da).key" size="16" crc="7a0e0e83" md5="375c89b6eab24e4b1198c9539091beef" sha1="154590e864c93b0cb8d7d6ae4a910cfdacfefb01" />
+  </game>
+  <game name="Smurfs 2, The (USA) (En,Fr,Es)">
+    <description>Smurfs 2, The (USA) (En,Fr,Es)</description>
+    <rom name="Smurfs 2, The (USA) (En,Fr,Es).key" size="16" crc="3870b411" md5="247f1255100342fc4f6c91568146bd93" sha1="ef86460adfab741850cfdce8cdb768fd53fda3b4" />
+  </game>
+  <game name="Sniper Elite V2 (Europe) (En,Fr,De,Es,It)">
+    <description>Sniper Elite V2 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Sniper Elite V2 (Europe) (En,Fr,De,Es,It).key" size="16" crc="02a3bf97" md5="d03e1bb8393f2db203d7add048f81a8d" sha1="411b4aa0ed2f406b0134c9459bb0b6e5507c9595" />
+  </game>
+  <game name="Sniper Elite V2 (Japan)">
+    <description>Sniper Elite V2 (Japan)</description>
+    <rom name="Sniper Elite V2 (Japan).key" size="16" crc="96c3a419" md5="5456993b1e5b4cd90c3fabb208143a7b" sha1="5e29c2a59d4e2ef433210ff779f911eb183ecc88" />
+  </game>
+  <game name="Sniper Elite V2 (USA) (En,Fr,Es)">
+    <description>Sniper Elite V2 (USA) (En,Fr,Es)</description>
+    <rom name="Sniper Elite V2 (USA) (En,Fr,Es).key" size="16" crc="af943b60" md5="d87738b6d051de540a2fd5860d46fbd0" sha1="457ca70d47a82cb71831bfd839ff6de80f861ef4" />
+  </game>
+  <game name="Snoopy's Grand Adventure (Europe) (En,Fr,De,Es,It,Nl,Sv)">
+    <description>Snoopy's Grand Adventure (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
+    <rom name="Snoopy's Grand Adventure (Europe) (En,Fr,De,Es,It,Nl,Sv).key" size="16" crc="748f6c8c" md5="3024dfe5dfe65b399ed6e7e138b9c430" sha1="63c313e6da27dc209d22efc593914e80794e5f36" />
+  </game>
+  <game name="Snoopy's Grand Adventure (USA) (En,Fr)">
+    <description>Snoopy's Grand Adventure (USA) (En,Fr)</description>
+    <rom name="Snoopy's Grand Adventure (USA) (En,Fr).key" size="16" crc="3172211d" md5="886fb10f3ada03862954d33ea18c459e" sha1="0037781c5202f24c8aa0e56f1fa4a32d4f98b573" />
+  </game>
+  <game name="Sonic &amp; All-Stars Racing Transformed (Europe) (En,Fr,De,Es,It)">
+    <description>Sonic &amp; All-Stars Racing Transformed (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Sonic &amp; All-Stars Racing Transformed (Europe) (En,Fr,De,Es,It).key" size="16" crc="9258f0d9" md5="a071cf6edb94a854e8171e3c65f5d594" sha1="5f0427bc584ec675dab73c51f57546a7b4c6ce77" />
+  </game>
+  <game name="Sonic &amp; All-Stars Racing Transformed (Japan)">
+    <description>Sonic &amp; All-Stars Racing Transformed (Japan)</description>
+    <rom name="Sonic &amp; All-Stars Racing Transformed (Japan).key" size="16" crc="1bfa6e0b" md5="de6f342424b2e806a2f6b1cbe43afcf8" sha1="72b62f20ee116a33377f7bec835064a4f5985e8e" />
+  </game>
+  <game name="Sonic &amp; All-Stars Racing Transformed (USA) (En,Fr,Es)">
+    <description>Sonic &amp; All-Stars Racing Transformed (USA) (En,Fr,Es)</description>
+    <rom name="Sonic &amp; All-Stars Racing Transformed (USA) (En,Fr,Es).key" size="16" crc="5b3c6ba2" md5="87172d7a9e30eca8ceb72f1b99cc1e8c" sha1="d994d7a426f2dc89296521a72cb9ac6ae88c40a6" />
+  </game>
+  <game name="Sonic Boom - Rise of Lyric (Europe) (En,Fr,De,Es,It)">
+    <description>Sonic Boom - Rise of Lyric (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Sonic Boom - Rise of Lyric (Europe) (En,Fr,De,Es,It).key" size="16" crc="d936a26c" md5="1b7900345a25a9c6b058b86161036777" sha1="b51e271dc6768d11f529a2a5a814a797d7b918c9" />
+  </game>
+  <game name="Sonic Boom - Rise of Lyric (USA) (En,Fr,De,Es,It) (Beta) (2014-07-18)">
+    <description>Sonic Boom - Rise of Lyric (USA) (En,Fr,De,Es,It) (Beta) (2014-07-18)</description>
+    <rom name="Sonic Boom - Rise of Lyric (USA) (En,Fr,De,Es,It) (Beta) (2014-07-18).key" size="16" crc="8e08aec7" md5="54e9da73381058cbfe8f967f6fd9407e" sha1="bea5888e5fca6f2a11437348ba4ac0e82b9e1dbf" />
+  </game>
+  <game name="Sonic Boom - Rise of Lyric (USA) (En,Fr,Es)">
+    <description>Sonic Boom - Rise of Lyric (USA) (En,Fr,Es)</description>
+    <rom name="Sonic Boom - Rise of Lyric (USA) (En,Fr,Es).key" size="16" crc="4a1dc041" md5="6b60eccb7445c48f79eb86c26cee43fd" sha1="8e21c43b0e8e5e998ba19f28ed2b4669ae71edae" />
+  </game>
+  <game name="Sonic Lost World (Europe) (En,Ja,Fr,De,Es,It)">
+    <description>Sonic Lost World (Europe) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Sonic Lost World (Europe) (En,Ja,Fr,De,Es,It).key" size="16" crc="305b96c1" md5="ce39be2a7433beec56ac0e729696dc6f" sha1="1c74212eb098d958650766d8f95a238a66fc1df2" />
+  </game>
+  <game name="Sonic Lost World (Japan)">
+    <description>Sonic Lost World (Japan)</description>
+    <rom name="Sonic Lost World (Japan).key" size="16" crc="3e15148d" md5="26b1bffc5addb944d8fc2b5883b61168" sha1="893c6a2d37df0a8c08695e4095340c9718c12d22" />
+  </game>
+  <game name="Sonic Lost World (USA) (En,Ja,Fr,De,Es,It)">
+    <description>Sonic Lost World (USA) (En,Ja,Fr,De,Es,It)</description>
+    <rom name="Sonic Lost World (USA) (En,Ja,Fr,De,Es,It).key" size="16" crc="52a50d16" md5="3aaed61b571c613a864977c39e2d7a56" sha1="ed557cc8d18e48838e49a081084990694080d1f8" />
+  </game>
+  <game name="Sonic Toon - Taiko no Hihou (Japan)">
+    <description>Sonic Toon - Taiko no Hihou (Japan)</description>
+    <rom name="Sonic Toon - Taiko no Hihou (Japan).key" size="16" crc="334721c3" md5="fbd42eacfb90e52b3618982990500d78" sha1="96178be061d40fe75f8a2ea835b0508cde9a4d6d" />
+  </game>
+  <game name="Splatoon (Europe) (En,Fr,De,Es,It)">
+    <description>Splatoon (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Splatoon (Europe) (En,Fr,De,Es,It).key" size="16" crc="441febe4" md5="33b6e4d56d5202e616f4e758104e0ade" sha1="728329ee574c1fb17585d79cc01bb7b537f95100" />
+  </game>
+  <game name="Splatoon (Japan) (Rev 2)">
+    <description>Splatoon (Japan) (Rev 2)</description>
+    <rom name="Splatoon (Japan) (Rev 2).key" size="16" crc="3b9ab36c" md5="c61ad72237c02f1806fe5faf0ecb0c4e" sha1="f449e231cc3e2185ad25b7f1dbc0d4eaed5e5352" />
+  </game>
+  <game name="Splatoon (Japan)">
+    <description>Splatoon (Japan)</description>
+    <rom name="Splatoon (Japan).key" size="16" crc="6f15b5ee" md5="1c8fa988624e92de4de70c74181e45db" sha1="73e00b9e4ad78a411746d227a035defce93910b9" />
+  </game>
+  <game name="Splatoon (USA) (En,Fr,Es) (Rev 2)">
+    <description>Splatoon (USA) (En,Fr,Es) (Rev 2)</description>
+    <rom name="Splatoon (USA) (En,Fr,Es) (Rev 2).key" size="16" crc="eb8a7825" md5="59a01a13461c147f31943283f805f54d" sha1="3a4fcb3962a1a4251578c920937c3ae296e70756" />
+  </game>
+  <game name="Splatoon (USA) (En,Fr,Es)">
+    <description>Splatoon (USA) (En,Fr,Es)</description>
+    <rom name="Splatoon (USA) (En,Fr,Es).key" size="16" crc="a9950873" md5="e77a5d1d37e9e2a9ef8f9de49cd7578a" sha1="02d466e9bc350c85c170b2a5ed9a72b4b5d5f07d" />
+  </game>
+  <game name="Sports Connection (Europe) (En,Fr,De,Es,It,Nl,Ru,Ca)">
+    <description>Sports Connection (Europe) (En,Fr,De,Es,It,Nl,Ru,Ca)</description>
+    <rom name="Sports Connection (Europe) (En,Fr,De,Es,It,Nl,Ru,Ca).key" size="16" crc="3b9a4fdb" md5="4959d2b687d0bbd2b57000eea6dbffc5" sha1="a5f30459ae9429a313fc77fe4202f2ed02c5a2c7" />
+  </game>
+  <game name="Sports Connection (Japan)">
+    <description>Sports Connection (Japan)</description>
+    <rom name="Sports Connection (Japan).key" size="16" crc="6e1fb3e2" md5="fd05e7efe7c059bae42754c91a07c3a1" sha1="03d9d5abfc5496ca6dbd323bbf6a607f55f4b9cb" />
+  </game>
+  <game name="Star Fox Guard (Europe) (En,Fr,De,Es,It)">
+    <description>Star Fox Guard (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Star Fox Guard (Europe) (En,Fr,De,Es,It).key" size="16" crc="1f7d7de0" md5="d606450a16bbdb36af7a8e01f1cc2235" sha1="0a920a7a138393bc62cdabb01339cce314062943" />
+  </game>
+  <game name="Star Fox Guard (Japan)">
+    <description>Star Fox Guard (Japan)</description>
+    <rom name="Star Fox Guard (Japan).key" size="16" crc="103447e4" md5="ffad393c579400de653878b9da0c94c0" sha1="c9ef05140261186b120f2ddf9a1dc3012cdd76c6" />
+  </game>
+  <game name="Star Fox Guard (USA) (En,Fr,Es)">
+    <description>Star Fox Guard (USA) (En,Fr,Es)</description>
+    <rom name="Star Fox Guard (USA) (En,Fr,Es).key" size="16" crc="31b06775" md5="d14608d9a494eb51c2feda31ad18ff53" sha1="b02f997b6ef2c27c4c5d046422fdf082c552e73b" />
+  </game>
+  <game name="Star Fox Zero (Europe) (En,Fr,De,Es,It)">
+    <description>Star Fox Zero (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Star Fox Zero (Europe) (En,Fr,De,Es,It).key" size="16" crc="04bbe6b1" md5="1609b82c67647b0afb286638bf49cef5" sha1="b0dc379db3ed925dd5047a0a9ee2e5fd5e935094" />
+  </game>
+  <game name="Star Fox Zero (Japan)">
+    <description>Star Fox Zero (Japan)</description>
+    <rom name="Star Fox Zero (Japan).key" size="16" crc="a02ddcb3" md5="c7692bc5e97f26bf2d33edfab09f3cb1" sha1="87be46f11f0260e2bf2652c3c9ff30c93d7b9b09" />
+  </game>
+  <game name="Star Fox Zero (USA) (En,Fr,Es)">
+    <description>Star Fox Zero (USA) (En,Fr,Es)</description>
+    <rom name="Star Fox Zero (USA) (En,Fr,Es).key" size="16" crc="8d7b0f05" md5="ccab865979b1449d8213c4aaac3c8186" sha1="45ab1c788e08ac17ed35f1269e4fd5d610058be8" />
+  </game>
+  <game name="SteamWorld Collection (Europe) (En,Ja,Fr,De,Es,It,Ru)">
+    <description>SteamWorld Collection (Europe) (En,Ja,Fr,De,Es,It,Ru)</description>
+    <rom name="SteamWorld Collection (Europe) (En,Ja,Fr,De,Es,It,Ru).key" size="16" crc="8feb2a99" md5="5050d08744a17b6f483d88179dc77668" sha1="dcbaed5e74cbcf67ceedfaefaef8eaa9d347b40d" />
+  </game>
+  <game name="SteamWorld Collection (USA) (En,Ja,Fr,De,Es,It,Ru)">
+    <description>SteamWorld Collection (USA) (En,Ja,Fr,De,Es,It,Ru)</description>
+    <rom name="SteamWorld Collection (USA) (En,Ja,Fr,De,Es,It,Ru).key" size="16" crc="35e0c2fe" md5="55dcebe784412e835c270ce4d67e074f" sha1="c8da850fbdc577c6247511d40354d19533318edb" />
+  </game>
+  <game name="Super Mario 3D World (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)">
+    <description>Super Mario 3D World (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
+    <rom name="Super Mario 3D World (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).key" size="16" crc="7d0c78b3" md5="59f105096c5c14d431dcc9877addfdc5" sha1="430d1374b94ebad223570a40779fc5fc30cdede2" />
+  </game>
+  <game name="Super Mario 3D World (Japan)">
+    <description>Super Mario 3D World (Japan)</description>
+    <rom name="Super Mario 3D World (Japan).key" size="16" crc="cd061935" md5="6752980a0fcbf8a9f6cdfcce66c05683" sha1="df27d93a68c080bf1ef08eb2816bf0a19821fd84" />
+  </game>
+  <game name="Super Mario 3D World (USA) (En,Fr,Es) (Rev 2)">
+    <description>Super Mario 3D World (USA) (En,Fr,Es) (Rev 2)</description>
+    <rom name="Super Mario 3D World (USA) (En,Fr,Es) (Rev 2).key" size="16" crc="3f731df0" md5="71e8488990dedac2e0d527bbd3ec38f3" sha1="4a15de32cc3dc4b6872867741c457fc03752d0a8" />
+  </game>
+  <game name="Super Mario 3D World (USA) (En,Fr,Es)">
+    <description>Super Mario 3D World (USA) (En,Fr,Es)</description>
+    <rom name="Super Mario 3D World (USA) (En,Fr,Es).key" size="16" crc="9963be87" md5="9115d2308bfaa0d35bcd856486ac643f" sha1="cb4693d8a82f8ce2dee77ead4c32ff58030bb41f" />
+  </game>
+  <game name="Super Mario Maker (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Super Mario Maker (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Super Mario Maker (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="6aa56e73" md5="531d63d5c3db8266095dcae5cfa29334" sha1="477df76073715f533ea13f29eb81f08afc75d5b5" />
+  </game>
+  <game name="Super Mario Maker (Japan)">
+    <description>Super Mario Maker (Japan)</description>
+    <rom name="Super Mario Maker (Japan).key" size="16" crc="07cd6d0c" md5="e4be7ece0285d1cd9ca20e6005b3ff48" sha1="175c1a48a44f099ad20e74df778a9550c2654b76" />
+  </game>
+  <game name="Super Mario Maker (USA) (En,Fr,Es) (Rev 4)">
+    <description>Super Mario Maker (USA) (En,Fr,Es) (Rev 4)</description>
+    <rom name="Super Mario Maker (USA) (En,Fr,Es) (Rev 4).key" size="16" crc="b623e79b" md5="73ce809a500de4eb8dee77406a5e1482" sha1="62a64b2a0b6e6a4a64ab794f3d6b21472e4ec053" />
+  </game>
+  <game name="Super Mario Maker (USA) (En,Fr,Es) (Rev 5)">
+    <description>Super Mario Maker (USA) (En,Fr,Es) (Rev 5)</description>
+    <rom name="Super Mario Maker (USA) (En,Fr,Es) (Rev 5).key" size="16" crc="7deec2b8" md5="a58c2789455bc3ffd66ff4bfcf9e45f9" sha1="25e794b2bcea002d6d2b9dfeef7c4295d9827619" />
+  </game>
+  <game name="Super Mario Maker (USA) (En,Fr,Es)">
+    <description>Super Mario Maker (USA) (En,Fr,Es)</description>
+    <rom name="Super Mario Maker (USA) (En,Fr,Es).key" size="16" crc="a2a9a7a8" md5="347506a01089d7ce6a36bf1b7646a263" sha1="ac2f744db7c4e6bcbfce881ede5329f7f3526c3d" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)">
+    <description>Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
+    <rom name="Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).key" size="16" crc="08ac393f" md5="8e7ba4fa666bb1e3347b0904a69f54ef" sha1="db63c61a3562720f073b8601e8893e7151abcf4f" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4)">
+    <description>Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4)</description>
+    <rom name="Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 4).key" size="16" crc="742c07b1" md5="295a48e97eb63edd619bf17b301d2ac4" sha1="6b6ab5a9d98ba4871f1dbbdcfea6b51957ba50cb" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 6)">
+    <description>Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 6)</description>
+    <rom name="Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 6).key" size="16" crc="82b61ffe" md5="a52f7b790e180b3b5383962bb32d6390" sha1="8b2ae6e430a21c00dbbe0f86e60b8316fb673f14" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 9)">
+    <description>Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 9)</description>
+    <rom name="Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 9).key" size="16" crc="810b5398" md5="f5c8a94271ccd0c0bf05d811a239708f" sha1="82201989c6ced8044ccd29d55ce90f15cb21b09a" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Super Smash Bros. for Wii U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="8f79380d" md5="4208752dc4153825fe0b18c9a5bc397e" sha1="2f3a28be3d3bbb9ff8808b04e07265ad31441836" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 1)">
+    <description>Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 1).key" size="16" crc="aa660577" md5="e52ac78e335337c76a1d0ee383f95575" sha1="8919a916cdd6ecea9947e85b39c16fd7ee590eda" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 2)">
+    <description>Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 2)</description>
+    <rom name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 2).key" size="16" crc="02346602" md5="ed3abb0687a5ae21c9a91387d3514805" sha1="bea6d062ba5ddf2fda5a895bf1d3ef5c965772ee" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 3)">
+    <description>Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 3)</description>
+    <rom name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 3).key" size="16" crc="6332d2f6" md5="c67f61ac9e3da1dacc5946d4d00f8ad1" sha1="cee91573ffa4825b413692ee558354786d0782da" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 4)">
+    <description>Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 4)</description>
+    <rom name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 4).key" size="16" crc="96340ba1" md5="ac7c1ebd02c91fc53a28c3cfd5b898e7" sha1="245164b262bca838fd7e64d08e8c53702fddb3be" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 5)">
+    <description>Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 5)</description>
+    <rom name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 5).key" size="16" crc="04189de7" md5="a467beafe07d88f5bc41a41dec3ad423" sha1="679c7156062685f6f7aa54c2d84a42c26bb8c18b" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 6)">
+    <description>Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 6)</description>
+    <rom name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 6).key" size="16" crc="00dd0718" md5="d2bc8aa55dffe40a45733af4da3a5a3d" sha1="4fb9f41b91766991044c6eeed1fb6f6c17a6c823" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 9)">
+    <description>Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 9)</description>
+    <rom name="Super Smash Bros. for Wii U (USA) (En,Fr,Es) (Rev 9).key" size="16" crc="0f92ddf3" md5="7f2cab7d4888c1e08575c7db396dcd3a" sha1="0b8ddb0abcffb2c910a2e318d065cc60ca2a0b14" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (USA) (En,Fr,Es)">
+    <description>Super Smash Bros. for Wii U (USA) (En,Fr,Es)</description>
+    <rom name="Super Smash Bros. for Wii U (USA) (En,Fr,Es).key" size="16" crc="c15ee150" md5="72228f3d918bc79a2f8c23c1dce6e39d" sha1="0036ef906babe578f5c0368569c9a30494dfd7c0" />
+  </game>
+  <game name="Super Smash Bros. for Wii U (USA, Asia) (En,Fr,Es) (Rev 10)">
+    <description>Super Smash Bros. for Wii U (USA, Asia) (En,Fr,Es) (Rev 10)</description>
+    <rom name="Super Smash Bros. for Wii U (USA, Asia) (En,Fr,Es) (Rev 10).key" size="16" crc="ffe32414" md5="01a90932ba3d65d3a3f4c7ff04421a8e" sha1="55a024e515c3eb5004f044c6e8271ddaae070d86" />
+  </game>
+  <game name="Susume! Kinopio Taichou (Japan) (Rev 1)">
+    <description>Susume! Kinopio Taichou (Japan) (Rev 1)</description>
+    <rom name="Susume! Kinopio Taichou (Japan) (Rev 1).key" size="16" crc="deed71c4" md5="a390d154e23a58c8dd22eddf45e48c30" sha1="2863de8c3286ab969a1431c76a58efcea35b89ef" />
+  </game>
+  <game name="Susume! Kinopio Taichou (Japan)">
+    <description>Susume! Kinopio Taichou (Japan)</description>
+    <rom name="Susume! Kinopio Taichou (Japan).key" size="16" crc="fd0d6076" md5="e38f5456f215ce96d1f05c8e4c842e82" sha1="2e1e598ff09daf8c404b2a54e0e09126860af15f" />
+  </game>
+  <game name="Taiko no Tatsujin - Atsumete Tomodachi Daisakusen! (Japan)">
+    <description>Taiko no Tatsujin - Atsumete Tomodachi Daisakusen! (Japan)</description>
+    <rom name="Taiko no Tatsujin - Atsumete Tomodachi Daisakusen! (Japan).key" size="16" crc="806a62e9" md5="dac3500a504ec25a0b679612fcf7b4a6" sha1="3886865c835ac9a1fca17549fbf2f2e2cd61beea" />
+  </game>
+  <game name="Taiko no Tatsujin - Tokumori! (Japan)">
+    <description>Taiko no Tatsujin - Tokumori! (Japan)</description>
+    <rom name="Taiko no Tatsujin - Tokumori! (Japan).key" size="16" crc="0137bd2a" md5="df2feaaf45aa68d1a1644ef5f6e36f77" sha1="99ad44c2bdc1e286285930c6eda95f17c00aca20" />
+  </game>
+  <game name="Taiko no Tatsujin - Wii U Version! (Japan)">
+    <description>Taiko no Tatsujin - Wii U Version! (Japan)</description>
+    <rom name="Taiko no Tatsujin - Wii U Version! (Japan).key" size="16" crc="8e857b21" md5="b911974e7d3e965e62b482f732868b11" sha1="20605b5260c9041c886582f9ac4cb6d49f5dc6e4" />
+  </game>
+  <game name="Tank! Tank! Tank! (Europe) (En,Fr,De,Es,It)">
+    <description>Tank! Tank! Tank! (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Tank! Tank! Tank! (Europe) (En,Fr,De,Es,It).key" size="16" crc="1a59ad0b" md5="fbe8ea05cb77388796c12aca8202fbe5" sha1="908115328535ff9dfd7fcf850b8e03b8bb5ab95d" />
+  </game>
+  <game name="Tank! Tank! Tank! (Japan)">
+    <description>Tank! Tank! Tank! (Japan)</description>
+    <rom name="Tank! Tank! Tank! (Japan).key" size="16" crc="31552e83" md5="0b238a9539fa4ac6c3d9944c1fabaf93" sha1="4ab72b0c052de05063bbb0eae9a710cefafb0bc9" />
+  </game>
+  <game name="Tank! Tank! Tank! (USA) (En,Fr,Es)">
+    <description>Tank! Tank! Tank! (USA) (En,Fr,Es)</description>
+    <rom name="Tank! Tank! Tank! (USA) (En,Fr,Es).key" size="16" crc="9df7fab6" md5="ba4f006386a501ed487f2fee2de8e279" sha1="a339e8d88d908259374fb1a356563dde0bf99bf8" />
+  </game>
+  <game name="Tekken Tag Tournament 2 - Wii U Edition (Europe) (En,Fr,De,Es,It) (Rev 1)">
+    <description>Tekken Tag Tournament 2 - Wii U Edition (Europe) (En,Fr,De,Es,It) (Rev 1)</description>
+    <rom name="Tekken Tag Tournament 2 - Wii U Edition (Europe) (En,Fr,De,Es,It) (Rev 1).key" size="16" crc="43613a8e" md5="c4d8620c503d444c101dc5063495af30" sha1="df5ae3654d6475e9d7dae42e2b40b8c030cd4187" />
+  </game>
+  <game name="Tekken Tag Tournament 2 - Wii U Edition (Japan)">
+    <description>Tekken Tag Tournament 2 - Wii U Edition (Japan)</description>
+    <rom name="Tekken Tag Tournament 2 - Wii U Edition (Japan).key" size="16" crc="f1d8cb4f" md5="8b7d8ad6c3e199f809c1135958ba6ae1" sha1="c16acbf31232abf6f2e7727ca57451489e580765" />
+  </game>
+  <game name="Tekken Tag Tournament 2 - Wii U Edition (USA) (En,Fr,Es) (Rev 1)">
+    <description>Tekken Tag Tournament 2 - Wii U Edition (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="Tekken Tag Tournament 2 - Wii U Edition (USA) (En,Fr,Es) (Rev 1).key" size="16" crc="c67e6a2e" md5="cf3284b940142751527afbec65623496" sha1="13f0f89f6c9fc0fd576ee675bbe9ab5dee1e7428" />
+  </game>
+  <game name="Terraria (Europe) (En,Fr,De,Es,It)">
+    <description>Terraria (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Terraria (Europe) (En,Fr,De,Es,It).key" size="16" crc="1956976a" md5="4531f4cf9cec81637b7f0676df47e4ad" sha1="e2d524f7f7f3e093c1f39d81078eda5c9cd7bcc2" />
+  </game>
+  <game name="Terraria (Japan)">
+    <description>Terraria (Japan)</description>
+    <rom name="Terraria (Japan).key" size="16" crc="00a8907e" md5="ff99472aeb79e24baa2f138983041af0" sha1="e9c1101ad316f506165cf76b66681115299cb7d5" />
+  </game>
+  <game name="Terraria (USA) (En,Fr,Es)">
+    <description>Terraria (USA) (En,Fr,Es)</description>
+    <rom name="Terraria (USA) (En,Fr,Es).key" size="16" crc="6b3653c0" md5="b55f13fd2bc8f7c7fb7d4146d6a6b6c1" sha1="2d4d70f7de215fc70e20bbc7e14cbb2047a913c3" />
+  </game>
+  <game name="Teslagrad (Europe) (En,Fr,De,Es,It)">
+    <description>Teslagrad (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Teslagrad (Europe) (En,Fr,De,Es,It).key" size="16" crc="9286471a" md5="458868d1df9c73fab8f5e256062c0a02" sha1="1df1007843820b7ad8a76d04c5f6a308dc323544" />
+  </game>
+  <game name="Tokyo Mirage Sessions FE (Europe)">
+    <description>Tokyo Mirage Sessions FE (Europe)</description>
+    <rom name="Tokyo Mirage Sessions FE (Europe).key" size="16" crc="0870ded1" md5="24696e20e19e0d40b924559ef07e1b46" sha1="aa3b2f59973f87ad8eea306da38233f2e913cdd3" />
+  </game>
+  <game name="Tokyo Mirage Sessions FE (USA)">
+    <description>Tokyo Mirage Sessions FE (USA)</description>
+    <rom name="Tokyo Mirage Sessions FE (USA).key" size="16" crc="9f7c2a55" md5="dea27a749875d499320ea5072da07bd6" sha1="ff47c3aedd71dd79f9dea6a4f6088de7ec4fa633" />
+  </game>
+  <game name="Tom Clancy's Splinter Cell - Blacklist (Europe) (En,Fr,De,Es,It,Nl,Ru)">
+    <description>Tom Clancy's Splinter Cell - Blacklist (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
+    <rom name="Tom Clancy's Splinter Cell - Blacklist (Europe) (En,Fr,De,Es,It,Nl,Ru).key" size="16" crc="7805d851" md5="899171adad537d8fdeefca4e7797c869" sha1="bbfbdc31f91381b9a3ab90ed10d6572252a11f99" />
+  </game>
+  <game name="Tom Clancy's Splinter Cell - Blacklist (Japan)">
+    <description>Tom Clancy's Splinter Cell - Blacklist (Japan)</description>
+    <rom name="Tom Clancy's Splinter Cell - Blacklist (Japan).key" size="16" crc="d922b69c" md5="a32f7e6a249be6b0fc3e84f58125d164" sha1="6eac60e8862ec01feed520be380175a289ef5e1b" />
+  </game>
+  <game name="Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Pt)">
+    <description>Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Tom Clancy's Splinter Cell - Blacklist (USA) (En,Fr,Es,Pt).key" size="16" crc="3843d808" md5="03f8266e3d0457bfe3a860abf6fe52aa" sha1="1679f2260e8ebabcae3061de1a3f2a51009816d5" />
+  </game>
+  <game name="Touch! Kirby Super Rainbow (Japan)">
+    <description>Touch! Kirby Super Rainbow (Japan)</description>
+    <rom name="Touch! Kirby Super Rainbow (Japan).key" size="16" crc="5bab45f0" md5="64e52b661bd1cfb28935fe440590ad28" sha1="d932295e5ae3ff7a4eb8c94dc4d002df58b10db4" />
+  </game>
+  <game name="Transformers - Rise of the Dark Spark (Europe) (En,Fr,De,Es,It)">
+    <description>Transformers - Rise of the Dark Spark (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Transformers - Rise of the Dark Spark (Europe) (En,Fr,De,Es,It).key" size="16" crc="cfe22242" md5="5d4f3209649c95a6a08cffc355baedc1" sha1="426ba435667d06989d254e07edfe60b6ac1b77a9" />
+  </game>
+  <game name="Transformers - Rise of the Dark Spark (USA) (En,Fr)">
+    <description>Transformers - Rise of the Dark Spark (USA) (En,Fr)</description>
+    <rom name="Transformers - Rise of the Dark Spark (USA) (En,Fr).key" size="16" crc="706d76d8" md5="1e0bd045c60116718b50c3833281d7e2" sha1="f548c2515a7c4584d535bfec01d6dad834fdf072" />
+  </game>
+  <game name="Transformers Prime - The Game (Europe) (En,Fr,De,Es,It,Nl,Sv)">
+    <description>Transformers Prime - The Game (Europe) (En,Fr,De,Es,It,Nl,Sv)</description>
+    <rom name="Transformers Prime - The Game (Europe) (En,Fr,De,Es,It,Nl,Sv).key" size="16" crc="234f4e15" md5="4a43010fb3e533215565eb5fcd21defc" sha1="6c99d704ea0b8a26d894dd0d1efd37228d9d4684" />
+  </game>
+  <game name="Transformers Prime - The Game (USA) (En,Fr)">
+    <description>Transformers Prime - The Game (USA) (En,Fr)</description>
+    <rom name="Transformers Prime - The Game (USA) (En,Fr).key" size="16" crc="38da1051" md5="c6eafcd639df1ad1410947fbccb90b05" sha1="8fe0bd7ccee039b2c59d1b46e2e1b9cc9a729231" />
+  </game>
+  <game name="Tumblestone (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th,Tr)">
+    <description>Tumblestone (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th,Tr)</description>
+    <rom name="Tumblestone (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th,Tr).key" size="16" crc="372f6803" md5="7fe9562bdad8cf5b48fcfa22aa9067b9" sha1="bf4d7fc994b59002b4194096d577906c239c9931" />
+  </game>
+  <game name="Voice, The - I Want You (USA)">
+    <description>Voice, The - I Want You (USA)</description>
+    <rom name="Voice, The - I Want You (USA).key" size="16" crc="99c04ea4" md5="264d06307cf267c38ce975f5c4024c57" sha1="6b9bfd95711b1d51fcb59dff614e840f84f2b0e4" />
+  </game>
+  <game name="Walking Dead, The - Survival Instinct (Europe) (En,Fr,De,Es,It)">
+    <description>Walking Dead, The - Survival Instinct (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Walking Dead, The - Survival Instinct (Europe) (En,Fr,De,Es,It).key" size="16" crc="e46f15ef" md5="af341e31c1c607f1cd0843c24939e829" sha1="2f065c4ddb608f21e4de64354c87a360d0cca661" />
+  </game>
+  <game name="Walking Dead, The - Survival Instinct (USA) (En,Fr)">
+    <description>Walking Dead, The - Survival Instinct (USA) (En,Fr)</description>
+    <rom name="Walking Dead, The - Survival Instinct (USA) (En,Fr).key" size="16" crc="1237d96a" md5="bc15af421c40d90621cc7a41b2339525" sha1="2dc7f7bfb01151ec556b0d7c170605e1cb7bd3be" />
+  </game>
+  <game name="Warriors Orochi 3 Hyper (Europe) (En,Fr,De,Es,It)">
+    <description>Warriors Orochi 3 Hyper (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Warriors Orochi 3 Hyper (Europe) (En,Fr,De,Es,It).key" size="16" crc="f2621b0e" md5="c282358baad5bac288d9e2f0174bc62b" sha1="2033b61bd69315787f57a94da941b0aaddbab435" />
+  </game>
+  <game name="Warriors Orochi 3 Hyper (USA)">
+    <description>Warriors Orochi 3 Hyper (USA)</description>
+    <rom name="Warriors Orochi 3 Hyper (USA).key" size="16" crc="8f8fe1d4" md5="16b37c0e650c20c47b2bfe4cd27a2ce1" sha1="06600bc58f6021ed5172e859a6d619ee01fcb0e1" />
+  </game>
+  <game name="Watch Dogs (Japan)">
+    <description>Watch Dogs (Japan)</description>
+    <rom name="Watch Dogs (Japan).key" size="16" crc="83b7c40c" md5="d63f67a08ce811df447a732ccd717143" sha1="9c40d628e7b6dfcea976916d11b08cf7ae0d814e" />
+  </game>
+  <game name="Watch_Dogs (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)">
+    <description>Watch_Dogs (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)</description>
+    <rom name="Watch_Dogs (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru).key" size="16" crc="35c0bdc9" md5="21d73a042db4da4a5a28f2c4b914da3d" sha1="1e84029a3ad3f4bfce91dddbcaac098a2f352953" />
+  </game>
+  <game name="Watch_Dogs (USA) (En,Fr,Es,Pt)">
+    <description>Watch_Dogs (USA) (En,Fr,Es,Pt)</description>
+    <rom name="Watch_Dogs (USA) (En,Fr,Es,Pt).key" size="16" crc="8b4ebc05" md5="d0e690aca058eb6b9d65579313f7a728" sha1="3ce7ea4471092fc2c420319e5539d6036f431453" />
+  </game>
+  <game name="Wheel of Fortune (USA)">
+    <description>Wheel of Fortune (USA)</description>
+    <rom name="Wheel of Fortune (USA).key" size="16" crc="56c55a9b" md5="af85b5a4bf3938b2deac9ec7768eec98" sha1="918ddbedb199acad906c9e93d93bc7e2057f4d24" />
+  </game>
+  <game name="Wii Fit U (Europe) (En,Fr,De,Es,It) (Rev 2)">
+    <description>Wii Fit U (Europe) (En,Fr,De,Es,It) (Rev 2)</description>
+    <rom name="Wii Fit U (Europe) (En,Fr,De,Es,It) (Rev 2).key" size="16" crc="f14181c0" md5="625ee8d791c88308414d99825c6168e4" sha1="681f52870acf34aecffcb82112cb51ba1f5017ba" />
+  </game>
+  <game name="Wii Fit U (Japan) (Rev 3)">
+    <description>Wii Fit U (Japan) (Rev 3)</description>
+    <rom name="Wii Fit U (Japan) (Rev 3).key" size="16" crc="6dd577d3" md5="4ee87a36ad650d50362bfe6b9a18226e" sha1="d86b96e4996eb3fde34e774b1cc007aec6b0f032" />
+  </game>
+  <game name="Wii Fit U (USA) (En,Fr,Es) (Rev 2)">
+    <description>Wii Fit U (USA) (En,Fr,Es) (Rev 2)</description>
+    <rom name="Wii Fit U (USA) (En,Fr,Es) (Rev 2).key" size="16" crc="88dac016" md5="2b013d28d51ea6dee62aa35679f7341d" sha1="c162a02b98e9390868997f8595e6f8dd385a58ad" />
+  </game>
+  <game name="Wii Karaoke U (Japan) (Trial Disc) (Rev 1)">
+    <description>Wii Karaoke U (Japan) (Trial Disc) (Rev 1)</description>
+    <rom name="Wii Karaoke U (Japan) (Trial Disc) (Rev 1).key" size="16" crc="d1c9ca28" md5="9f0e6f966e5d171a6a28e0d6e8ecd2a7" sha1="cc9e7d56e495a5e4c3cd6118d60d1f7ac16b56e6" />
+  </game>
+  <game name="Wii Party U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)">
+    <description>Wii Party U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
+    <rom name="Wii Party U (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).key" size="16" crc="c697f001" md5="3e88e3d15fe9c055958d3550e8443f57" sha1="9dfc4389b7b16e7ae63d0504eb02bd547779e76b" />
+  </game>
+  <game name="Wii Party U (Japan) (Rev 2)">
+    <description>Wii Party U (Japan) (Rev 2)</description>
+    <rom name="Wii Party U (Japan) (Rev 2).key" size="16" crc="9ca7ddb5" md5="8bef7b1c0c0c16a8ae187765e0a346fb" sha1="7caf7fb82e06380d2368f6173141900f95b79e0c" />
+  </game>
+  <game name="Wii Party U (USA) (En,Fr,Es) (Rev 1)">
+    <description>Wii Party U (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="Wii Party U (USA) (En,Fr,Es) (Rev 1).key" size="16" crc="2d50efc0" md5="eaa03cf8f0375a9a645aeeeec9efcbbb" sha1="7ecfaac2aa8f5c4367ed82a5e2c68b93066f2116" />
+  </game>
+  <game name="Wii Sports Club (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)">
+    <description>Wii Sports Club (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1)</description>
+    <rom name="Wii Sports Club (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rev 1).key" size="16" crc="23219598" md5="79ed2a56cf702bfae64fc5f2afc705fc" sha1="9cb4bfe46a2e05f44bdd1daac6db01f422851844" />
+  </game>
+  <game name="Wii Sports Club (Japan) (Rev 1)">
+    <description>Wii Sports Club (Japan) (Rev 1)</description>
+    <rom name="Wii Sports Club (Japan) (Rev 1).key" size="16" crc="029093fc" md5="3b97a9fb28067d676c67fb1af3da45d5" sha1="f1119a3f36b24cd7fc52a64562bf1a549a921490" />
+  </game>
+  <game name="Wii Sports Club (USA) (En,Fr,Es) (Rev 1)">
+    <description>Wii Sports Club (USA) (En,Fr,Es) (Rev 1)</description>
+    <rom name="Wii Sports Club (USA) (En,Fr,Es) (Rev 1).key" size="16" crc="a816d013" md5="d6e1976890481cae1f0d37bb85838bf9" sha1="cc1b391bcc74f4a40227cd37e1342820084a4653" />
+  </game>
+  <game name="Wonderful 101, The (Europe) (En,Fr,De,Es,It)">
+    <description>Wonderful 101, The (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Wonderful 101, The (Europe) (En,Fr,De,Es,It).key" size="16" crc="0a32ea3e" md5="7d1262ceeb63fd8ea0ace9cdb066ac51" sha1="69e145ec30ea9bf7848f9370c5fd1fd9e4bdfa6e" />
+  </game>
+  <game name="Wonderful 101, The (Japan)">
+    <description>Wonderful 101, The (Japan)</description>
+    <rom name="Wonderful 101, The (Japan).key" size="16" crc="1c262ecd" md5="bc290b108f75f8a67faba5878505fed4" sha1="3045872f6e4ae696ef9a85f29ccb4bbdc223a3b9" />
+  </game>
+  <game name="Wonderful 101, The (USA) (En,Ja) (Rev 1)">
+    <description>Wonderful 101, The (USA) (En,Ja) (Rev 1)</description>
+    <rom name="Wonderful 101, The (USA) (En,Ja) (Rev 1).key" size="16" crc="5f6a59e1" md5="de639790d1989afe9ac80b590ca5ce73" sha1="d41d643861dcf355e9fff1b511135a38ed3b7834" />
+  </game>
+  <game name="Wonderful 101, The (USA) (En,Ja)">
+    <description>Wonderful 101, The (USA) (En,Ja)</description>
+    <rom name="Wonderful 101, The (USA) (En,Ja).key" size="16" crc="308d51db" md5="cc31e6889f3e5c6cf080ceb7c3d96226" sha1="5458e1a5cdcc1be0301dd449e952277001d4d2e8" />
+  </game>
+  <game name="Xenoblade Chronicles X (Europe) (En,Fr,De,Es,It)">
+    <description>Xenoblade Chronicles X (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Xenoblade Chronicles X (Europe) (En,Fr,De,Es,It).key" size="16" crc="904f487e" md5="708ff4bf775d05c86b6f7879be37aea2" sha1="f036bd0f6e57d55267279fdaee8aa11049173b30" />
+  </game>
+  <game name="Xenoblade Chronicles X (USA) (En,Fr,Es)">
+    <description>Xenoblade Chronicles X (USA) (En,Fr,Es)</description>
+    <rom name="Xenoblade Chronicles X (USA) (En,Fr,Es).key" size="16" crc="4be19898" md5="98f6950735e62aba18d2ad0949f918a0" sha1="c703516325582b3d47fdb3347ea1037978e9aced" />
+  </game>
+  <game name="XenobladeX (Japan)">
+    <description>XenobladeX (Japan)</description>
+    <rom name="XenobladeX (Japan).key" size="16" crc="b5a4e6a1" md5="79db16af9af06f495f449ddacee857bc" sha1="555a1b2e4d7ec8474370c40cddff2ea2a02c1372" />
+  </game>
+  <game name="Yoshi Wool World (Japan) (Rev 1)">
+    <description>Yoshi Wool World (Japan) (Rev 1)</description>
+    <rom name="Yoshi Wool World (Japan) (Rev 1).key" size="16" crc="1f52cccd" md5="b4dc41d05f36cfa173e4a78cd75bcbc6" sha1="3bf24e27a1defe30d26362f2c6379d69e41f06a2" />
+  </game>
+  <game name="Yoshi's Woolly World (Europe) (En,Fr,De,Es,It,Nl)">
+    <description>Yoshi's Woolly World (Europe) (En,Fr,De,Es,It,Nl)</description>
+    <rom name="Yoshi's Woolly World (Europe) (En,Fr,De,Es,It,Nl).key" size="16" crc="1888e7df" md5="16b4076e878eb838e9ef0fff32407c99" sha1="5c547b4471d2be8350d5e9a6f8b7aa8e96cc43fa" />
+  </game>
+  <game name="Yoshi's Woolly World (USA) (En,Fr,Es)">
+    <description>Yoshi's Woolly World (USA) (En,Fr,Es)</description>
+    <rom name="Yoshi's Woolly World (USA) (En,Fr,Es).key" size="16" crc="071f424e" md5="3a1a0badf2d895333f5705345b47d0ea" sha1="8bade9fea3f26a0c3020e864633301b7af685a10" />
+  </game>
+  <game name="Youkai Watch Dance - Just Dance Special Version (Japan)">
+    <description>Youkai Watch Dance - Just Dance Special Version (Japan)</description>
+    <rom name="Youkai Watch Dance - Just Dance Special Version (Japan).key" size="16" crc="8fddb9c3" md5="2b39c04c2bcfca1520f3d87f430541fc" sha1="d22edd05a593815045ff286b387a68274a71c94d" />
+  </game>
+  <game name="Your Shape - Fitness Evolved 2013 (Europe) (En,Fr,De,Es,It)">
+    <description>Your Shape - Fitness Evolved 2013 (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Your Shape - Fitness Evolved 2013 (Europe) (En,Fr,De,Es,It).key" size="16" crc="2f6aa3f1" md5="dacbca3ec191bf3a6ddf1edda8b22d47" sha1="74de42fb6db1d1179c2f7218dec8c59b5f873096" />
+  </game>
+  <game name="Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es)">
+    <description>Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es)</description>
+    <rom name="Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).key" size="16" crc="f8a20104" md5="c0933cb7dbe90c6a16d65b67864de2a4" sha1="112ca7ed86913c48e5887ac8e4b8544ff348fdb2" />
+  </game>
+  <game name="Zelda Musou (Japan) (Rev 1)">
+    <description>Zelda Musou (Japan) (Rev 1)</description>
+    <rom name="Zelda Musou (Japan) (Rev 1).key" size="16" crc="1f9d04d1" md5="38c9c1b86eeb4b72cba8eccb56b0d60a" sha1="8e948849858d0325155e72ba9bdd47d0d5859c1e" />
+  </game>
+  <game name="Zelda no Densetsu - Breath of the Wild (Japan)">
+    <description>Zelda no Densetsu - Breath of the Wild (Japan)</description>
+    <rom name="Zelda no Densetsu - Breath of the Wild (Japan).key" size="16" crc="4c8a249a" md5="6897490e7a0d0b1ee50f1486e391fcc3" sha1="49c87121570087973be718cd3e233d89370b57cf" />
+  </game>
+  <game name="Zelda no Densetsu - Kaze no Takt HD (Japan)">
+    <description>Zelda no Densetsu - Kaze no Takt HD (Japan)</description>
+    <rom name="Zelda no Densetsu - Kaze no Takt HD (Japan).key" size="16" crc="8e0ad805" md5="c00e6325a7a76c947b392f8555946423" sha1="a55d7566a01b0c6237caf1907e2f3cff35945d4d" />
+  </game>
+  <game name="Zelda no Densetsu - Twilight Princess HD (Japan) (Rev 1)">
+    <description>Zelda no Densetsu - Twilight Princess HD (Japan) (Rev 1)</description>
+    <rom name="Zelda no Densetsu - Twilight Princess HD (Japan) (Rev 1).key" size="16" crc="3d72409c" md5="32e01a2d4009f32bc7f4280091683fc9" sha1="8c68ebf9d5df888ad5d4463cc773dffb2a272701" />
+  </game>
+  <game name="Zero - Nuregarasu no Miko (Japan)">
+    <description>Zero - Nuregarasu no Miko (Japan)</description>
+    <rom name="Zero - Nuregarasu no Miko (Japan).key" size="16" crc="f4513658" md5="04618e5dba87a5e06116ce84ae7498d5" sha1="d0ec0ffc0aebd93ed2700d9f22e31121c73656a1" />
+  </game>
+  <game name="ZombiU (Europe) (En,Fr,De,Es,It,Nl,Ru)">
+    <description>ZombiU (Europe) (En,Fr,De,Es,It,Nl,Ru)</description>
+    <rom name="ZombiU (Europe) (En,Fr,De,Es,It,Nl,Ru).key" size="16" crc="cbfcca11" md5="4d7ee5574fe61065ab8bb7391207a2c9" sha1="4d358805ecc11e5b325fa72b0485a9ac4aa192c6" />
+  </game>
+  <game name="ZombiU (Germany) (En,De)">
+    <description>ZombiU (Germany) (En,De)</description>
+    <rom name="ZombiU (Germany) (En,De).key" size="16" crc="25092c96" md5="2dd282dcdda1207de98c49351545b203" sha1="118c00bd8c5723d1d5c6b7abd2d51d3ac6ef47ed" />
+  </game>
+  <game name="ZombiU (Japan)">
+    <description>ZombiU (Japan)</description>
+    <rom name="ZombiU (Japan).key" size="16" crc="379d8ea1" md5="bd9158a578bb180fbeefce869f74aac4" sha1="96a28397fbde89b53100b939423e59b4a1740ebd" />
+  </game>
+  <game name="ZombiU (USA) (En,Fr,Es,Pt)">
+    <description>ZombiU (USA) (En,Fr,Es,Pt)</description>
+    <rom name="ZombiU (USA) (En,Fr,Es,Pt).key" size="16" crc="17da666b" md5="67af2c7d0a37d7325420da86974ca385" sha1="bd7d48ad01c1ed629d71495fc986eb652cae5bc4" />
+  </game>
+  <game name="Zumba Fitness - World Party (Europe) (En,Fr,De,Es,It)">
+    <description>Zumba Fitness - World Party (Europe) (En,Fr,De,Es,It)</description>
+    <rom name="Zumba Fitness - World Party (Europe) (En,Fr,De,Es,It).key" size="16" crc="e0f3db0b" md5="6d03aa8e5ca820e683504f56c4ee77d2" sha1="27743e7387e1bd5c9b3521b4118947d4c4b37fde" />
+  </game>
+  <game name="Zumba Fitness - World Party (Japan) (En,Ja)">
+    <description>Zumba Fitness - World Party (Japan) (En,Ja)</description>
+    <rom name="Zumba Fitness - World Party (Japan) (En,Ja).key" size="16" crc="555d7044" md5="5645a2c83fd27c34f1373b5086085142" sha1="cd038009b486a38b71eaf046a584c44a07b96cb5" />
+  </game>
+  <game name="Zumba Fitness - World Party (USA)">
+    <description>Zumba Fitness - World Party (USA)</description>
+    <rom name="Zumba Fitness - World Party (USA).key" size="16" crc="f0922a6e" md5="060cc9703863f3ea3d4f1de4c21d418b" sha1="fb087018f127b6f8916329ed7cfecc05264e38e3" />
+  </game>
+</datafile>

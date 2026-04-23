@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>308</id>
+		<name>Analogue - Analogue Pocket</name>
+		<description>Analogue - Analogue Pocket</description>
+		<version>20250621-194153</version>
+		<author>Arctic Circle System, Gefflon, Hiccup, nnssxx, NovaAurora, number, rarenight, SonGoku, xprism</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="[BIOS] Analogue Pocket (GBA Mode) (World) (v1.4) (Early)" id="xB04">
+		<description>[BIOS] Analogue Pocket (GBA Mode) (World) (v1.4) (Early)</description>
+		<rom name="[BIOS] Analogue Pocket (GBA Mode) (World) (v1.4) (Early).bin" size="16384" crc="fa994871" md5="841b16c909e418e67b470cbf75e783d3" sha1="1c90c6b1f9958ce4a2aade2d927085bda3fb0a52" sha256="38cea39dba255431d140cb3d0a9910f45fe3c30fe0e80b0a811bc1fc8ef1d4c4"/>
+	</game>
+	<game name="[BIOS] Analogue Pocket (GBA Mode) (World) (v1.6)" id="xB03" cloneofid="xB04">
+		<description>[BIOS] Analogue Pocket (GBA Mode) (World) (v1.6)</description>
+		<rom name="[BIOS] Analogue Pocket (GBA Mode) (World) (v1.6).bin" size="16384" crc="be0d0f8c" md5="db7c42b71ef6dec312ade89b6209de65" sha1="bf4880ac1475dad70f0e66990b8ab035127f9ce5" sha256="17fe9299866ee954d4be3692521f0c8c81745853368a2fcc7ddee10cc8112054" status="verified"/>
+	</game>
+	<game name="[BIOS] Analogue Pocket (GBA Mode) (World) (v1.5)" id="xB02" cloneofid="xB04">
+		<description>[BIOS] Analogue Pocket (GBA Mode) (World) (v1.5)</description>
+		<rom name="[BIOS] Analogue Pocket (GBA Mode) (World) (v1.5).bin" size="16384" crc="42c5e669" md5="81aae5c06132ade3d56c9e61dbe318b4" sha1="cb8e060e9d1e4d5541003da324e8613731903849" sha256="ba6478a962abfd04908290e219e94dfd4ca4cf685d7c6ca344fbf0a9b29c5923" status="verified"/>
+	</game>
+	<game name="[BIOS] Analogue Pocket (GBA Mode) (World) (v1.4)" id="xB01" cloneofid="xB04">
+		<description>[BIOS] Analogue Pocket (GBA Mode) (World) (v1.4)</description>
+		<rom name="[BIOS] Analogue Pocket (GBA Mode) (World) (v1.4).bin" size="16384" crc="5b700932" md5="52ea0c6d8a13c27e987e357f0c30063b" sha1="d86114cf2c5809e5dfdcc1fae7f80a29cfb1719f" sha256="e343cab64414492440fdbc7d6b923548e95c211ec70cbef73266053b46fae298" status="verified"/>
+	</game>
+	<game name="Adventures in Carnal Hell, The (World) (v1.02)" id="0042">
+		<category>Games</category>
+		<description>Adventures in Carnal Hell, The (World) (v1.02)</description>
+		<rom name="Adventures in Carnal Hell, The (World) (v1.02).pocket" size="524288" crc="601dbb24" md5="2b902296f6bbea866ff52d09d31af9aa" sha1="d0c9711501853742f540f97fdf9a49a6fbfd5bae" sha256="8428ba7c6efd00cc7cc247c699c5aede61c0f129c2323b593d3ed69899d1ac63"/>
+	</game>
+	<game name="Agent B (World) (2021-12-29)" id="0003">
+		<category>Games</category>
+		<description>Agent B (World) (2021-12-29)</description>
+		<rom name="Agent B (World) (2021-12-29).pocket" size="262144" crc="bc7b7c67" md5="554081601bb55d00f61110b999aedaad" sha1="e72e49dc50c3b105cf1a99c46b8e2d053e5543a1" sha256="bb7d09bf2d22032ba7aa1c28b7c36dc9e094fe161e6fe13354208423c163d6cc"/>
+	</game>
+	<game name="Batty Zabella (World)" id="0009">
+		<category>Games</category>
+		<description>Batty Zabella (World)</description>
+		<rom name="Batty Zabella (World).pocket" size="1048576" crc="e67f05ff" md5="11b765e663f35312b8b0ecd6d6d4c530" sha1="8f394c22180b40eab400c6bf78c880846d0d2925" sha256="591353be5f21b9c4287cbf231d85c4fb4e4c93ad5499c75f01cf80bc5698410b" status="verified"/>
+	</game>
+	<game name="Beta Soul (World) (v1.1)" id="0052">
+		<category>Games</category>
+		<description>Beta Soul (World) (v1.1)</description>
+		<rom name="Beta Soul (World) (v1.1).pocket" size="524288" crc="718ce59a" md5="e6188b566d87f100b8ccd804e8c84db1" sha1="41f7c1933b78505071e00daf767f2faa30209795" sha256="0167080c65d3e42e27184d3aa298f88530c6457d556afc8270a932efac6dda98"/>
+	</game>
+	<game name="Bulb! (World) (v2.5)" id="0004">
+		<category>Games</category>
+		<description>Bulb! (World) (v2.5)</description>
+		<rom name="Bulb! (World) (v2.5).pocket" size="524288" crc="c696baf0" md5="9ff0cfdece719351e6f8b320192091e0" sha1="67da815bcf9804acf554b1da83f0635fb9a7f653" sha256="299e24d0a6612918f52ff951e152b23c4f2457a7260f50d74d5d91508e880e90" status="verified"/>
+	</game>
+	<game name="Cat and His Boy, A (World) (v1.0)" id="0033">
+		<category>Games</category>
+		<description>Cat and His Boy, A (World) (v1.0)</description>
+		<rom name="Cat and His Boy, A (World) (v1.0).pocket" size="524288" crc="71a0ee92" md5="919f7dd284e3487494c590d470907c86" sha1="9dee0707fc236b980c9de9eb37d95c3efca3dcbd" sha256="d829481abe06b780e67e069b5fb687d79236608464bc218b282b9fbd6e017c85"/>
+	</game>
+	<game name="Cat and His Boy, A (World) (En,Es) (v1.1)" id="0045">
+		<category>Games</category>
+		<description>Cat and His Boy, A (World) (En,Es) (v1.1)</description>
+		<rom name="Cat and His Boy, A (World) (En,Es) (v1.1).pocket" size="524288" crc="198dbc28" md5="646963ee786c88332de8c89ea35668b2" sha1="0478cd8c940b321334afbee9f07aff415eb8340d" sha256="ecde35ac60a35b23cd1360196c616d63a4409049a942722608f7feb4d2fbdf37"/>
+	</game>
+	<game name="Clockmaker's Tale, A (World)" id="0031">
+		<category>Games</category>
+		<description>Clockmaker's Tale, A (World)</description>
+		<rom name="Clockmaker's Tale, A (World).pocket" size="1048576" crc="1baebcb8" md5="926d6f44faa53729cbf961f7a3bea2c3" sha1="ec2b5f2cc037780fa9b2c247c18ada65ba692fa7" sha256="926ff5a063ca09a33b1f9ef4723edf7dff0eb0357409cbe5d13487394062042d"/>
+	</game>
+	<game name="Cryohazard (World)" id="0053">
+		<category>Games</category>
+		<description>Cryohazard (World)</description>
+		<rom name="Cryohazard (World).pocket" size="524288" crc="64929d53" md5="2ff2ae7d96b8e761d66dcc3e38341eec" sha1="da266770cbe6712003cd0b6e311774e9153ff8d4" sha256="d1e7e62609c43544fd0992eda3fdf88d95a6886841ef7f8ef26f2a7c2c7625ae"/>
+	</game>
+	<game name="Deisanebe (World)" id="0012">
+		<category>Games</category>
+		<description>Deisanebe (World)</description>
+		<rom name="Deisanebe (World).pocket" size="262144" crc="62987793" md5="181cbea3a629fe68903aed5c5eb1b951" sha1="c694619fe87afe539c1f296bd35fe22fe3ad0b63" sha256="778f142cc217ea6f9ad15c6506e8b5adfabc07d54b964bbcae5b43d8326c8258"/>
+	</game>
+	<game name="DMG Express (World) (v3.0.1)" id="0001">
+		<category>Games</category>
+		<description>DMG Express (World) (v3.0.1)</description>
+		<rom name="DMG Express (World) (v3.0.1).pocket" size="262144" crc="eaf4e656" md5="563f6329631f74fdaab6ed41a81c040c" sha1="afa0e4fc7905f38169fb2b6f14bf1966167d6a26" sha256="d206b9e9cbbcc35dd22c5090ec54d55f1fa2b555b96608667d5a0b714d08d50c"/>
+	</game>
+	<game name="DMG Express (World) (v4.0.2)" id="0038" cloneofid="0001">
+		<category>Games</category>
+		<description>DMG Express (World) (v4.0.2)</description>
+		<rom name="DMG Express (World) (v4.0.2).pocket" size="524288" crc="f9eabc7f" md5="f50e28c6917502aa7064be808630a098" sha1="c92f5767d62cd5d9b6f8d9fba7d19560a8bbbf95" sha256="a760dcfdfe2ddc8757d9b9e786d68e39aeeb04600d15fd3763fd8db2f6949a7d"/>
+	</game>
+	<game name="DMG Express (World) (v3.1.4)" id="0005" cloneofid="0001">
+		<category>Games</category>
+		<description>DMG Express (World) (v3.1.4)</description>
+		<rom name="DMG Express (World) (v3.1.4).pocket" size="262144" crc="d7b27801" md5="373e1539f65668c53923beeaadfa3aa5" sha1="b433a217acac9ebaf788e3ccbdd190a42675c025" sha256="e9e8ca2c0f55f6ff4fbeef7f7dc662fe2f349bbda4d08b95eddb28cae8695578"/>
+	</game>
+	<game name="DMG Express (World) (v4.0.0)" id="0015" cloneofid="0001">
+		<category>Games</category>
+		<description>DMG Express (World) (v4.0.0)</description>
+		<rom name="DMG Express (World) (v4.0.0).pocket" size="524288" crc="7924982d" md5="0a31e30204d7631e015bf52a1f9830c7" sha1="6bb74026fe3cd7148e4d8b299a2b665b0c4b0817" sha256="c7532cdbf355a3ac0a623f3319cd1fbbb5d49be97936d59ac9e4fa56b99083e7"/>
+	</game>
+	<game name="Dracula - Dark Reign (World) (Demo)" id="0047">
+		<category>Demos</category>
+		<description>Dracula - Dark Reign (World) (Demo)</description>
+		<rom name="Dracula - Dark Reign (World) (Demo).pocket" size="524288" crc="05444408" md5="5bb0b7f2b35600b9221ccec9cf1b333e" sha1="91b6cab7468c6159aca4ec9ecf4431fe06199a4d" sha256="7f816831352ec6b73225a6980531b2c56e22ae217e6fe957967d4fa96d8ba69a"/>
+	</game>
+	<game name="Dragonborne DX (World) (v1.0.2) (Demo)" id="0027">
+		<category>Demos</category>
+		<description>Dragonborne DX (World) (v1.0.2) (Demo)</description>
+		<rom name="Dragonborne DX (World) (v1.0.2) (Demo).pocket" size="4194304" crc="1ce7c4ea" md5="bad7e3a85e23a8d882aa97a0adab4a0b" sha1="585ce48960d8dad71b13d2532755ad02cd9a3f20" sha256="4ff5a0b42290a907f383822486cd3da77dd3b40f50d07f310ffd45cda5984344"/>
+	</game>
+	<game name="Dragonyhm (World) (v1.1) (Demo)" id="0043">
+		<category>Demos</category>
+		<description>Dragonyhm (World) (v1.1) (Demo)</description>
+		<rom name="Dragonyhm (World) (v1.1) (Demo).pocket" size="4194304" crc="afac3c72" md5="2a3c949ddba7990290f6d0c00dedcbff" sha1="02f0476eeec574dd6d0543c1177c98ac71b143c4" sha256="86f03d8599ef0505941becf526db83ed589815d7fd9bb2fb449bca9f64bb0a90"/>
+	</game>
+	<game name="Dragonyhm (World) (Demo)" id="0040" cloneofid="0027">
+		<description>Dragonyhm (World) (Demo)</description>
+		<rom name="Dragonyhm (World) (Demo).pocket" size="4194304" crc="a683028e" md5="e831584ef7f1efc1796a65a21e86fa19" sha1="b5a20304a71627b4d1c3d3b340112dc21eb2f72e" sha256="fa378121b9354fb748d471a04b23408103f06c741b69bf0661699d856ee8ebea"/>
+	</game>
+	<game name="Empire of Dreams, The (World) (v.1.0.2)" id="0021">
+		<category>Games</category>
+		<description>Empire of Dreams, The (World) (v.1.0.2)</description>
+		<rom name="Empire of Dreams, The (World) (v.1.0.2).pocket" size="524288" crc="55e43e94" md5="a97b4c8e848f21b4b1613256565312ea" sha1="68b2baa6e90db199b03a3267e23e7e7f3b94a73f" sha256="1d0e7971abc5936668ce8d516407bbbd9d9d0e7f53d5f087a4c7b18835330b63"/>
+	</game>
+	<game name="Empire of Dreams, The (World)" id="0010">
+		<category>Games</category>
+		<description>Empire of Dreams, The (World)</description>
+		<rom name="Empire of Dreams, The (World).pocket" size="524288" crc="369e87ff" md5="2281e75d70f02944f04899b5336b4ba9" sha1="caf5a2991d368c0d757617ff91aa767e680b9a4c" sha256="64dd5374709864bafc3bee13a205d187633f4c19f2063c707504462c25005ccf"/>
+	</game>
+	<game name="Fallen Crown, The (World) (v0.60) (Demo)" id="0050">
+		<category>Demos</category>
+		<description>Fallen Crown, The (World) (v0.60) (Demo)</description>
+		<rom name="Fallen Crown, The (World) (v0.60) (Demo).pocket" size="4194304" crc="777171d4" md5="eba5342830386cb9a1fe1f0227f4fa10" sha1="454e07bd84cec4767c5b5005c3451f006ac436c4" sha256="7378a3fc21d4c2fbaf689dd665633428e2c8486151efc9254cbde4dce857625b"/>
+	</game>
+	<game name="Feed IT Souls (World) (v1.4)" id="0041">
+		<category>Games</category>
+		<description>Feed IT Souls (World) (v1.4)</description>
+		<rom name="Feed IT Souls (World) (v1.4).pocket" size="1048576" crc="90d4ce35" md5="0cb67195d1720b0eee29272c8071dd6e" sha1="72ea5e5bc1058c613d9375ac05fc928c8773328f" sha256="8f3307b0605a142cf48c93b5fb74d127db39bb02b3c2de1109d64c3526cac0db"/>
+	</game>
+	<game name="Friend of the Void (World)" id="0054">
+		<category>Games</category>
+		<description>Friend of the Void (World)</description>
+		<rom name="Friend of the Void (World).pocket" size="524288" crc="602db6e0" md5="b08b504f1d3003ecd6885bebce1d37cc" sha1="7868e5c9d7ea26fcb1b69624a04246d8ba5f5d5c" sha256="a668c7adaabd525a0058f33d7db0b02a76812d010c823a9c1b944af590bc74dd"/>
+	</game>
+	<game name="Gravitorque (World)" id="0026">
+		<category>Games</category>
+		<description>Gravitorque (World)</description>
+		<rom name="Gravitorque (World).pocket" size="524288" crc="5bd9e639" md5="ef10483d3fc569de0b6f84bc3c654e29" sha1="f1687928e249bbbf62f72fa99d6fd1570566b569" sha256="8da1057ba328e120e8dbaf813d72e0e44c233f2d45437141257ad673b7872ab8"/>
+	</game>
+	<game name="Grimace's Birthday (World) (v1.7)" id="0048">
+		<category>Games</category>
+		<description>Grimace's Birthday (World) (v1.7)</description>
+		<rom name="Grimace's Birthday (World) (v1.7).pocket" size="1048576" crc="33589bb8" md5="c49e740da39c4b6fa93886454c61347b" sha1="87fa7aac313b08c311c5bdf92ce097adcc058365" sha256="b1cbdc1091a62226ae6c9643c6d63b9ee826fbbfdeac4639d070435525b693b4"/>
+	</game>
+	<game name="Halo - Combat Devolved (World)" id="0037">
+		<category>Games</category>
+		<description>Halo - Combat Devolved (World)</description>
+		<rom name="Halo - Combat Devolved (World).pocket" size="1048576" crc="4e34ae5c" md5="ff91a30857370ed1cdcd73631968c024" sha1="d09f976835dae2f2bedbff23af3c91b489994cee" sha256="a2e31ab933cb0381a42b714be7e80d7bc3efe7ea280bed0e8d16fc7335481b86"/>
+	</game>
+	<game name="In the Dark (World)" id="0008">
+		<description>In the Dark (World)</description>
+		<rom name="In the Dark (World).pocket" size="1048576" crc="d512e63f" md5="157d07794c0b0d50d2a682572b361811" sha1="c1e3d26d5f1c257dc971ac6593273d91fc3c197d" sha256="394a9237cb01f7623052e04d7a8f365b0ead62dfd4b8c0f7e2e00b9d8ba66edb" status="verified"/>
+	</game>
+	<game name="Inspector Waffles Early Days (World) (v1.0.1) (Demo)" id="0034">
+		<category>Games</category>
+		<description>Inspector Waffles Early Days (World) (v1.0.1) (Demo)</description>
+		<rom name="Inspector Waffles Early Days (World) (v1.0.1) (Demo).pocket" size="524288" crc="bac4c8f4" md5="cac9953a87742aa7d706161d9bddaf44" sha1="33fb2349806923b7d6fafdb88283a8f48f8f676e" sha256="9a817df6465f8ef27b9fb072bd2ebec97069b686c885dac9a3ddcf8d2c10c106"/>
+	</game>
+	<game name="Invasion of the Geminorons (World)" id="0016">
+		<category>Games</category>
+		<description>Invasion of the Geminorons (World)</description>
+		<rom name="Invasion of the Geminorons (World).pocket" size="32768" crc="2707ea42" md5="bd40b1b5be9fe536a04c9b47cb9da4ff" sha1="254a87fce17b52a6d0869a81d9cdccb2375aa28b" sha256="26cd2eb66116b5774a8e380b1bbc8341bba51745d760225be8b9728ef2d014c3"/>
+	</game>
+	<game name="Jayro's Game Boy Test Cartridge (World) (v1.18)" id="0032">
+		<category>Applications</category>
+		<description>Jayro's Game Boy Test Cartridge (World) (v1.18)</description>
+		<rom name="Jayro's Game Boy Test Cartridge (World) (v1.18).pocket" size="524288" crc="1c83a10d" md5="3fe9b082bf26a9fab8da79b6df7b1e62" sha1="e0ca7cfbae337caca9ec7271574bec3033fe43e0" sha256="7abecd13759083d6142b8592e4fbed6999f321a05bd9b7ef0b43af87e3c92f2c"/>
+	</game>
+	<game name="Machine, The (World) (v1.1)" id="0019">
+		<category>Games</category>
+		<description>Machine, The (World) (v1.1)</description>
+		<rom name="Machine, The (World) (v1.1).pocket" size="2097152" crc="c34ee976" md5="380f17c544095c9bc456a5120bd96385" sha1="c3530d71b08a399fbd12c69494722a5c16fc61a6" sha256="afbd41a0f6fe9204bb1a4ee9fdea82e47117327339beafaa3408ef9f5cde1445"/>
+	</game>
+	<game name="Melon Journey Pocket (World) (En)" id="0028">
+		<category>Games</category>
+		<description>Melon Journey Pocket (World) (En)</description>
+		<rom name="Melon Journey Pocket (World) (En).pocket" size="524288" crc="20d06607" md5="2643911c00dbdb8fa95ff87bcb50bd82" sha1="4aa940315bb589fd1a137de928985357a19ef51c" sha256="1aa379fbe28309186d67ef3e7dab7cb1958a5beecee9df3bd0b6fe27017e704d" status="verified"/>
+	</game>
+	<game name="Melon Journey Pocket (World) (Ja)" id="0029" cloneofid="0028">
+		<category>Games</category>
+		<description>Melon Journey Pocket (World) (Ja)</description>
+		<rom name="Melon Journey Pocket (World) (Ja).pocket" size="524288" crc="d6d0330b" md5="ad9b064a6485dcffe6f8c3675eb434ee" sha1="adff8fe897fdbc0040f5acbfd4a13f7bbe0ee90f" sha256="4126b9657d9621c7e7cc6102dde57a37a178e0b35de765f37d023b7bdf4a6fb2" status="verified"/>
+	</game>
+	<game name="Metamorphosis Collection (World) (Demo)" id="0049">
+		<category>Demos</category>
+		<description>Metamorphosis Collection (World) (Demo)</description>
+		<rom name="Metamorphosis Collection (World) (Demo).pocket" size="1048576" crc="bc3c8ca5" md5="90d61d2c2256294b53428befd47bff1a" sha1="d14f5f289401a164f0916ca1c472998cdd8b2194" sha256="4c7dc241ceb27fb87acf0007a03860db588eb0695487b49202ce6b7b3320cf96"/>
+	</game>
+	<game name="Michael the Ant Thumper (World)" id="0017">
+		<description>Michael the Ant Thumper (World)</description>
+		<rom name="Michael the Ant Thumper (World).pocket" size="524288" crc="28aaec34" md5="4c7d466c47ecb25b1f44f1336216c390" sha1="8d40c33ffd2817fb9ad0b9527b18f26a021bd07e" sha256="13fd68fc57d4a1fad4096a97aeb62454a109001a2b525cf6a301f51a39859e4e"/>
+	</game>
+	<game name="My Dinner with Andre (World) (v1.1)" id="0055">
+		<category>Games</category>
+		<description>My Dinner with Andre (World) (v1.1)</description>
+		<rom name="My Dinner with Andre (World) (v1.1).pocket" size="262144" crc="19eb2e8c" md5="e7a2c602f9b8395cf91f500add347832" sha1="5eadddd7b2b4e4644ffc89777b294ec38c38c31d" sha256="d008faf776b63aae9fbf06b8d23a3acbec7439e9c0a7659f519968884d45a41f"/>
+	</game>
+	<game name="Nyghtmare - The Ninth King (World)" id="0014">
+		<category>Games</category>
+		<description>Nyghtmare - The Ninth King (World)</description>
+		<rom name="Nyghtmare - The Ninth King (World).pocket" size="2097152" crc="15422362" md5="19bfef8122f5354401e9a12ddb844ab5" sha1="2d5a5d34ebd43d54d71c8503c55a493515084407" sha256="5fc84ad5858750c5ce7038494d6d7e6b112913cdeecad4f0e8929d9175659d42"/>
+	</game>
+	<game name="Octopus Stressus (World) (v1.0)" id="0036">
+		<category>Games</category>
+		<description>Octopus Stressus (World) (v1.0)</description>
+		<rom name="Octopus Stressus (World) (v1.0).pocket" size="262144" crc="a302ad39" md5="a467b7ef55bc13483dbce8c1a2cd4487" sha1="b47c847a0f0f49a9f0b81addc9c36947bad24e9e" sha256="ec7c1d9a5cb3705fbbd5bbf74da4243de7fb95f722e4651a0a1e11c0f9293d28"/>
+	</game>
+	<game name="Octopus Stressus (World) (v1.1)" id="0035">
+		<category>Games</category>
+		<description>Octopus Stressus (World) (v1.1)</description>
+		<rom name="Octopus Stressus (World) (v1.1).pocket" size="262144" crc="2f9e1a0f" md5="a70d66521cc5ccf5c2eaa8b732d4ab7a" sha1="237ef4447bfb516b17cb44313097bd944c940fab" sha256="a55eda16efbcf36d35eae8fb71e7c2b99fc1f3414d1e923099a1da82e28b78a9"/>
+	</game>
+	<game name="Oni (World) (Digital)" id="0056">
+		<category>Games</category>
+		<description>Oni (World) (Digital)</description>
+		<rom name="Oni (World) (Digital).pocket" size="2097152" crc="1f38eb63" md5="f0b5fe9d110396470757c25ec7c48a1d" sha1="eb601a3fdbd098cb1f0131121ea4867f56fdd076" sha256="1b53dfd2ac2fc37bb37004b89b849e13b0f0a12e542cb8ffda7e306b1238cb24"/>
+	</game>
+	<game name="Phobos Dere .GB (World)" id="0002">
+		<description>Phobos Dere .GB (World)</description>
+		<rom name="Phobos Dere .GB (World).pocket" size="1048576" crc="db5815b6" md5="054e47e6aee2cd1ab5ca80c258177447" sha1="da857956e6cc402c6b9d49f8c9b080bf0d875f9b" sha256="9c95b0fb222c90638c9dacc077edf516077062fb3eb8b39f7151b7373959ef9e" status="verified"/>
+	</game>
+	<game name="Pilgrim's Peril (World) (v1.0.2)" id="0044">
+		<category>Games</category>
+		<description>Pilgrim's Peril (World) (v1.0.2)</description>
+		<rom name="Pilgrim's Peril (World) (v1.0.2).pocket" size="524288" crc="14151ea4" md5="f92517f49e6b9224fb41f85cd103cbd4" sha1="9fb08fb2c4f47002358e7ad068d5b3d4c925ae2a" sha256="d9405fbe4d528d80ef03c63cd5f47ecac77e08f9178ec48a97b1edc1abfbe9ea"/>
+	</game>
+	<game name="Porklike (World) (v1.0.13)" id="0059">
+		<category>Games</category>
+		<description>Porklike (World) (v1.0.13)</description>
+		<rom name="Porklike (World) (v1.0.13).pocket" size="65536" crc="828d4114" md5="a459ab19dcfa088ef582cb70ff7349ac" sha1="5ef487d9902eac38ef3dec089c851f6e0a115717" sha256="75a2ce12a082bfbe12cdf493998f08c4d242e5a23210039d6933618da17d5e42"/>
+	</game>
+	<game name="Princess Poffin and the Spider Invasion! (World) (2023-06-06)" id="0039">
+		<category>Games</category>
+		<description>Princess Poffin and the Spider Invasion! (World) (2023-06-06)</description>
+		<rom name="Princess Poffin and the Spider Invasion! (World) (2023-06-06).pocket" size="262144" crc="3512c6a7" md5="7f67c024a8b0bb83a5a2ef1fd8fd1151" sha1="c13046c038e99c838afabe61480464658e9e58b6" sha256="7c0a8cdcfa352ea1e1ad922260a113e330e9df0d2ea7b23e67e3dd20ae644e3c"/>
+	</game>
+	<game name="Ravenia (World)" id="0011">
+		<category>Games</category>
+		<description>Ravenia (World)</description>
+		<rom name="Ravenia (World).pocket" size="262144" crc="2c4ed4ab" md5="f57e84af0277129544bb66ecff21c250" sha1="d6db540a593e4a00ed2d033cef01c65aad9a59ff" sha256="80bd5397472ee67389399359af7423f97ced0ae3e2084e7e9fb828e27912c561"/>
+	</game>
+	<game name="Repugnant Bounty (World) (Rev C.1)" id="0020">
+		<category>Games</category>
+		<description>Repugnant Bounty (World) (Rev C.1)</description>
+		<rom name="Repugnant Bounty (World) (Rev C.1).pocket" size="4194304" crc="cf9dfd9e" md5="d0ad0a7dffa67826b6aace745ad87c1e" sha1="b4341c03f33834c8bdb041484661e346623d74a2" sha256="ffb7f8932222d3e3335040c55edae9b93a5b1f4c90da6a8bd68559123c1918ab"/>
+	</game>
+	<game name="Sapphire Hotel - The Little Tales of (World) (v1.2)" id="0023">
+		<category>Games</category>
+		<description>Sapphire Hotel - The Little Tales of (World) (v1.2)</description>
+		<rom name="Sapphire Hotel - The Little Tales of (World) (v1.2).pocket" size="262144" crc="fa3bf314" md5="f7865d12432dbcdc9013bc33bf285c46" sha1="b3ae7c85b2d018d4297ea9ef8ca6334ec22f9a04" sha256="c86ad3257281c620e3b9a64d07dacc9de7be83de6da4e32b94a4ebb804872da5"/>
+	</game>
+	<game name="Shrine Rally (World)" id="0018">
+		<description>Shrine Rally (World)</description>
+		<rom name="Shrine Rally (World).pocket" size="262144" crc="2bae1113" md5="91a6ff6dda2f52dee42b5c192be6a9ea" sha1="64c77d49cf1e2e6b0a84e59c4a760302fad5e3ea" sha256="8754982a5f148f5341363bdb89d60443c3b7ac7d1bc5dfb69feb285f87f3d8df"/>
+	</game>
+	<game name="Small Town Emo (World) (v0.02c) (Demo)" id="0060">
+		<category>Games</category>
+		<description>Small Town Emo (World) (v0.02c) (Demo)</description>
+		<rom name="Small Town Emo (World) (v0.02c) (Demo).pocket" size="2097152" crc="e45b77dd" md5="9be6c07b8201e91a16b3a415dcdd8a52" sha1="af07a43191e2a06238b63745e982cc81c065d732" sha256="230c17825bb60441de22bf4f8ba699a2ded588c4bf7ea6ccea20f10f2f4a86dd"/>
+	</game>
+	<game name="Snout (World) (Demo)" id="0051">
+		<category>Demos</category>
+		<description>Snout (World) (Demo)</description>
+		<rom name="Snout (World) (Demo).pocket" size="262144" crc="c5418d57" md5="352fb1e5e65797820c4202792260aeb2" sha1="8782f60aae242363d29189c1659c789ad110b8dc" sha256="5f3cd942ff60c798fd39dac5149646a54551ae5f4b13edf7368d9f8425096310"/>
+	</game>
+	<game name="Tales of Monsterland (World) (v2.83)" id="0007">
+		<description>Tales of Monsterland (World) (v2.83)</description>
+		<rom name="Tales of Monsterland (World) (v2.83).pocket" size="2097152" crc="c22abef3" md5="c7222933f3b63b9590de5cb59746837c" sha1="6fea5387e655aaf7e0e93fa3069938aed099f343" sha256="fa4c16fcb2e3c3ca728c39eb5a3339e94d55f1460a82d5f6bf5651218c43ae14"/>
+	</game>
+	<game name="Tomte Trouble (World)" id="0025">
+		<category>Games</category>
+		<description>Tomte Trouble (World)</description>
+		<rom name="Tomte Trouble (World).pocket" size="262144" crc="05007687" md5="8a492d14816ae92a9f57f83c0e2f41bd" sha1="91d91db4ceb98a0f2d4a1fe5683aae0cb2084c5c" sha256="9dd46c50649dce7c0078027849159722a9a6e89d03ffbf445c289713936dfc4f"/>
+	</game>
+	<game name="Traumatarium (World) (Demo)" id="0030">
+		<category>Demos</category>
+		<description>Traumatarium (World) (Demo)</description>
+		<rom name="Traumatarium (World) (Demo).pocket" size="2097152" crc="5690b49a" md5="fe08730566d3c3a4b1239ee6372ea3c2" sha1="220c2139908feca49634d4bd8214fe2c8c8eeebd" sha256="18ba8f1fa7ce8c86bf9e177b9ffc1bbeaefce2b614c344d66208fc3985aa72ab"/>
+	</game>
+	<game name="Turn 'Em Off (World)" id="0057">
+		<category>Games</category>
+		<description>Turn 'Em Off (World)</description>
+		<rom name="Turn 'Em Off (World).pocket" size="262144" crc="bab3a6ce" md5="a333d4769c405d22e290a9c35527c2ec" sha1="4b3438c91902bb122483b641f5c1988a6cbb1947" sha256="91f24026324431e11387436b93ee36b47bc6df36463be698bd906868d653b7da"/>
+	</game>
+	<game name="Unearthed (World) (v1.3)" id="0013">
+		<category>Games</category>
+		<description>Unearthed (World) (v1.3)</description>
+		<rom name="Unearthed (World) (v1.3).pocket" size="2097152" crc="300266ed" md5="fefe7ad0d137b18ea9b13fa63ff582d7" sha1="34f267a9583a61cf25ff248e86a06b0ba579d251" sha256="244440d9f232285de253cd87be50c35d330ea9e349912805e04df0a75095cd8c"/>
+	</game>
+	<game name="What's Updog (World) (2023-01-09)" id="0022">
+		<category>Games</category>
+		<description>What's Updog (World) (2023-01-09)</description>
+		<rom name="What's Updog (World) (2023-01-09).pocket" size="262144" crc="0997cedd" md5="2268b760a8860a0bbfe053d2b3af6e64" sha1="148511ce0ca34358db44346be678254e16afcc47" sha256="2a84291092c59a664d851137a115a45c6700bc38d07965529785e0d3d11b97c7"/>
+	</game>
+	<game name="What's Updog (World)" id="0006">
+		<category>Games</category>
+		<description>What's Updog (World)</description>
+		<rom name="What's Updog (World).pocket" size="262144" crc="efcac67a" md5="f326b0e09f17a8875d8e4660a94bc4bf" sha1="89e0cf2bc232f0f8c9bcd2a3c176e85584ce5121" sha256="1e281d084a11565f4edb63cd986f62c7698c1953eb3709e177cb357fc0019f69"/>
+	</game>
+	<game name="Wizkid and The Tower (World)" id="0046">
+		<category>Games</category>
+		<description>Wizkid and The Tower (World)</description>
+		<rom name="Wizkid and The Tower (World).pocket" size="1048576" crc="1a8decd8" md5="8e787fede636d70b8bd47a86a6ef21eb" sha1="3638badb3bc2aa416f92c1c87cf6a5e285343648" sha256="fa6df88dd84559d8f8d3e013f4c00f8b821ca6ef02b9caa3b6765f566d96db90"/>
+	</game>
+	<game name="Yellow Sapphire Hotel - The Little Tales of (World)" id="0024">
+		<category>Games</category>
+		<description>Yellow Sapphire Hotel - The Little Tales of (World)</description>
+		<rom name="Yellow Sapphire Hotel - The Little Tales of (World).pocket" size="262144" crc="c4cd7909" md5="f45b16d4650e36d062af8aefa474957a" sha1="9b276ec05f28dd9b0c2d701f418b8939fedee1be" sha256="17d2db9719c08db0b1379bcae5461931be3fceec2e917ed15e0b9f8a1732a49e"/>
+	</game>
+</datafile>

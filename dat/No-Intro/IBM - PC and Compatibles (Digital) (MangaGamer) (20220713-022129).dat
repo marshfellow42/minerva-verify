@@ -1,0 +1,443 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>188</id>
+		<name>IBM - PC and Compatibles (Digital) (MangaGamer)</name>
+		<description>IBM - PC and Compatibles (Digital) (MangaGamer)</description>
+		<version>20220713-022129</version>
+		<author>ajshell1, FakeShemp, Hiccup, MeguCocoa, norkmetnoil577</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Amatarasu Riddle Star (World) (Windows)" id="0092">
+		<description>Amatarasu Riddle Star (World) (Windows)</description>
+		<rom name="MG1141_1.zip" size="1992483216" crc="3240705b" md5="f3ad83ab8d175300b9ad755a345152f8" sha1="79699bbdaedf6f92929df78173b6af38780d0378" sha256="8b443cfb6084e4e373dfc5f1d14c37b7352d1e264776e889cabcd5120a3b89b4"/>
+		<rom name="MG1141_2.zip" size="1992902300" crc="396f9c3d" md5="a2170842623d3f7a4a3bcaf2b1e8b1a8" sha1="b746a6f0c34fc628d8483522cb32cbd58318b73b" sha256="8aa27c393d04065cb7ad30c17d2b847bf803a5ec34e01fa154c62df1a75c86e2"/>
+		<rom name="MG1141_3.zip" size="1837291707" crc="cef6ac4e" md5="16d482dfc935556f1e1add43e3c2a775" sha1="4d7e5e3394453c058d392a44ffe6d542fad78878" sha256="4c80b60aa9ba256fdbed3d78b57e5eedb62d2931c35644834beb0b556d5ca83b"/>
+	</game>
+	<game name="Amatarasu Riddle Star (World) (Mac)" id="0093" cloneofid="0092">
+		<description>Amatarasu Riddle Star (World) (Mac)</description>
+		<rom name="MG1141_4.zip" size="6050320390" crc="b95f2b9c" md5="71ecbe35a678f41a5b9dfa80be7e2b2b" sha1="205cf5783b27a28dfcce2ba0495784434216791d" sha256="0169d4bfbfcdf1f3a57469ab47965428c4353f28fc2da7ade319363a3582b09a"/>
+	</game>
+	<game name="Amatarasu Riddle Star (World) (Linux)" id="0094" cloneofid="0092">
+		<description>Amatarasu Riddle Star (World) (Linux)</description>
+		<rom name="MG1141_5.zip" size="6050261697" crc="c52846f1" md5="bf43933b817c09966444ae8d188b119d" sha1="cbd847c6a432e6e172066dbb627672e394d4ccfe" sha256="cd6a93b4f6278392f50a6534c2e18b1389d36748d2bb6da5b5af8e6f1e7316b6"/>
+	</game>
+	<game name="Boku ga Tenshi ni Natta Wake (World) (Windows) (Patch)" id="0020">
+		<description>Boku ga Tenshi ni Natta Wake (World) (Windows) (Patch)</description>
+		<rom name="AP1092.zip" size="1337313145" crc="69f84cff" md5="73c625db801b31b0ad12f689424f8726" sha1="9f27a23dc286ecb6875262756f0a5f081617913a" status="verified"/>
+		<rom name="AP1092.zip" size="1337313145" crc="69f84cff" md5="73c625db801b31b0ad12f689424f8726" sha1="9f27a23dc286ecb6875262756f0a5f081617913a" status="verified"/>
+	</game>
+	<game name="Bokuten - Why I Became an Angel (World) (Windows)" id="0095">
+		<description>Bokuten - Why I Became an Angel (World) (Windows)</description>
+		<rom name="MG1092_1.zip" size="1797919412" crc="a2d1dea5" md5="2e74eacc773ee9ba0440078da6277b4f" sha1="15f5cdb1cc45461d2ec18c71632318ac0e4cd036" sha256="03d6814cecdf93f577631bc63581361048f0174b20cb3652153bb31891ce56db"/>
+		<rom name="MG1092_2.zip" size="1125301120" crc="2e8ea743" md5="163ca5049eb73e1153b393d5f66787bd" sha1="7adfbdf0108e3fa2cdb5ad570ce7fa9347837a6a" sha256="d1211ad22ec5b826799598541c9c50e23007ce7b3e9356f3d8c1952c3c73c5de"/>
+	</game>
+	<game name="Bokuten Original Soundtrack and Vocal Collection (World) (FLAC, MP3) (Extra)" id="0096">
+		<description>Bokuten Original Soundtrack and Vocal Collection (World) (FLAC, MP3) (Extra)</description>
+		<rom name="MG1158.zip" size="1861475050" crc="1fc7c93f" md5="303f84f9f9e1befa5272c87fccf3acd1" sha1="a6d9e4664dcf709288a8cd610dc0be61def232c5" sha256="03fead4eb7494cebbc83f90fa9158bff2512b81b495da37be6d3e69df0039f07"/>
+	</game>
+	<game name="Boob Wars - Big Breasts vs. Flat Chests (World) (Windows)" id="0022">
+		<description>Boob Wars - Big Breasts vs. Flat Chests (World) (Windows)</description>
+		<rom name="MG11.zip" size="707671776" crc="5634c384" md5="4d826c841f0be4d838eecb4c4c8fb344" sha1="ca1cac8ba7073baad2f2d1d4387558e13cc754af"/>
+	</game>
+	<game name="Cartagara! (World) (Windows)" id="0075">
+		<description>Cartagara! (World) (Windows)</description>
+		<rom name="MG153_1.zip" size="955799424" crc="d887f896" md5="1eaafcb9a60bb9c58dca63d59a62a0dd" sha1="b9809397305a041b38cc7e7908501c1e68086c50" sha256="cd59f0b99cfa930acd270ec100f3fc1114c25eaf14be7d81b10de3e1cdcb441d"/>
+	</game>
+	<game name="Cartagara! (World) (Mac)" id="0081" cloneofid="0075">
+		<description>Cartagara! (World) (Mac)</description>
+		<rom name="MG153_3.zip" size="858175668" crc="f57b7992" md5="08adbb55793376f583e5ee1b0aba6a35" sha1="4ee43047bacddb3bf6b2676cf038afedaeaaf382" sha256="6a5d2caddb73942558f357742c69a3319eb30470148b7c490715e0dc0a127a7f"/>
+	</game>
+	<game name="Cartagara! (World) (Linux)" id="0080" cloneofid="0075">
+		<description>Cartagara! (World) (Linux)</description>
+		<rom name="MG153_2.zip" size="867200021" crc="4f2795bb" md5="db72a8bd585f40edfb61b16e25c0c5bb" sha1="202cbbf6b7045e57e47fcc0a34a6a983ebbb06c7" sha256="756a331be2cafdb720c48157d02060c25132b2bcf705118a33d4719f639eb675"/>
+	</game>
+	<game name="Cho Dengeki Stryker (World) (Demo) (Windows)" id="0023">
+		<description>Cho Dengeki Stryker (World) (Demo) (Windows)</description>
+		<rom name="TR111.zip" size="468621926" crc="61afd06d" md5="b9c6350f4a1ec0eef4ad1a7cf6263f08" sha1="06171ff1afb218794c08866a522da58986472c52"/>
+	</game>
+	<game name="Cho Dengeki Stryker (World) (Windows)" id="0073">
+		<description>Cho Dengeki Stryker (World) (Windows)</description>
+		<rom name="MG111_1.zip" size="2097605284" crc="456b6523" md5="38d83217a9e6831b2907cb5078a4b027" sha1="a3abb443110d18ee60fec95d62b444bd61ea5f2f" sha256="803d6fbd83ac3e63b34e3beb6d100babf8b3f72bde9bc39eac0ed68ab228212e"/>
+		<rom name="MG111_2.zip" size="2097728272" crc="9d6336f1" md5="322fb5355481ded7002d408e944f1446" sha1="58bb1ef89607cb120db392336a79c118dd259ab5" sha256="745b01aa602f8016f9441105ad976c32d650726dfb7d628a9dd35a2022c10169"/>
+		<rom name="MG111_3.zip" size="136486245" crc="505fd317" md5="d73d77be8df953a94d365db512303e64" sha1="ff3636d6cc92a1578cc4cb964a3132344a209b18" sha256="dd563989e318ec2b61a24ea4b8d7abd377b1b2adcc4959d4f664308ca34b62f6"/>
+	</game>
+	<game name="Conquering the Queen (World) (Windows)" id="0024">
+		<description>Conquering the Queen (World) (Windows)</description>
+		<rom name="MG53.zip" size="503031521" crc="66343575" md5="7fb3bc7a0dd5f9061008e6764612677d" sha1="241a8cc051fe3606c220c931112475f95e99a097"/>
+	</game>
+	<game name="Cosplay Alien (World) (En,Ja) (Windows)" id="0025">
+		<description>Cosplay Alien (World) (En,Ja) (Windows)</description>
+		<rom name="MG34.zip" size="1299569269" crc="c5987481" md5="83e718f774802d155b0ec356a48a2694" sha1="5b3c38479a1769a600701c30ad6c689c329dec7e"/>
+	</game>
+	<game name="d2b vs Deardrops -Cross the Future- (World) (Windows)" id="0072">
+		<description>d2b vs Deardrops -Cross the Future- (World) (Windows)</description>
+		<rom name="MG134_2.zip" size="676938784" crc="f757aac8" md5="2295907d1d07777292c178dbbc88b438" sha1="af397228e4d98de25261a097d47c1c9e00a15822" sha256="7c864ca1573658d27c7b04212df0fe7819b84d38cc50201d53acef8a81265aeb"/>
+	</game>
+	<game name="Da Capo (World) (Windows)" id="0017">
+		<description>Da Capo (World) (Windows)</description>
+		<rom name="MG59.zip" size="893843427" crc="bdc4d8ce" md5="a653a1e7d48221d51105f72856ab9996" sha1="afce67ada011d9ca498630e859e0e1f0a45076e2"/>
+	</game>
+	<game name="Da Capo (World) (Demo) (Windows)" id="0018" cloneofid="0017">
+		<description>Da Capo (World) (Demo) (Windows)</description>
+		<rom name="TR59.zip" size="313692422" crc="0c58b05c" md5="dcb6ca6ff1c3b11ac798db9df0bf0e2b" sha1="5f761227bdbcd69796e5ada5d51259046eb9b53a" status="verified"/>
+	</game>
+	<game name="Da Capo 2 (World) (Windows)" id="0070">
+		<description>Da Capo 2 (World) (Windows)</description>
+		<rom name="MG18_1.zip" size="1181116176" crc="ba4c182b" md5="5142f4f2e019acae0fa3c4d80ab0481c" sha1="a9c5ac0fe91a65895a777c81ce8d8ae5c0bfc0f9" sha256="4d92cdf25ecc276577346811516cbcd9b0be61c406459fe820b7a5643303fae0"/>
+		<rom name="MG18_2.zip" size="1057042305" crc="288c2f2c" md5="aa0f5e60e55d75efc2e91965977a65e4" sha1="ba2a952ff64674e126b1f2715e71f7562f520f91" sha256="882a2d669eed2280d3f74f1ff740af7ed94a28d4bbb8271791f4bc8a76e985c0"/>
+	</game>
+	<game name="Da Capo 3 R X-Rated (World) (Windows)" id="0087">
+		<description>Da Capo 3 R X-Rated (World) (Windows)</description>
+		<rom name="MG1008_4.zip" size="1799734987" crc="36d10dba" md5="d2066e1bf4f3f80b8979f4b7237a2bb9" sha1="8bfc5582e6924116f9a348595091b39c07ac9b3c" sha256="30c8e99f5666ac021cf6a0a8541ffce8512c051c1a62d8eecea67426efe24a40"/>
+		<rom name="MG1008_5.zip" size="1800236226" crc="d2c42c00" md5="03741224143b4cc2a951525627d4b20b" sha1="53077b259df4ec2e031b42261c6c684b173434c3" sha256="35f5049c36fd9c701db1934f68a620cddfc23439dfeec0f8fe4332832639529b"/>
+		<rom name="MG1008_6.zip" size="254855981" crc="b0134870" md5="0486648a071bce5325af00cb5002960b" sha1="b08517c473e1963e908c41ddc2fd0452ee4aa56b" sha256="e50e3decb2676fbcf5bfb706460121fa4a3a7eae403626be86151da36301597b"/>
+	</game>
+	<game name="Da Capo 3 R X-Rated (World) (Mac)" id="0088" cloneofid="0087">
+		<description>Da Capo 3 R X-Rated (World) (Mac)</description>
+		<rom name="MG1008_2.zip" size="4304137829" crc="08cf7cad" md5="5ac7a2763a31742029b392a8028c1a40" sha1="ef2dfe24334b497f6e878a7c475e98e59b0ff443" sha256="a3898f60638398e4b8114f004d565f6a62b0cb03ae0962dc88d95326cfeec916"/>
+	</game>
+	<game name="Da Capo 3 R X-Rated (World) (Linux)" id="0089" cloneofid="0087">
+		<description>Da Capo 3 R X-Rated (World) (Linux)</description>
+		<rom name="MG1008_3.zip" size="4329004315" crc="488ef3f7" md5="3fc80cb532e2548fc5297bd1b7819f91" sha1="08d8f32405b2789ad753de91b2923f27e3417523" sha256="8624643432381c12d22382523da5703d0883aa4923d61fc35ea1b8f2fe009329"/>
+	</game>
+	<game name="Da Capo Innocent Finale (World) (Windows)" id="0019">
+		<description>Da Capo Innocent Finale (World) (Windows)</description>
+		<rom name="MG24.zip" size="647879571" crc="29cf9862" md5="bde30e346e7f51eb2e69cf3833b9b56b" sha1="a1fd9fc7cd2b0512426ba8c3a9367fb955e38251"/>
+	</game>
+	<game name="Deardrops (World) (Windows)" id="0026">
+		<description>Deardrops (World) (Windows)</description>
+		<rom name="MG36.zip" size="2029752195" crc="6fb0771e" md5="06041c65c94b47ba098f89c7b6334f01" sha1="43fb820158f239ffc826ee83b7c9e98fcd3bef25" sha256="080448b8ddd429522c8916f370ea9373dd3a3acb56840a0cb8953f06c65c947a" status="verified"/>
+	</game>
+	<game name="Demon Master Chris (World) (Windows, Mac, Linux)" id="0027">
+		<description>Demon Master Chris (World) (Windows, Mac, Linux)</description>
+		<rom name="MG88.zip" size="1432330062" crc="97886450" md5="c4ef3befb205fdfeae0fd3e66ede6d08" sha1="01913979b70fb821a6c472e27aa2bf6497963a12"/>
+	</game>
+	<game name="Demon Master Chris (World) (Demo) (Windows, Mac, Linux)" id="0102" cloneofid="0027">
+		<description>Demon Master Chris (World) (Demo) (Windows, Mac, Linux)</description>
+		<rom name="TR88.zip" size="493116560" crc="e4714a16" md5="25a0d14422b49b349dd92b8233e7b4cc" sha1="518401d8ce0a846787ed5297080e297438b952c9" sha256="cbc51d383aeec162eec1c2f173088672a67e7a40a6084a833e97e5147e3e37e7"/>
+	</game>
+	<game name="Dies Irae DX Package (World) (Windows)" id="0008">
+		<description>Dies Irae DX Package (World) (Windows)</description>
+		<rom name="MG1041_1.zip" size="1573207911" crc="2eeb6394" md5="8a67de8a0bb492a93125ac6feff44ad8" sha1="3cf75872ab9432be1e80220f7305d38b624f9739" sha256="c69b0fa9a71475c1fa4d00f0d295ef9fc4cb22006942f7a087fc6d2e07a25f19"/>
+		<rom name="MG1041_2.zip" size="1573343209" crc="0514d351" md5="54f27fc418e7afdffb0bc01749c6ae37" sha1="cc8857cbd6f0a078a242a38969963eb376b97a19" sha256="22554605e7e4bc3a9b14efe2ba58bd69a32a89a752a2c097f1d2efa1b3ef37c3"/>
+		<rom name="MG1041_3.zip" size="1286023587" crc="1a73ecf7" md5="3afffa3e4a92a515a2bb77b34a73f3ce" sha1="4fd37bfbbe0b8cac3e23b956251bbcb8b33bd1ac" sha256="81aa328b4366d21c1717efc96117fa07cf557306e95a9cbf7e4cc686da8d3578"/>
+	</game>
+	<game name="Dungeon of Corruption (World) (Windows)" id="0028">
+		<description>Dungeon of Corruption (World) (Windows)</description>
+		<rom name="MG1023.zip" size="503127856" crc="de943244" md5="ec882086b7f61a9e13a5533cd112634a" sha1="477b44042c75df3f614859af04555b3ed32f5f75"/>
+		<rom name="MG1023_2.zip" size="825507" crc="4edf9d9e" md5="f29c468dabd36d8d01080a84142c5b05" sha1="acc045cfa328385edd9f0dbd067f795930eab29c"/>
+	</game>
+	<game name="Dungeon of Corruption - Trials of the Female Knights (World) (En) (Windows)" id="0009">
+		<description>Dungeon of Corruption - Trials of the Female Knights (World) (En) (Windows)</description>
+		<rom name="Dungeon of Corruption - Trials of the Female Knights (World) (En) (Windows).zip" size="503014493" crc="e375759a" md5="b0b336e2be955eb3181d09dba97fc71b" sha1="35882b2c3de398fc887c816695e8d0e7ea3791c6" sha256="d631c89ca7987c3e40f69a53cd1532d6b4d55f674fe8ed45ae45a903e7e48d24"/>
+	</game>
+	<game name="Ecchi Mery and the Perils of the Cosmic Shrine (World) (Windows)" id="0029">
+		<description>Ecchi Mery and the Perils of the Cosmic Shrine (World) (Windows)</description>
+		<rom name="MG137.zip" size="401241528" crc="46c279c9" md5="d863423b7365552382b8e70dfb1e4c48" sha1="5d584ad9dd0f26b8af27ec045ec0d725856f879e"/>
+	</game>
+	<game name="Edelweiss (World) (En) (v2.0) (Windows)" id="0002">
+		<description>Edelweiss (World) (En) (v2.0) (Windows)</description>
+		<rom name="Edelweiss (World) (En) (v2.0) (Windows).zip" size="1353948850" crc="300b4654" md5="069fc7d5e5870f42c4673db06ab09c26" sha1="93089c4258570a9194be3ad23b9f4f38892c792a"/>
+	</game>
+	<game name="Edelweiss (World) (Windows)" id="0030">
+		<description>Edelweiss (World) (Windows)</description>
+		<rom name="MG38_1.zip" size="734123169" crc="a75b0cae" md5="2b607d11ac413aaa51bc6e7896d39986" sha1="7b6d63d3f052234cd64c488064da62cb9d49efce" status="verified"/>
+		<rom name="MG38_2.zip" size="579317437" crc="f514618a" md5="cfdebcbf7b1ed6315380ef40ab6be7ec" sha1="545b8405f1863224e3643d51ed681a117012a2b5" status="verified"/>
+	</game>
+	<game name="Edelweiss (World) (Demo) (Windows)" id="0031" cloneofid="0030">
+		<description>Edelweiss (World) (Demo) (Windows)</description>
+		<rom name="TR38.zip" size="439599536" crc="e7f2ef83" md5="2c52e17c9e48036a2736330fa82c353f" sha1="70a6554f7aec356e7f3b8effaa350455fad68932"/>
+	</game>
+	<game name="Edelweiss Eiden Fantasia (World) (Windows)" id="0032">
+		<description>Edelweiss Eiden Fantasia (World) (Windows)</description>
+		<rom name="MG32_3.zip" size="809934115" crc="987e0751" md5="d17c7a3d4919701baadab900bba2fa70" sha1="d0064c050e92c740ec61a39c1f5f3421d8a4feb1"/>
+	</game>
+	<game name="Eroge - Sex and Games Make Sexy Games (World) (Windows)" id="0033">
+		<description>Eroge - Sex and Games Make Sexy Games (World) (Windows)</description>
+		<rom name="MG4_1.zip" size="1573156297" crc="44a0b3fa" md5="d7495605c7449636e22722ffbbdbd9f8" sha1="ac291ee86b0425a18a01c94f7435093ad88b1843"/>
+		<rom name="MG4_2.zip" size="834639398" crc="11b1f638" md5="ab37f8a031ddbfef90887b33033f6d68" sha1="fd82349e67546eec26baf9326a8486af1fba8694"/>
+	</game>
+	<game name="EROGE! Sex and Games Make Sexy Games (World) (Demo) (Windows)" id="0100">
+		<description>EROGE! Sex and Games Make Sexy Games (World) (Demo) (Windows)</description>
+		<rom name="TR4.zip" size="481544018" crc="a4f71f15" md5="2ad71645fb54f89181275d37a6acbbaa" sha1="d1b9f4bd8fdb67f3cc84b4bb02599103f5ebfc2d" sha256="b9bf700e9856940fb920ee0019c792348dfa3e812dfb50bc297f9c7d51dd7513"/>
+	</game>
+	<game name="Evenicle (World) (v1.04) (Windows) (Patch)" id="0083">
+		<description>Evenicle (World) (v1.04) (Windows) (Patch)</description>
+		<rom name="MG1061_2.zip" size="7242160" crc="801f02fc" md5="c238e658d7a4472ab1d5701387da034c" sha1="0c4f7306b2570713e012baa5a62f25de85397a10" sha256="05a82617b5792f8240d16503f0dc1e689851e14858171cd230cd4bc0f029ca95"/>
+	</game>
+	<game name="Evenicle (World) (v1.04) (Windows)" id="0076">
+		<description>Evenicle (World) (v1.04) (Windows)</description>
+		<rom name="MG1061.zip" size="1360183552" crc="4974d692" md5="b6be7e6575c53e0e17ac81c44964a0c9" sha1="c1d21b13e6f01e773d4f6436bc5aa9665fdf3763" sha256="4d9421a3e5b8ddc42e093856d491794c707044e6f19f3594f39c65fdd6617377"/>
+	</game>
+	<game name="Forbidden Love with My Wife's Sister (World) (Windows)" id="0034">
+		<description>Forbidden Love with My Wife's Sister (World) (Windows)</description>
+		<rom name="MG138.zip" size="371245328" crc="f394ecf5" md5="4cdab8a1f61b090adf5a65f993f0af13" sha1="a8830f08fb388babd27b80bc760920987aadb168"/>
+	</game>
+	<game name="Harajuku Dating Paradise - Nakadashi Banzai (World) (Windows)" id="0035">
+		<description>Harajuku Dating Paradise - Nakadashi Banzai (World) (Windows)</description>
+		<rom name="MG161.zip" size="506753367" crc="2ea62678" md5="fb285da7d5c3cd1baeb4020c7e592ca5" sha1="c054fce34013fc8412f4af1369179c330cca9386"/>
+	</game>
+	<game name="Harem Party (World) (Windows)" id="0036">
+		<description>Harem Party (World) (Windows)</description>
+		<rom name="MG42.zip" size="1940521476" crc="31d61cf4" md5="f68d4432cc76875d5ed4a10fc2147e02" sha1="43b288fa35f20e2c51e49f8cbecc84b029fde914"/>
+	</game>
+	<game name="House in Fata Morgana, The (World) (En,Ja) (Demo) (Windows)" id="0037" cloneofid="0066">
+		<description>House in Fata Morgana, The (World) (En,Ja) (Demo) (Windows)</description>
+		<rom name="TR143.zip" size="257599933" crc="25618eca" md5="b8d02efd29a0711a626eabf99cae7ca8" sha1="1e88e41afee8dde717261da6ff2869ea2e51c5ff" sha256="aaafae6f33a5b2bb603121d328248ae35d0304152d2a24c3a955c8139d986d3a"/>
+	</game>
+	<game name="House in Fata Morgana, The (World) (En,Ja,Fr,Zh-Hans,Ru) (v1.3.2) (Windows)" id="0065" cloneofid="0066">
+		<description>House in Fata Morgana, The (World) (En,Ja,Fr,Zh-Hans,Ru) (v1.3.2) (Windows)</description>
+		<rom name="MG171_1.zip" size="554984915" crc="fcfd6086" md5="e1715b798f5cecdc7731ddb08cc87c2d" sha1="dd83f2f9f40457899adb14e8dc0ce6ebf9448eeb" sha256="d012c5b0355a47b400c4e61c3acf2cc73641ee4678b9e2245a833842b0606a08"/>
+	</game>
+	<game name="House in Fata Morgana, The (World) (En,Ja,Fr,It,Zh-Hans,Ko,Ru) (v1.3.4) (Windows)" id="0066">
+		<description>House in Fata Morgana, The (World) (En,Ja,Fr,It,Zh-Hans,Ko,Ru) (v1.3.4) (Windows)</description>
+		<rom name="MG171_1.zip" size="676825650" crc="ac2d255b" md5="2ff54f64736f12ce7cde03c1cbb453e1" sha1="c6fc3c9dd9b1f93774da20d3f32dd2ca1f888c7a" sha256="f5ed6dae36d69994a7b524b224899a5706c1ea9825f5d3e67a655398eca6e64c"/>
+	</game>
+	<game name="House in Fata Morgana, The - A Requiem for Innocence (World) (En,Ja,Zh-Hans) (v1.1) (Windows)" id="0067">
+		<description>House in Fata Morgana, The - A Requiem for Innocence (World) (En,Ja,Zh-Hans) (v1.1) (Windows)</description>
+		<rom name="MG1055_1.zip" size="569649828" crc="5602a9c4" md5="40de9c2f6fbaf6f72c734fcf7add8223" sha1="26118971462abccb5919b5638d7dab6d6b946084" sha256="b33788e18823a5e16414dd1ca4d490b899bdb42474f1711558f1d84b9e1d3ad3"/>
+	</game>
+	<game name="House in Fata Morgana, The - A Requiem for Innocence (World) (En,Ja) (v1.0) (Windows)" id="0068" cloneofid="0067">
+		<description>House in Fata Morgana, The - A Requiem for Innocence (World) (En,Ja) (v1.0) (Windows)</description>
+		<rom name="MG1055_1.zip" size="470789701" crc="9bc49dcb" md5="cb0704b34090f1aa218e791ba2bd1b8a" sha1="d1622fe351809f03b72bdfb0398badc6155ba6ee" sha256="bf3b3f026a9bc78c0c1f29b4c07d694df5de4e7c219f3fbf08bde64aefa63430"/>
+	</game>
+	<game name="House in Fata Morgana, The - A Requiem for Innocence - Soundtrack (World) (MP3) (Extra)" id="0079">
+		<description>House in Fata Morgana, The - A Requiem for Innocence - Soundtrack (World) (MP3) (Extra)</description>
+		<rom name="MG1055_2.zip" size="270342569" crc="7e289f99" md5="5772362b9e1e0b70956cff16d217a58a" sha1="20a46fb5a0715bc6aa2271412b75b03c600208e6" sha256="9c1d8ee4c71047a0f2f9634b6a811a496bf30905ab9e3b19b5c746a043bcfbd4"/>
+	</game>
+	<game name="House in Fata Morgana, The - Soundtrack (World) (MP3) (Extra)" id="0078">
+		<description>House in Fata Morgana, The - Soundtrack (World) (MP3) (Extra)</description>
+		<rom name="MG171_2.zip" size="398576747" crc="014c4719" md5="3b6069d69d102ae2355bce5f8eebc03f" sha1="63537bac39e4f29b7712cb3a4b3ca4677e0906b4" sha256="6d4fcf100237afcdb71d8bc5fadd5d401f6ca3130aa28c65bda90a44ecb420fb"/>
+	</game>
+	<game name="Housewife's Healing Touch - Pure Love Route, A (World) (Demo)" id="0104">
+		<description>Housewife's Healing Touch - Pure Love Route, A (World) (Demo)</description>
+		<rom name="TR1286.zip" size="147774950" crc="876b6d21" md5="52e24db74e951756b06af6dd5c148ad7" sha1="c1f6e19def6d4d6e2590737dd6362cd2cd81c1fd"/>
+	</game>
+	<game name="Hypno-Training My Mother and Sister (World) (Windows)" id="0038">
+		<description>Hypno-Training My Mother and Sister (World) (Windows)</description>
+		<rom name="MG114.zip" size="285859853" crc="db9a7ad0" md5="79e11cc17427dcf1b1ed80358fa831ce" sha1="730e505c9db18ef306e620c8ba734bd86dcbd6a6"/>
+	</game>
+	<game name="IF MY HEART HAD WINGS (World) (Demo) (Windows)" id="0060">
+		<description>IF MY HEART HAD WINGS (World) (Demo) (Windows)</description>
+		<rom name="TR69.zip" size="666916525" crc="7fd58e54" md5="b490b5da9fae9ddbd36da96eaef0e29a" sha1="feda26bdf7dd617fe9bc40bcbdd10598d70d8346" sha256="e97ec2d9e2b434cf77a15ae183bcf730e29951046c855a912243ac8eb25200f7" status="verified"/>
+	</game>
+	<game name="Kara no Shojo (World) (Windows)" id="0082">
+		<description>Kara no Shojo (World) (Windows)</description>
+		<rom name="MG153_4.zip" size="939874580" crc="ff63ee75" md5="ff2795f085d669d5fb8f92b781586364" sha1="4f20052c2a0a7a924241053df3263f94bdf2ec62" sha256="34da03b75e01931636e9f451b3fba8ef0b30123da8926680124f9e6ab0f79d49"/>
+	</game>
+	<game name="Kara no Shojo (World) (Demo) (Windows)" id="0101" cloneofid="0082">
+		<description>Kara no Shojo (World) (Demo) (Windows)</description>
+		<rom name="TR79.zip" size="253958878" crc="e1878c87" md5="1c39b36c2c0c6b694ed72ca8cb1837cf" sha1="8f1b511ca27cd92185d9ad5ff775ec596d2d5aa0" sha256="bdba78aa69ef13d870d72c7142d017bb39c5e583776d32bc5abe5941f08c6dee"/>
+	</game>
+	<game name="Kara no Shojo - The Second Episode (World) (Mac)" id="0085" cloneofid="0084">
+		<description>Kara no Shojo - The Second Episode (World) (Mac)</description>
+		<rom name="MG139_2.zip" size="3135398093" crc="9d0e8c8d" md5="92014e544365b66ef5ce9ffa5b51e3d4" sha1="0fa3e928aef8322b95ea4ee2d93fe2cad3c5dfdc" sha256="78a273042a4a063d2e6fa57e86e4f58aabfd33d5689f516eaee93932ac549002"/>
+	</game>
+	<game name="Kara no Shojo - The Second Episode (World) (Windows)" id="0084">
+		<description>Kara no Shojo - The Second Episode (World) (Windows)</description>
+		<rom name="MG139_1.zip" size="3047966292" crc="b6ffd74e" md5="0e78607a2edc9e95506155672734cffe" sha1="bc7c3bb0074fd2b5ec5d260bbd5218f377a4c558" sha256="c9e0b6600a6e4433a37ddb078e84ee8aa79243ab6cd64f357ac3b4056184f769"/>
+	</game>
+	<game name="Kara no Shojo - The Second Episode (World) (Linux)" id="0086" cloneofid="0084">
+		<description>Kara no Shojo - The Second Episode (World) (Linux)</description>
+		<rom name="MG139_3.zip" size="3135070843" crc="1978cd13" md5="d45c8bf8d0f59c8d75002da1e4b0fa57" sha1="e681ec2b3531c5773fa667e60dd95955df7011bb" sha256="832a49a5ee478e082b84519ac65e88a7ceeaccc388354fd7c8b9436c4b65a1b0"/>
+	</game>
+	<game name="Kira Kira (World) (Windows)" id="0071">
+		<description>Kira Kira (World) (Windows)</description>
+		<rom name="MG56_1.zip" size="734127591" crc="9d7c3a27" md5="8a63fb8b8345559da4c2b78438127a31" sha1="394f81caef05a0c194c19e715729fbb727aa8cf1" sha256="9cd6c70a389e936ee5ed739370b243feb4167b16496830681b5a970ac1899cc9"/>
+		<rom name="MG56_2.zip" size="622889666" crc="96bfe3ed" md5="adc749320366d6990f1f4df1fdb36143" sha1="291ffd08e52ae1055e184c955d87756ee627ba0a" sha256="769c820add334d60d4ca2b1459c60188819904b1beefbff75506e044cdae925e"/>
+	</game>
+	<game name="Kira Kira - All-Ages Version (World) (Demo) (Windows)" id="0061">
+		<description>Kira Kira - All-Ages Version (World) (Demo) (Windows)</description>
+		<rom name="TR37.zip" size="390713432" crc="5cf7a9ba" md5="5092bf47fd7056865d46a05967a468c7" sha1="5c0759d886b8b6e11293653ee964eefd045e83b7" sha256="d823b7e2ec701273ddaeeb51b81cff64717c67c10a045e93f52377344455c5eb" status="verified"/>
+	</game>
+	<game name="Kira Kira Curtain Call (World) (Windows)" id="0077">
+		<description>Kira Kira Curtain Call (World) (Windows)</description>
+		<rom name="MG56_3.zip" size="758815768" crc="a71a4160" md5="978cf5be2f47b4e690e5055dd38d0420" sha1="4ea6ab6a1d73f84a907fbcd7c6eb9a70e734fa72" sha256="fcb74dd3d223a917f1b0d73ffba261efbb2d82af81fca09e290483a215f01682"/>
+	</game>
+	<game name="Koihime Musou ~A Heart-Throbbing, Maidenly Romance of the Three Kingdoms~ (World) (Demo) (Windows)" id="0098">
+		<description>Koihime Musou ~A Heart-Throbbing, Maidenly Romance of the Three Kingdoms~ (World) (Demo) (Windows)</description>
+		<rom name="TR12.zip" size="329415924" crc="2fcd78eb" md5="b0408dd293a0d39725ba55d13fde164c" sha1="5e2d960615e5cbc16200bfc4951513f9084688b7" sha256="3d7dbcdea6cff97132a035bf9ca12da436d3622210e1883f22041f48f774c354"/>
+	</game>
+	<game name="Kotori Love Ex P (World) (Windows)" id="0069">
+		<description>Kotori Love Ex P (World) (Windows)</description>
+		<rom name="MG1.zip" size="1810578559" crc="61923021" md5="9a95d8475a0086fe32af067d6cc8f4b1" sha1="6a85fb07eef2177e89fb541fc98d7e631c817520" sha256="2d321e3ba6310ef8788289b28376b7a3e528f37b90dd0b5a8aa6da8462378688"/>
+	</game>
+	<game name="Kuroinu (World) (Windows)" id="0045">
+		<description>Kuroinu (World) (Windows)</description>
+		<rom name="MG1017.zip" size="858237713" crc="966a2a7c" md5="7f10a002a1463b9f0b022fb945c5866e" sha1="1e2c4c0619003bb7af039a169395d6a1d6012da6"/>
+	</game>
+	<game name="Magical Teacher - My Teacher's a Mage (World) (Windows)" id="0014">
+		<description>Magical Teacher - My Teacher's a Mage (World) (Windows)</description>
+		<rom name="MG35.zip" size="1217790688" crc="5d2ee148" md5="a11e248bc843e3369f7cb3c38be67037" sha1="b56259667238e688b57cc4582f4bdb253d850290"/>
+	</game>
+	<game name="Milles, Knight of Anal Tyranny - Impregnated by Lusty Tentacles at the Ends of Oblivion (World) (Windows, Mac, Linux)" id="0015">
+		<description>Milles, Knight of Anal Tyranny - Impregnated by Lusty Tentacles at the Ends of Oblivion (World) (Windows, Mac, Linux)</description>
+		<rom name="MG67.zip" size="576206337" crc="dc15f888" md5="af8354732c047e4676a63cb0757ede01" sha1="4c705b2122898320d73bcaa87ec735f1f0bee71c"/>
+		<rom name="MG67_2.zip" size="614986577" crc="b8cd3694" md5="7807563a9345530e539fddff56dd8ae1" sha1="c5ce5a44cafabfc218931e9332be72e79567f1be"/>
+	</game>
+	<game name="MUSICUS (World) (Windows) (Patch)" id="0046">
+		<description>MUSICUS (World) (Windows) (Patch)</description>
+		<rom name="AP1221.zip" size="1977299098" crc="b355906e" md5="3ec347e0c826aa33842a31ada1a892ab" sha1="162e367a644539c71ac579e9edea04474c3baeec"/>
+	</game>
+	<game name="Myth (World) (En,Ja) (Windows, Mac, Linux)" id="0074">
+		<description>Myth (World) (En,Ja) (Windows, Mac, Linux)</description>
+		<rom name="MG195.zip" size="678720419" crc="59e09edb" md5="688a0aa1d629cf3f04743bcc92e70dad" sha1="4588ca5f7093aef28f99e8039ef7e2da745080ad" sha256="d7a36680cc6f041c67a0444d7460f51c63aea8c88214acfd2df2cc2a9e72dbd5"/>
+	</game>
+	<game name="Obscene Medical Records of a Married Nurse (World) (Windows)" id="0047">
+		<description>Obscene Medical Records of a Married Nurse (World) (Windows)</description>
+		<rom name="MG115.zip" size="220109974" crc="bfa1da8b" md5="0ef924cb0046ca99b3abdf057f391730" sha1="d6fa37f53a2ade81f25eeb09d80ffc100d3840f0"/>
+	</game>
+	<game name="Orc Castle (World) (Windows)" id="0048">
+		<description>Orc Castle (World) (Windows)</description>
+		<rom name="MG186.zip" size="570350077" crc="fb576315" md5="75b1d83af77dca4c3bfc9938a28671fa" sha1="43b8ef1c80c353514914871b71bbde01123fad4a"/>
+		<rom name="MG186_2.zip" size="825511" crc="3fa1bd48" md5="91c475cfd8535cfac970f767c5b67e06" sha1="164f95fe4bf94610282059f1797ecc5661e218c5"/>
+	</game>
+	<game name="Please Bang My Wife (World) (Windows)" id="0049">
+		<description>Please Bang My Wife (World) (Windows)</description>
+		<rom name="MG188.zip" size="483385791" crc="5e7c39c8" md5="589340bd060b2312e43ce0918c01e078" sha1="690e54ac9cc8134b1c0b7052f3a478814b1dee51"/>
+	</game>
+	<game name="Princess Evangile W Happiness (World) (En) (Windows)" id="0003">
+		<description>Princess Evangile W Happiness (World) (En) (Windows)</description>
+		<rom name="Princess Evangile W Happiness (World) (En) (Windows).zip" size="3422309065" crc="25d3c67e" md5="c349eef6d4b407b140e36dad9e241d64" sha1="243f9f7c8d1ed6dbe0724144add6a22fd1b8ea72"/>
+	</game>
+	<game name="Propeller Digital Bundle (World) (Demo) (Windows)" id="0062">
+		<description>Propeller Digital Bundle (World) (Demo) (Windows)</description>
+		<rom name="TR1011.zip" size="1608005754" crc="9c440866" md5="7e979c4e053fc3b35cf74f82cfe18921" sha1="872fb8679a73bc76157c40a1de11233e95fe7eba"/>
+	</game>
+	<game name="Rance 5D - The Lonely Girl (World) (En) (Windows)" id="0004">
+		<description>Rance 5D - The Lonely Girl (World) (En) (Windows)</description>
+		<rom name="Rance 5D - The Lonely Girl (World) (En) (Windows).zip" size="92524529" crc="5ea1608e" md5="872c6c622e9dcd5e8c4e3c5a89e7b443" sha1="b8d489c240a136fda848cd30a90f4e2fdea12e50"/>
+	</game>
+	<game name="Rance VI - Collapse of Zeth (World) (En) (Windows)" id="0005">
+		<description>Rance VI - Collapse of Zeth (World) (En) (Windows)</description>
+		<rom name="Rance VI - Collapse of Zeth (World) (En) (Windows).zip" size="1664318273" crc="11e7a031" md5="77c784ae3518e66cd97f1c9c0bcbb2c8" sha1="29265a14e38e5683bb2ae30fb070f136c535f26b"/>
+	</game>
+	<game name="Really Really! (World) (En) (v1.06) (Windows)" id="0007">
+		<description>Really Really! (World) (En) (v1.06) (Windows)</description>
+		<rom name="Really Really! (World) (En) (v1.06) (Windows).zip" size="1642787307" crc="a0a5857a" md5="9ac7828039cc175fc679bc2933a71d3e" sha1="8be96b2b172a0e963a8777707b9cd603269803d0" sha256="3314596a72f1efe442efb9de620c73a76fd1951a63f6d79bc300094e0bee6bcb"/>
+	</game>
+	<game name="Royal Guard Melissa (World) (En) (Windows)" id="0011">
+		<description>Royal Guard Melissa (World) (En) (Windows)</description>
+		<rom name="Royal Guard Melissa (World) (En) (Windows).zip" size="245864382" crc="e3b97257" md5="ea4017ece1654511f8cbd534f413af1c" sha1="bf96d4dc9e465a27e63c4329d916946078c84ffc" sha256="3c9b12b395d713b743ab9c05c927083303a815c99a774b4a7b1b2878c75d9c08"/>
+	</game>
+	<game name="Ruby Striker (World) (Windows)" id="0050">
+		<description>Ruby Striker (World) (Windows)</description>
+		<rom name="MG77.zip" size="208209019" crc="87ceb560" md5="1f1c69e163be44fe50691e08f8feedc7" sha1="0c6c08a975f517eeb7d6ea70f14d986a95addfe0"/>
+	</game>
+	<game name="Sandwiched by My Wife and Her Sister (World) (Windows)" id="0051">
+		<description>Sandwiched by My Wife and Her Sister (World) (Windows)</description>
+		<rom name="MG26.zip" size="331264321" crc="d1882125" md5="1dd9f711c5ad11e7e5c8c555264feaca" sha1="aae2fe8876c14aa07bdc105675f27679e3220f45"/>
+	</game>
+	<game name="Secret Sorrow of the Siblings (World) (Windows)" id="0016">
+		<description>Secret Sorrow of the Siblings (World) (Windows)</description>
+		<rom name="MG122.zip" size="310297717" crc="a6a89229" md5="76e484560e79b1ca7dea5f905ddc5104" sha1="e3f80408f1c29d49c9db028a9c147dddc3fc7537"/>
+	</game>
+	<game name="Sexy Demon Transformation! (World) (Windows, Mac, Linux)" id="0052">
+		<description>Sexy Demon Transformation! (World) (Windows, Mac, Linux)</description>
+		<rom name="MG44_1.zip" size="638698766" crc="20db5e43" md5="ad1ef7abb3b62f0c7297134be7534aeb" sha1="e9beca6a67d695fe76a617f74b79eb99e9869098"/>
+		<rom name="MG44_2.zip" size="671332393" crc="06e0af44" md5="503aa7854aa3daa83565d70664b25e27" sha1="032b501a781ecb6efb80c1060575ebab24621f29"/>
+	</game>
+	<game name="Shera, My Witch (World) (Windows)" id="0053">
+		<description>Shera, My Witch (World) (Windows)</description>
+		<rom name="MG25.zip" size="617988161" crc="8e5dbfff" md5="5c4599b405dc65d9f631a19d1981ba1a" sha1="0bd969fc8b160f948d2d83c0592714761128164c"/>
+	</game>
+	<game name="Slave Witch April (World) (Windows)" id="0054">
+		<description>Slave Witch April (World) (Windows)</description>
+		<rom name="MG14.zip" size="443552025" crc="1e96adde" md5="efce65e04a19502617da63631ca8c0c3" sha1="36cd781c1ce123880330bb428869a84877912761"/>
+	</game>
+	<game name="Sorcery Jokers (World) (En) (Windows)" id="0006">
+		<description>Sorcery Jokers (World) (En) (Windows)</description>
+		<rom name="Sorcery Jokers (World) (En) (Windows).zip" size="7534411508" crc="42a0209f" md5="0f466ad87fc1fbc02f38eec4e6c391e8" sha1="4a0cca7c0d68396d4bc0aad140914f1b92206c3c"/>
+	</game>
+	<game name="Spirit Master of Retarnia, The - Conqueror of the Labyrinth (World) (En) (Windows)" id="0013">
+		<description>Spirit Master of Retarnia, The - Conqueror of the Labyrinth (World) (En) (Windows)</description>
+		<rom name="Spirit Master of Retarnia, The - Conqueror of the Labyrinth (World) (En) (Windows).zip" size="982269592" crc="9b51890e" md5="ef56b9ebe09ffbe792479c53efe4cc64" sha1="b7b5c9974f623d3d5f22042cd66121a9448228ca" sha256="dd7e0cb73635fa454eecdd42656d41b829105868803c653810adae961a9aafc4"/>
+	</game>
+	<game name="Stargazers, The (World) (Demo) (Windows, Mac, Linux)" id="0055">
+		<description>Stargazers, The (World) (Demo) (Windows, Mac, Linux)</description>
+		<rom name="TR190.zip" size="333204114" crc="406762dc" md5="430c648101b922febf43e2fe7eadfa8d" sha1="642553c4d5747597a0ccfac4c672c04542cc7103"/>
+	</game>
+	<game name="Suika A.S+ (World) (Windows)" id="0044">
+		<description>Suika A.S+ (World) (Windows)</description>
+		<rom name="MG43.zip" size="778449322" crc="428dab3b" md5="3bfc4cbfc143667ce4d42617774bb161" sha1="6641c3a79b9f96696066e841fbd2ef21dfdb9a10"/>
+	</game>
+	<game name="Suika A.S+ (World) (Demo) (Windows)" id="0097" cloneofid="0044">
+		<description>Suika A.S+ (World) (Demo) (Windows)</description>
+		<rom name="TR43.zip" size="273103182" crc="ccbd745a" md5="11adcdc845d3b0e27c9bc32128ba56f8" sha1="7ab053ec78003347b0a2da95f89134adcab99688" sha256="1c1acbf599d1fdabf09aa644d756c4cf45c29c8fbfe4520d8beefd7746e55881"/>
+	</game>
+	<game name="Sweet Sweat in Summer - The Naughty Girl and Her Ripe Scent (World) (Windows)" id="0056">
+		<description>Sweet Sweat in Summer - The Naughty Girl and Her Ripe Scent (World) (Windows)</description>
+		<rom name="MG146.zip" size="435352326" crc="67009820" md5="9cf5d64302a49e12395a24b82030ffaf" sha1="614f99a91537d43d8450f380afd0050668343cf3"/>
+	</game>
+	<game name="Sweet Young Bride (World) (Windows)" id="0057">
+		<description>Sweet Young Bride (World) (Windows)</description>
+		<rom name="MG1022.zip" size="408438661" crc="5fb437c5" md5="e243a8491cfd9dcb5940dea606e81685" sha1="d923a505a6d598ee5d7783b6629a95d4636e57b9"/>
+	</game>
+	<game name="The House in fata Morgana, Live in Osaka! (World) (4K) (Extra)" id="0090">
+		<description>The House in fata Morgana, Live in Osaka! (World) (4K) (Extra)</description>
+		<rom name="MG1077.zip" size="7526324863" crc="52e2d3ca" md5="6dcea578f18d1b25f0e775b9a89b34a8" sha1="4f0d34fd19ffa89d7982070a564a98bd64682ce9" sha256="4bb19870defae1061db15774b948fe54ff9e8fe4a69af3383924a1026bfde0c9"/>
+	</game>
+	<game name="The House in fata Morgana, Live in Osaka! (World) (1080p) (Extra)" id="0091" cloneofid="0090">
+		<description>The House in fata Morgana, Live in Osaka! (World) (1080p) (Extra)</description>
+		<rom name="MG1077_02.zip" size="6948120308" crc="80378479" md5="4a3c559b3921b9e87d6358d602fe5fcd" sha1="6141fa7d3f292200f5b7a7c75756c928892a249d" sha256="858ae0255a4bf425c34bf284ff3c36ee36112d05f30b05b8ebbabd93bbc80c74"/>
+	</game>
+	<game name="The Shadows of Pygmalion (World) (Demo) (Windows)" id="0063">
+		<description>The Shadows of Pygmalion (World) (Demo) (Windows)</description>
+		<rom name="TR1010.zip" size="1608005754" crc="9c440866" md5="7e979c4e053fc3b35cf74f82cfe18921" sha1="872fb8679a73bc76157c40a1de11233e95fe7eba"/>
+	</game>
+	<game name="Throb! The Greatest Inventions of the Sexy Era! - Second Science Club - A Secret Society of Love, Rage, and Sorrow (World) (Windows, Mac, Linux)" id="0058">
+		<description>Throb! The Greatest Inventions of the Sexy Era! - Second Science Club - A Secret Society of Love, Rage, and Sorrow (World) (Windows, Mac, Linux)</description>
+		<rom name="MG57.zip" size="483933549" crc="5f70d26a" md5="7e5cf3a3a40088989bf866a6811e161f" sha1="1b6a8bb66c4e6abe2e872ec304b3e3488518a92c"/>
+		<rom name="MG57_2.zip" size="513065011" crc="d53b6bd1" md5="f67c246c8660af46f8e33546964f0750" sha1="93c823fbdeb8d0f7a09dbdc3c8604d93699bee3e"/>
+	</game>
+	<game name="Tick! Tack! (World) (Demo) (Windows)" id="0099">
+		<description>Tick! Tack! (World) (Demo) (Windows)</description>
+		<rom name="TR51.zip" size="251845415" crc="77810ca4" md5="c7d7031463726c1376fc96f0881e46d3" sha1="847558d2796e40c9eb8d1d35491a66570d454854" sha256="8104db3f2aa19745677e52145d2f79bfc550373f1f4332cd188bfec2d397c0ab"/>
+	</game>
+	<game name="Tokyo Babel (World) (Demo) (Windows)" id="0064">
+		<description>Tokyo Babel (World) (Demo) (Windows)</description>
+		<rom name="TR166.zip" size="2327821269" crc="bc29e067" md5="506c2528618ea101ed8e58f2e39c637f" sha1="1c9e7440d414bb129a97f42786e4f7354ae96c85"/>
+	</game>
+	<game name="Touma Kojirou's Detective File - Murder at the Opera House (World) (Windows, Mac, Linux)" id="0059">
+		<description>Touma Kojirou's Detective File - Murder at the Opera House (World) (Windows, Mac, Linux)</description>
+		<rom name="MG71.zip" size="722309045" crc="6352b2e9" md5="61b34c3204b4926f6b6ed530c528af44" sha1="c3f276f2f58f284b70c4f514d9be910268c9e23a"/>
+		<rom name="MG71_2.zip" size="759109650" crc="8cbeb322" md5="664356e6eefc23d6e79b54047332bfef" sha1="d523d0d245b1bddadcf7e01d627b2a802cf94329"/>
+	</game>
+	<game name="Trinoline Genesis (Unknown) (Patch)" id="0103">
+		<description>Trinoline Genesis (Unknown) (Patch)</description>
+		<rom name="AP1267.zip" size="713430639" crc="febbb2bb" md5="d12fc3406535b53ea47d829b16acc306" sha1="7917a572e47d2a8b02ba3b04c25f6df295e21ade"/>
+	</game>
+	<game name="Ultimate Boob Wars!! - Big Breasts vs Flat Chests (World) (Windows)" id="0039">
+		<description>Ultimate Boob Wars!! - Big Breasts vs Flat Chests (World) (Windows)</description>
+		<rom name="MG90_01.zip" size="1594396500" crc="4237e4af" md5="bc5c908fd778b42f579cba44680bd648" sha1="79bdb8656550474a9dd69aa4fc810844abc58e95"/>
+		<rom name="MG90_02.zip" size="1546436496" crc="cad5a3c1" md5="13a39468c09e4ac4d2d3a04d80369a4c" sha1="a1c766f9fda57d4f6a65e02cba209b77d94e248c"/>
+		<rom name="MG90_03.zip" size="949700065" crc="ea4ebdba" md5="b47546426ce1a5c335f7478e9332f9af" sha1="4f57ca7b0ddbf42fd9cdce639890216bdac6da38"/>
+	</game>
+	<game name="Valkyrie Svia (World) (Windows)" id="0040">
+		<description>Valkyrie Svia (World) (Windows)</description>
+		<rom name="MG101.zip" size="311188032" crc="ca1b8ec0" md5="b8b92959d795908b1467a484d58eca6b" sha1="29faf93d81444926ab0ba81b30e31ffd0400a1d9"/>
+	</game>
+	<game name="Warrior Princess Asuka (World) (Windows)" id="0041">
+		<description>Warrior Princess Asuka (World) (Windows)</description>
+		<rom name="MG78.zip" size="177142274" crc="0175a842" md5="d6864748c44ba300cd7041d094cb2548" sha1="38888c3096eb8cecd74858ea3a48415bcfd5ce2a"/>
+	</game>
+	<game name="Warrior Princess Asuka (World) (Demo) (Windows)" id="0042" cloneofid="0041">
+		<description>Warrior Princess Asuka (World) (Demo) (Windows)</description>
+		<rom name="TR78.zip" size="117830248" crc="8ac405f8" md5="a997e7e12c8675bffd78caedd19bb8ca" sha1="14c1a7cd40ffbb5e9af8bb0e7a3cfec6fe6bf98d"/>
+	</game>
+	<game name="Warrior Princess Asuka - The Final Chapter (World) (En) (Windows)" id="0012">
+		<description>Warrior Princess Asuka - The Final Chapter (World) (En) (Windows)</description>
+		<rom name="Warrior Princess Asuka - The Final Chapter (World) (En) (Windows).zip" size="360273356" crc="7cb0ee78" md5="6384115cec3939f8d2b67f35736e0bf1" sha1="6bdaad807148f444b91855fd66d4a9738b1a4f31" sha256="1b51f1096c3bdd35898a17ea84189dda8619a2ec6a42a01980b403010cff82de"/>
+	</game>
+	<game name="We Love Master! (World) (Windows)" id="0043">
+		<description>We Love Master! (World) (Windows)</description>
+		<rom name="MG58.zip" size="1725207224" crc="9e9d0efa" md5="028132b31797f9c174989cdfa346c23d" sha1="8dfb288bc46d07f2babeb6f680c524f40e95da6b"/>
+	</game>
+	<game name="Which Girl Should I Choose (World) (En) (v1.01) (Windows)" id="0010">
+		<description>Which Girl Should I Choose (World) (En) (v1.01) (Windows)</description>
+		<rom name="Which Girl Should I Choose (World) (En) (v1.01) (Windows).zip" size="580697507" crc="c854418a" md5="c15a637f3b07c3003f481636f8eac041" sha1="7228792deabb6dd8ae1852e21cf2477751d80276" sha256="901119377ed38745bbb2816b0d40eb460e2ffb472857f910ecad0d2a87f63c47"/>
+	</game>
+</datafile>

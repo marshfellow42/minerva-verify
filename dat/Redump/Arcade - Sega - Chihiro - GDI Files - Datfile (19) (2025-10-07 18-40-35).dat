@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This is a DownloadEmAll datafile-->
+<datafile>
+  <header>
+    <name>Arcade - Sega - Chihiro - GDI Files</name>
+    <description>Arcade - Sega - Chihiro - GDI Files - Datfile (19) (2025-10-07 18-40-35)</description>
+    <version>2025-10-07 18-40-35</version>
+    <date>2025-10-07 18-40-35</date>
+    <author>DownloadEmAll-GUI v1.8.24 - Redump.org</author>
+    <homepage>http://redump.org</homepage>
+    <url></url>
+    <comment>Redump - DownloadEmAll</comment>
+  </header>
+  <game name="Crazy Taxi High Roller (World) (Rev B)">
+    <description>Crazy Taxi High Roller (World) (Rev B)</description>
+    <rom name="Crazy Taxi High Roller (World) (Rev B).gdi" size="222" crc="93d11c2e" md5="a9102d0699ec91d629e60a685703d0bd" sha1="33887f389932f97cba856e0df4d6fcd3f7e212b0" />
+  </game>
+  <game name="Ghost Squad (World) (Rev A)">
+    <description>Ghost Squad (World) (Rev A)</description>
+    <rom name="Ghost Squad (World) (Rev A).gdi" size="189" crc="11f43c37" md5="d10b592ddc0a3264b37ac36d4ec29f13" sha1="ba67527d6a5601ed769eb836ec3b278c1a9b8697" />
+  </game>
+  <game name="Ghost Squad (World)">
+    <description>Ghost Squad (World)</description>
+    <rom name="Ghost Squad (World).gdi" size="165" crc="b7acf5e3" md5="ecf4b49b9382c503e979d5d11ea1abad" sha1="09b00b8264e69a8a3a116913e0569c15c5683953" />
+  </game>
+  <game name="House of the Dead 3, The (World)">
+    <description>House of the Dead 3, The (World)</description>
+    <rom name="House of the Dead 3, The (World).gdi" size="204" crc="d164f852" md5="d8068da23950ba1e0e0fb51bf40278a9" sha1="bb4085b9c67db5bb510ff06f0bd8f2dab45d2b6c" />
+  </game>
+  <game name="Ollie King (Japan)">
+    <description>Ollie King (Japan)</description>
+    <rom name="Ollie King (Japan).gdi" size="162" crc="896bb416" md5="219bbb75d710937ecc282a7405c3dee6" sha1="030c6cb738c0bec8ce0926b7dd5729a90d6c0ff1" />
+  </game>
+  <game name="OutRun 2 (World) (Rev A)">
+    <description>OutRun 2 (World) (Rev A)</description>
+    <rom name="OutRun 2 (World) (Rev A).gdi" size="180" crc="2d35a453" md5="56cc4cb29cf6451e5beff773aa572736" sha1="a3a16a32ec45ccb29eed79b83d497a2e49219216" />
+  </game>
+  <game name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C)">
+    <description>Sega Network Taisen Mahjong MJ2 (Japan) (Rev C)</description>
+    <rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev C).gdi" size="249" crc="9643e197" md5="61b5dfa5013f8276a8ab9abf1c2af419" sha1="1cf57d59ae5df2b8a9cc2dc657c1c6b636e73bd8" />
+  </game>
+  <game name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D)">
+    <description>Sega Network Taisen Mahjong MJ2 (Japan) (Rev D)</description>
+    <rom name="Sega Network Taisen Mahjong MJ2 (Japan) (Rev D).gdi" size="249" crc="a0b3bbd5" md5="49db664a3d448e9e9ba9640a2a0c240f" sha1="94bde828fb0947d196fed9a8b431234cd578f846" />
+  </game>
+  <game name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D)">
+    <description>Sega Network Taisen Mahjong MJ3 (Japan) (Rev D)</description>
+    <rom name="Sega Network Taisen Mahjong MJ3 (Japan) (Rev D).gdi" size="249" crc="3bd0bfbc" md5="a3306493b157dc0cf7b6678e47673a3e" sha1="b3f504af5fd1680d6f39a1f0cfddf52ea8a77757" />
+  </game>
+  <game name="Sega Network Taisen Mahjong MJ3 Evolution (Japan) (Rev A)">
+    <description>Sega Network Taisen Mahjong MJ3 Evolution (Japan) (Rev A)</description>
+    <rom name="Sega Network Taisen Mahjong MJ3 Evolution (Japan) (Rev A).gdi" size="279" crc="ce843a47" md5="ead9277cc521d269dc5cc89e95572e28" sha1="936c82f4eb7ea339516385a729ae9dc3a4a67e01" />
+  </game>
+  <game name="Sega Network Taisen Mahjong MJ3 Evolution-you Firmware Koushin Program (Japan)">
+    <description>Sega Network Taisen Mahjong MJ3 Evolution-you Firmware Koushin Program (Japan)</description>
+    <rom name="Sega Network Taisen Mahjong MJ3 Evolution-you Firmware Koushin Program (Japan).gdi" size="342" crc="a162db07" md5="979e23fb4bef1cf5655979aa009ec044" sha1="88a1fbbf5af4f968a6b074b88f4df06c54376d7e" />
+  </game>
+  <game name="Sega Network Taisen Mahjong MJ3-you Firmware Koushin Program (Japan)">
+    <description>Sega Network Taisen Mahjong MJ3-you Firmware Koushin Program (Japan)</description>
+    <rom name="Sega Network Taisen Mahjong MJ3-you Firmware Koushin Program (Japan).gdi" size="312" crc="82e0ec68" md5="ab837baa4bdc589e317430f812c2bf8a" sha1="658ac96091a806bb6a307b9d627411f7849c497a" />
+  </game>
+  <game name="Virtua Cop 3 (World) (Rev B)">
+    <description>Virtua Cop 3 (World) (Rev B)</description>
+    <rom name="Virtua Cop 3 (World) (Rev B).gdi" size="192" crc="8ab66299" md5="ed593dfc9d79b5b8ca121851cd4af59d" sha1="787892ddf5f8da546dccba70f4f59a9afdeae011" />
+  </game>
+  <game name="Wangan Midnight Maximum Tune (Japan) (Rev B)">
+    <description>Wangan Midnight Maximum Tune (Japan) (Rev B)</description>
+    <rom name="Wangan Midnight Maximum Tune (Japan) (Rev B).gdi" size="240" crc="83f19370" md5="888e893e6e7a10291d3e1c931f118c09" sha1="7635cf65911852f0a069d1562afc9f82de67f60d" />
+  </game>
+  <game name="Wangan Midnight Maximum Tune (World) (Rev B)">
+    <description>Wangan Midnight Maximum Tune (World) (Rev B)</description>
+    <rom name="Wangan Midnight Maximum Tune (World) (Rev B).gdi" size="240" crc="0c9a524e" md5="0647cd208f80efa1c2f983cd211dd6cc" sha1="5b192c83020e69b847e9abe28d04898a9d35d919" />
+  </game>
+  <game name="Wangan Midnight Maximum Tune 2 (Japan) (Rev A)">
+    <description>Wangan Midnight Maximum Tune 2 (Japan) (Rev A)</description>
+    <rom name="Wangan Midnight Maximum Tune 2 (Japan) (Rev A).gdi" size="246" crc="210a2349" md5="f83f84e8a7fc6f0c9929a4bffcaca70d" sha1="f7e74dfaadc0cfdd449c150a6f8a3a55c18d2080" />
+  </game>
+  <game name="Wangan Midnight Maximum Tune 2 (Japan)">
+    <description>Wangan Midnight Maximum Tune 2 (Japan)</description>
+    <rom name="Wangan Midnight Maximum Tune 2 (Japan).gdi" size="222" crc="f1fb89c9" md5="c1428bc8db85f1f46216c6b2f152a795" sha1="60d37f4d07b430dcef9785934059a6cbe8145e03" />
+  </game>
+  <game name="Wangan Midnight Maximum Tune 2 (World) (Rev A)">
+    <description>Wangan Midnight Maximum Tune 2 (World) (Rev A)</description>
+    <rom name="Wangan Midnight Maximum Tune 2 (World) (Rev A).gdi" size="246" crc="05150c7a" md5="24e8526550038f28af5bb0171a5a01c7" sha1="74f1fe26d05dc9078e7f9117a2affc98941ced42" />
+  </game>
+  <game name="Wangan Midnight Maximum Tune 2 (World)">
+    <description>Wangan Midnight Maximum Tune 2 (World)</description>
+    <rom name="Wangan Midnight Maximum Tune 2 (World).gdi" size="222" crc="be709d88" md5="cbea7ad56388956e76eda7e2b277e116" sha1="069d324296c30380c5d57da3b3eeba4a5a92a71c" />
+  </game>
+</datafile>

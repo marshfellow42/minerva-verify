@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--This is a DownloadEmAll datafile-->
+<datafile>
+  <header>
+    <name>Arcade - Sega - Naomi 2 - GDI Files</name>
+    <description>Arcade - Sega - Naomi 2 - GDI Files - Datfile (13) (2025-09-28 21-28-00)</description>
+    <version>2025-09-28 21-28-00</version>
+    <date>2025-09-28 21-28-00</date>
+    <author>DownloadEmAll-GUI v1.8.24 - Redump.org</author>
+    <homepage>http://redump.org</homepage>
+    <url></url>
+    <comment>Redump - DownloadEmAll</comment>
+  </header>
+  <game name="Beach Spikers - Virtua Beach Volleyball (World) (En,Ja)">
+    <description>Beach Spikers - Virtua Beach Volleyball (World) (En,Ja)</description>
+    <rom name="Beach Spikers - Virtua Beach Volleyball (World) (En,Ja).gdi" size="273" crc="2f3f90d4" md5="ffd27a45e913739eda81b2f01b0973e3" sha1="643391588e479a72c1b9dde6406e184f6ef71fdb" />
+  </game>
+  <game name="Initial D (World) (Rev A)">
+    <description>Initial D (World) (Rev A)</description>
+    <rom name="Initial D (World) (Rev A).gdi" size="183" crc="24fc940f" md5="9365fac6a32741a1c7f2ae5d67b2134a" sha1="69d68e7f816dfc04f2345c9970eb74ba65734df5" />
+  </game>
+  <game name="Initial D Arcade Stage (Japan) (Rev B)">
+    <description>Initial D Arcade Stage (Japan) (Rev B)</description>
+    <rom name="Initial D Arcade Stage (Japan) (Rev B).gdi" size="222" crc="2ba7c8b1" md5="744dbad361a63fe0f389cc7a40a14d08" sha1="353e1b92c3fa9027ac6f53bc0812daffdd072a46" />
+  </game>
+  <game name="Initial D Version 3 (World)">
+    <description>Initial D Version 3 (World)</description>
+    <rom name="Initial D Version 3 (World).gdi" size="189" crc="add77dee" md5="ef9bb07d9b904e239e73aacea63f5fb9" sha1="ea97a223b08efa831737e056cd7473369d98a728" />
+  </game>
+  <game name="Initial D Version 3 for Cycraft (World) (Rev B)">
+    <description>Initial D Version 3 for Cycraft (World) (Rev B)</description>
+    <rom name="Initial D Version 3 for Cycraft (World) (Rev B).gdi" size="249" crc="ce9cf3cd" md5="19963c28ca87343d41f0fa86a0adf26b" sha1="8b302f7655010c2eb1934fcdb60257bc4918c28d" />
+  </game>
+  <game name="Virtua Fighter 4 (Japan) (Rev B)">
+    <description>Virtua Fighter 4 (Japan) (Rev B)</description>
+    <rom name="Virtua Fighter 4 (Japan) (Rev B).gdi" size="204" crc="5a5f4d69" md5="fef0fd655c7caeed66b5b23ef5afc3f0" sha1="20b25ec9e9b24abbff5f72c39c9926ecd21296ef" />
+  </game>
+  <game name="Virtua Fighter 4 (Japan) (Rev C)">
+    <description>Virtua Fighter 4 (Japan) (Rev C)</description>
+    <rom name="Virtua Fighter 4 (Japan) (Rev C).gdi" size="204" crc="789ea6fe" md5="c86de7e36bb6b9fd30fdab8f54c75b12" sha1="871a7b0e9d8f53ba4d6491517de39bb3588a8a80" />
+  </game>
+  <game name="Virtua Fighter 4 - Evolution (Japan) (Rev A)">
+    <description>Virtua Fighter 4 - Evolution (Japan) (Rev A)</description>
+    <rom name="Virtua Fighter 4 - Evolution (Japan) (Rev A).gdi" size="240" crc="462af5f4" md5="16e14b88d6fca9f2e937473bae0f4039" sha1="389b69eef6b796d76fa72535e07c32dc1cc6a323" />
+  </game>
+  <game name="Virtua Fighter 4 - Evolution (Japan) (Rev B)">
+    <description>Virtua Fighter 4 - Evolution (Japan) (Rev B)</description>
+    <rom name="Virtua Fighter 4 - Evolution (Japan) (Rev B).gdi" size="240" crc="bcd95387" md5="db9d111b2b08876881c7482f91ab0bc4" sha1="786012a6c6de7b2b6596e46e76af993d11d3ebea" />
+  </game>
+  <game name="Virtua Fighter 4 - Final Tuned (Japan) (Rev D)">
+    <description>Virtua Fighter 4 - Final Tuned (Japan) (Rev D)</description>
+    <rom name="Virtua Fighter 4 - Final Tuned (Japan) (Rev D).gdi" size="246" crc="ae1f70f5" md5="d5a93eb8adf363f8694e86c59283f128" sha1="43ad6fa2566d274d3ab9ab6d742bebe9919d48c5" />
+  </game>
+  <game name="Virtua Fighter 4 - Final Tuned (Japan) (Rev F)">
+    <description>Virtua Fighter 4 - Final Tuned (Japan) (Rev F)</description>
+    <rom name="Virtua Fighter 4 - Final Tuned (Japan) (Rev F).gdi" size="246" crc="f19b19bc" md5="13f2fbd0b3b82b8d00dee37a03788742" sha1="bb01d61cee6da62dcaebd376055300b23385827e" />
+  </game>
+  <game name="Virtua Fighter 4 - Final Tuned (World) (Rev A)">
+    <description>Virtua Fighter 4 - Final Tuned (World) (Rev A)</description>
+    <rom name="Virtua Fighter 4 - Final Tuned (World) (Rev A).gdi" size="246" crc="f7723ad0" md5="4cf91aca9c19511189b021b6ccd7f5e8" sha1="4ebc18817ddf613c3dd739f6a3297230ac8ebf1c" />
+  </game>
+  <game name="Virtua Striker 3 (World) (En,Ja)">
+    <description>Virtua Striker 3 (World) (En,Ja)</description>
+    <rom name="Virtua Striker 3 (World) (En,Ja).gdi" size="204" crc="67c4b606" md5="47152cfff4d99945d26ef1d78d768c89" sha1="625ec57e18efaa66172426a9e23c61361bb98961" />
+  </game>
+</datafile>

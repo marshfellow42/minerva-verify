@@ -1,0 +1,1041 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>172</id>
+		<name>Google - Android (Google Play Store) (APK)</name>
+		<description>Google - Android (Google Play Store) (APK)</description>
+		<version>20230911-181457</version>
+		<author>Arctic Circle System, EggmanPEI, FakeShemp, Hiccup, MeguCocoa, nnssxx, Tescu, UnlockerPT, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Angry Birds (World) (v8.0.3)" id="0229">
+		<category>Games</category>
+		<description>Angry Birds (World) (v8.0.3)</description>
+		<rom name="Angry Birds (World) (v8.0.3).apk" size="103362387" crc="4d2356da" md5="e02fda2b43a523d37e6459fe2ea61279" sha1="e73401763a9d187274fd0723e071fdee64800d52" sha256="eeca1122552d5e69434f64f12a080af70a26345ab60519151957f0fa4a36229d"/>
+	</game>
+	<game name="Angry Birds Epic (World) (v3.0.27463.4821)" id="0231">
+		<category>Games</category>
+		<description>Angry Birds Epic (World) (v3.0.27463.4821)</description>
+		<rom name="Angry Birds Epic (World) (v3.0.27463.4821).apk" size="66223451" crc="ba4d88e0" md5="35df4168a54a773fa4a60da9c6052601" sha1="1820e4eda80a65a404928530b4f9b309de2289da" sha256="00bafcfd0c80a0f81a0b5884ace4fc1469a5f776e8c1cb91d79fcb0f61e7f33b"/>
+		<rom name="main.4821.com.rovio.gold.obb" size="106750072" crc="6e1bd3b8" md5="0a94e3ea0ff82ecd64ba80d6d8f3d23f" sha1="815ba093bfccb6d037b5fd3542fef58115761be1" sha256="52e85243d3866b94482c6aed6f2bc8f0c37a49428470cb60a8c405b07459d9d7"/>
+	</game>
+	<game name="Angry Birds Seasons (World) (v6.6.2)" id="0230">
+		<category>Games</category>
+		<description>Angry Birds Seasons (World) (v6.6.2)</description>
+		<rom name="Angry Birds Seasons (World) (v6.6.2).apk" size="104717299" crc="5ba020e4" md5="751a1943d56277d836d0cf37ea4c039d" sha1="48c2cd151dc8ba5520f8e792972dd02c635c12e8" sha256="4d02bef2a363b48d33744c748588a2f8e1d5fcf96b4bd8ea6973a8c9ec84a148"/>
+	</game>
+	<game name="Angry Birds Space HD (World) (v2.2.14)" id="0216">
+		<category>Games</category>
+		<description>Angry Birds Space HD (World) (v2.2.14)</description>
+		<rom name="Angry Birds Space (World) (2.2.14).apk" size="48469468" crc="70edcebc" md5="63dea53cb226a1f6e4a165e2d51262bf" sha1="4c1806c5598b1a287e7628adb572f5b88f54118e" sha256="e600bb4d93a9634252ae94af702599d2a155e04481ccb77715109313e965187c"/>
+	</game>
+	<game name="Angry Birds Star Wars HD (World) (v1.5.13)" id="0217">
+		<category>Games</category>
+		<description>Angry Birds Star Wars HD (World) (v1.5.13)</description>
+		<rom name="Angry Birds Star Wars HD (World) (1.5.13).apk" size="50361761" crc="24af0bbe" md5="f75397d2cfbdd83610e9384ba7d84356" sha1="7f1de9312a808d1e028a373bbfdb387b312deaf0" sha256="a8e9a794857567dbe17ce42e7c37a10e8a21b924e8833addcce38d72be6e953b"/>
+	</game>
+	<game name="Angry Birds Star Wars II Free (World) (v1.9.25)" id="0218">
+		<category>Games</category>
+		<description>Angry Birds Star Wars II Free (World) (v1.9.25)</description>
+		<rom name="Angry Birds Star Wars II Free (World) (1.9.25).apk" size="52826935" crc="ee38a3c4" md5="221e2a0fb11e003eed9b06084d5b42bb" sha1="6c1ac680b43eb0dc7ff29d6e63bbd45ff99c0b1d" sha256="586eb65f2a27fe52e1912a5c68232b4c51c0df4945dafd3ba6e5bce1356ec53a"/>
+	</game>
+	<game name="Arena Battle Champions (v0.2.0) (Unknown)" id="0095">
+		<description>Arena Battle Champions (v0.2.0) (Unknown)</description>
+		<rom name="Arena Battle Champions (v0.2.0) (Unknown).apk" size="50351244" crc="94d25723" md5="d6e9f8ffa1cc0326d9013af0c89dbba2" sha1="f382f9dd7b42903790084faa4f557ef9a53ca428"/>
+	</game>
+	<game name="Arena Battle Champions (v0.4.1) (Unknown)" id="0211">
+		<description>Arena Battle Champions (v0.4.1) (Unknown)</description>
+		<rom name="Arena Battle Champions (v0.4.1) (Unknown).apk" size="76654527" crc="421cc4fa" md5="bfaafc18d436ce54f5470eeeb5045c8b" sha1="bf37f7611fc3ceb30839063d63a993ed3b492208"/>
+	</game>
+	<game name="Arena Battle Champions (v12.2.0) (Unknown)" id="0212">
+		<description>Arena Battle Champions (v12.2.0) (Unknown)</description>
+		<rom name="Arena Battle Champions (v12.2.0) (Unknown).apk" size="62676049" crc="beaf1120" md5="dc2c909a3cc2e5b05dcd276f5c705ed6" sha1="c1f21e7fd0f0571a4a0704ff9fc946b4057d79be"/>
+	</game>
+	<game name="Arena Battle Champions (v12.3.0) (Unknown)" id="0213">
+		<description>Arena Battle Champions (v12.3.0) (Unknown)</description>
+		<rom name="Arena Battle Champions (v12.3.0) (Unknown).apk" size="63419105" crc="6a585368" md5="febed2048691f8a21a56db526a34e7c7" sha1="52aeebf3890ab0b17485959ff93dbe2d1513fbaf"/>
+	</game>
+	<game name="Arena Battle Champions (v12.3.1) (Unknown)" id="0096">
+		<description>Arena Battle Champions (v12.3.1) (Unknown)</description>
+		<rom name="Arena Battle Champions (v12.3.1) (Unknown).apk" size="122361727" crc="3c48ba26" md5="6d759a4f1625c9fa96dcb787b437438d" sha1="5662aeb9acfc508f08e76298a19f952b7f453fdd"/>
+	</game>
+	<game name="Ark Order (World) (Ja) (v18.0)" id="0028" cloneofid="0029">
+		<description>Ark Order (World) (Ja) (v18.0)</description>
+		<rom name="Ark Order (World) (Ja) (v18.0).apk" size="71098181" crc="f75cb10d" md5="7e17b3630e454e2eb6a72366694802c1" sha1="21aa89788f4137d9de58c2cb363b19f2b3bb2c80" sha256="635104e2dd6f9aeda6b71ce7c9cc4fcc5b394eb78ab005b1282c741775168f76"/>
+	</game>
+	<game name="Ark Order (World) (Ja) (v16.0)" id="0029">
+		<description>Ark Order (World) (Ja) (v16.0)</description>
+		<rom name="Ark Order (World) (Ja) (v16.0).apk" size="71069696" crc="c032f61e" md5="4bed6254da8b5e3bb8f162f3972d37f2" sha1="ec2bf21203c2b29db41627629c0ec8c99a7297b3" sha256="eada444b484a881ffab62f78a921867b795c5c9e5f282ccfd036dc41df6d6a9a"/>
+	</game>
+	<game name="Artery Gear - Kidou Senki (World) (Ja) (v1.1.4)" id="0027">
+		<description>Artery Gear - Kidou Senki (World) (Ja) (v1.1.4)</description>
+		<rom name="Artery Gear - Kidou Senki (World) (Ja) (v1.1.4).xapk" size="160538815" crc="39543993" md5="8e75d46d8f8beb0851f4ee562b3c5737" sha1="26023e4469a6e86db0040b0944e48550cbcf6a85" sha256="05ce23d22fc68981150101990e555e19a96f18f9329a88a2d110ca0fd1f80030"/>
+	</game>
+	<game name="Atari's Greatest Hits (Unknown) (v1.2.1)" id="0040" cloneofid="0041">
+		<description>Atari's Greatest Hits (Unknown) (v1.2.1)</description>
+		<game_id>com.atari.mobile.greatesthits</game_id>
+		<rom name="Atari's Greatest Hits (Unknown) (v1.2.1).apk" size="44992371" crc="84206c3f" md5="ded7def980c06b73fc8020930bde9f75" sha1="93f37fedcb2494fbb7a7457a9fe614b597ea0d05" sha256="17e878c4ec25024e44ae899b84d5bf457298ab0ee02625c5039b801bc8c298e4"/>
+	</game>
+	<game name="Atari's Greatest Hits (Unknown) (v1.2)" id="0041">
+		<description>Atari's Greatest Hits (Unknown) (v1.2)</description>
+		<game_id>com.atari.mobile.greatesthits</game_id>
+		<rom name="Atari's Greatest Hits (Unknown) (v1.2).apk" size="46249495" crc="654e5413" md5="1eb2f72c3c7d76660220af8b7d4c4aa2" sha1="037a5a6c46e257fd27b29dd7792b62e87ae50e60" sha256="678c5bceb4e36c5943f96b110d1ebe58dfbba673a8e8d86d59eb0317178a889c"/>
+	</game>
+	<game name="Atari's Greatest Hits ReMaster (Unknown) (v2.0.0)" id="0038">
+		<description>Atari's Greatest Hits ReMaster (Unknown) (v2.0.0)</description>
+		<game_id>com.atari.mobile.greatesthits2015</game_id>
+		<rom name="Atari's Greatest Hits ReMaster (Unknown) (v2.0.0).apk" size="45327932" crc="745cb7c3" md5="baf99d438d105716ac7a3a0d357dc7f2" sha1="165b45478e10aa90728c0d5072ca748376181dd2" sha256="18dc34be015224821b0982c0d4106698df5c911efa21e64b17a68f5ee18a6efe"/>
+	</game>
+	<game name="Atari's Greatest Hits ReMaster (Unknown) (v2.1.0)" id="0039" cloneofid="0038">
+		<description>Atari's Greatest Hits ReMaster (Unknown) (v2.1.0)</description>
+		<game_id>com.atari.mobile.greatesthits2015</game_id>
+		<rom name="Atari's Greatest Hits ReMaster (Unknown) (v2.1.0).apk" size="45378546" crc="7336cc6c" md5="89c44671c5be5a063219b6e851684b8a" sha1="d19400938a5e08e4d8dc946ea73b9dcbd81884d9" sha256="733a603c8fc80d2fe462582bb170d55a3061058c7bedbf8462db3d56c41c191e"/>
+	</game>
+	<game name="Bad Piggies (World) (v2.4.3297)" id="0232">
+		<category>Games</category>
+		<description>Bad Piggies (World) (v2.4.3297)</description>
+		<rom name="Bad Piggies (World) (v2.4.3297)" size="97941323" crc="d896b3b3" md5="4f6e3c89f1c1d0ac408f6e99248a6013" sha1="3071b3bdbc860b0d7c398672d4b84578098b8549" sha256="7372912717647fdf0b9ff382c45d28163089648fcd2a54aa737cd95cb9f8ef07"/>
+	</game>
+	<game name="Bad Piggies HD (World) (v2.4.3297)" id="0219">
+		<category>Games</category>
+		<description>Bad Piggies HD (World) (v2.4.3297)</description>
+		<rom name="Bad Piggies HD (World) (2.4.3927).apk" size="97929035" crc="95ea56e0" md5="d43724e9212e21befa36a33fb15d0210" sha1="af7eb51e874f6eb6ebc008048f828c558bca99b6" sha256="c84544817ac41d0664bb538362246da8e84bc217b8351881748100519704b210"/>
+	</game>
+	<game name="Busuioc (Romania) (Ro) (v1.0.3)" id="0241">
+		<category>Games</category>
+		<description>Busuioc (Romania) (Ro) (v1.0.3)</description>
+		<rom name="Busuioc (Romania) (Ro) (v1.0.3).apk" size="2977823" crc="3b57e34f" md5="305f5fe3e0b3b9476e0e830d52f7185c" sha1="ed9ab0c974a070abec0e2aa1c0f2dfdf083dc534" sha256="b9608c7bfbb7443c00cde6f49b02c9c76276f16a23b9e544205a6493894f7b69"/>
+	</game>
+	<game name="Card Wars - Adventure Time (Unknown) (v1.11.0)" id="0220">
+		<category>Games</category>
+		<description>Card Wars - Adventure Time (Unknown) (v1.11.0)</description>
+		<rom name="Card Wars - Adventure Time (Unknown) (v1.11.0).apk" size="23773663" crc="bd036fc1" md5="88979e5d8474115e36e533e1b77f7738" sha1="f78d412f02720ade20eabc4aaaa57186c4b9f7ed" sha256="5e99f1fa1bbbef85f25c71ffac01dcc333c791eceb4fd1ee78b23cf8fbedf7bb"/>
+	</game>
+	<game name="Cut the Rope Holiday Gift (Unknown) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh,Ko,Ru) (v1.7.1)" id="0238">
+		<category>Games</category>
+		<description>Cut the Rope Holiday Gift (Unknown) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh,Ko,Ru) (v1.7.1)</description>
+		<rom name="Cut the Rope Holiday Gift (Unknown) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh,Ko,Ru) (v1.7.1).apk" size="31623669" crc="6e933e66" md5="a4fc06c89e20e7331e919f5f6bc32f65" sha1="daa4bc8a15734be90d14d58d0329bce6f6282499" sha256="220a5db45151f80c5e972e46983d3e6316a307f258744e201f8dc8cd8f43c1d5"/>
+	</game>
+	<game name="Cut the Rope Holiday Gift (Unknown) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh,Ko,Ru) (v1.6.1)" id="0239">
+		<category>Games</category>
+		<description>Cut the Rope Holiday Gift (Unknown) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh,Ko,Ru) (v1.6.1)</description>
+		<rom name="Cut the Rope Holiday Gift (Unknown) (En,Ja,Fr,De,Es,It,Nl,Pt-BR,Zh,Ko,Ru) (v1.6.1).apk" size="29748351" crc="865c9bcf" md5="ab37604d358e14b04b168958ffee394f" sha1="3d61d8ba1f732f4dbfb3bda0179c2563c598bb53" sha256="5715d92386ddf114141721977e1f88bcddfc05d255b3b9de58748a35f54bcd4f"/>
+	</game>
+	<game name="Dragalia Lost (World) (v1.0.1)" id="0049">
+		<description>Dragalia Lost (World) (v1.0.1)</description>
+		<rom name="Dragalia Lost (World) (v1.0.1).apk" size="92948505" crc="89c638ce" md5="878933678b9ff5349493d72280cbe96f" sha1="235a4a243d526d9a1dee0ed65818ea1b20df5ec6" sha256="28e5c258787370b7ed08275c16c084a09e80737a8dfe752a0d6a90e49f4399d5"/>
+	</game>
+	<game name="Dragalia Lost (World) (v0.0.1) (Beta)" id="0050" cloneofid="0049">
+		<description>Dragalia Lost (World) (v0.0.1) (Beta)</description>
+		<rom name="Dragalia Lost (World) (v0.0.1) (Beta).apk" size="81624166" crc="9cda3c63" md5="a93675be692dc2a556a69c867d326e5e" sha1="b3948f4244ab232d2b36e43d4929ce0e0075a8e5" sha256="3829f5c0742f95abc842a5149eab2cfbb75c55d0dc4cbce947a282e63158b0c8"/>
+	</game>
+	<game name="Fairy Sphere (World) (Ja) (v1.16.3)" id="0026">
+		<description>Fairy Sphere (World) (Ja) (v1.16.3)</description>
+		<rom name="Fairy Sphere (World) (Ja) (v1.16.3).xapk" size="165634059" crc="1ce76380" md5="f950d631675f2bd03ebf17e1221405af" sha1="f1388b3535d602d8827786beaf7c9e14b774b926" sha256="e2a40dbc47132de2b0531e9d06729fe02d45ec1099f751827fbd81dadd009952"/>
+	</game>
+	<game name="Final Gear (World) (Ja) (v1.25.10)" id="0031">
+		<description>Final Gear (World) (Ja) (v1.25.10)</description>
+		<rom name="Final Gear (World) (Ja) (v1.25.10).apk" size="73729548" crc="28c2a0a8" md5="e3d07e6204b0f68ef509534081bbc888" sha1="3c4b64831320240c497d0380210f00a9ca8b0844" sha256="ff6e11a3d3f9853c8884347f5c85a72a97b7ba962db5ec4c217ed22e2ed8399c"/>
+	</game>
+	<game name="Futurama - Game of Drones (Unknown) (v1.2.1)" id="0170">
+		<description>Futurama - Game of Drones (Unknown) (v1.2.1)</description>
+		<rom name="Futurama - Game of Drones (Unknown) (v1.2.1).apk" size="65113259" crc="0d83ef13" md5="4bbe20abdd075312c8d19f918ae889f3" sha1="dca398467fbf349a4a7d9ef718bbf821b8c333dd"/>
+	</game>
+	<game name="Futurama - Game of Drones (Unknown) (v1.4.0)" id="0172">
+		<description>Futurama - Game of Drones (Unknown) (v1.4.0)</description>
+		<rom name="Futurama - Game of Drones (Unknown) (v1.4.0).apk" size="71387774" crc="f842cea7" md5="9157d33eda4275ff099e6a3d986621aa" sha1="7c6b958168bbb7e0d6e6ee189d7647ba64d6363c"/>
+	</game>
+	<game name="Futurama - Game of Drones (Unknown) (v1.5.0)" id="0173">
+		<description>Futurama - Game of Drones (Unknown) (v1.5.0)</description>
+		<rom name="Futurama - Game of Drones (Unknown) (v1.5.0).apk" size="70230559" crc="b359f67a" md5="138306c333037b989a80581e9d08f0f0" sha1="168c0584b3a6088ff78e651a0de27718f18e9a11"/>
+	</game>
+	<game name="Futurama - Game of Drones (Unknown) (v1.6.0)" id="0174">
+		<description>Futurama - Game of Drones (Unknown) (v1.6.0)</description>
+		<rom name="Futurama - Game of Drones (Unknown) (v1.6.0).apk" size="74425032" crc="3ab17cf7" md5="ec4c778af3ca836da8374b0f669c3f8d" sha1="0f70e6130e90675e08112c724e427a43bcbf5e5e"/>
+	</game>
+	<game name="Futurama - Game of Drones (Unknown) (v1.9.0)" id="0176">
+		<description>Futurama - Game of Drones (Unknown) (v1.9.0)</description>
+		<rom name="Futurama - Game of Drones (Unknown) (v1.9.0).apk" size="78358721" crc="594ecd68" md5="3f15192fbf4d9c5608e9d57b6813d081" sha1="207bef7daade175bd4d0141d531d8f8cfbde7b01"/>
+	</game>
+	<game name="Futurama - Game of Drones (Unknown) (v1.0.1)" id="0179">
+		<description>Futurama - Game of Drones (Unknown) (v1.0.1)</description>
+		<rom name="Futurama - Game of Drones (Unknown) (v1.0.1).apk" size="60649524" crc="0bfb5572" md5="650db3b75ffd009aa509a01d04ab08c2" sha1="e86bac69e87dab5ba05fb3ba320ccb38b2f17ea5"/>
+	</game>
+	<game name="Futurama - Game of Drones (v0.5.0) (Unknown)" id="0165">
+		<description>Futurama - Game of Drones (v0.5.0) (Unknown)</description>
+		<rom name="Futurama - Game of Drones (v0.5.0) (Unknown).apk" size="65162074" crc="efd763c8" md5="0e534dbac5ea3108aafde6fbb0e5efa5" sha1="9631001951510df94656bbb944c93544e613d1a6"/>
+	</game>
+	<game name="Futurama - Game of Drones (v0.6.0) (Unknown)" id="0177">
+		<description>Futurama - Game of Drones (v0.6.0) (Unknown)</description>
+		<rom name="Futurama - Game of Drones (v0.6.0) (Unknown).apk" size="59914289" crc="e95f09e9" md5="afd18142eda2b36bbcec6f797a4264ce" sha1="4a8b5326fc39d0e22204571a4107a6ab4fa253ce"/>
+	</game>
+	<game name="Futurama - Game of Drones (v0.8.0) (Unknown)" id="0178">
+		<description>Futurama - Game of Drones (v0.8.0) (Unknown)</description>
+		<rom name="Futurama - Game of Drones (v0.8.0) (Unknown).apk" size="57274516" crc="32c66018" md5="93b586b6c59cf200bb5ece5a91a5a007" sha1="f478616073efcae7dde5e396ff564020a054bd4d"/>
+	</game>
+	<game name="Futurama - Game of Drones (v1.1.0) (Unknown)" id="0180">
+		<description>Futurama - Game of Drones (v1.1.0) (Unknown)</description>
+		<rom name="Futurama - Game of Drones (v1.1.0) (Unknown).apk" size="63355789" crc="4e0cdc12" md5="9e44ff9f31dd15b7fb34bd956fca4caa" sha1="6a32256542d2882d673458f905bb2a95c6b7c692"/>
+	</game>
+	<game name="Futurama - Game of Drones (v1.10.1) (Unknown)" id="0166">
+		<description>Futurama - Game of Drones (v1.10.1) (Unknown)</description>
+		<rom name="Futurama - Game of Drones (v1.10.1) (Unknown).apk" size="76465583" crc="a0590a73" md5="9635e1ec19805d358028e19154efc43a" sha1="26f6c297661ce7c75eda3a551596653b5d5bb496"/>
+	</game>
+	<game name="Futurama - Game of Drones (v1.11.0) (Unknown)" id="0167">
+		<description>Futurama - Game of Drones (v1.11.0) (Unknown)</description>
+		<rom name="Futurama - Game of Drones (v1.11.0) (Unknown).apk" size="77425007" crc="6ac1d33a" md5="20e01dee9164db3b46892aea720446de" sha1="a7e35f1db6348c64cbda9b797b1c155d9d9d74fb"/>
+	</game>
+	<game name="Futurama - Game of Drones (v1.11.1) (Unknown)" id="0168">
+		<description>Futurama - Game of Drones (v1.11.1) (Unknown)</description>
+		<rom name="Futurama - Game of Drones (v1.11.1) (Unknown).apk" size="77425876" crc="007b788a" md5="80e049ed99b85ce26a95c2bfbc248926" sha1="275fdde6babfb7f7325f4a0a56c93f557d1838a2"/>
+	</game>
+	<game name="Futurama - Game of Drones (v1.12.0) (Unknown)" id="0169">
+		<description>Futurama - Game of Drones (v1.12.0) (Unknown)</description>
+		<rom name="Futurama - Game of Drones (v1.12.0) (Unknown).apk" size="91050239" crc="5389710d" md5="aa0511f81aa7ac740f2034ecaec2daa4" sha1="4a116c60dd4d56d164aa17660ba4519d7ad2a4a7"/>
+	</game>
+	<game name="Futurama - Game of Drones (v1.3.1) (Unknown)" id="0171">
+		<description>Futurama - Game of Drones (v1.3.1) (Unknown)</description>
+		<rom name="Futurama - Game of Drones (v1.3.1) (Unknown).apk" size="68083127" crc="3be17a1f" md5="408b7c7512e8342eda2c70b47aa76db3" sha1="c5b442d85604aa097f664197bebb113825cb521b"/>
+	</game>
+	<game name="Futurama - Game of Drones (v1.8.2) (Unknown)" id="0175">
+		<description>Futurama - Game of Drones (v1.8.2) (Unknown)</description>
+		<rom name="Futurama - Game of Drones (v1.8.2) (Unknown).apk" size="77748002" crc="c4ce81ca" md5="a212ac837546c33a523cfb0d2e2179c9" sha1="348c580d077b1679d98fc438fff96c5e338f8c9a"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (Unknown) (v1.2.1)" id="0063">
+		<description>Futurama - Worlds of Tomorrow (Unknown) (v1.2.1)</description>
+		<rom name="Futurama - Worlds of Tomorrow (Unknown) (v1.2.1).apk" size="72985131" crc="2e1ec723" md5="88349d6dbe9706d6fea78428a490c50b" sha1="67e8456a6a3b1112c12d3a24c142982c7864549c"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (Unknown) (v1.3.0)" id="0066">
+		<description>Futurama - Worlds of Tomorrow (Unknown) (v1.3.0)</description>
+		<rom name="Futurama - Worlds of Tomorrow (Unknown) (v1.3.0).apk" size="81010396" crc="7ced729f" md5="1ee44cb7848750aa5694c87e0d087fed" sha1="f70441ba2ad2f10741efa3752ce8ec8acd405375"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (Unknown) (v1.5.0)" id="0075">
+		<description>Futurama - Worlds of Tomorrow (Unknown) (v1.5.0)</description>
+		<rom name="Futurama - Worlds of Tomorrow (Unknown) (v1.5.0).apk" size="94035487" crc="25e68dd2" md5="b4d538e7ba84366b7d7b72f45ae40f5b" sha1="f6b3ab1f9e539b9ecf0a6e225aba430d692fe01a"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (Unknown) (v1.6.0)" id="0082">
+		<description>Futurama - Worlds of Tomorrow (Unknown) (v1.6.0)</description>
+		<rom name="Futurama - Worlds of Tomorrow (Unknown) (v1.6.0).apk" size="94505110" crc="a8efbf73" md5="c695284dfa6826f0e49ada938dbf4498" sha1="e4a0c97111d128bf13db198383799854f316e4c1"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (Unknown) (v1.6.6) (Alt 2)" id="0093">
+		<description>Futurama - Worlds of Tomorrow (Unknown) (v1.6.6) (Alt 2)</description>
+		<rom name="Futurama - Worlds of Tomorrow (Unknown) (v1.6.6) (Alt 2).apk" size="95728636" crc="0d65c5c2" md5="602f68ca66331dac5ed5a2ee71ca801e" sha1="bf6c836582d836364ece33c1a1a5d285d6f00e48"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (Alt) (Unknown) (v1.2.1)" id="0062">
+		<description>Futurama - Worlds of Tomorrow (Alt) (Unknown) (v1.2.1)</description>
+		<rom name="Futurama - Worlds of Tomorrow (Alt) (Unknown) (v1.2.1).apk" size="76962677" crc="208b326f" md5="1aabe99f8a339f63e152769a5dee7484" sha1="fd4fb6f00fc97401a4935f3ad14eefdf590ffbf5"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.0.4) (Unknown)" id="0058">
+		<description>Futurama - Worlds of Tomorrow (v1.0.4) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.0.4) (Unknown).apk" size="89020227" crc="75ac8d04" md5="29bb8d4602a72682e66bcad27cf63306" sha1="8aa5977d59056db97d08ea1a923d4f7a8876d02c"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.1.0) (Unknown)" id="0059">
+		<description>Futurama - Worlds of Tomorrow (v1.1.0) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.1.0) (Unknown).apk" size="89935003" crc="38f954a9" md5="f0519097895b2305eb57a060b9eadc11" sha1="feeaeea385a3218efe2cba1d0cff6258e85f55b2"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.1.2) (Unknown)" id="0060">
+		<description>Futurama - Worlds of Tomorrow (v1.1.2) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.1.2) (Unknown).apk" size="81007956" crc="c5c4be47" md5="46e1eb804aa27c04691c4126397c332e" sha1="deed1774ad169d05d6794caf33bfbd6a04b4533b"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.2.0) (Unknown)" id="0061">
+		<description>Futurama - Worlds of Tomorrow (v1.2.0) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.2.0) (Unknown).apk" size="77898520" crc="c6936e20" md5="95375ccc3b42f67ecbffbb3ea7181bec" sha1="c68ace07de63c3a853eb4c0e78578834c4033ade"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.2.2) (Unknown)" id="0064">
+		<description>Futurama - Worlds of Tomorrow (v1.2.2) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.2.2) (Unknown).apk" size="91192866" crc="d98b75a6" md5="2b91f43480d2f639740dab867c3ce3fc" sha1="70a1957d7f9163d06d8d6684477b0097b12e69b7"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.2.3) (Unknown)" id="0065">
+		<description>Futurama - Worlds of Tomorrow (v1.2.3) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.2.3) (Unknown).apk" size="86984315" crc="cf57be74" md5="46a86b820008b8b7c4d192775a4d0779" sha1="0df2182afdb694b2439b6109640ad77899ddb9be"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.3.4) (Unknown)" id="0067">
+		<description>Futurama - Worlds of Tomorrow (v1.3.4) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.3.4) (Unknown).apk" size="81042824" crc="615b6e8f" md5="0b544e1363d951702caf2fb28dfff667" sha1="f257f48e9edcb22e9d1a92d352471068a6e04fd5"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.3.5) (Unknown)" id="0068">
+		<description>Futurama - Worlds of Tomorrow (v1.3.5) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.3.5) (Unknown).apk" size="90430538" crc="78a847c2" md5="524598c06d41b8c0abada2c3f6e5dad8" sha1="ba7ae4a4ce4bcee09e4122f7812f181869e9955d"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.3.6) (Unknown)" id="0069">
+		<description>Futurama - Worlds of Tomorrow (v1.3.6) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.3.6) (Unknown).apk" size="89919784" crc="ca7cfeb5" md5="e3dbd022f2ccefebe6052b96f5614987" sha1="c7c7443ab94eec2539a9367a09f1c9e1bc1c2af2"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.4.2) (Unknown)" id="0070">
+		<description>Futurama - Worlds of Tomorrow (v1.4.2) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.4.2) (Unknown).apk" size="90553079" crc="135c47d4" md5="eae8d82544a8405ca3fbe4b7edf024be" sha1="fda5ed76c79d481b3a57b8f36d4aaa6f03340950"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.4.3) (Unknown)" id="0071">
+		<description>Futurama - Worlds of Tomorrow (v1.4.3) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.4.3) (Unknown).apk" size="86207203" crc="70d2ff46" md5="e67785554e1b7e18b07e91422c697f71" sha1="1036c0e96e832566fa0b353e09cee4f0a6740d55"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.4.4) (Unknown)" id="0072">
+		<description>Futurama - Worlds of Tomorrow (v1.4.4) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.4.4) (Unknown).apk" size="90841201" crc="1e3a1056" md5="4bb5b0d3350dad91640d8a33fd8facde" sha1="8c2f6140d11f3539576bba73d2ee99387d004f8b"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.4.6) (Unknown)" id="0073">
+		<description>Futurama - Worlds of Tomorrow (v1.4.6) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.4.6) (Unknown).apk" size="91307194" crc="170af6d1" md5="920452dc5653322f30f2ce6b9ca33ebb" sha1="095974fff82d6491295841e98e1cfe9904ddca28"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.4.9) (Unknown)" id="0074">
+		<description>Futurama - Worlds of Tomorrow (v1.4.9) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.4.9) (Unknown).apk" size="93831855" crc="8f993981" md5="e92737aee4ae17a12e8f98eb58d2e6e3" sha1="ccee4a0a1b867756ab684110db3662be0ec11cd8"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.5.2) (Unknown)" id="0076">
+		<description>Futurama - Worlds of Tomorrow (v1.5.2) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.5.2) (Unknown).apk" size="84642926" crc="22feba28" md5="1fe0c7596093ae45de5c88f31a443948" sha1="bb4494b45d4f8b67779383720240327df9433420"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.5.3) (Unknown)" id="0077">
+		<description>Futurama - Worlds of Tomorrow (v1.5.3) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.5.3) (Unknown).apk" size="94191096" crc="3a717606" md5="25ddde0b7b9a4a510934daa9c93202f1" sha1="a100e27ab6b871428629e78f1a41a7b11842afaa"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.5.4) (Unknown)" id="0078">
+		<description>Futurama - Worlds of Tomorrow (v1.5.4) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.5.4) (Unknown).apk" size="94184973" crc="01567241" md5="64baf1a55e05f69067f95e3de1428ed2" sha1="1753ac629ed447177dc4760c87b6d8ffe261da17"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.5.5) (Unknown)" id="0079">
+		<description>Futurama - Worlds of Tomorrow (v1.5.5) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.5.5) (Unknown).apk" size="94172036" crc="13c6b4dd" md5="2457dd74713fb258a20e7d7893af8a7d" sha1="a3bcd629fa07901f8fca2e327c3a454f31b4366e"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.5.6) (Unknown)" id="0080">
+		<description>Futurama - Worlds of Tomorrow (v1.5.6) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.5.6) (Unknown).apk" size="94171334" crc="301bd108" md5="44680365e2c7ffd3ea7dac8659b13884" sha1="93138f357b30af6340dd182681c3d34e8ff5f437"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.5.7) (Unknown)" id="0081">
+		<description>Futurama - Worlds of Tomorrow (v1.5.7) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.5.7) (Unknown).apk" size="94335899" crc="cea67033" md5="a6e31ecc6a2d30ee510e83867964af9e" sha1="e2a97728d0fe32e273d3da67679dd042af95e871"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.1) (Unknown)" id="0083">
+		<description>Futurama - Worlds of Tomorrow (v1.6.1) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.1) (Unknown).apk" size="94512008" crc="e835f3b7" md5="9a377c72aa9164470990087399aaee07" sha1="8ecd77187b4d096c2d0e956e2e09e5da9e3be896"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.2) (Unknown)" id="0084">
+		<description>Futurama - Worlds of Tomorrow (v1.6.2) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.2) (Unknown).apk" size="94530538" crc="7a17ab09" md5="03956b4861244ec78ecaaacba4aa3b12" sha1="e850e53c016b76c2bb37347ba135c7d844b7c88d"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.3) (Unknown)" id="0086">
+		<description>Futurama - Worlds of Tomorrow (v1.6.3) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.3) (Unknown).apk" size="85109496" crc="4beca61c" md5="2c59bb28669f22457b27b8f536ac61dd" sha1="a6265ea0d31334843b4b052dbc1438ed12e2da14"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.3) (Alt) (Unknown)" id="0085">
+		<description>Futurama - Worlds of Tomorrow (v1.6.3) (Alt) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.3) (Alt) (Unknown).apk" size="94506298" crc="3a28fe79" md5="53920118d0be3c3f4057c9dc10ec48bf" sha1="9e4f7e65e578bb04505c24ece91f217f3019992e"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.4) (Unknown)" id="0091">
+		<description>Futurama - Worlds of Tomorrow (v1.6.4) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.4) (Unknown).apk" size="99794111" crc="943fb3c9" md5="2bf165e446963ee763b5b060290d763e" sha1="4678a0587592d6e3e6b5bb1ec34498a6fee901c6"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.4) (Alt 2) (Unknown)" id="0088">
+		<description>Futurama - Worlds of Tomorrow (v1.6.4) (Alt 2) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.4) (Alt 2) (Unknown).apk" size="90514880" crc="f94e05b2" md5="6fc1ead232651276dad8d800760f4e21" sha1="6911d8db81e5fba9a1e0bdaf4f6cde6010d0138a"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.4) (Alt 3) (Unknown)" id="0089">
+		<description>Futurama - Worlds of Tomorrow (v1.6.4) (Alt 3) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.4) (Alt 3) (Unknown).apk" size="85397009" crc="ed493530" md5="d1b8278a586f2072af8e9575faf23cba" sha1="ca13a0a02505da2ed5ed38b2c970e6507387a39e"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.4) (Alt 4) (Unknown)" id="0090">
+		<description>Futurama - Worlds of Tomorrow (v1.6.4) (Alt 4) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.4) (Alt 4) (Unknown).apk" size="94793820" crc="3263d233" md5="3c3937fa8bc331e7f8f6f073d16da3eb" sha1="e08db181a01d275ac82dbe3e6494af2b7f5df741"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.4) (Alt) (Unknown)" id="0087">
+		<description>Futurama - Worlds of Tomorrow (v1.6.4) (Alt) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.4) (Alt) (Unknown).apk" size="83501221" crc="be427df0" md5="f816b0fcad893c7df2b3c62228c1f96e" sha1="40accdc87c27f72919f054500b27ff9be7665595"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.6) (Unknown)" id="0094">
+		<description>Futurama - Worlds of Tomorrow (v1.6.6) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.6) (Unknown).apk" size="100729019" crc="8280976f" md5="75cf944e47fa25c2c6ade1551142913b" sha1="d588b3c08df9e1052ca7f4eeab57c12b035e2a65"/>
+	</game>
+	<game name="Futurama - Worlds of Tomorrow (v1.6.6) (Alt) (Unknown)" id="0092">
+		<description>Futurama - Worlds of Tomorrow (v1.6.6) (Alt) (Unknown)</description>
+		<rom name="Futurama - Worlds of Tomorrow (v1.6.6) (Alt) (Unknown).apk" size="86331938" crc="41627378" md5="de72b83a642f0aa3b116a6923a875c78" sha1="24759507b8b526aea3bcd0e14178e4806cf843a8"/>
+	</game>
+	<game name="Galaga Wars (World) (v3.4.2.1054)" id="0233">
+		<category>Games</category>
+		<description>Galaga Wars (World) (v3.4.2.1054)</description>
+		<rom name="Galaga Wars (World) (v3.4.2.1054).apk" size="34700085" crc="d9119d35" md5="0bb94b096ab3de1fb32622b10fb6212f" sha1="524b3bb7959579e0836a883e2ee277f83fcb8a95" sha256="fa7a57248d447d1bfb0565f8234a61220d7c1760188699b7c5364c068e9b9993"/>
+		<rom name="split_config.arm64_v8a.apk" size="17719864" crc="d3e040f2" md5="5cb4613c33984978eed00c25483de63a" sha1="9060866baf72fb82ad0d905e4369e5c26d4cc0a8" sha256="e77c6645f768044721eaf26df617cdf6e1cc74a7a16a64e4c71f785c72121797"/>
+	</game>
+	<game name="Gameloft Classics (World) (En,Fr,De,Es-ES,Es-XL,It,Pt-BR,Pl,Ru,Tr,Th,Ar,Vi) (v1.2.5)" id="0221">
+		<category>Games</category>
+		<description>Gameloft Classics (World) (En,Fr,De,Es-ES,Es-XL,It,Pt-BR,Pl,Ru,Tr,Th,Ar,Vi) (v1.2.5)</description>
+		<rom name="Gameloft Classics (World) (En,Fr,De,Es,Es-XL,It,Pt-BR,Pl,Ru,Tr,Th,Ar,Vi) (1.2.5).apk" size="78492565" crc="1173f8f5" md5="89d747d3b793716d4af2106d4bf48a80" sha1="63ab1499add30a3739a2d5dcdf4a55aef1044793" sha256="35a62e89758ae0271defd0f61254e1138fa3df988e6d6592990d5c25ba023961"/>
+	</game>
+	<game name="Hatfall (World) (v1.1.15)" id="0042">
+		<description>Hatfall (World) (v1.1.15)</description>
+		<rom name="Hatfall (World) (v1.1.15).apk" size="39920085" crc="a973d478" md5="9db3e4bbb469c9c9ebfd5bb3e6c42c65" sha1="4b6fc150d1cbb51fadfcda577eb704220da72e3d" sha256="a025d65a67057af58154b1bbf856fd4f20119c6ef0f0cf030b3722e79d7825eb"/>
+	</game>
+	<game name="Hatsune Miku Logic Paint (World) (v1.0.8)" id="0242">
+		<description>Hatsune Miku Logic Paint (World) (v1.0.8)</description>
+		<rom name="base.apk" size="62998950" crc="8da3503c" md5="a1773f18a8bff1059067de659bd9b8e2" sha1="5b14a38136412c276cc2cd85e31e5720b7b92a1c" sha256="7248ba3ed1a3981f5e377fb96210517f403846a87390944ec303696f4a03b213"/>
+		<rom name="split_config.arm64_v8a.apk" size="15716914" crc="fa82757d" md5="0b31bd33e3ac5ddc01e2cf8a70af4cf8" sha1="4655d358926e38bc27eaeffb290f17e2db0613df" sha256="95606bba5479bddb499e0229ea45cbcffacdf391eab2f401face02d363f0df52"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v0.11.0-253086) (Unknown)" id="0154">
+		<description>Hitman Sniper - The Shadows (v0.11.0-253086) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v0.11.0-253086) (Unknown).apk" size="781805968" crc="2d69fdc7" md5="b30205a43515e3db20f498631d7f6c95" sha1="ac38143229c47b0683e70b1c59c02d05a2484121"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v0.12.0-254985) (Unknown)" id="0155">
+		<description>Hitman Sniper - The Shadows (v0.12.0-254985) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v0.12.0-254985) (Unknown).apk" size="781822352" crc="1a3c3930" md5="984ce420803ea4f16dbd434a085c9c76" sha1="f7b1adba434a95f215eb6c5afd204dffc1aa98b6"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v1.0.0-256925) (Unknown)" id="0156">
+		<description>Hitman Sniper - The Shadows (v1.0.0-256925) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v1.0.0-256925) (Unknown).apk" size="737241830" crc="e6929c11" md5="532fd4d354ab892a2d07f31324179f0f" sha1="f4e9c109e6bfccef0e3f73d6bacf379156528782"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v1.2.0-257925) (Unknown)" id="0157">
+		<description>Hitman Sniper - The Shadows (v1.2.0-257925) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v1.2.0-257925) (Unknown).apk" size="737250022" crc="b739114a" md5="53bc4fccc17600498f5dfd6b83cbbc41" sha1="453a559ec1430ec8da7122c18f9541366f768eb6"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v1.3.0-260241) (Unknown)" id="0158">
+		<description>Hitman Sniper - The Shadows (v1.3.0-260241) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v1.3.0-260241) (Unknown).apk" size="737356518" crc="a9f41b0c" md5="b03b4d460d481c1963fcaf0f0dae882d" sha1="c3c27360b89e3c64867a0b28177c314142cbbb85"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v1.4.0-260709) (Unknown)" id="0159">
+		<description>Hitman Sniper - The Shadows (v1.4.0-260709) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v1.4.0-260709) (Unknown).apk" size="737364710" crc="cbeecf66" md5="6dfac10716d5ac4cb0d5f6f255c3f226" sha1="1c7f7f6a6d7e9a24a0abcc2be613aec810ddbebc"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v11.0.0-262552) (Unknown)" id="0160">
+		<description>Hitman Sniper - The Shadows (v11.0.0-262552) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v11.0.0-262552) (Unknown).apk" size="662439832" crc="2af33668" md5="0577645d57c77a6e85e07e57c51e7cbc" sha1="9cdd47016f7c03c81046549f0a7405a239e6d4eb"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v11.1.0-265965) (Unknown)" id="0161">
+		<description>Hitman Sniper - The Shadows (v11.1.0-265965) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v11.1.0-265965) (Unknown).apk" size="662554520" crc="006aa262" md5="99a86675fb1dd6da4fe128bf576fdccd" sha1="860b7e8e940c224fdf50d0f8a8b5ce8a239906ef"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v12.0.0-268458) (Unknown)" id="0162">
+		<description>Hitman Sniper - The Shadows (v12.0.0-268458) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v12.0.0-268458) (Unknown).apk" size="679073252" crc="7b616e93" md5="4076557802e3f03b7bc1b07182aebbd0" sha1="7915da52a5cd341c7af77fdd23e1eec43918c87f"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v13.2.0-275714) (Unknown)" id="0163">
+		<description>Hitman Sniper - The Shadows (v13.2.0-275714) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v13.2.0-275714) (Unknown).apk" size="552704975" crc="77a3002e" md5="9752d770576165e92a7d28c97ced906e" sha1="40d0c578fa95923934cfefb8eb4427f34448e85a"/>
+	</game>
+	<game name="Hitman Sniper - The Shadows (v13.3.0-276609) (Unknown)" id="0164">
+		<description>Hitman Sniper - The Shadows (v13.3.0-276609) (Unknown)</description>
+		<rom name="Hitman Sniper - The Shadows (v13.3.0-276609) (Unknown).apk" size="552721359" crc="6f1ea5e6" md5="23af4a330d1e09248d7106d53cc5afb7" sha1="7e6c2267dc80b0766b5d4ccbd508374193b64b16"/>
+	</game>
+	<game name="Lego Hidden Side (v0.5-618236) (Unknown)" id="0097">
+		<description>Lego Hidden Side (v0.5-618236) (Unknown)</description>
+		<rom name="Lego Hidden Side (v0.5-618236) (Unknown).apk" size="58926023" crc="53e031ad" md5="188a9b2be727dbfcae93bd5666781200" sha1="3c3351da9883efde3482734156670bef23064dc8"/>
+	</game>
+	<game name="Lego Hidden Side (v0.6.0-622052) (Unknown)" id="0098">
+		<description>Lego Hidden Side (v0.6.0-622052) (Unknown)</description>
+		<rom name="Lego Hidden Side (v0.6.0-622052) (Unknown).apk" size="72030823" crc="42bfeced" md5="56a5e36531d21161f4daaff9cff8f905" sha1="f15e630602a9403929e1d80ca264273a63968744"/>
+	</game>
+	<game name="Lego Hidden Side (v0.7.0-628432) (Unknown)" id="0099">
+		<description>Lego Hidden Side (v0.7.0-628432) (Unknown)</description>
+		<rom name="Lego Hidden Side (v0.7.0-628432) (Unknown).apk" size="74841710" crc="28dc15fe" md5="1316ac9e35b697a2c44bc6335c51e7b1" sha1="b793e4aa030a93ea96de776498bceadcdd3b1866"/>
+	</game>
+	<game name="Lego Hidden Side (v1.0.0-635987) (Unknown)" id="0100">
+		<description>Lego Hidden Side (v1.0.0-635987) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.0.0-635987) (Unknown).apk" size="79613899" crc="207bbf20" md5="f782e345ed69b1217be90176f33599f8" sha1="e70b7477987b7a3cf3dbbda9fa0c0e6bfd44efe2"/>
+	</game>
+	<game name="Lego Hidden Side (v1.0.1-637006) (Unknown)" id="0101">
+		<description>Lego Hidden Side (v1.0.1-637006) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.0.1-637006) (Unknown).apk" size="79611291" crc="31833cb4" md5="bddbb90edb5d268022b464dbbea6e2d3" sha1="6edeadca10cfff30033ba4f30e75d097fab46c07"/>
+	</game>
+	<game name="Lego Hidden Side (v1.0.1-637216) (Unknown)" id="0102">
+		<description>Lego Hidden Side (v1.0.1-637216) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.0.1-637216) (Unknown).apk" size="79612043" crc="e7df5fb2" md5="9a5b5c0d2556a94da0d955ec8ac78511" sha1="550c0ed60ac94f04061a18e04b793d150d2515c7"/>
+	</game>
+	<game name="Lego Hidden Side (v1.0.2-637349) (Unknown)" id="0103">
+		<description>Lego Hidden Side (v1.0.2-637349) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.0.2-637349) (Unknown).apk" size="79621487" crc="8af238f9" md5="8e13587be659401c64053002f5ba10e6" sha1="bc11e4ea3b46eda5d07eb2fefcd2ef7730f34870"/>
+	</game>
+	<game name="Lego Hidden Side (v1.0.4-841117) (Unknown)" id="0104">
+		<description>Lego Hidden Side (v1.0.4-841117) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.0.4-841117) (Unknown).apk" size="90061665" crc="edb3c060" md5="3cb15547eae8ab72baa2e06e8acbc41e" sha1="062e0f149a2aa225f45b070a640bc7cb72f47927"/>
+	</game>
+	<game name="Lego Hidden Side (v1.1.0-843149) (Unknown)" id="0105">
+		<description>Lego Hidden Side (v1.1.0-843149) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.1.0-843149) (Unknown).apk" size="83478246" crc="fea5deba" md5="682014a4aa8fe8a545e7bb33c8e91918" sha1="4c945ab447293e4b88cf2cdf8a39ed60c984137c"/>
+	</game>
+	<game name="Lego Hidden Side (v1.1.1-844292) (Unknown)" id="0106">
+		<description>Lego Hidden Side (v1.1.1-844292) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.1.1-844292) (Unknown).apk" size="83475398" crc="4f413172" md5="2b641cb32399d033e0a3496ba366817f" sha1="ab17df9764891c7b177e8a6ba16b6a1a444f8173"/>
+	</game>
+	<game name="Lego Hidden Side (v1.2.0-846849) (Unknown)" id="0107">
+		<description>Lego Hidden Side (v1.2.0-846849) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.2.0-846849) (Unknown).apk" size="83708303" crc="7d0bbe2a" md5="7b01d1999ff0b350a802c0f6fa6cc59c" sha1="1c58bfabed1cfaed26a2f8601e464f249e606597"/>
+	</game>
+	<game name="Lego Hidden Side (v1.2.1-747664) (Unknown)" id="0108">
+		<description>Lego Hidden Side (v1.2.1-747664) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.2.1-747664) (Unknown).apk" size="73667844" crc="dcba8ef0" md5="e9bb736ed838ac690211ee5210b22307" sha1="11fd15d84b684a36b9d30d001fa3a74e627ad09d"/>
+	</game>
+	<game name="Lego Hidden Side (v1.2.1-847664) (Unknown)" id="0109">
+		<description>Lego Hidden Side (v1.2.1-847664) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.2.1-847664) (Unknown).apk" size="83828707" crc="0bec4da2" md5="3e8c5136de2209e49dcc99625b5919c9" sha1="b56791e3ca04673ca51cbde170114dcf0fa16235"/>
+	</game>
+	<game name="Lego Hidden Side (v1.3.0-751635) (Unknown)" id="0110">
+		<description>Lego Hidden Side (v1.3.0-751635) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.3.0-751635) (Unknown).apk" size="72899531" crc="bc29bbd7" md5="1ae1c53b481a9c0bc072bbc3761484a1" sha1="6d81829ac77c620163c9a08a3c77688a5e3d5e68"/>
+	</game>
+	<game name="Lego Hidden Side (v1.3.0-851635) (Unknown)" id="0111">
+		<description>Lego Hidden Side (v1.3.0-851635) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.3.0-851635) (Unknown).apk" size="84044632" crc="9fed01b6" md5="b549eddd796baad60fafb8a0e1dcdfae" sha1="c9f498f112f27e781127cea0af772c3c718c83ab"/>
+	</game>
+	<game name="Lego Hidden Side (v1.4.0-753801) (Unknown)" id="0112">
+		<description>Lego Hidden Side (v1.4.0-753801) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.4.0-753801) (Unknown).apk" size="72690167" crc="7d37d9e0" md5="04eb06174ce36808290fd069fa06f6b0" sha1="4ccef6ecca7c458feeaf1beb1dbce89db421fddc"/>
+	</game>
+	<game name="Lego Hidden Side (v1.4.0-853801) (Unknown)" id="0113">
+		<description>Lego Hidden Side (v1.4.0-853801) (Unknown)</description>
+		<rom name="Lego Hidden Side (v1.4.0-853801) (Unknown).apk" size="83831640" crc="ea0d1678" md5="7732e37da9fa96d8978ef1982029f849" sha1="eee80238bd8b95e4947efe2a50d3e9ed6b7be481"/>
+	</game>
+	<game name="Lego Hidden Side (v2.0.1-756967) (Unknown)" id="0114">
+		<description>Lego Hidden Side (v2.0.1-756967) (Unknown)</description>
+		<rom name="Lego Hidden Side (v2.0.1-756967) (Unknown).apk" size="73170675" crc="4af7295b" md5="b21e7ffce2e46e79284b341a39779d33" sha1="38faf189745cf82afa656b0b94ef5515f179d09a"/>
+	</game>
+	<game name="Lego Hidden Side (v2.0.1-856967) (Unknown)" id="0115">
+		<description>Lego Hidden Side (v2.0.1-856967) (Unknown)</description>
+		<rom name="Lego Hidden Side (v2.0.1-856967) (Unknown).apk" size="84338024" crc="c05f9b1a" md5="d433d0bf0964851056291a0280a875e6" sha1="e88bfab0b41934e4fbb2d2cd734ea722b3e5d650"/>
+	</game>
+	<game name="Lego Hidden Side (v2.0.2-758377) (Unknown)" id="0116">
+		<description>Lego Hidden Side (v2.0.2-758377) (Unknown)</description>
+		<rom name="Lego Hidden Side (v2.0.2-758377) (Unknown).apk" size="73170451" crc="59ecbba9" md5="bad335f33cc85c5723d879e682740963" sha1="da72f4960bab8d843d8bb763cb94afdaadc90479"/>
+	</game>
+	<game name="Lego Hidden Side (v2.0.2-858377) (Unknown)" id="0117">
+		<description>Lego Hidden Side (v2.0.2-858377) (Unknown)</description>
+		<rom name="Lego Hidden Side (v2.0.2-858377) (Unknown).apk" size="84337968" crc="42013103" md5="7e324d1340a4c0b75c9788d891c5eb6f" sha1="1147c1f12d0eb0b1b22413ac9f614567a44ff6eb"/>
+	</game>
+	<game name="Lego Hidden Side (v2.1.0-760364) (Unknown)" id="0118">
+		<description>Lego Hidden Side (v2.1.0-760364) (Unknown)</description>
+		<rom name="Lego Hidden Side (v2.1.0-760364) (Unknown).apk" size="69927981" crc="79b48c93" md5="d990fd2e62d6bb0f824df8463db32b0c" sha1="4d03c60d0a34665e41f6ffdca682cbcfb4b3f4fd"/>
+	</game>
+	<game name="Lego Hidden Side (v2.1.0-860364) (Unknown)" id="0119">
+		<description>Lego Hidden Side (v2.1.0-860364) (Unknown)</description>
+		<rom name="Lego Hidden Side (v2.1.0-860364) (Unknown).apk" size="81113190" crc="32d930cd" md5="3939390e8ea251706085478c46ab0d2c" sha1="1caff7d59da543da23b415d70e2719a9161e82e7"/>
+	</game>
+	<game name="Lego Hidden Side (v2.2.0-765908) (Unknown)" id="0120">
+		<description>Lego Hidden Side (v2.2.0-765908) (Unknown)</description>
+		<rom name="Lego Hidden Side (v2.2.0-765908) (Unknown).apk" size="70971033" crc="ff952893" md5="eec2ea3dc65d58ee4279ea9257a1f2f3" sha1="fd78f01455b22d70823c29858517b59d221fd75a"/>
+	</game>
+	<game name="Lego Hidden Side (v2.2.0-865908) (Unknown)" id="0121">
+		<description>Lego Hidden Side (v2.2.0-865908) (Unknown)</description>
+		<rom name="Lego Hidden Side (v2.2.0-865908) (Unknown).apk" size="82153458" crc="0f2b98c0" md5="c6049d5885242fe2682df019c6e5169e" sha1="5ec4e0f00f5415ea1b3079b3869a2366753ac1ab"/>
+	</game>
+	<game name="Lego Hidden Side (v2.3.0-769596) (Unknown)" id="0122">
+		<description>Lego Hidden Side (v2.3.0-769596) (Unknown)</description>
+		<rom name="Lego Hidden Side (v2.3.0-769596) (Unknown).apk" size="71719277" crc="59035b4e" md5="cd06ca668a748de02497bd0b122b4dea" sha1="b33fadf8769e616ddb2d108fbe4aada85d7db140"/>
+	</game>
+	<game name="Lego Hidden Side (v2.3.0-869596) (Unknown)" id="0123">
+		<description>Lego Hidden Side (v2.3.0-869596) (Unknown)</description>
+		<rom name="Lego Hidden Side (v2.3.0-869596) (Unknown).apk" size="82923702" crc="e7e7cebc" md5="966d27d9f293bcff23198d06d94f2bc4" sha1="478894fb6b3ab9b98dbc6141b54781d5758104f9"/>
+	</game>
+	<game name="Lego Hidden Side (v3.0.1-778339) (Unknown)" id="0124">
+		<description>Lego Hidden Side (v3.0.1-778339) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.0.1-778339) (Unknown).apk" size="73896605" crc="b3adec9a" md5="e04e88ab6e5f951792cd1bcda91cfcfd" sha1="f5c5a44c44995c11fc5ceff0b37bc271c6db8bd9"/>
+	</game>
+	<game name="Lego Hidden Side (v3.0.1-878339) (Unknown)" id="0125">
+		<description>Lego Hidden Side (v3.0.1-878339) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.0.1-878339) (Unknown).apk" size="85088301" crc="38e3cd2e" md5="636cec828730733c66772493c14bbb39" sha1="d3bbdc4392de81a6323250f070cdd4a49787a0c5"/>
+	</game>
+	<game name="Lego Hidden Side (v3.1.0-786010) (Unknown)" id="0126">
+		<description>Lego Hidden Side (v3.1.0-786010) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.1.0-786010) (Unknown).apk" size="74247223" crc="fc3e0561" md5="bb98bc3522a2c868d4f7c66bc0dadb7b" sha1="c9828841e69e3bfaa7e67ea985b8752717a8e83a"/>
+	</game>
+	<game name="Lego Hidden Side (v3.1.0-886010) (Unknown)" id="0127">
+		<description>Lego Hidden Side (v3.1.0-886010) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.1.0-886010) (Unknown).apk" size="85436935" crc="58f320d8" md5="bbbedd753d479a1615bb5b6af5557ac9" sha1="6051363b2026af11b9e1150b06b074ff671e29a4"/>
+	</game>
+	<game name="Lego Hidden Side (v3.2.0-793509) (Unknown)" id="0128">
+		<description>Lego Hidden Side (v3.2.0-793509) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.2.0-793509) (Unknown).apk" size="74232982" crc="1d1e7356" md5="dbe3a65d6e0b52f9905f82ef8c2289d2" sha1="60301c0871fdd36cbbfab160ead3d424926078ab"/>
+	</game>
+	<game name="Lego Hidden Side (v3.2.0-893509) (Unknown)" id="0129">
+		<description>Lego Hidden Side (v3.2.0-893509) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.2.0-893509) (Unknown).apk" size="85425559" crc="a5f23ae3" md5="ab74b02cc7a6eacdde327b62a7e44cff" sha1="00296f581a012f9258169e01c9d2e06e80d66846"/>
+	</game>
+	<game name="Lego Hidden Side (v3.3.0-800808) (Unknown)" id="0130">
+		<description>Lego Hidden Side (v3.3.0-800808) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.3.0-800808) (Unknown).apk" size="74304763" crc="4bff6523" md5="2f6ddd4386ffd3a3a17f3f5514e4c491" sha1="94c8981f30b6cab84eab288b1b770a4d348028a6"/>
+	</game>
+	<game name="Lego Hidden Side (v3.3.0-900808) (Unknown)" id="0131">
+		<description>Lego Hidden Side (v3.3.0-900808) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.3.0-900808) (Unknown).apk" size="85493320" crc="1ed79579" md5="85be82b446c24822bacc8d84d0386e73" sha1="60be84e74bdea3aa984ff9c8c45fe382296cce9a"/>
+	</game>
+	<game name="Lego Hidden Side (v3.4.0-809145) (Unknown)" id="0132">
+		<description>Lego Hidden Side (v3.4.0-809145) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.4.0-809145) (Unknown).apk" size="74289129" crc="94b39436" md5="f1164385a3c3bb437030c814f56a92e3" sha1="08dfec06ced5edd06969a327ed554bda061face2"/>
+	</game>
+	<game name="Lego Hidden Side (v3.4.0-909145) (Unknown)" id="0133">
+		<description>Lego Hidden Side (v3.4.0-909145) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.4.0-909145) (Unknown).apk" size="85477725" crc="5b69d413" md5="8e5b51cece0e335e928bc284b1dea32a" sha1="9ffb8b37b1dfe1dedd0529b4bc30d5e0d33565c5"/>
+	</game>
+	<game name="Lego Hidden Side (v3.5.4-1100100) (Unknown)" id="0134">
+		<description>Lego Hidden Side (v3.5.4-1100100) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.5.4-1100100) (Unknown).apk" size="71032713" crc="6f6dd7db" md5="4d6705b252080703cd86b4b5cf62db3d" sha1="5c015f7b28c58dfa781c7406bf1c9191f5eb0e40"/>
+	</game>
+	<game name="Lego Hidden Side (v3.5.4-1200100) (Unknown)" id="0135">
+		<description>Lego Hidden Side (v3.5.4-1200100) (Unknown)</description>
+		<rom name="Lego Hidden Side (v3.5.4-1200100) (Unknown).apk" size="78407118" crc="74725dce" md5="136066672b552072d00e1f2a55741c37" sha1="1d1c46af1415333c1f95b6c5c89dc5ed2e359e9e"/>
+	</game>
+	<game name="Lego Super Mario (Unknown) (v1.0.2)" id="0195">
+		<description>Lego Super Mario (Unknown) (v1.0.2)</description>
+		<rom name="Lego Super Mario (Unknown) (v1.0.2).apk" size="46347581" crc="036f99db" md5="2e594e03caf04110f51e1d721b7f4a2b" sha1="349d850a0ef2a70c7a613f760c22f683d0ce5a6a"/>
+		<rom name="Lego Super Mario (Unknown) (v1.0.2).obb" size="734365572" crc="3c949da0" md5="4030f8db0e066a3e3b46a4a6410ca958" sha1="00f3f7ffb4f9595e37a96d7d9debc42922f26cf4"/>
+	</game>
+	<game name="Lego Super Mario (Unknown) (v1.4.1)" id="0198">
+		<description>Lego Super Mario (Unknown) (v1.4.1)</description>
+		<rom name="Lego Super Mario (Unknown) (v1.4.1).apk" size="49103453" crc="0f069642" md5="7970ee6fdc8ecba65e4927542b37a552" sha1="3e2c63699e9930e7b51cf26005c8c20283318794"/>
+		<rom name="Lego Super Mario (Unknown) (v1.4.1).obb" size="998430844" crc="0aaa586d" md5="201ed19b98427b63b22fa3d874e5b7b6" sha1="cd968f759b716623ce11ea5766dc84deb4432267"/>
+	</game>
+	<game name="Lego Super Mario (v1.0.8) (Unknown)" id="0196">
+		<description>Lego Super Mario (v1.0.8) (Unknown)</description>
+		<rom name="Lego Super Mario (v1.0.8) (Unknown).apk" size="46385554" crc="13817b0f" md5="f9d2eb15ee6077e81228439c7da97a62" sha1="f78bdcf3da2044f2638cfc58353681b08807cf20"/>
+		<rom name="Lego Super Mario (v1.0.8) (Unknown).obb" size="723944168" crc="81e8593d" md5="dda3b96aaba1ce8dec87972977cf91d4" sha1="c0ea45b1314a254d69e24a957feb8e0bcf7f49b2"/>
+	</game>
+	<game name="Lego Super Mario (v1.1.6) (Unknown)" id="0197">
+		<description>Lego Super Mario (v1.1.6) (Unknown)</description>
+		<rom name="Lego Super Mario (v1.1.6) (Unknown).apk" size="46592049" crc="3932bb0f" md5="2b2641b6b6342b667224f982328e7c2e" sha1="458d487d2c3678c0a086c6300030a58e14df52b9"/>
+		<rom name="Lego Super Mario (v1.1.6) (Unknown).obb" size="734523518" crc="def68019" md5="8daa60430f8b16906756bd28250cf8a3" sha1="0f905ca76925ed7e4902317923694e02f28346d1"/>
+	</game>
+	<game name="Lego Super Mario (v2.0.3) (Unknown)" id="0199">
+		<description>Lego Super Mario (v2.0.3) (Unknown)</description>
+		<rom name="Lego Super Mario (v2.0.3) (Unknown).apk" size="50476081" crc="0cb17962" md5="ece3b9cf830fdaf2433fd467f48838d6" sha1="3e3bdc96394a242c6f02b806e5f4c3ac1388fef9"/>
+		<rom name="Lego Super Mario (v2.0.3) (Unknown).obb" size="1587426387" crc="0d593d0d" md5="3ac4954921f7664dcb02260df86a2ac5" sha1="2eddf3fbf0276a77ade4669b793084a4a74fbe89"/>
+	</game>
+	<game name="Lego Super Mario (v2.0.5) (Unknown)" id="0200">
+		<description>Lego Super Mario (v2.0.5) (Unknown)</description>
+		<rom name="Lego Super Mario (v2.0.5) (Unknown).apk" size="47834548" crc="3958a18c" md5="7dccbfd2022d1e4847d6124e52d42f1a" sha1="618a796e0b8f48d1a2227392dc27bf74fbb8cbd9"/>
+		<rom name="Lego Super Mario (v2.0.5) (Unknown).obb" size="1587834752" crc="8a1fc967" md5="a2250fb0ee78aaa2bd5cde401ca9ace8" sha1="577ebef587141054326c27ff73b07a7aae49d1d7"/>
+	</game>
+	<game name="Lego Super Mario (v2.2.0) (Unknown)" id="0201">
+		<description>Lego Super Mario (v2.2.0) (Unknown)</description>
+		<rom name="Lego Super Mario (v2.2.0) (Unknown).apk" size="47704655" crc="6cdebb64" md5="f14634054fcf0fc33a563447931dd7c3" sha1="1144d9df049c375bd8f56052599646a41f46df64"/>
+		<rom name="Lego Super Mario (v2.2.0) (Unknown).obb" size="1511889008" crc="81f1bfe7" md5="1b6f2c0f3bcc71bde40e9bb947dbf16e" sha1="7b3c94c737d324050e09be254e4fefe62df54518"/>
+	</game>
+	<game name="Lego Super Mario (v2.3.3) (Unknown)" id="0202">
+		<description>Lego Super Mario (v2.3.3) (Unknown)</description>
+		<rom name="Lego Super Mario (v2.3.3) (Unknown).apk" size="47851727" crc="6263e2b1" md5="d863da9a23e10a2a006282140cf2b057" sha1="22a4cf97c64a9bc00cba53709aaf8f2549265fc7"/>
+		<rom name="Lego Super Mario (v2.3.3) (Unknown).obb" size="1882428182" crc="6112f798" md5="3277a37d207c08f7464375652d8755fb" sha1="b1ef2da7388bad789756f12fa366c5d5793262b8"/>
+	</game>
+	<game name="Lego Super Mario (v2.3.4) (Unknown)" id="0203">
+		<description>Lego Super Mario (v2.3.4) (Unknown)</description>
+		<rom name="Lego Super Mario (v2.3.4) (Unknown).apk" size="47873019" crc="f6effde3" md5="74642fd43a32d6b155ee4dd25ca2fe64" sha1="88122bdb7c4fbc34ff085430010bef79515b8220"/>
+		<rom name="Lego Super Mario (v2.3.4) (Unknown).obb" size="1882556844" crc="c2ec7ece" md5="9442f10117f484f80f3151ec9f6a1849" sha1="c6f8370137ebccbd4980be6b50cd99aa2254a206"/>
+	</game>
+	<game name="Lego Super Mario (v2.5.1) (Unknown)" id="0204">
+		<description>Lego Super Mario (v2.5.1) (Unknown)</description>
+		<rom name="Lego Super Mario (v2.5.1) (Unknown).apk" size="95915507" crc="c5b0e19d" md5="6f99de2acb46e468d77f7003f41c8d32" sha1="e54d911c65983d1d02576d5677af742522269dce"/>
+		<rom name="Lego Super Mario (v2.5.1) (Unknown).obb" size="1399891548" crc="5c4ea727" md5="7c774b44ce5ec0b7b31c9e10f6791e3f" sha1="0a390b36f9e984a4c157e2e4db24d8c051730446"/>
+	</game>
+	<game name="Lego Vidiyo (v1.00.00-7974) (Unknown)" id="0136">
+		<description>Lego Vidiyo (v1.00.00-7974) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.00.00-7974) (Unknown).apk" size="81874396" crc="ea552fbf" md5="df9cf211667be6a11ed668063f0726ff" sha1="81f90abbf7799759c660b3825b0003856c469ea5"/>
+	</game>
+	<game name="Lego Vidiyo (v1.00.01-8000) (Unknown)" id="0137">
+		<description>Lego Vidiyo (v1.00.01-8000) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.00.01-8000) (Unknown).apk" size="82296772" crc="1c4c778c" md5="67fc81015706a2b241fe5a836df497a6" sha1="1b2799e324d95e99c8234e2889d3f2b01c6462b3"/>
+	</game>
+	<game name="Lego Vidiyo (v1.00.03-8023) (Unknown)" id="0138">
+		<description>Lego Vidiyo (v1.00.03-8023) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.00.03-8023) (Unknown).apk" size="77857806" crc="6f23a8b5" md5="9465274fe78aaef488b8bf8ec599ad4e" sha1="171fd37a560eab76a610decc3aa0fe83c868f0a7"/>
+	</game>
+	<game name="Lego Vidiyo (v1.00.04-8028) (Unknown)" id="0139">
+		<description>Lego Vidiyo (v1.00.04-8028) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.00.04-8028) (Unknown).apk" size="77865659" crc="f05a00ba" md5="092adc464a233f3e0522389a677e0dbd" sha1="99a279660f71466bd4425c0eccd8db3a5fab2107"/>
+	</game>
+	<game name="Lego Vidiyo (v1.00.05-8031) (Unknown)" id="0140">
+		<description>Lego Vidiyo (v1.00.05-8031) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.00.05-8031) (Unknown).apk" size="77939444" crc="a423b11d" md5="3ee2da1746d26c294402b9c659a7f5b0" sha1="e69204c86b90d32109274e8508e777902203aff2"/>
+	</game>
+	<game name="Lego Vidiyo (v1.00.06-8037) (Unknown)" id="0141">
+		<description>Lego Vidiyo (v1.00.06-8037) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.00.06-8037) (Unknown).apk" size="77947401" crc="e039885b" md5="24af5a4326611d35e0a37c4cb55f85ed" sha1="7d6c2b04529ce40997ff1a2be7f37b05b0440dc2"/>
+	</game>
+	<game name="Lego Vidiyo (v1.00.07-8045) (Unknown)" id="0142">
+		<description>Lego Vidiyo (v1.00.07-8045) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.00.07-8045) (Unknown).apk" size="77979772" crc="41d3629b" md5="34425f5458046b757aa26581cd40c3f1" sha1="29aba1b06b1086bcef8def93d57207c8c5864d7d"/>
+	</game>
+	<game name="Lego Vidiyo (v1.00.09-8093) (Unknown)" id="0143">
+		<description>Lego Vidiyo (v1.00.09-8093) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.00.09-8093) (Unknown).apk" size="77417014" crc="30b57e64" md5="b1d3e8e7fd27e60172b0dadb02c8d917" sha1="57c05edfb59b97d2f74c076db5683b708d280ee3"/>
+	</game>
+	<game name="Lego Vidiyo (v1.01.00-8178) (Unknown)" id="0144">
+		<description>Lego Vidiyo (v1.01.00-8178) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.01.00-8178) (Unknown).apk" size="77105409" crc="4160c4ab" md5="52dc5ddc9a2db351a52ab6ccca835dc7" sha1="23280fba3c91083431adc8ff0f5a55ce7e9ef415"/>
+	</game>
+	<game name="Lego Vidiyo (v1.01.01-8192) (Unknown)" id="0145">
+		<description>Lego Vidiyo (v1.01.01-8192) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.01.01-8192) (Unknown).apk" size="77136124" crc="c5e4bee9" md5="6d6176f62e5478fdc0a9f2313657592c" sha1="70df35a8d70c5f05ea15292560cded9b9da579b8"/>
+	</game>
+	<game name="Lego Vidiyo (v1.01.02-8231) (Unknown)" id="0146">
+		<description>Lego Vidiyo (v1.01.02-8231) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.01.02-8231) (Unknown).apk" size="77258835" crc="3c91c0e2" md5="b601a0bd5073d847f410742bfc06b251" sha1="f2f443b9d3d81951b4894e7d632f16b614f72e37"/>
+	</game>
+	<game name="Lego Vidiyo (v1.01.03-8274) (Unknown)" id="0147">
+		<description>Lego Vidiyo (v1.01.03-8274) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.01.03-8274) (Unknown).apk" size="77902049" crc="6b3a2cb7" md5="82df924b15752274a3f20c121831e815" sha1="adda1a1b5c9a019f509ccc6f8f0c56c8d78bbf01"/>
+	</game>
+	<game name="Lego Vidiyo (v1.01.04-8288) (Unknown)" id="0148">
+		<description>Lego Vidiyo (v1.01.04-8288) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.01.04-8288) (Unknown).apk" size="77890231" crc="63d3c14b" md5="940a411d068c96a31d65bad5270ae325" sha1="a29e8957f1700b4aa48d03ecc06517cf86a3930d"/>
+	</game>
+	<game name="Lego Vidiyo (v1.01.05-8321) (Unknown)" id="0149">
+		<description>Lego Vidiyo (v1.01.05-8321) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.01.05-8321) (Unknown).apk" size="77955348" crc="bf0e454c" md5="100df6b10f0b59deeaba28b6bc03525a" sha1="d31eabd6f04db0982806f0559452e84f3a65b269"/>
+	</game>
+	<game name="Lego Vidiyo (v1.01.07-8357) (Unknown)" id="0150">
+		<description>Lego Vidiyo (v1.01.07-8357) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.01.07-8357) (Unknown).apk" size="77980044" crc="546afe56" md5="d1bd2586ae49fc30ac2db31ac104b342" sha1="42d730a78abec4f3b215d6c0cf88a6b4749051b1"/>
+	</game>
+	<game name="Lego Vidiyo (v1.01.08-8585) (Unknown)" id="0151">
+		<description>Lego Vidiyo (v1.01.08-8585) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.01.08-8585) (Unknown).apk" size="78151861" crc="77ae36f5" md5="f0db07b03b2d513ebfa288a7aea33349" sha1="61f7fcc53b692541a21f6d75792160b7e42547ea"/>
+	</game>
+	<game name="Lego Vidiyo (v1.01.09-8618) (Unknown)" id="0152">
+		<description>Lego Vidiyo (v1.01.09-8618) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.01.09-8618) (Unknown).apk" size="78259129" crc="721a7134" md5="4218d25bacc950a6e96e5ca7a571b646" sha1="5bad4f81f5ef376ab677ed2b683ab5e4cca307ca"/>
+	</game>
+	<game name="Lego Vidiyo (v1.01.10-8642) (Unknown)" id="0153">
+		<description>Lego Vidiyo (v1.01.10-8642) (Unknown)</description>
+		<rom name="Lego Vidiyo (v1.01.10-8642) (Unknown).apk" size="78344468" crc="ad98cc87" md5="e1dfdafb9782ed3c214a94afb700b50b" sha1="a0cc9263f723b092870d9a9f742f8b9f8ab572a3"/>
+	</game>
+	<game name="Minecraft - Pocket Edition (World) (v0.8.0_test1) (Beta) (2013-11-18T110342) (Unreleased)" id="0043">
+		<category>Games</category>
+		<description>Minecraft - Pocket Edition (World) (v0.8.0_test1) (Beta) (2013-11-18T110342) (Unreleased)</description>
+		<game_id>com.mojang.minecraftpe</game_id>
+		<rom name="Minecraft - Pocket Edition (World) (v0.8.0_test1) (Beta) (2013-11-18T110342) (Unreleased).apk" size="10170208" crc="f566217b" md5="65d974706fd21f2726f88ffec1e61a1c" sha1="79573f78e71f3b5808bffa2049d91eef4c72584b" sha256="6c2936df905bb54f19d40f7bb3962033d0b473365883502efb629d4682943598"/>
+	</game>
+	<game name="Minecraft - Pocket Edition (World) (v0.8.0_test1) (Beta) (2013-11-18T131708) (Unreleased)" id="0044" cloneofid="0043">
+		<category>Games</category>
+		<description>Minecraft - Pocket Edition (World) (v0.8.0_test1) (Beta) (2013-11-18T131708) (Unreleased)</description>
+		<game_id>com.mojang.minecraftpe</game_id>
+		<rom name="Minecraft - Pocket Edition (World) (v0.8.0_test1) (Beta) (2013-11-18T131708) (Unreleased).apk" size="10170216" crc="bd1c01d8" md5="df599059c310bed41a00213bfa731c26" sha1="53d171112b17eed394d93fcae4568bd1c2672517" sha256="1865094ca093b6beaea1f8a20559eebc34daacd153f6026883e7cf4b0196a2d3"/>
+	</game>
+	<game name="Minecraft Trial (Unknown) (v1.18.2.03) (Demo)" id="0037">
+		<category>Demos</category>
+		<category>Games</category>
+		<description>Minecraft Trial (Unknown) (v1.18.2.03) (Demo)</description>
+		<game_id>com.mojang.minecrafttrialpe</game_id>
+		<rom name="com.mojang.minecrafttrialpe.apk" size="5268182" crc="92e02b78" md5="47d1f66aeddd36b89c4d73b1d7752b07" sha1="ff5317e822fb6ef5c373bbbbd72fe1ea44f610ff" sha256="b315c4f453c929ca725456c414fad722d7e61e38dc1687241bdf2899d0387978"/>
+		<rom name="config.arm64_v8a.apk" size="163500604" crc="15a07503" md5="4c396a4cf389254e9295ad6ae5991781" sha1="542e8885b46c9471044874b7b9c1510d0b664fff" sha256="2ab6b5d9366aac231a006e56489a34dfd73ce2c0f917c295164e73d299ed84d7"/>
+		<rom name="config.en.apk" size="41369" crc="cbbbae4d" md5="bb302abd1bdbe63e8cc85bff6678f354" sha1="d6355e86e032521ca5b38f27dc9a4da8c11dfd09" sha256="419795a29d862e8a09d6544f9b86dd0fd680a521f8937c89538da5c30f73a6cf"/>
+		<rom name="config.xhdpi.apk" size="78117" crc="9b29c14d" md5="721150853a7ea4f5310a44efa4556035" sha1="c9ec3db070f06deb1aa5cc5390f37047da779880" sha256="afff9df49330cd8dfe1291f4ff84624d438de83ac39d6dfd6a1bb9cf61dd3bd6"/>
+		<rom name="install_pack.apk" size="150193796" crc="db579a6d" md5="f861c9287d8c45d97eb9fc22d55a1aed" sha1="3e1c9ca5df9e5352fe0177481ab75610ade9bbf6" sha256="14809cc9a5ad6850e8d6d91d1a5d60be643263ff5756307134e0b88011024fdd"/>
+	</game>
+	<game name="Moe Gijinka Puzzle - Moetto Slider (World) (Ja) (v1.11)" id="0025">
+		<description>Moe Gijinka Puzzle - Moetto Slider (World) (Ja) (v1.11)</description>
+		<rom name="Moe Gijinka Puzzle - Moetto Slider (World) (Ja) (v1.11).apk" size="3174638" crc="5277a393" md5="4816989f3f34f679ea8ddce3b1316368" sha1="13672a28460464c9f410793694623825320eea45" sha256="678621b39f80a75d0c6061ee64c0192e32d765b889ab8f1c34d184fbe72589b5"/>
+	</game>
+	<game name="MS. PAC-MAN (Unknown) (v2.6.0)" id="0237">
+		<category>Games</category>
+		<description>MS. PAC-MAN (Unknown) (v2.6.0)</description>
+		<rom name="MS. PAC-MAN (Unknown) (v2.6.0).apk" size="23593824" crc="08e20089" md5="bfe5449df1ce5e91f47b8319725a2b87" sha1="824ff0e8dd547139e337742adef978903d4b7f89" sha256="39d422b8604f91992d62673729cb535575106fd0e7df67ee5b734f1b96aae7b6"/>
+	</game>
+	<game name="Ms. PAC-MAN Demo (World) (v2.6.0)" id="0222">
+		<category>Games</category>
+		<description>Ms. PAC-MAN Demo (World) (v2.6.0)</description>
+		<rom name="Ms. PAC-MAN Demo (World) (2.6.0).apk" size="26306449" crc="e13498ff" md5="c0df31185ed83e262b911351128c4ddf" sha1="d2b9b224bb2d7bd84149708eb79ecb9ba7dd9275" sha256="2c9c1bf7cc4c7452e52796b96b78bdd50575c60fbb0f8eadc1948edea4699b1a"/>
+	</game>
+	<game name="My Nintendo (World) (v1.0.1)" id="0003">
+		<description>My Nintendo (World) (v1.0.1)</description>
+		<rom name="My Nintendo (World) (v1.0.1).apk" size="7093239" crc="de4fa823" md5="b27282214f74599fd2cd800df4d0a97c" sha1="ad1a2197edf64a8c12026d86fd5e07c32f0f9cbd" sha256="46a820cb744505e7f730be6abba12ceb619e3c87a9903af2ea41faec5f05b66f"/>
+	</game>
+	<game name="My Nintendo (World) (v1.4.0)" id="0005" cloneofid="0003">
+		<description>My Nintendo (World) (v1.4.0)</description>
+		<rom name="My Nintendo (World) (v1.4.0).apk" size="7850595" crc="e8fee069" md5="ec970b8321b9b40f31a933bbaf854ab4" sha1="666af9d0dc87f9f4b5e9034c362fa010ee5d1414"/>
+	</game>
+	<game name="My Nintendo (World) (v1.5.0)" id="0006" cloneofid="0003">
+		<description>My Nintendo (World) (v1.5.0)</description>
+		<rom name="My Nintendo (World) (v1.5.0).apk" size="10229955" crc="fec8472e" md5="00be9bbec0971aa4e23346beb86d9c7a" sha1="ffbb8acf71f751dd6b3a4521784a396f0624ef4a"/>
+	</game>
+	<game name="My Nintendo (World) (v1.7.0)" id="0007" cloneofid="0003">
+		<description>My Nintendo (World) (v1.7.0)</description>
+		<rom name="My Nintendo (World) (v1.7.0).apk" size="11025865" crc="6cf35c72" md5="00e24c61682d0e039424f2070caae54e" sha1="eae63e6a2d5f27bd14e05d939c860ece4d01e1e2"/>
+	</game>
+	<game name="My Nintendo (World) (v1.8.0)" id="0008" cloneofid="0003">
+		<description>My Nintendo (World) (v1.8.0)</description>
+		<rom name="My Nintendo (World) (v1.8.0).apk" size="11645169" crc="b7216e62" md5="78a40a0588502bc782d22aa04d64658a" sha1="ce68671b129b760ceb45aaa4341addad61e284e6"/>
+	</game>
+	<game name="My Nintendo (World) (v1.9.0)" id="0009" cloneofid="0003">
+		<description>My Nintendo (World) (v1.9.0)</description>
+		<rom name="My Nintendo (World) (v1.9.0).apk" size="11482971" crc="e26f7145" md5="700a8aaa45e23309c3cde21c00346d8f" sha1="782ca608e1e1c9d4c074849c3da36ede8c4a2b8a"/>
+	</game>
+	<game name="My Nintendo (World) (v1.9.1)" id="0010" cloneofid="0003">
+		<description>My Nintendo (World) (v1.9.1)</description>
+		<rom name="My Nintendo (World) (v1.9.1).apk" size="11836069" crc="62b38871" md5="d9b7b52025c6995284d203254d9320a2" sha1="b2f852f20bf8ec36087f0ab496bdf9c3db386b0e"/>
+	</game>
+	<game name="My Nintendo (World) (v1.3.0)" id="0012" cloneofid="0003">
+		<description>My Nintendo (World) (v1.3.0)</description>
+		<rom name="My Nintendo (World) (v1.3.0).apk" size="7131398" crc="8f8f645e" md5="a216e25c11c5ba65273ddb7f25bfa59e" sha1="e7d3b50d37521c22d9bf2e00978eb96d03f54371"/>
+	</game>
+	<game name="My Nintendo (World) (v1.4.1)" id="0014" cloneofid="0003">
+		<description>My Nintendo (World) (v1.4.1)</description>
+		<rom name="My Nintendo (World) (v1.4.1).apk" size="7850595" crc="84c6af18" md5="d8a9735de5dd522cca233b5a2be45e7a" sha1="9d6ef2d8cd1082bb69b6d34b21def522d8a039ee"/>
+	</game>
+	<game name="My Nintendo (World) (v1.6.0)" id="0016" cloneofid="0003">
+		<description>My Nintendo (World) (v1.6.0)</description>
+		<rom name="My Nintendo (World) (v1.6.0).apk" size="10819143" crc="42c6880e" md5="5848f49c3da3e2228dd3a5e3e1fd5376" sha1="7ee63815606029b518ccccb0039cda41132c4f1a"/>
+	</game>
+	<game name="My Nintendo (World) (v1.7.0) (Alt)" id="0017" cloneofid="0007">
+		<description>My Nintendo (World) (v1.7.0) (Alt)</description>
+		<rom name="My Nintendo (World) (v1.7.0) (Alt).apk" size="11025865" crc="3a7680a9" md5="1359d348c6f27a1a54d5118bb09fff11" sha1="2028f3b0fa74e25a22e7358edb3aec35cd4e1d98"/>
+	</game>
+	<game name="My Nintendo (World) (v1.9.0) (Alt)" id="0019" cloneofid="0003">
+		<description>My Nintendo (World) (v1.9.0) (Alt)</description>
+		<rom name="My Nintendo (World) (v1.9.0) (Alt).apk" size="11482971" crc="e9fd27aa" md5="ab5792b8b46b635434595ef6fdc44cce" sha1="bfd722fc63887faa4ae78dda709234eee951d70d"/>
+	</game>
+	<game name="My Nintendo (World) (v1.9.1) (Alt)" id="0020" cloneofid="0003">
+		<description>My Nintendo (World) (v1.9.1) (Alt)</description>
+		<rom name="My Nintendo (World) (v1.9.1) (Alt).apk" size="11836069" crc="602b660e" md5="2cf2e2237abb8269da39cc16069972f2" sha1="f00139ee8e8ede705fe95b1d02d3104a93963293"/>
+	</game>
+	<game name="Nintendo Switch Parental Controls (World) (v1.6.0)" id="0032" cloneofid="0036">
+		<description>Nintendo Switch Parental Controls (World) (v1.6.0)</description>
+		<game_id>com.nintendo.znma</game_id>
+		<rom name="Nintendo Switch Parental Controls (World) (v1.6.0).apk" size="19591740" crc="d3cab14b" md5="e87f5898dc40cc85158c113781bd57ab" sha1="d70ebebf0bdb1ef57e35d42c626565fee4f50fe8" sha256="0f88641e92492d2534e074737a7c451ba794338f8608a5e5cdb93b2b2c8229bf"/>
+	</game>
+	<game name="Nintendo Switch Parental Controls (World) (v1.16.0)" id="0033" cloneofid="0036">
+		<description>Nintendo Switch Parental Controls (World) (v1.16.0)</description>
+		<game_id>com.nintendo.znma</game_id>
+		<rom name="Nintendo Switch Parental Controls (World) (v1.16.0).apk" size="20778610" crc="4e368c72" md5="d9223da95d56680bc918b8df5b0769f6" sha1="2144301a6724607312a62a85eef0dbd04231f731" sha256="97db0c323950463894b3019231bf10726cdc5eaaaef8b19769186021a1371f4f"/>
+	</game>
+	<game name="Nintendo Switch Parental Controls (World) (v1.15.1)" id="0034" cloneofid="0036">
+		<description>Nintendo Switch Parental Controls (World) (v1.15.1)</description>
+		<game_id>com.nintendo.znma</game_id>
+		<rom name="Nintendo Switch Parental Controls (World) (v1.15.1).apk" size="22580595" crc="468c7311" md5="38eb1edff2b181ed8db11ccf34802d15" sha1="7a0e2424a643a2a2b04e7ed662dba58c9a073452" sha256="51cd724fc72ad5ac8ad04b172715d851d37c28e3efec0cc05798a434a375e148"/>
+	</game>
+	<game name="Nintendo Switch Parental Controls (World) (v1.15.0)" id="0035" cloneofid="0036">
+		<description>Nintendo Switch Parental Controls (World) (v1.15.0)</description>
+		<game_id>com.nintendo.znma</game_id>
+		<rom name="Nintendo Switch Parental Controls (World) (v1.15.0).apk" size="22580595" crc="8e710253" md5="b7e61068a00c57902f126df46d99ba5e" sha1="af3c362e88b09ddc7bb981107a47a5b3cc4260e8" sha256="137fa8c7deee2b46c68640db15345ecb71cf01394f100ad69c6f9b8f30b4a187"/>
+	</game>
+	<game name="Nintendo Switch Parental Controls (World) (v1.0.0)" id="0036">
+		<description>Nintendo Switch Parental Controls (World) (v1.0.0)</description>
+		<game_id>com.nintendo.znma</game_id>
+		<rom name="Nintendo Switch Parental Controls (World) (v1.0.0).apk" size="10425204" crc="4e7850fc" md5="352f22e58fea87ab696f393c7b884e1c" sha1="b848533ce860d1f4b8235e12c75382f20b22239f" sha256="c04ec3604dba8a77947a44494c7106d3d78ba14eb4fe085f3fc69eb752f52856"/>
+	</game>
+	<game name="PAC-MAN Ralph Breaks the Maze (World) (v1.0.8)" id="0223">
+		<description>PAC-MAN Ralph Breaks the Maze (World) (v1.0.8)</description>
+		<rom name="PAC-MAN Ralph Breaks the Maze (World) (1.0.8).apk" size="38085277" crc="48c49d55" md5="c168200af7edd1a0299020616ee1ca98" sha1="83fae494044a5e8beec9686629875fe5c7f31e48" sha256="37aced5a1f262d8ab5fd920f2a4c993572d6392651b8a669be2fabeb6aad5cb9"/>
+	</game>
+	<game name="Pikmin Bloom (World) (v33.3) (Early Access)" id="0002">
+		<category>Games</category>
+		<description>Pikmin Bloom (World) (v33.3) (Early Access)</description>
+		<rom name="Pikmin Bloom (World) (v33.3) (Early Access).apk" size="125627950" crc="a04988b5" md5="c8a5191c50fd0b0239d21094ed22709f" sha1="f9b3753395fb922b25d0a5dd572d127f8ecff3b7" sha256="183d974f0b1e83d8031469ea67b705d435364ecf82431db89f15b01a6c2dd138"/>
+	</game>
+	<game name="Pikmin Bloom (World) (v34.1)" id="0023" cloneofid="0002">
+		<description>Pikmin Bloom (World) (v34.1)</description>
+		<rom name="Pikmin Bloom (World) (v34.1).apk" size="131095601" crc="8653a03f" md5="fb27388f0499238020f3a321a411814b" sha1="709f0c1aeea0fcb2b681e3e3bcbc8ee7b0ad45d5"/>
+	</game>
+	<game name="Pikmin Bloom (World) (v34.2)" id="0024" cloneofid="0002">
+		<description>Pikmin Bloom (World) (v34.2)</description>
+		<rom name="Pikmin Bloom (World) (v34.2).apk" size="131157041" crc="3155de88" md5="7256162f0da4d4d71bc742b58dc6fa87" sha1="d35f1bda698a357ab27ec91c6f3836cd3684b729"/>
+	</game>
+	<game name="Pikmin Bloom (World) (v33.4)" id="0021" cloneofid="0002">
+		<description>Pikmin Bloom (World) (v33.4)</description>
+		<rom name="Pikmin Bloom (World) (v33.4).apk" size="129695278" crc="731203ba" md5="0176c4c0864feff58b5d0a0bd4ccfeb1" sha1="f15a5209beb5b326481df8e8302aec0b95781d64"/>
+	</game>
+	<game name="Pikmin Bloom (World) (v34.0)" id="0022" cloneofid="0002">
+		<description>Pikmin Bloom (World) (v34.0)</description>
+		<rom name="Pikmin Bloom (World) (v34.0).apk" size="130952241" crc="254d8b12" md5="ad2653d4b31cf5772bfde49b6bc2bdb8" sha1="95d62feb807a0dc1daa2a2027d9686e871f6762f"/>
+	</game>
+	<game name="Pixel Puzzle Collection (Europe) (v1.2.4)" id="0228">
+		<category>Games</category>
+		<description>Pixel Puzzle Collection (Europe) (v1.2.4)</description>
+		<rom name="Pixel Puzzle Collection (Europe) (v1.2.4).apk" size="38853525" crc="c8ffa163" md5="28381e12fffd5c78910e42f1bdd089ea" sha1="401b49247afa3938e9dc03ce1f05db0ccc1c2b91" sha256="75d1b95b436cee934ef9ee0c526be3f611bb691b07854d4e61ac53f3a1f12c7c"/>
+		<rom name="split_config.arm64_v8a.apk" size="17838883" crc="92e35671" md5="c9f2adadd76b86c0a4de98d1b9a456c2" sha1="f8d8ea72beddbde04529e51d8453a693dfaf32b6" sha256="825b069e569085f400c6ca61d82cbe45e73e549fcc8e1df05d14095688f4f610"/>
+	</game>
+	<game name="Plants vs Zombies (World) (v6) [b]" id="0001">
+		<description>Plants vs Zombies (World) (v6) [b]</description>
+		<rom name="Plants vs Zombies (World) (v6) [b].apk" size="3661503" crc="41df4ec3" md5="f2dc3ef3105c7bb1afbcc9e4b2989a47" sha1="3f262cccac1e4f54d2ade7fa45c7b12e4f24caaf" sha256="5cb3d229086c51cf4e04ce322c3645cdd39b3a9c339ccd7ec7d356cb2b98a9cb" status="baddump"/>
+	</game>
+	<game name="Pokemon Duel (Unknown) (En,Ja) (v7.0.16)" id="0224">
+		<category>Games</category>
+		<description>Pokemon Duel (Unknown) (En,Ja) (v7.0.16)</description>
+		<rom name="Pokemon Duel (Unknown) (En,Ja) (v7.0.16).apk" size="84506309" crc="13ea16ea" md5="f35436090c54f5e256b2a3dbab36733e" sha1="afafca79fdb2fea8527b366df8c0e82139d94d91" sha256="69a481325d61afc01225753fd71cdc5f08c49ac48020230372e6ed97a204129d"/>
+	</game>
+	<game name="Pokemon Quest (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.0.6)" id="0236">
+		<category>Games</category>
+		<description>Pokemon Quest (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.0.6)</description>
+		<rom name="Pokemon Quest (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (v1.0.6).apk" size="108983977" crc="bf31b6eb" md5="645b1d676d43fe51e563ef0c59ebef0b" sha1="6f5bbef4ac27e5bf16597639f92acc09abb1b7cd" sha256="0ffc8d269f967c28759a724aa200095c14da0033653c83f51e837bc93cad3adf"/>
+		<rom name="split_config.arm64_v8a.apk" size="101901087" crc="59b880a3" md5="24f3cf8e1eb8c0bcae1764664c5388c0" sha1="f18d9775f380883df553f78d667c229988f8756d" sha256="ac62032f1e328aed3a69b050ccfd8910fee8f42c845ebab10643356da4936928"/>
+		<rom name="split_fonts_dfp_gb_y5_sdf.apk" size="4932015" crc="ecaa8466" md5="ccc76dcc3847a8dc07e8374b27ae610b" sha1="065bf04363e85228233af176d3fdcdb0b6faa5d2" sha256="dc9702755ee355a9a1baff5d45529ed3ff91c471383635ff106b34d525d4c50f"/>
+		<rom name="split_fonts_dfp_gb_y7_sdf.apk" size="5083567" crc="cc4e5f72" md5="76880819010ba5df9f3966d74cc4fe6b" sha1="3aab13e9c6700b13eb37e025dc483b9120ad73cc" sha256="b7118824a85d9c88bdbf79c499786229722513db5c6ecf0f00d4645527a272e0"/>
+		<rom name="split_fonts_dfpt_r5_sdf.apk" size="6767021" crc="de820a45" md5="a6d7600a32d9235175e664e79f0eeef4" sha1="a752006445905f6191abbeefab04925b543d0d18" sha256="a06ea106eddecf7c60e0f7ebaca5ba532364d1bf341a2dcdb26b79a8026d6c82"/>
+		<rom name="split_fonts_dfpt_r7_sdf.apk" size="7037357" crc="1626b92f" md5="9f5236123bf1a00560c0d70279bab533" sha1="5b23d84b3c1d12f22cb5167e38490adce11611f3" sha256="e1b81a6a7723ae6eef36478b987730094f89352c7ea99aebea28dc652d16ab21"/>
+		<rom name="split_fonts_fot_seuratpro_db_sdf.apk" size="5964214" crc="6097389a" md5="8183ecfc3e6f04e18e472d05a59da2d4" sha1="c32df3ec5a3d252faf21246b773abbfca11ad86e" sha256="aa8085ad475b9c5aa4149af7822df209f97568b35c59f8f11353a924cd594c35"/>
+		<rom name="split_fonts_fotk_yoongothic760_sdf.apk" size="4596152" crc="0d0bb311" md5="e53a104c3ffcb41526695963ef462ac1" sha1="b2227272611a7ad92fcf3113bdb094a159845655" sha256="280417c253b39811e1a820e8723cc392922240a6927e237e690ae35d3163f419"/>
+	</game>
+	<game name="Qbert (Unknown) (v1.3.6)" id="0225">
+		<description>Qbert (Unknown) (v1.3.6)</description>
+		<rom name="Qbert (Unknown) (v1.3.6).apk" size="23038891" crc="f69a3f33" md5="20bcef01b7cba89f02f8682e13a10b76" sha1="dd3866dcdba97bfa1f47b6ff3cc9acce9913492c" sha256="d39474d37e28c6f17fb68a7c534133ccd210f6b66696b1fb38c769364448bfef"/>
+	</game>
+	<game name="Sonic at the Olympic Games (2020 Version) (World) (v10.0.1)" id="0234">
+		<category>Games</category>
+		<description>Sonic at the Olympic Games (2020 Version) (World) (v10.0.1)</description>
+		<rom name="Sonic at the Olympic Games (2020 Version) (World) (v10.0.1).apk" size="54871838" crc="045a20c3" md5="c02c5be1da0af279439a1e4a211c218c" sha1="c49884c45bd69dd82a7f2f51504eb606217efa2b" sha256="03d41da6bff20df566ac897aa4aca942091dc3d15d39d0d0ca819e37ba607e36"/>
+		<rom name="main.3200.com.sega.tokyo.obb" size="515097262" crc="733011e7" md5="05b30b5f551033fc720d4f8fb13ea8e1" sha1="52f44d671d608a7b47b15726bbc38a1a65ebac5e" sha256="5436cfdd107078a30f2f9646c7636beaea12ff416e92975cdfd1ec88e8ea8506"/>
+	</game>
+	<game name="Space Invaders - Hidden Heroes (v2.15.0) (Unknown)" id="0214">
+		<description>Space Invaders - Hidden Heroes (v2.15.0) (Unknown)</description>
+		<rom name="Space Invaders - Hidden Heroes (v2.15.0) (Unknown).apk" size="50809839" crc="96ee1418" md5="1366555cb972506d697a8b0b8086d6c7" sha1="ba7d9ccfed1cc6c2fba76aae980b439ec968585e"/>
+	</game>
+	<game name="Space Invaders - Hidden Heroes (v2.3.0) (Unknown)" id="0215">
+		<description>Space Invaders - Hidden Heroes (v2.3.0) (Unknown)</description>
+		<rom name="Space Invaders - Hidden Heroes (v2.3.0) (Unknown).apk" size="137120115" crc="9e25dfb1" md5="eb15a0211567def539c7cd58755d92ae" sha1="e3904d76fe7121dec1385c7e45127eb8223a044d"/>
+	</game>
+	<game name="Subway Surfers (World)" id="0051">
+		<description>Subway Surfers (World)</description>
+		<game_id>com.kiloo.subwaysurf</game_id>
+		<rom name="Subway Surfers (World).apk" size="22882094" crc="e657612b" md5="02d30080e89d641870c4c5db7b5870aa" sha1="6595c55c64a9a0fb3d79d8a6beeb97dff310d5c2" sha256="7843365cf5726abfcde31964e268ed3b4944e4df8efe9bb181be1aacea2d6e71"/>
+	</game>
+	<game name="Subway Surfers (World) (v1.0.1)" id="0052" cloneofid="0051">
+		<description>Subway Surfers (World) (v1.0.1)</description>
+		<game_id>com.kiloo.subwaysurf</game_id>
+		<rom name="Subway Surfers (World) (v1.0.1).apk" size="22890598" crc="7c323ff3" md5="7d4011fd8d0b0ab87e579f0a495f8089" sha1="b7dca5e1fb9481f26ce99f500df14b93b11879e4" sha256="89aba3659e914d37bb098b0f9cd3f20dc750231e0436472084eb1e24dade804a"/>
+	</game>
+	<game name="Subway Surfers (World) (v1.0.2)" id="0053" cloneofid="0051">
+		<description>Subway Surfers (World) (v1.0.2)</description>
+		<game_id>com.kiloo.subwaysurf</game_id>
+		<rom name="Subway Surfers (World) (v1.0.2).apk" size="22890754" crc="e61f6994" md5="ac92667e27ff6c6252b554f8d44dc393" sha1="020e08843482c1b5573b19139f867176d3a0c752" sha256="4c0d3c07bd4a5ae8d1e8e1062a18110e4ba75717e4c79acdafaae1ad86849cb5"/>
+	</game>
+	<game name="Super Mario Run (World) (v0.1.0) (Beta)" id="0045" cloneofid="0046">
+		<description>Super Mario Run (World) (v0.1.0) (Beta)</description>
+		<rom name="Super Mario Run (World) (v0.1.0) (Beta).apk" size="18118475" crc="2362b45a" md5="eb572400b96c9f7c6b75ee274e66ed71" sha1="4754e0ac20a6b66b00478937764658292e7edf68" sha256="0f3df10a1f78f1aa1553371c4b645d44031c79d58e25732e790c4fc6de16a1c0"/>
+	</game>
+	<game name="Super Mario Run (World) (v2.0.0)" id="0046">
+		<description>Super Mario Run (World) (v2.0.0)</description>
+		<rom name="Super Mario Run (World) (v2.0.0).apk" size="64757371" crc="69727f62" md5="3aad1e777c1b9d7f5dae5f85d9e83d9b" sha1="dd17707d6987e52aa8c762486404cda946ca2cff" sha256="27805ccff9b236d70b4d66a41fb17713622bebcdb9018107500a9e271349b69f"/>
+	</game>
+	<game name="Super Mario Run (World) (v2.0.1)" id="0047" cloneofid="0046">
+		<description>Super Mario Run (World) (v2.0.1)</description>
+		<rom name="Super Mario Run (World) (v2.0.1).apk" size="64763575" crc="04aa7401" md5="cea91b20a14f9fe31636187e6e8b038e" sha1="b808b9617b583feb523fc9d38dcaee92638c11ea" sha256="54b8e23680ecf180bbcceab4f27826cc43f5dfe812854186205452e033b87f19"/>
+	</game>
+	<game name="Super Mario Run (World) (v2.1.0)" id="0048" cloneofid="0046">
+		<description>Super Mario Run (World) (v2.1.0)</description>
+		<rom name="Super Mario Run (World) (v2.1.0).apk" size="66067998" crc="31ec0857" md5="315d1ac28d7ba183d5dace720a658b50" sha1="a783b40ff8f5391d313c9ad444c9f4ae9f9ea1c6" sha256="a6d393e4c40fdc43731c378cb763e9f0fcceb80dd4418b8b2e8c64a34b7b0352"/>
+	</game>
+	<game name="Tetris (EA) (World) (v3.1.01)" id="0226">
+		<category>Games</category>
+		<description>Tetris (EA) (World) (v3.1.01)</description>
+		<rom name="Tetris (EA) (World) (v3.1.01).apk" size="66818577" crc="dccf96f4" md5="b7337b1a634b34fe41efb77a26001688" sha1="70bfa5f4c69b509d32fefb3a7a3823930a5adad6" sha256="12036844fe80122825a7d4f8f42e1bcc6d6266a243b382fbb988a123453e3d23"/>
+	</game>
+	<game name="Tetris Blitz (World) (v7.0.0)" id="0227">
+		<category>Games</category>
+		<description>Tetris Blitz (World) (v7.0.0)</description>
+		<rom name="Tetris Blitz (World) (v7.0.0).apk" size="104113766" crc="a6bac259" md5="83ff3d4015ba9e1ec9dfbfc70cafea6d" sha1="3498aeae6532955d0ed59ea3dcfd2c628c70c80d" sha256="af9bf6d9891ad12ac6dcb6dc87722c3dd016e3c9c0ab17e90e201dfcce569dd0"/>
+	</game>
+	<game name="Tiny Thief (Unknown) (v1.2.1)" id="0240">
+		<category>Games</category>
+		<description>Tiny Thief (Unknown) (v1.2.1)</description>
+		<rom name="Tiny Thief (Unknown) (v1.2.1).apk" size="46348137" crc="c8da89ab" md5="667c5f2162955b8b98557cf73d52a1d3" sha1="86322d8ae5b1ca713d5de33573900c4ce790f90a" sha256="f1d1931f5a23331fc6f70b18410809673d6cc4d741ac6f1117b151ea1a16d1b2"/>
+		<rom name="main.57.com.roviostars.tinythief.obb" size="17669002" crc="b5b9e8a8" md5="0df1120766008eb031e5d4e514c88320" sha1="381d81b1307d91aef560db8323b1340264d2ae77" sha256="a8f72855e8d22be371d5ef55d77885a867165d2553cf7c814583924655ac59be"/>
+	</game>
+	<game name="Touhou Thousand Night Ananemisis (Unknown) (v1.20)" id="0235">
+		<category>Games</category>
+		<description>Touhou Thousand Night Ananemisis (Unknown) (v1.20)</description>
+		<rom name="Touhou Thousand Night Ananemisis (Unknown) (v1.20).apk" size="101350247" crc="c9fd7889" md5="a0e8144c8634a51cdae6160a822cae76" sha1="168f4985359f518b2ec546b07ab44acd5a238ac5" sha256="e8494980f4fdcb03e82ceeac4afa862915118e2b11da6991b87df79e645f1f00"/>
+	</game>
+	<game name="X-Files, The - Deep State (World) (v2.7.0)" id="0054">
+		<category>Games</category>
+		<description>X-Files, The - Deep State (World) (v2.7.0)</description>
+		<rom name="X-Files, The - Deep State (World) (v2.7.0).apk" size="56390080" crc="2802602c" md5="3bce4d27af914ad861d31bcaae234ec6" sha1="0514725012393b874b5627d02f8935aaf06c3fb0" sha256="28d5cd337848cebf2751850827816e40b4a8539794ff919d964082758fb31525"/>
+		<rom name="X-Files, The - Deep State (World) (v2.7.0).obb" size="51045070" crc="b0bb4e40" md5="538470b47f95ea2623aa7e9bb05a5c95" sha1="0ecf31ffc78a71aac90432ff7b2b71b56d814687"/>
+	</game>
+	<game name="X-Files, The - Deep State (World) (v2.6.31)" id="0055">
+		<category>Games</category>
+		<description>X-Files, The - Deep State (World) (v2.6.31)</description>
+		<rom name="X-Files, The - Deep State (World) (v2.6.31).apk" size="56310628" crc="56a0f85b" md5="08fa2141fa1830ee71a6f02e75a11a65" sha1="1b6e4402394ce0bb8bcf0b759e701031bdf4d1de" sha256="99390aad5d70a59d9609b1e4585cdac284c20dc7ddc03b8bb951db1d57c6ad0a"/>
+		<rom name="X-Files, The - Deep State (World) (v2.6.31).obb" size="51045070" crc="ab680af1" md5="a9d5a7c357c504922ab56f8844cb3685" sha1="26209961b83e390b6c708f4afbda791abb281d7d"/>
+	</game>
+	<game name="X-Files, The - Deep State (World) (v2.0.9)" id="0056">
+		<category>Games</category>
+		<description>X-Files, The - Deep State (World) (v2.0.9)</description>
+		<rom name="X-Files, The - Deep State (World) (v2.0.9).apk" size="98763824" crc="292395e0" md5="3b7db2477c77a9437ae32248575ec9b6" sha1="401192a0dd27bc60e6d946535ca9325f5d1445f3" sha256="9982c3737c6d964ec59b9c29566fc7182be07ad0659a851d41cfacdad6d1fd04"/>
+	</game>
+	<game name="X-Files, The - Deep State (World) (v2.6.5)" id="0057">
+		<category>Games</category>
+		<description>X-Files, The - Deep State (World) (v2.6.5)</description>
+		<rom name="X-Files, The - Deep State (World) (v2.6.5).apk" size="55952584" crc="319a4dc8" md5="ba8b0c4ff7bd443eeeb3d616e4f1a27a" sha1="4af9ef2e63b67fba45bb46d9259628b6e6201413" sha256="17a0b206acd4e87b30cbd42a51f1e56767c113ca70c020698cddb1df243d9123"/>
+		<rom name="X-Files, The - Deep State (World) (v2.6.5).obb" size="51045072" crc="bdbcf5f6" md5="baca6fb5f31b7aa310787bc52e6f2e65" sha1="be862ba4d41468f7bfa3caeba0f9b83f46e492a6"/>
+	</game>
+	<game name="X-Files, The - Deep State (Unknown) (v1.4.0)" id="0193">
+		<description>X-Files, The - Deep State (Unknown) (v1.4.0)</description>
+		<rom name="X-Files, The - Deep State (Unknown) (v1.4.0).apk" size="102943747" crc="6575c51c" md5="0413a29907c073f7ab27b9f5c28225be" sha1="10e85b8d0a47338cfb25f016e3598b663c4396e6"/>
+	</game>
+	<game name="X-Files, The - Deep State (v1.10.12) (Unknown)" id="0181">
+		<description>X-Files, The - Deep State (v1.10.12) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v1.10.12) (Unknown).apk" size="99449635" crc="9d42dabb" md5="46c52d3902ffba7ea8a7a30f3f70781b" sha1="a733e3ab0b54a1cc743154b65da038685c94242f"/>
+	</game>
+	<game name="X-Files, The - Deep State (v1.10.5) (Unknown)" id="0182">
+		<description>X-Files, The - Deep State (v1.10.5) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v1.10.5) (Unknown).apk" size="99368306" crc="e6a1f6de" md5="649ef2c9e8d2380d75e06c1d2ea3f4a9" sha1="ad2fcfad9fe01fdd38298b8a8ae6b590df49cda4"/>
+	</game>
+	<game name="X-Files, The - Deep State (v1.10.9) (Unknown)" id="0183">
+		<description>X-Files, The - Deep State (v1.10.9) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v1.10.9) (Unknown).apk" size="99449723" crc="a70bed8c" md5="f193429bb84ffec83e1e85caf41bec9f" sha1="9274e438cf708f1d5e4e8ad38377c43ebc6562ee"/>
+	</game>
+	<game name="X-Files, The - Deep State (v1.12.6) (Unknown)" id="0184">
+		<description>X-Files, The - Deep State (v1.12.6) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v1.12.6) (Unknown).apk" size="98151907" crc="b794cd75" md5="cb97e8b42240abee0596cd8e6737d625" sha1="4aa2da4188735fe071321b0fb509f5d493f64a79"/>
+	</game>
+	<game name="X-Files, The - Deep State (v1.7.9) (Unknown)" id="0194">
+		<description>X-Files, The - Deep State (v1.7.9) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v1.7.9) (Unknown).apk" size="97626761" crc="d6cb1837" md5="3f140bf1ba5e3511bb72b5775089a4b2" sha1="d4fd25bcab67921297acaf123daebcef1192a35c"/>
+	</game>
+	<game name="X-Files, The - Deep State (v1.9.4) (Unknown)" id="0185">
+		<description>X-Files, The - Deep State (v1.9.4) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v1.9.4) (Unknown).apk" size="97628185" crc="1e450532" md5="49a03623b89659f337c2ab73cf4941e6" sha1="798324ee40954bf9b49981d07477f4e31bda78e2"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.0.13) (Unknown)" id="0186">
+		<description>X-Files, The - Deep State (v2.0.13) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.0.13) (Unknown).apk" size="98772284" crc="18f153c6" md5="56eb8cede67672fb0f54bf23a4a6ff21" sha1="079480f60cd1dafef33871afe8d692df2c845de5"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.0.14) (Unknown)" id="0187">
+		<description>X-Files, The - Deep State (v2.0.14) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.0.14) (Unknown).apk" size="98828221" crc="2b02f95c" md5="cb4604b7834b3d3f42326871d35670b5" sha1="f43d749923a2187b8a5d0ac2eaf60c7a049d3a41"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.0.20) (Unknown)" id="0188">
+		<description>X-Files, The - Deep State (v2.0.20) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.0.20) (Unknown).apk" size="98847889" crc="78d7ef33" md5="4be29f024a0fbe73b85981ba8085f2ab" sha1="43db93bccaf3b8393bdd37b3e539fc17dbe31423"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.1.3) (Unknown)" id="0189">
+		<description>X-Files, The - Deep State (v2.1.3) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.1.3) (Unknown).apk" size="99160150" crc="5e7658b4" md5="446466e7a4c426e51e8e0b9edfb58080" sha1="ce59a971cb139bc111d21b6727578d2d6049660f"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.2.17) (Unknown)" id="0190">
+		<description>X-Files, The - Deep State (v2.2.17) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.2.17) (Unknown).apk" size="101744133" crc="7082008b" md5="2d0133016df18ca0aaba89ee1aca3385" sha1="ac2ba3e5f2c28718f5df90135e0df91a498bb60a"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.2.6) (Unknown)" id="0191">
+		<description>X-Files, The - Deep State (v2.2.6) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.2.6) (Unknown).apk" size="100246602" crc="b032aae1" md5="f6ba8b9946a91aacb1b4c9cfd92eea81" sha1="c52f6ff51a6d79aa7a3a16b91dbd027bfaee6aa8"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.2.9) (Unknown)" id="0192">
+		<description>X-Files, The - Deep State (v2.2.9) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.2.9) (Unknown).apk" size="100297862" crc="4a419cf9" md5="5113dbc174f16b9e0b9103f0e062fdfe" sha1="b89071c79747996c78bd283e2adf4ce5a17f7daa"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.4.3) (Unknown)" id="0205">
+		<description>X-Files, The - Deep State (v2.4.3) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.4.3) (Unknown).apk" size="55428423" crc="43647087" md5="c0da43cfc5331d4d31fb1d51890ce3a4" sha1="138efe4275068e7a18417c8ccd28a4e724586748"/>
+		<rom name="X-Files, The - Deep State (v2.4.3) (Unknown).obb" size="51042499" crc="36700613" md5="4cc650dd52a3e000d1de59a83607f78c" sha1="462d6380cb1ce9ceb3ff86e71563aa1224cb9a4d"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.4.6) (Unknown)" id="0206">
+		<description>X-Files, The - Deep State (v2.4.6) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.4.6) (Unknown).apk" size="55428311" crc="3daaa7eb" md5="56fd07fae5fd2668a965acbe62eeef94" sha1="5d4aea4338e72b37438ab22e027fcbbcc4ec9190"/>
+		<rom name="X-Files, The - Deep State (v2.4.6) (Unknown).obb" size="51042499" crc="30489856" md5="fc83ffef8434c5ccf04fe202fcb8e68d" sha1="c78bd1832f6d9b4dd58aeda732e159d1ca9c2d3b"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.5.3) (Unknown)" id="0207">
+		<description>X-Files, The - Deep State (v2.5.3) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.5.3) (Unknown).apk" size="55570084" crc="4a3abfc1" md5="af9b87a1c1249d6bb29537cce0fab679" sha1="40a1250fd9bb4c55c2fdc3ebc7180b2050e4dd76"/>
+		<rom name="X-Files, The - Deep State (v2.5.3) (Unknown).obb" size="51045070" crc="28d85be6" md5="03c2afd979baad742d3e67d624d43a2f" sha1="29bf7c70c0847961143c9f9ad2217c4136fe76e9"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.5.5) (Unknown)" id="0208">
+		<description>X-Files, The - Deep State (v2.5.5) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.5.5) (Unknown).apk" size="55570372" crc="2bf91a8d" md5="7493b2cf3af162da699bdafe69897a5f" sha1="36f848fdf840694beab2a9dea588f57c05e7aee2"/>
+		<rom name="X-Files, The - Deep State (v2.5.5) (Unknown).obb" size="51045070" crc="bd517c8e" md5="1722073a9c88979ad4795e62710989ca" sha1="50523da61d38065e93560e266198c88a96737270"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.6.1) (Unknown)" id="0209">
+		<description>X-Files, The - Deep State (v2.6.1) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.6.1) (Unknown).apk" size="55953184" crc="93b3a80d" md5="f3cde86ac25b2afc2d75f5cd5cb13977" sha1="250587b02f781028f96be094296a9cb6e0240af5"/>
+		<rom name="X-Files, The - Deep State (v2.6.1) (Unknown).obb" size="51045070" crc="394e08d0" md5="ed88f7b05ea42174d9d2d92c776e020c" sha1="d4f2080639b8befe92f336c470885cf0bbe0f5d1"/>
+	</game>
+	<game name="X-Files, The - Deep State (v2.6.4) (Unknown)" id="0210">
+		<description>X-Files, The - Deep State (v2.6.4) (Unknown)</description>
+		<rom name="X-Files, The - Deep State (v2.6.4) (Unknown).apk" size="55953528" crc="393f837a" md5="ef6ae74d5d94d728affe22cf40875bbd" sha1="65c8765978d9f212ff352b475133a97270802229"/>
+		<rom name="X-Files, The - Deep State (v2.6.4) (Unknown).obb" size="51045072" crc="8eac1f9e" md5="a2dea7a8d5bdb863448f4a1895a4356f" sha1="9543576134cf4dfc25a661d1524f47f874557edc"/>
+	</game>
+</datafile>

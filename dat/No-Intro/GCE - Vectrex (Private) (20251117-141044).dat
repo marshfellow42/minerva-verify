@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>7</id>
+		<name>GCE - Vectrex (Private)</name>
+		<description>GCE - Vectrex (Private)</description>
+		<version>20251117-141044</version>
+		<author>Arctic Circle System, C. V. Reynolds, Gefflon, Hiccup, kazumi213, Money_114, nnssxx, Psychofox11, psykopat, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="USA Zombie Apocalypse (World) (Aftermarket) (Unl)" id="0050">
+		<category>Games</category>
+		<description>USA Zombie Apocalypse (World) (Aftermarket) (Unl)</description>
+		<rom name="USA Zombie Apocalypse (World) (Aftermarket) (Unl).vec" size="32768" crc="5b10a61a" md5="4aaa9d356981202bc722d1d24bf505c1" sha1="3e5bc5ff4b0a463d5fae0a66c4bc3d335c0e30b8" sha256="6cee066f28ceb680788cad143004157b35be0299aaee60f429f6ca7947cc6b71" mia="yes"/>
+	</game>
+	<game name="Vectral (World) (Aftermarket) (Unl)" id="0049">
+		<category>Games</category>
+		<description>Vectral (World) (Aftermarket) (Unl)</description>
+		<rom name="Vectral (World) (Aftermarket) (Unl).vec" size="65536" crc="de6fb997" md5="dab9dd837690bf636f667f33030b6138" sha1="eaf0fcb8f6935f7d753666b935cd858c126d5112" sha256="887d17e746c2771ffe0e5e87f502c20df9f1c7dca72958f22810ec82364988b6" status="verified" mia="yes"/>
+	</game>
+</datafile>

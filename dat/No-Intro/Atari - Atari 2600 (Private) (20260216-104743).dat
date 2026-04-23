@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>88</id>
+		<name>Atari - Atari 2600 (Private)</name>
+		<description>Atari - Atari 2600 (Private)</description>
+		<version>20260216-104743</version>
+		<author>ajshell1, Arctic Circle System, bikerspade, C. V. Reynolds, FakeShemp, Flashfire42, Gefflon, Hiccup, nnssxx, number, omonim2007, Psychofox11, psykopat, rarenight, relax, RetroUprising, root, smesgr, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Berzerk (World) (Enhanced Edition) (Aftermarket) (Unl)" id="0795">
+		<category>Games</category>
+		<description>Berzerk (World) (Enhanced Edition) (Aftermarket) (Unl)</description>
+		<rom name="Berzerk (World) (Enhanced Edition) (Aftermarket) (Unl).a26" size="32768" crc="63511dc4" md5="8b80a6c398724ba0ca6321e15b27c7c0" sha1="5af2c79115575e4d24d15ade02b115c1e4e43119" sha256="d6ba990e024505e4eb2becac74115e2b5fd69ff6d325714f9e7cca590a1fc2b0" status="verified"/>
+	</game>
+	<game name="Bigfoot Family Rescue (World) (Aftermarket) (Unl)" id="0830">
+		<category>Games</category>
+		<description>Bigfoot Family Rescue (World) (Aftermarket) (Unl)</description>
+		<rom name="Bigfoot Family Rescue (World) (Aftermarket) (Unl).a26" size="4096" crc="93db21a8" md5="a65633c733bb31e5676b25f458a76254" sha1="de3108038723f0094eefcf94d086b8ac5d43a65e" sha256="ebcda058a828c5d693c75ebfbcafd4f0d515bfadc7433f5d0708992258ff732b" mia="yes"/>
+	</game>
+	<game name="Forest (World) (One Player) (Aftermarket) (Unl)" id="0797">
+		<category>Games</category>
+		<description>Forest (World) (One Player) (Aftermarket) (Unl)</description>
+		<rom name="Forest (World) (One Player) (Aftermarket) (Unl).a26" size="4096" crc="a54a59ab" md5="8328e9e521e6d0d4aac2efebe2483608" sha1="42426b641abd56479495e80a494f2f25bd74e422" sha256="a95e59ba25d9fd14ae83e6e4e63a825702a1b9f2868044071d80cd1e1ade1999"/>
+	</game>
+	<game name="Forest (World) (Two Player) (Aftermarket) (Unl)" id="0798" cloneofid="0797">
+		<category>Games</category>
+		<description>Forest (World) (Two Player) (Aftermarket) (Unl)</description>
+		<rom name="Forest (World) (Two Player) (Aftermarket) (Unl).a26" size="4096" crc="4aef8d7a" md5="e08f26457e95fb9e5f0c5aa70421ebfc" sha1="c7e64974940adcbf078f91078d2047afec4966b7" sha256="d664875b61e57cf225443f52f18d81dab2374572790c197ebcf574f1d8f0ff50"/>
+	</game>
+	<game name="Forest (World) (One Player) (Muted) (Aftermarket) (Unl)" id="0808" cloneofid="0797">
+		<category>Games</category>
+		<description>Forest (World) (One Player) (Muted) (Aftermarket) (Unl)</description>
+		<rom name="Forest (World) (One Player) (Muted) (Aftermarket) (Unl).a26" size="4096" crc="dbea68b4" md5="81e7e8852dd14665932444d05904b45d" sha1="2ddb104218249212cd72af8e8febcc086d20409e" sha256="f9bd365fcec36a6a4a4a1c4a10b7fc89d3f1ff677b412fabaffccffc4b54cc38" status="verified"/>
+	</game>
+	<game name="Forest (World) (Two Player) (Muted) (Aftermarket) (Unl)" id="0809" cloneofid="0797">
+		<category>Games</category>
+		<description>Forest (World) (Two Player) (Muted) (Aftermarket) (Unl)</description>
+		<rom name="Forest (World) (Two Player) (Muted) (Aftermarket) (Unl).a26" size="4096" crc="562c4e2a" md5="bc6135ebb1a0ff50f954a670a8092e47" sha1="be0761b62799707537014d0eb429f4d9bd4b1e99" sha256="171e0e1e59d4e1ba9915265a9cedefc216291abf5cdba32b56a4e1f48386c330"/>
+	</game>
+	<game name="Mr. Run and Jump (World) (Aftermarket) (Unl)" id="0794">
+		<category>Games</category>
+		<description>Mr. Run and Jump (World) (Aftermarket) (Unl)</description>
+		<rom name="Mr. Run and Jump (World) (Aftermarket) (Unl).a26" size="16384" crc="9cdb0360" md5="a18c31f680d1adeb541e89508b7a5e3b" sha1="5363ff31b2719ab8114c6d5ac226deb0fb3c1d1f" sha256="ad7fe7ce6abbbf16967880173fbea67f3210ad5b0d629c6ec3f8c8137a1d0a93"/>
+	</game>
+	<game name="Spies In The Night (World) (Aftermarket) (Unl)" id="0831">
+		<category>Games</category>
+		<description>Spies In The Night (World) (Aftermarket) (Unl)</description>
+		<rom name="Spies In The Night (World) (Aftermarket) (Unl).a26" size="8192" crc="595c8ea7" md5="ec07f6621424d53db39161a8a76e1282" sha1="b2f349e0caae6a44d472a4bc8962bf8b85263876" sha256="8dcaa0be747f95aab9a49613c0949b0aa1b6ff0d5ff4c1ead3e6a720a722254a" mia="yes"/>
+	</game>
+</datafile>

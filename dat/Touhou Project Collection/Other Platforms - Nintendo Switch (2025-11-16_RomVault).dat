@@ -1,0 +1,1032 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Other Platforms - Nintendo Switch</name>
+		<description>Touhou Project Collection</description>
+		<category>Handhelds</category>
+		<date>2025-11-16</date>
+		<author>Eggman</author>
+		<homepage>https://github.com/Eggmansworld/Datfiles</homepage>
+		<comment>All NSP files are in Standard NSP format</comment>
+		<romvault/>
+	</header>
+	<game name="!Support files">
+		<description>!Support files</description>
+		<rom name="!README.txt" size="767" crc="01dcc3ed" sha1="524aa53eebc61fda1ad8bfe681c2cd96f1f422bd" md5="c34c679bca837e5eb61ce290466fed5b"/>
+		<rom name="firmware/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="firmware/18.1.0/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="firmware/18.1.0/02eef0cb51b5e1654d02836635cf2cd3.cnmt.nca" size="3584" crc="b8c37b37" sha1="057d1950f8ea3fd3c6b5430898c3e6372ae1d1b2" md5="e73cf11b77f7d03a348bc9dbcfcee110"/>
+		<rom name="firmware/18.1.0/02f75d0d96754ad51579af5589b1a471.cnmt.nca" size="3584" crc="51e872a1" sha1="6a07f696ed762d30dc5509a67ee277c1cd6f7a40" md5="80d51fb203d3edd5877f37c3b2c26e8b"/>
+		<rom name="firmware/18.1.0/0517e3a8b51c233b573ff6b78b1be8e1.cnmt.nca" size="3584" crc="15e952c0" sha1="1e0af6d4deb7c50ef6dc16a859ab44929f09855e" md5="50f29d7601fbf73174412aefa778cff9"/>
+		<rom name="firmware/18.1.0/05a757ac1d7603c93e87fd37e1a6388a.nca" size="1372672" crc="608344e0" sha1="abacad415635cac23d65ba01e3a41f779d21a347" md5="a1e24dafc7652a2e282e91e734425bbb"/>
+		<rom name="firmware/18.1.0/064a54ef339e05af161a4e7c47a63194.cnmt.nca" size="3584" crc="3e735d6f" sha1="9e7b4a861a248c188372518f4447b53584af1497" md5="985f8ddb4aa6648f18e0134fd1221898"/>
+		<rom name="firmware/18.1.0/079660ee1d82f2f7ce8225be5c49840d.nca" size="74240" crc="1a251757" sha1="d9bfe86defe30127ed12be19f3a037416f65da68" md5="4af866a67800fa28ddce4c051c31cd3c"/>
+		<rom name="firmware/18.1.0/0a5aecafa1c3c5af76a37b74e0277265.cnmt.nca" size="3584" crc="ba7a5106" sha1="e43f13752872e5305b0812efedb4f77b77c3045c" md5="71e6d367e1a590096dcfb4e2ffd57b1d"/>
+		<rom name="firmware/18.1.0/0a966f3ab3bc70de87b6d16ffc59cc5b.nca" size="2035712" crc="352029a3" sha1="63842211db2d716884569f9c812686eccd4dcfe8" md5="6b8e3741d2dd289a188896b81ada3763"/>
+		<rom name="firmware/18.1.0/0cf95a44b4b0b70c6d37477909f3c529.cnmt.nca" size="3584" crc="fcad0534" sha1="40796cbf04eb9c6755eb4f473fee01789e02694b" md5="1de1cd53b36f9b85776b80f1332a22a4"/>
+		<rom name="firmware/18.1.0/126e4bdb542ac3b51045b6e9eaf65dee.cnmt.nca" size="3584" crc="6ce10da6" sha1="2da16f0e34145d11837bd8357c34233ef506bce7" md5="d930959e898d92a48fd38ae24ed29353"/>
+		<rom name="firmware/18.1.0/129f278c3c7ce5e571d2dfb380ade81d.cnmt.nca" size="3584" crc="a275b929" sha1="9bb48ebc79af168a55dbf352af7d5fcd74776172" md5="a1900232873183bc31632396cee74660"/>
+		<rom name="firmware/18.1.0/12e6e3d31721f2adb4a66d80fdfd30f3.cnmt.nca" size="3584" crc="4d00374f" sha1="a98d1e7027ee0e73a173fa48b73bcdc04b09cc66" md5="b2adf356befcbc1f5fd6c747bd9be487"/>
+		<rom name="firmware/18.1.0/1655764d7dc2fa4d326df0416a230de6.cnmt.nca" size="3584" crc="e0481b31" sha1="074f5fee89deddb1ae3b452347b2a21cb2251363" md5="454872d8330e6d9efda7f4a1088785b0"/>
+		<rom name="firmware/18.1.0/17cf2723dd2bb12470e47f3a4a3e9a90.nca" size="8057856" crc="8de0eb64" sha1="e45cb27ecc8f294ad2aa9efb4b06877ec0b500b7" md5="9e0b3ba0ac88f9464d1e1b71f74ebe66"/>
+		<rom name="firmware/18.1.0/1880208ec722cef66da362b47b12a24b.nca" size="187904" crc="ef1482a2" sha1="f06e59cf67a7cccfdb796ed5cc49a287f6a67cf5" md5="12c51c559bdb8fc8b84871fbac2aaf77"/>
+		<rom name="firmware/18.1.0/18f86c7afd383d1acffeab076fa44e85.nca" size="101888" crc="b78310bb" sha1="ed2e2d9f8963e936ba172419e2b58cdd69c050b0" md5="08c8c9117bdaf837755c49c03a18bfbc"/>
+		<rom name="firmware/18.1.0/18fab0c7fd957281825ceda9411bf256.cnmt.nca" size="3584" crc="794dd9fa" sha1="fc926f49a5e2bbd4ebe839a05d6d587dcb33810c" md5="d5ace3a2632953d0f5e94c78d84a5283"/>
+		<rom name="firmware/18.1.0/191f07799be0b62f4e7502163994ed42.nca" size="16103936" crc="4ca33fef" sha1="36ecbb456d52a0dc649b4950f770d988301defae" md5="b8b3ea96d192340c13ed8dee42936469"/>
+		<rom name="firmware/18.1.0/1a351f96c6f2742f27287ff01bdfe4eb.nca" size="836096" crc="4695c0e2" sha1="90b04618fb0f151e3b412fea704b08f6ec41bc89" md5="ff5f51cf9469eda5684abf3f8aefde3a"/>
+		<rom name="firmware/18.1.0/1d0d28fe34050c9f71bf44d6b2d819e2.cnmt.nca" size="3584" crc="10acb0cf" sha1="27f04c27e5f16b42aa3cb10f32dae7e6a328d7ea" md5="0f5c0f917cf40623974001271a9ef480"/>
+		<rom name="firmware/18.1.0/1e436e3a1804d7363d96c18ac1ebc111.nca" size="671744" crc="05cc3b71" sha1="55090beddd1ff9b4e0a4b78d78c9b33ea75ea1a3" md5="97398f41d2936cf515db22f52946b800"/>
+		<rom name="firmware/18.1.0/1f15db63ee86e79baafcd0d16fe766be.cnmt.nca" size="3584" crc="0c106194" sha1="f5d295b1eb3babb6207ec2b115f884b0e675ab73" md5="9ca6f6e7e0ba2b9530c7c8338df071cb"/>
+		<rom name="firmware/18.1.0/1f2cfea82e1cc1f46eb651c9ca20534f.nca" size="18210304" crc="5a8d45a9" sha1="f2f36b9035d2175cc5ff8cddb202f6fcd1c0377f" md5="1d0aac5c8b396f7978f193d76bf5bf44"/>
+		<rom name="firmware/18.1.0/201f81d1e6b58aae302f87127c972303.cnmt.nca" size="3584" crc="b3838d5c" sha1="989ef330e052e08e00fd6739968d72bc3b1f8b2e" md5="3a6acd073f8ddeba1c1a4adac1bfae2c"/>
+		<rom name="firmware/18.1.0/20a11b81dfd8aa333c86313f92d69c30.cnmt.nca" size="3584" crc="e096e30e" sha1="21eb3fa50b69660731f3bdc075dd13842101f2b5" md5="df3a86114b4186842973781020e9b082"/>
+		<rom name="firmware/18.1.0/2151dbc5cfb38fb3353a15d91456533f.nca" size="3266048" crc="5f3aadd8" sha1="1f6d8e1990ef0c4711fa464fe1ffa8c09ce0929b" md5="54c6a255b9f03b57eff0087c47de270e"/>
+		<rom name="firmware/18.1.0/272572f54fa2c1677a557f8c406d4151.cnmt.nca" size="3584" crc="1e6488ab" sha1="466ed4c0b26efb174bfe977c6c75c299736bc512" md5="cf0a35601c243a42bb21134aee7e2141"/>
+		<rom name="firmware/18.1.0/291664274e1cbb8a6599f82d54b44e63.cnmt.nca" size="3584" crc="23e364f4" sha1="c70a21909e11f6b5e1dd21ced6106fe76a9dfa5f" md5="c79f040694366ba047b71017738332ec"/>
+		<rom name="firmware/18.1.0/2945228b42a7dc88a024e52224bd12e8.cnmt.nca" size="3584" crc="e60a877c" sha1="416362b251d5a9c2a10dd43b045ecfb502699c34" md5="7eaad24fa43e873fd19fc8fda54436a4"/>
+		<rom name="firmware/18.1.0/2a4201cd0bb3b1e977b56353f3cad798.nca" size="160768" crc="5d16c0ae" sha1="779455db37465d0ab990f448622bc3fb17d0baf3" md5="f846d513245eb0a7d8b905eec81d4b0c"/>
+		<rom name="firmware/18.1.0/2ba34f21e2144465668cf86014b27583.nca" size="126976" crc="bc584141" sha1="10fcd9178ea34b74742ed8800fc97b10a29e2896" md5="e2188c00057bd572f2a5a45616af5d69"/>
+		<rom name="firmware/18.1.0/2ce43cceb23619e39003e709e2fddc9b.cnmt.nca" size="3584" crc="1eb12d1a" sha1="4a60324ac90ec15bbcf9741ef5b7b317f56918cf" md5="b57aac25028a255b052146618d17f297"/>
+		<rom name="firmware/18.1.0/2ce91e55530a6c8dab0e21caf6483bb4.nca" size="6615040" crc="a382feda" sha1="72187a209a13f1d7b20a0abc7ee6f6c54588aa35" md5="5438d5c7f18648e15c04fd6a52fda073"/>
+		<rom name="firmware/18.1.0/2dd67ff1c998edf548b77086b49270b7.nca" size="1032192" crc="d1bb860c" sha1="b9927e9aa6d93bdac470e56834829ce380200fed" md5="6ca5f6bf9176fee7ca60ebb79bf93453"/>
+		<rom name="firmware/18.1.0/2e0ec33c7059fea7780badcb852ca90a.cnmt.nca" size="3584" crc="6220adf8" sha1="52bb25cc3825dd101b9e8b0ae7632b449d379fba" md5="5af8f364ed6105be44942564eab54081"/>
+		<rom name="firmware/18.1.0/2fd3b2ec8f472da2c6bdf2e64a2fc57d.cnmt.nca" size="3584" crc="39ee5378" sha1="fb54391cdd57bdb647acc254fce98ea5bc978aff" md5="b83bead4a4004aafb5eaa0d08fe9cc7b"/>
+		<rom name="firmware/18.1.0/2fdc1cfbfe79af881d16d8a2c673673b.cnmt.nca" size="3584" crc="8d2e7195" sha1="3e2171e03033811c9e47ffa05f5e6ed19837728d" md5="bd826c32f33dba96952b995d11225686"/>
+		<rom name="firmware/18.1.0/307615e1b77531503d6b1d03494957c0.cnmt.nca" size="3584" crc="fa9066d8" sha1="52d3a474d87e208ea1bdcbf0463a1ba16c705ed4" md5="aa2301ba5881282d766913d063903a76"/>
+		<rom name="firmware/18.1.0/307ca5450d53925e87adfc48dbf311c0.cnmt.nca" size="3584" crc="72e4742e" sha1="0dcde46c3c56656972d6b959557dddbeac274ba6" md5="63ad6d2f8279625a8f745505af2af7ec"/>
+		<rom name="firmware/18.1.0/30bce9dce3a09b8a0978747fd1b8b563.nca" size="443904" crc="e9a29dc7" sha1="e2fa2f2dce2a364ad93b541e5c052e4c36be62c8" md5="2c24dec7f6de5f29735a76077d978fef"/>
+		<rom name="firmware/18.1.0/345eb30c36623de4ab03b2bc4a82811c.cnmt.nca" size="3584" crc="e71183df" sha1="b5048174e521f3b0c9cb1f95e5da44d16d6a493f" md5="82074d870af4c05cb93aa50ffa631a37"/>
+		<rom name="firmware/18.1.0/346064a4109194f409ae62bc488311de.cnmt.nca" size="3584" crc="751ef39a" sha1="9b833f70e714c3938c31b6e406310956aa744f68" md5="38aacd10895bf815c5456c37d0cd9a04"/>
+		<rom name="firmware/18.1.0/354b26148c7345e28014b4df708bae72.cnmt.nca" size="3584" crc="5f999541" sha1="fc02e41a787bdadc4b6987e938ec0f48396198d7" md5="2d72b806807a415c8d490a04dbcb9ec6"/>
+		<rom name="firmware/18.1.0/35835b221a62ca73763455914bf0e9aa.nca" size="27118592" crc="e24d1b93" sha1="87bd911e5a26afdad0575505abd78a944faa9926" md5="efe2f7b6b09e4378fcbe1459b87b1e27"/>
+		<rom name="firmware/18.1.0/358583de1f33a32ace900faa635d3c32.cnmt.nca" size="3584" crc="0682c1aa" sha1="04ca848a26bbcef1dced0d143ce84312c32dc33d" md5="cc0c1de7ef0c958f557ba18624071053"/>
+		<rom name="firmware/18.1.0/35d6eb2abf908409b3488caa836c655d.cnmt.nca" size="3584" crc="e162a637" sha1="e5f4f9bdac4620cd20c952cf766a6e5bc19f5887" md5="6f47e28ed3138eb76576cf0da53c5bac"/>
+		<rom name="firmware/18.1.0/3636a5b1d54c10441fcaa97ffdc1f882.nca" size="524800" crc="3655f6d9" sha1="daaf95fdefb48d8e01fe13d4c102a94cd44f11f1" md5="68acf79e7752fbc3d5d169c7f693eca3"/>
+		<rom name="firmware/18.1.0/369225a62e05335e47c5389cb3299745.nca" size="6615552" crc="0e817b3d" sha1="d3a2e110867a3e615c6ccdbfaf3995daafd389b7" md5="f2f43f4f9af3f955ae87a7524c8e6d78"/>
+		<rom name="firmware/18.1.0/374b23611f14ee113c159fc28936b5c5.cnmt.nca" size="3584" crc="408c11ff" sha1="a1abc783514850d1748115e0ef9ef058957a3f5d" md5="7963439263222df9539b06d413671926"/>
+		<rom name="firmware/18.1.0/3a16730a8c2311d41916495579961a52.cnmt.nca" size="3584" crc="37dad7d6" sha1="3f016fd9438f94c8b48c3efe575a72f7a2efb924" md5="5469542a87fab90139b859d96b9df6ff"/>
+		<rom name="firmware/18.1.0/3b248462c8c44d56635ee498579b6d61.cnmt.nca" size="3584" crc="21c02fcf" sha1="3df9a232e7e8ce977bfbbf6e0d99f3798055aeff" md5="966b4b6666b587333eb0bec3b579fb5f"/>
+		<rom name="firmware/18.1.0/3d09b8f31a0131051f962695e8a93d0d.nca" size="108544" crc="1a10b9f8" sha1="75497a63db3106cd6fa79d6f39b969137b59ad9c" md5="b7f322a9b8cea514ee6837d3572bed57"/>
+		<rom name="firmware/18.1.0/3d2e5985a13bbb3865739ce9dba73d2a.nca" size="86016" crc="6a2b9ce8" sha1="577a9596496781fcf8c8c7fd19c48264222d25fa" md5="fc84e855753ae15d6f9475b32ce0bc43"/>
+		<rom name="firmware/18.1.0/3deb5c3de7ed831c4977d403fdcc6572.cnmt.nca" size="3584" crc="3bee482d" sha1="7eb8b1a060f6ad9f92d589a21335b79934e72431" md5="d60e0b248276647671b4c845d3a5aa2a"/>
+		<rom name="firmware/18.1.0/3f6b1c4edd75665c1badfeeb97852597.cnmt.nca" size="3584" crc="baf60df0" sha1="41840edeac9a808dc1e5bf986ed365219db92132" md5="81107762df38bdc0d724eae2f8c66756"/>
+		<rom name="firmware/18.1.0/41d197d92b54c5ad172f86791a5b8493.nca" size="3302912" crc="6b70f5a0" sha1="d9fdd80c71d962f45792f350da5646bea69da13d" md5="64b88c2dec2d6bb4b9c74b84c2cebc6f"/>
+		<rom name="firmware/18.1.0/42afcba789afe00fde3e8db4349e0092.nca" size="632320" crc="9dabd9dd" sha1="889d52b623f2d623221002d5c199a032d3e751c3" md5="4a651bb21571a70262cd1b1addfe3a6f"/>
+		<rom name="firmware/18.1.0/4554877d021b88528b7791367e7d378f.nca" size="282624" crc="b96df413" sha1="a1ad72856419ed82cef37f84a9756732eb57d5d5" md5="fd134b498acdacbee246268f581827f7"/>
+		<rom name="firmware/18.1.0/458b172cb407a3c11b9f2f308728a010.nca" size="340480" crc="2dea537e" sha1="d3991fbce6c9004f6b31a38a2371b85a5e260def" md5="60adb7611cbf5c0be4b71c515de40d48"/>
+		<rom name="firmware/18.1.0/46008021771019f22a1d22f2302fc483.nca" size="14588416" crc="5d9f145a" sha1="b67ac3847197d60d1810a4a921a7a86889bbce53" md5="10024080ee57d6f97745773964e3da5b"/>
+		<rom name="firmware/18.1.0/486bd40bf2600f7ec683807b5ad9b334.cnmt.nca" size="3584" crc="41f11705" sha1="3ed02f97b2c43961ae3f059ceafaf6ec9c9ba8d7" md5="d5ca0c0643c7b372bc1a1592995d6fab"/>
+		<rom name="firmware/18.1.0/494a2ff60539d94ecdf5d30b03c10e75.nca" size="218112" crc="e9082dd2" sha1="4dff0c4fe09279647e082dec94ead12237a2d49f" md5="2ed90e920af7ecf10e576d9873b74077"/>
+		<rom name="firmware/18.1.0/4997159e6df6a3d085346d8e121757a1.cnmt.nca" size="3584" crc="77acdbfc" sha1="2221cbddfdaf45c3e7b16a6a3c67254ade790b61" md5="c44e161821df863c95d39fa10fb5f0e7"/>
+		<rom name="firmware/18.1.0/4a59b44dca179ca58ad579fd7e27e108.cnmt.nca" size="3584" crc="3f3873a7" sha1="1cceb47b6bd4a9c94f6c2af2028367e3721189b0" md5="003c8a8314392e4842c8ac593986c468"/>
+		<rom name="firmware/18.1.0/4cb18fa674b45e9edc6af6b559a3812e.cnmt.nca" size="3584" crc="c5e709c5" sha1="46f23f0cfa4f965c725f9b603f4e94191104924e" md5="283fff21bb5400ff472039d2fde0a619"/>
+		<rom name="firmware/18.1.0/4f104754c242ce499ad589d7d2ef95f9.cnmt.nca" size="3584" crc="4018fa90" sha1="db4f8ac3a2ef0791301b7822be87b7444eb41dc4" md5="d0f751e7500f1cdb8123b1f0d511db4c"/>
+		<rom name="firmware/18.1.0/5089c9be235442735426b9dac4df24bc.nca" size="792576" crc="49615323" sha1="54025b7d9de5189d04a2f6527758d851d1298ad5" md5="48b841f1ea4e9f5ccb7d4516e03764bd"/>
+		<rom name="firmware/18.1.0/5194bb10f874ca85cf390827401169d1.nca" size="248320" crc="78932660" sha1="9446a803138460210bfd7b843f54d1c461db0edc" md5="600f22d2d4dfc0e0b5f661f81be62e22"/>
+		<rom name="firmware/18.1.0/52920c5ca2047a0efa6781964ea318b1.cnmt.nca" size="3584" crc="74a709db" sha1="f8c658d99b2d3ca8d29b489569521fd9bb33ef96" md5="109d978813a24573c1652c8001e27c2f"/>
+		<rom name="firmware/18.1.0/5494b3c276b500c71b36ed38b2313d90.cnmt.nca" size="3584" crc="d9265a38" sha1="0a96ac03f022781bcd683f3e7e235fe668bed18f" md5="23d52e7a574af02a29ad19f8c7b6d4cd"/>
+		<rom name="firmware/18.1.0/565c3d36af625a701c2e2377bd19ab3c.nca" size="3996160" crc="7882eab0" sha1="473d6ab2994275790167da82060c2057308748dc" md5="4c87b33cbe0ba933ecd480d5f5b9d3d5"/>
+		<rom name="firmware/18.1.0/575c3195a65bfef3699668d65daa64e5.nca" size="86016" crc="77031033" sha1="7be5f1648fd6fe454ac5d2daaefc77aaf6db87f1" md5="2dea81d26b42039be778b8316eacf451"/>
+		<rom name="firmware/18.1.0/588c9d7d9c61d8639a89adcb17a6714d.nca" size="91136" crc="1559e340" sha1="277582168661bf241739b2ad112fda3f0434feab" md5="872e14f432e60ccc2ac5c2a356487c47"/>
+		<rom name="firmware/18.1.0/59eae4e7c38d6d6112296e40f2ce1f32.cnmt.nca" size="3584" crc="5f931680" sha1="f11a755fb80e4289a78f70ff5debccc6997f50d2" md5="69a1c03b427c5c3f0301b4ebfd8612c9"/>
+		<rom name="firmware/18.1.0/5b63e5b1de090ed3ca56abce96f83666.nca" size="299520" crc="dcfd0fb6" sha1="88c1bf41d1d531ed39a0d41fee08089491ed59b7" md5="6787ae9c084f45554eea43fad3db994c"/>
+		<rom name="firmware/18.1.0/5b991be1efff3e2d2bc34fba9d200c58.nca" size="3995136" crc="7f0418b0" sha1="4ecdd92252177d25451b00f53309de7c49a1afac" md5="69ec6ac8985deef6237adbae9607aa0c"/>
+		<rom name="firmware/18.1.0/5c854433ac153f88f0ba4e472f0f671b.nca" size="395264" crc="a394a9bf" sha1="adf986ce4aeaa75c793e0344eb6fd664715a111c" md5="e4a4325d790c6a8c3420c2c1afa21f40"/>
+		<rom name="firmware/18.1.0/5cbdf80f86a55f4f7995848dcafa645d.nca" size="965120" crc="93d1605d" sha1="fbb3ad78ff269d41aebad026feaf67507b72c3f9" md5="e7761bcbf02cb24aa93b77cddde4f861"/>
+		<rom name="firmware/18.1.0/5cdfe0302e400f262dc901cd9e24363c.cnmt.nca" size="3584" crc="96b8aa39" sha1="23a421e90d4735e136b725224285a4ca7d14f116" md5="17533e0aea464112c1f3ac20416e9923"/>
+		<rom name="firmware/18.1.0/5e435793fd9b1b63ee44808bd96029f5.nca" size="485376" crc="984c8318" sha1="b38517a2f608093ca03e93892365d73aadd0c59c" md5="cc5a820c2c676647e1889784571af2d2"/>
+		<rom name="firmware/18.1.0/5fe581c21696d6fc143702918a103709.nca" size="86016" crc="a93c0004" sha1="b2daf11bb352860cf16fd97bd4056267ca81fcf4" md5="ce73b2181f50aaf0627b904c50bdf93a"/>
+		<rom name="firmware/18.1.0/5ffedbb674a06b884ef2078b8e00fb77.nca" size="215552" crc="438e2c54" sha1="7c3e94c14f0eb0ac7f257f59d8b230f7476b95d5" md5="136d99db9b2c4c99eace85d3cf36613c"/>
+		<rom name="firmware/18.1.0/60809cb2232500b9d1d7d94cd4b11c6c.nca" size="254976" crc="5da3e28c" sha1="a9ead1ae2b21879d63ca8d445de16a3d637c6c64" md5="3c3b480f0ecc168a0b9feb0c59ed474b"/>
+		<rom name="firmware/18.1.0/61eb0e7c6d6bd5d0a529fa68e5c6d300.nca" size="3530240" crc="6dde94b7" sha1="ee3a359e430dd67f064e089c2e8cbffff76f0f7b" md5="2f6913299005efbace1d6608ddb812d6"/>
+		<rom name="firmware/18.1.0/63741f61ce2018644981313989afe9b5.nca" size="380416" crc="9519d81d" sha1="7153f12058a9b4c1ee10c6284f21c179e7387027" md5="782b7219e63dd9f2e2a12e1b085206a2"/>
+		<rom name="firmware/18.1.0/63fd0ecb5e023f5ed18ea771cf4671e9.nca" size="271360" crc="79341bc3" sha1="47511c7c2de2fac49bd1d530a1feae677a12e9b0" md5="7cc9a579a6348985011797abc0a2e0a7"/>
+		<rom name="firmware/18.1.0/64345d8ceda361f2419162163026cee5.cnmt.nca" size="3584" crc="b50ff4fa" sha1="33cbb48321f365ca7d6149685803de5c393de519" md5="472d30a7271e6e569e0bf2f77459c92d"/>
+		<rom name="firmware/18.1.0/64f40620a86942c951be321d6c1fb1e6.cnmt.nca" size="3584" crc="11023d7b" sha1="e208d1f3f0700e2f507d21b43d076cfc2ffbc5ea" md5="f3457c4af4b7137f06ddb7aa74d8d7fb"/>
+		<rom name="firmware/18.1.0/6528b818628f7324d9e9a58fa62af6de.nca" size="4146688" crc="38915678" sha1="f109d64d4aafd5cc2209801cd5a6ce558ce34812" md5="2427b58b347a1b60cc78af15adf72ea5"/>
+		<rom name="firmware/18.1.0/659cba16d2c05325129bb04506a88e2f.cnmt.nca" size="3584" crc="1c9a8e5a" sha1="6017e7bb9cde8bfee62661a79fdb47c0a2db1341" md5="caa2d9e31ac2c8bc68ef741f4ff5a585"/>
+		<rom name="firmware/18.1.0/664e3a24425d3c14f656828a0079894e.nca" size="55296" crc="3bb9917d" sha1="5ff87865328aafc191e82bec7815653e66d6bac4" md5="6eba9ccba9b4987ca91da1f769c546de"/>
+		<rom name="firmware/18.1.0/66761cf2bb0a186730fdc45f16e8c6be.cnmt.nca" size="3584" crc="f30ec407" sha1="6664bc600c206b8882dc341b9e6dcfbba0767bf2" md5="351c64a693c1c1b35cc8b2be36cccb20"/>
+		<rom name="firmware/18.1.0/6699cc36f91af659e724d8154194fbe2.cnmt.nca" size="3584" crc="cc3245aa" sha1="88fd7cb6dd53767fac36e7465b8eaec2e6d391db" md5="942b4a3c756db01b8b783a6304c632dd"/>
+		<rom name="firmware/18.1.0/67006f6cd184f6fac9c3e204dea7e0e5.nca" size="6221312" crc="57126b6e" sha1="f348e08666be7c6739e34acd1ba18f39840a7922" md5="1732af07bfab058fa2d45bedfa9e98c5"/>
+		<rom name="firmware/18.1.0/67750f5c3edddf6c89bf736cac206277.cnmt.nca" size="3584" crc="9c793be3" sha1="dd64ad4d8159350d1f282060ada0e7c6c00e6b18" md5="26fed5ca9c3a94b94feaa92707191944"/>
+		<rom name="firmware/18.1.0/6a084f88f17c4208f8062d6fe096ccce.cnmt.nca" size="3584" crc="2e3726c4" sha1="3eb48248ee6aa67b41eb3e6a62c528810bdd8adb" md5="40e935f08f1afa0d4c07ebd92e08e7ef"/>
+		<rom name="firmware/18.1.0/6ba28668243b937ab8e02058b2387235.cnmt.nca" size="3584" crc="9abf7739" sha1="cd9934f8d3619e672d3708ff3371a0cddf960d66" md5="54f7096b4b5cee1111838c749b5d0192"/>
+		<rom name="firmware/18.1.0/6d724718bd42580d905f89125dfa16bc.cnmt.nca" size="3584" crc="b7d76898" sha1="f604e5e44c3faa780c630415af58c0839a4b7773" md5="f3c3ff072ae196a6b6e90dda22ec5453"/>
+		<rom name="firmware/18.1.0/6e19ed8fdd4f5c72eca75e3fdb9e995a.cnmt.nca" size="3584" crc="b0de7981" sha1="e264b892df817f07a98c9539a21ad1960a43f389" md5="8e3752e02d0bfc35c2a663eb6028ac57"/>
+		<rom name="firmware/18.1.0/6e3023416fa52df25b439b994bc65dbc.cnmt.nca" size="3584" crc="1ab7a4a4" sha1="67cfeabe06f0fa7fcb8d2a642e7b212250cc7dc1" md5="8ca4325b5a5b9ee124ccb1f6a2cc3fd9"/>
+		<rom name="firmware/18.1.0/7031a871ab4a5a30bca3cc97b07ca99f.cnmt.nca" size="3584" crc="1e5ca413" sha1="fd5ebd5d7d07049d3e493d90565bc3383eb69d61" md5="86c365da346424907f5915b9f825d798"/>
+		<rom name="firmware/18.1.0/71003aa5e646bb7ca2a1207128eeb930.cnmt.nca" size="3584" crc="b1d57d5d" sha1="060eeb594e7a36b356716e065c9a91dcfc2984e0" md5="c90342b1e98b95cc5fdcccf108a79969"/>
+		<rom name="firmware/18.1.0/725c03555e53ad1f72ac98807f6826d9.nca" size="148992" crc="22914a67" sha1="0b98e15c9d0bdb499cc1938877ff95109bed29f9" md5="3e7e25724fdd2c6331245305805751ab"/>
+		<rom name="firmware/18.1.0/742a7c4dab3724aa2fe87efa87f983b7.nca" size="6617600" crc="7d35e437" sha1="c0bfa5781772e36abe4b7028023f23cb85f33190" md5="95a94b90cb577975bfef9ce6ae8d29a4"/>
+		<rom name="firmware/18.1.0/7459a5a2666ef95005de78d45308d55e.cnmt.nca" size="3584" crc="410968ca" sha1="1ce3e629758c5b12c59f9fa3ddb75c88998093bb" md5="4dda56f09901077a41bbad1a361e008b"/>
+		<rom name="firmware/18.1.0/75a0e8144d97cf3dc9d05643f7221fb5.cnmt.nca" size="3584" crc="239aa54a" sha1="dcc49a5111277871c42830b2923ee508a90c5f34" md5="1bf9296d2e57312489b07588d5e3f6d8"/>
+		<rom name="firmware/18.1.0/75cf6ad2b2f8d48bd106a195f92953e9.cnmt.nca" size="3584" crc="860b9ad2" sha1="7eb399b924259e934e81fc94dade14c015215bd0" md5="37feb4e1f5e61f4bd37b9be1bb8f933e"/>
+		<rom name="firmware/18.1.0/75fd9cde5b6f299727c6b4e1f399d704.nca" size="187392" crc="d5aed843" sha1="93987a7cdd8f30122336d2bef7ccda9005e0fd08" md5="60d02950ed18652060fe8c190002e3d6"/>
+		<rom name="firmware/18.1.0/78e3a7e2018aab1ec3024f37bbb3c3fa.cnmt.nca" size="3584" crc="7ce38958" sha1="70f5c336e54fca6100d23807e74d3a4b3ba640bc" md5="46e46b0698914129c708164d055c8cc6"/>
+		<rom name="firmware/18.1.0/790b04016aaba5e6991e56e9b78d9c64.nca" size="896000" crc="151da0ee" sha1="272e10f39de6f78c2375357b8e76a72cf87385fb" md5="db5fb9c742906834921830dcc221a50b"/>
+		<rom name="firmware/18.1.0/79f19ef53a09e2c4e9ec1c0997c634de.nca" size="807936" crc="384df072" sha1="d350298673c056ad4ab2c88e0ace4d8eece49e47" md5="515ec2de5eb3634b315d7fe52a1539f1"/>
+		<rom name="firmware/18.1.0/7a99583e336be697af80b0c5f7baf994.nca" size="4272640" crc="67634b6b" sha1="66cbcc1ce0190c825811996c010050d553fe8cd2" md5="6a8fdabf9b44e4f39ee688bcb34966aa"/>
+		<rom name="firmware/18.1.0/7ce28d9c7475ab70d704a63b2c6eea05.cnmt.nca" size="3584" crc="6487f3ff" sha1="a752d61a58113a8793ac64bbc937ea14aef3a93c" md5="eba88e47373837a7d0042857c77e9c48"/>
+		<rom name="firmware/18.1.0/7e3f841be3ad35f89d7a53188d643efb.nca" size="228352" crc="257f3d4c" sha1="ab7fad7b3af633c9d2fd32c404ae7cd43b7090d0" md5="e3bda8faca2fc60aa1a63334d7452262"/>
+		<rom name="firmware/18.1.0/7ec854e1ea3d276f2e23f6ad11a5efbb.cnmt.nca" size="3584" crc="d7a5d077" sha1="3c17cc7a5e4de6033b19261e90688627c66837c4" md5="5e868f4539d69a8f4f5d9a2f8d05079e"/>
+		<rom name="firmware/18.1.0/81af198323a2680f10f6f45d0b310169.cnmt.nca" size="3584" crc="2b26ea7f" sha1="e93913b7debb7f33d68048d4371143cc35c7ac78" md5="df04a2ab31884a181a2a844c1dd2eb91"/>
+		<rom name="firmware/18.1.0/8448657f9386aea300e3410fe3ebcfd6.cnmt.nca" size="3584" crc="da67b45a" sha1="a69cd536b1230852740ad54e35782c7049dba274" md5="d77353e5120650a001e592a668356f36"/>
+		<rom name="firmware/18.1.0/84e3c723c13a36002a7c5192af9886b0.nca" size="4313088" crc="6bcc1197" sha1="5383a6564f66d1aea7a10d7e8f4e03f26d336a63" md5="256796188a09b2aa712ac4a593642e09"/>
+		<rom name="firmware/18.1.0/84f3df195e1f276bbb11e72b6bd78682.cnmt.nca" size="5632" crc="12295cad" sha1="7e8f94e9a2a0f0d7db99fa043971cb0fe22b2c92" md5="07f21384da693309ea2af45bd6e0a564"/>
+		<rom name="firmware/18.1.0/85a00a50d8f2f2b12b8c75dc12636d51.nca" size="349184" crc="965dc82b" sha1="bb46fccb6ad63984e8abdbe80bb5bbbfc8671384" md5="792953df0d8bd5bb4408c5d9db48155f"/>
+		<rom name="firmware/18.1.0/8628d5799503580b667d218eebfc11d2.cnmt.nca" size="3584" crc="77f2105d" sha1="7e83ddccc14c1a63ff86e32baadb52e2cad6ecac" md5="97fb0691de45e93abed6339e3f41c236"/>
+		<rom name="firmware/18.1.0/896c45fd63f0e8db0480dde430e63c0d.cnmt.nca" size="3584" crc="9ae274c3" sha1="a25dc721442a8245e10f0fb7e0d3a3b1e9007e04" md5="f0706714ea061ed4160f21052cb7b30a"/>
+		<rom name="firmware/18.1.0/8a6455f25c813e95ebb9858833dfb23f.nca" size="3632128" crc="e77984bf" sha1="1a491819e7845da275f5af2bda0ee5d3efe540b4" md5="1d25803d31e4d5ac6e7de99332af8a99"/>
+		<rom name="firmware/18.1.0/8c44a1b0651b113d66dea599c34aa503.nca" size="169472" crc="f5ab0603" sha1="bf6a59a829fbf5898d36cd642d0d6121f3763b36" md5="f6d5a1502073c9dad3b834eeff0e5656"/>
+		<rom name="firmware/18.1.0/8eaf3d2ed45844d04d17031243c89d68.cnmt.nca" size="3584" crc="e5b091ac" sha1="85dada6d096860ecdba14f58a50c3e472dcf56c6" md5="5d27a7b991873e7f830ed9a6940ef2a6"/>
+		<rom name="firmware/18.1.0/906e9bba8ad6b828b2b5383d1b964432.nca" size="257536" crc="822c3232" sha1="b737902220dac2d4bfce43be1695cbfbd3da94f2" md5="df46a684e8a0077046c711ef84d1e228"/>
+		<rom name="firmware/18.1.0/93a933f516fb5046c1d3692502ea35c1.nca" size="502784" crc="81aab01b" sha1="c0709fc866898e3a80077915e710fa122b60b621" md5="89ffa659710773f2a380a03e61538732"/>
+		<rom name="firmware/18.1.0/9420e7ac68b120e93d9ff881729e6fe8.cnmt.nca" size="3584" crc="5ce9f206" sha1="4be2bd5bdb9268590f9a8926d42321a9c8a6e572" md5="d1d0963b3fa522457bf7a9c44ba9afe5"/>
+		<rom name="firmware/18.1.0/95ee54640bf51a37136cde93dc0f4c19.nca" size="4481024" crc="be9b64fd" sha1="d7425f1f9b108a589fe190d54b835b2fa2a15aa7" md5="d36ffe38371df2582b93eaf0f78fb5ca"/>
+		<rom name="firmware/18.1.0/967a496e91fa62c58221f5efecdf9a6c.cnmt.nca" size="3584" crc="aa3ac7a9" sha1="509829190808c6596d3d16e2a3fef3b4054fe687" md5="3ad2634b0633da9b0ce902b7af417541"/>
+		<rom name="firmware/18.1.0/96ae4b26975bc65eac16336476d495d5.nca" size="1601024" crc="848b9c04" sha1="1946aa34549cb44ac9b00147bff23fd655474893" md5="22d4694a371ef4677ddeff2377932c6d"/>
+		<rom name="firmware/18.1.0/97fd8df9d20cd15b5350809bc0a3122f.nca" size="509440" crc="f1f26763" sha1="150dd55c9b413bc158a0837f401936d48ada9e22" md5="cf86f3a3c2606905638658791b3224b8"/>
+		<rom name="firmware/18.1.0/99487170bbc60123b1e16a461bafdf4b.nca" size="3612160" crc="680a7a33" sha1="e3c8deeeed9895a02d4b1a900e56c52a152de19c" md5="a86df34a4b4195ab37fe6b1643ae18b8"/>
+		<rom name="firmware/18.1.0/99b79b3bc0d81b4591d7e92ddc2bb31d.cnmt.nca" size="3584" crc="2205ebc2" sha1="9d58cfb3863877cf59925519d71a2e63586241e7" md5="2469535275b3948ad8d35db82083cacb"/>
+		<rom name="firmware/18.1.0/9b22b9df513b7f787bdc9ed6ba2d3e25.nca" size="91136" crc="99c8223f" sha1="43149bd78a549882b34b6ecadf0cc18547610d1e" md5="30dd74d0a13f81f4a88bd04ceaad363d"/>
+		<rom name="firmware/18.1.0/9b5d6f761dc16842c2a9e0ac979314f3.cnmt.nca" size="3584" crc="f6df73af" sha1="5d65141e98097e212c7cb32656533d9fa9191646" md5="9adea31099f5aa3a9ff2814712b20a6e"/>
+		<rom name="firmware/18.1.0/9b79c8bbbaf1879b1d0c212212a7f09d.nca" size="1126400" crc="09867e9d" sha1="273fb0bf96aaef899cd3c366367c310bb1afd1bf" md5="1675442a4b79de741d9bdc4f1bef7874"/>
+		<rom name="firmware/18.1.0/9bc3dcc9461fccd5caab42c487114eb7.cnmt.nca" size="3584" crc="3bde797b" sha1="74cece4331f4f0cf2208ad3bf9ff033a20e215dc" md5="801ac40b4ae04e1472f546b9ba058022"/>
+		<rom name="firmware/18.1.0/9c8c9f5f08771e5d6efb42983cb48d93.nca" size="2435072" crc="80b50851" sha1="5057b17a5892584605c579fc242c06005da0f8bd" md5="ed4b1816c27546d0d4257fa3c8c29e61"/>
+		<rom name="firmware/18.1.0/9da759303ac67b7cabed8168912e263a.nca" size="4744192" crc="3ac5bf14" sha1="d137460e694e5fd37afb088f701aca36ddde6ef9" md5="9baa410ad43e8e982404038b5b849904"/>
+		<rom name="firmware/18.1.0/a011d27d249cd4ae54edc63736354e26.cnmt.nca" size="3584" crc="9b25a508" sha1="79cb74a6c077a880dc1c6f189d82d027697ef7cb" md5="bd1eb85f19fbfdbc0286629d7b2d537b"/>
+		<rom name="firmware/18.1.0/a1a191606a8fc7df36f9ecbb9e0ff435.cnmt.nca" size="3584" crc="fae39ee2" sha1="f6795fe23ebe4c95bd5fd941fcecf833c7d9829b" md5="de99975ec68aa337585c60f1719875c1"/>
+		<rom name="firmware/18.1.0/a4870ba809e856b26823d0047e3b2b30.nca" size="38837760" crc="024aa461" sha1="5459d2ef9d6722d3ed39a5209cad5ac5a68ef0d6" md5="f407eecc55ad01228a35335e7207ca62"/>
+		<rom name="firmware/18.1.0/a5e5b0c6d0083bb842022acbe4092ed3.cnmt.nca" size="3584" crc="3e9b0627" sha1="e8755a42407a2628b5166205dbe041397a44fbbd" md5="df7afe5e601157ef84926340940ddf68"/>
+		<rom name="firmware/18.1.0/a5e68ef718d74e5e708f9f34e01a03c0.nca" size="3665920" crc="1c922823" sha1="38a4a4b557369c7534a018b3e8bc3f82573ee7fe" md5="7981a551c8e8a194325286173f0328d9"/>
+		<rom name="firmware/18.1.0/a67abd3b803b1b6f78a72cf75171c47d.cnmt.nca" size="3584" crc="8459b14a" sha1="3bec1df8b239038f231dab4e2a2efdcbc51278ce" md5="c1379817fb9760fda40828409a144ea8"/>
+		<rom name="firmware/18.1.0/a68cc3f4671480cbf79646ab70efba58.cnmt.nca" size="3584" crc="7782e11b" sha1="30561656cb93e44106bd044dc9999381fd238ecb" md5="d45d2a6d4c0faa4f3fe84e896d8cde43"/>
+		<rom name="firmware/18.1.0/a71eeb0b25955bc12f1652a3c75e8e71.cnmt.nca" size="3584" crc="4e202c91" sha1="526a2e4e3bbac1fc4e829f04135f3fea35bab088" md5="a2dda7411737b125e2c2c20945e8d771"/>
+		<rom name="firmware/18.1.0/a85634492ade00f1e53438356cf32202.nca" size="91136" crc="8ecb2808" sha1="21c0b8cfb159295fd035a5130e29eb07535cd096" md5="e05c129074677f57138a9735997cdde5"/>
+		<rom name="firmware/18.1.0/a8eaa1bb9c892c7301e72b75557b8cbb.cnmt.nca" size="3584" crc="0d84ef7f" sha1="63b41b919506ddc52ec9c8e031e7abcc8fe1b025" md5="a96234fd59b8b421e805a3f2b63845da"/>
+		<rom name="firmware/18.1.0/aba89c22f30a7dbc7514d488a0d12f84.nca" size="156160" crc="122652c6" sha1="f1a79957b85df6ce1d10cc0a5bbce84caf6e2876" md5="80165893d1db5b357436b088077769e3"/>
+		<rom name="firmware/18.1.0/ad00fa06c2b768f1af7d4fdc646f0a5f.cnmt.nca" size="3584" crc="cb0eed6e" sha1="509e91b52a84fb44c07833848ad44b9ac1405e12" md5="fdb1918a4b30ad4558f40eac3c8e520b"/>
+		<rom name="firmware/18.1.0/aea2abc8e27bb046a38d40e7db20a09f.cnmt.nca" size="3584" crc="6c89a40f" sha1="f0fb7dffbd5c07240a725ecad8fce5e8f42fcbb7" md5="7569ecb7c1847e66928a1b8c2f9c8e23"/>
+		<rom name="firmware/18.1.0/aebac0d80faea5158cad4d17a15167af.cnmt.nca" size="3584" crc="c8882d4e" sha1="e34a8f88827ae99204d462419f0a0bbdebefef00" md5="18fcc21fc26043728a8bee007efa9cfe"/>
+		<rom name="firmware/18.1.0/afc78068f5165699a8c9db2bef43dd1d.nca" size="19704832" crc="22e17994" sha1="9ba35ed46a4a8e7e85f4c98aa438d031a4e546e4" md5="b44dd640aaa54aa55da62def93868184"/>
+		<rom name="firmware/18.1.0/afda6ea1c2575fbf919a6df06e1c450b.nca" size="5294080" crc="4f1b417a" sha1="b711ecfa5e3fc3c58a4c1a4879cb9e731396514e" md5="1b9a66c7b3b6235740226af8e4e0b95c"/>
+		<rom name="firmware/18.1.0/b253f2dd4fccdc1194553177809d198e.nca" size="572928" crc="e97a0118" sha1="fe35cf11cbd52d53721379352b16ba31992e4cb1" md5="4a1faa0da2edb9e9bcaf7c6eae3af24e"/>
+		<rom name="firmware/18.1.0/b2c0b4629e12ae87e4ce5171e534ab30.cnmt.nca" size="3584" crc="fb138dc8" sha1="cb4ba4de093b580242c108fe6c47c1f19f5a3e0a" md5="6e14ea1b69acfb9bb1426e92760cf077"/>
+		<rom name="firmware/18.1.0/b41a683b3f9f7b675f0dc739d39cb017.cnmt.nca" size="3584" crc="d87a52b1" sha1="5eb0ce7070c9724153b364f37c9c8434e3f5ead8" md5="57e6944a7f553610a207d4ab033afb95"/>
+		<rom name="firmware/18.1.0/b4216df1ddc353c939ee5a983ee05ebb.nca" size="19530240" crc="054565fb" sha1="ed3161b8fa57e80e6957e243ea930af8166b3ed3" md5="4d20cfb5ae3e918a4ba897656b302e6a"/>
+		<rom name="firmware/18.1.0/b5c6faad70be3b4b744c8c7b37d01358.cnmt.nca" size="3584" crc="e30af2b6" sha1="a57a1558d8e2eed8675d34f75f619514cb5c634e" md5="d47fa54c95d5d84158808c0f44bdfbef"/>
+		<rom name="firmware/18.1.0/b9152056012c0d292641980788413803.cnmt.nca" size="3584" crc="7d4f0b09" sha1="b9a93647942c2a6104df8e26218255b20bf3e608" md5="b3dc1ff9c12faac6278b6385ba58dc7f"/>
+		<rom name="firmware/18.1.0/ba1afa2cb4b0531f936c5e0c2c143f7a.cnmt.nca" size="3584" crc="6383a501" sha1="49ca78cbec3b61cdcf5741bb1cd26b68be24c79b" md5="81089d2f84bb4645eb7acf1af3b516ba"/>
+		<rom name="firmware/18.1.0/baeb204866b317314b44222de22dd318.nca" size="91136" crc="1b6c1185" sha1="8bb4fec62d172aad2c70c95e19ab03e1a319a51f" md5="96e7b6daf38cc71aa3b9b1b7a7e1d827"/>
+		<rom name="firmware/18.1.0/bb0d61307e027a6b40fef51a6878c1b3.cnmt.nca" size="3584" crc="bc5d8f34" sha1="1dc98f3c7ef0264f5341c2625f36c84498cc81d5" md5="8879ca5c04df9bd055b826f629f5086d"/>
+		<rom name="firmware/18.1.0/bb57a34a9c77eda24285838ab93a0d93.nca" size="1315328" crc="07194ee9" sha1="bfdfabe775154320c5b98acef4a15fd19bcd5d49" md5="ce4106801c97480a58e1647981a45d40"/>
+		<rom name="firmware/18.1.0/be69d09104df06a05c8cc3de7b9f2f80.cnmt.nca" size="3584" crc="00c81939" sha1="2de39f591139ab616f122276db53c99679bc9ee2" md5="0bb40953e66e15e453e349f9472e64d1"/>
+		<rom name="firmware/18.1.0/c0ef9f0cc1bf766b996c074eba44953a.cnmt.nca" size="3584" crc="53c4b1e2" sha1="d4332a30cd570bf319ea88d79f27aeb2bc358004" md5="53bd98ffdb906849357472e7f49a8335"/>
+		<rom name="firmware/18.1.0/c15b133d6494ecb856c209bc5415ead1.nca" size="4109824" crc="08852885" sha1="5d940e13d5bb79009e83c35c4e71535933eaa31f" md5="60f645014cac8d165b23ed33c0098fa0"/>
+		<rom name="firmware/18.1.0/c5f7d0014b9a762aa654e8a67b27a7f0.nca" size="264192" crc="79aeabeb" sha1="d9551f61ad1900758198a85e13f3a114c84691af" md5="41ee113794b1f4b95824cb88fe03b8b1"/>
+		<rom name="firmware/18.1.0/c6b69c47c088b6293ab2645d5851e4d5.nca" size="911872" crc="881bd394" sha1="45711c592ce51f9038fd4db36d407fe85b370421" md5="ebea085e6a4945e8ac540d15dd3903a4"/>
+		<rom name="firmware/18.1.0/c74ed9d3cb8379ef71eade01509143e8.nca" size="259072" crc="ca176686" sha1="dd04b747b836b5c6329ad029e65a2b84534a2ac9" md5="5458d8a106ddab07a25436f636f217cd"/>
+		<rom name="firmware/18.1.0/c92f7224082105408e7fcf19fcad7837.cnmt.nca" size="3584" crc="f0200c62" sha1="6bc80258712cfe751ca0f32b2bd4f0af3a2809d5" md5="013535e0e05a36b69ff5eb5ed1545322"/>
+		<rom name="firmware/18.1.0/ccedd1646c6e9d613c3edae95a8e0c3b.nca" size="1053696" crc="78f66fd8" sha1="981843f45e1b6f8d744c13b10440eb39f750c657" md5="81824f2a085bfedfd7b9d30137ab5bd6"/>
+		<rom name="firmware/18.1.0/cd1c617fa01d7761e933e552c8e76f30.cnmt.nca" size="3584" crc="f7dca487" sha1="c6ca954597df2206069ab5c2ffd8f3c0b25004f6" md5="ba3c9d924043f03ff9e1a283f5a56b80"/>
+		<rom name="firmware/18.1.0/cf47385ca12065ea08c4b1619d666a31.cnmt.nca" size="3584" crc="bb9aa12b" sha1="b44bc13cf16209ea39fafe3df562df64d8264aa1" md5="7530c715de9a05cc992350e6b3098f72"/>
+		<rom name="firmware/18.1.0/d0a32f20825bb2c2f290e3d9ace08cc2.nca" size="197632" crc="706e85d7" sha1="c4815ae67de0a47addd1627033de94dbd58864a4" md5="ec5877b6b92d13580f99c547011f53d6"/>
+		<rom name="firmware/18.1.0/d273ac63b7cccc5147889cb6acbe679d.nca" size="312832" crc="73cfe347" sha1="126a432526786417f071b22d01a821161d66bafe" md5="fd467566bbf418fbf31c54a44c21f20f"/>
+		<rom name="firmware/18.1.0/d279c19084081223c9ba108a4074bfb2.nca" size="329216" crc="81ca3334" sha1="4d0df34bfa711ee2ee78652d126c684b0abb5918" md5="ca7aec89c582a0964fbea83dfa625f20"/>
+		<rom name="firmware/18.1.0/d29ff4b5cca81fee669b3e963210839e.cnmt.nca" size="3584" crc="fcae7fdb" sha1="7adbdf9b9f1a4a8ca827d840790d203f325ca8dd" md5="17af7d29f55ebb1d0db542300b3c2dfe"/>
+		<rom name="firmware/18.1.0/d353d8b0959feb5f2e59f1bf49299037.cnmt.nca" size="3584" crc="082e038d" sha1="7f4b67763a577648bed74a22cb8ece7930e1fbeb" md5="1d173d6a6a1ab89bc8b13d33160d033d"/>
+		<rom name="firmware/18.1.0/d4cc276964c6443dfa52d717c5f3a800.nca" size="8160768" crc="73def4ab" sha1="8edcb6cc01bc8e3f0de116b92cd9a48be0a45303" md5="0bcb761b1b58cb27227fcfd55217e303"/>
+		<rom name="firmware/18.1.0/d577a6118e45646ec6d0bca8f92ed48d.nca" size="1304576" crc="02d3d113" sha1="d9ebbd29e234043c3dece476bfaf2576aa11919f" md5="2b0eee9174dda1b277dc503fb1a60f7b"/>
+		<rom name="firmware/18.1.0/d692298ad6188a50730a88446421a36c.nca" size="3886080" crc="95a1ca4c" sha1="73187b30b32f7d836ef9f9bf6a11b1d202dfaa51" md5="61690b21046192fdd67237441fd57e58"/>
+		<rom name="firmware/18.1.0/d6bbd2c7c121e3b84bbbee848becf598.nca" size="86016" crc="cf17de7f" sha1="1edf8c8579d93f55506db9db4aab0f3cc8ae2706" md5="fde549d942c3c95021afe4483e1fa2fe"/>
+		<rom name="firmware/18.1.0/d6ef80f0b353518d711a57fb1fdefd9d.nca" size="240640" crc="15a9402e" sha1="c344f9f2b007a7d748d0824cd04a8d9ab5907531" md5="b0015f031f7a0bd27d7783ed6a3f6309"/>
+		<rom name="firmware/18.1.0/d7aae8dde9f64d47ab35dfbde9c2d99d.nca" size="1015296" crc="c4399f29" sha1="6de4dc0b06faf02335f8753f8646e6ad787045d1" md5="fa4da49493be21ac5831eaae1138be85"/>
+		<rom name="firmware/18.1.0/d82fbf13cd054880827048aa38ba222c.cnmt.nca" size="3584" crc="951d1db6" sha1="a92faec2806a81376be2ae9782f2423e2f6b8605" md5="226cdaff7e6d82bf30bbb95a61900820"/>
+		<rom name="firmware/18.1.0/d9e730a75193b495433302d51a695c52.cnmt.nca" size="3584" crc="bf13b3ed" sha1="b3b0f7c4d9fcfb02efe1ca08f9f3ce875c268ec9" md5="24c77cdca1c70e79a5efb5cbad1706d3"/>
+		<rom name="firmware/18.1.0/db2713f11e13f5564aa1d543ade3586c.cnmt.nca" size="3584" crc="5517519c" sha1="eeb175d069321ae632fa4930e57fa0adaebfcb10" md5="b8ec4b3e2eac77774fa337be24710f3f"/>
+		<rom name="firmware/18.1.0/dbdd7457874256b7af903c602211e56b.nca" size="4242432" crc="3a2e0fb9" sha1="9abc7fca03ad12db3fccbc3c54b6d71e9a1d278c" md5="10de81a85872f17a07efab13f10bf103"/>
+		<rom name="firmware/18.1.0/dcc62dee018c55a772d55781b667958d.nca" size="847872" crc="8229e339" sha1="ba5c072f89eac0a41060600add141d9008fa766e" md5="d464920549815d3c65550f214819d0c1"/>
+		<rom name="firmware/18.1.0/ddc08cb04e735b6ec6e884dba7e96082.cnmt.nca" size="3584" crc="ddee2187" sha1="f25f648f5a84ba8e2b348a81afc061d27ac9f605" md5="084198a4a39951ffc1dee6f5bc731229"/>
+		<rom name="firmware/18.1.0/de8986da4c3ffd2dfa438e1706b8c91a.nca" size="758272" crc="3845e8b8" sha1="dcf110d6288032897a9bd0d8ff3f28325d29cfb8" md5="8c67e9ef625aff5c248708545674c43b"/>
+		<rom name="firmware/18.1.0/deb8f611b5b4c114f7d8b8bf1ed94d2e.cnmt.nca" size="3584" crc="730ab21c" sha1="60150481f5f93ab5799d9c501d9066ed28b66057" md5="e02b13f91cd0e1c28add2f258900dc75"/>
+		<rom name="firmware/18.1.0/dfb23f65043e5ddb1faf54a47035fae1.nca" size="441856" crc="58efa66f" sha1="1cbb3c87fd68f5f2d85bc8a234c82044e3bc1791" md5="0b0c826c52922a45ff1bb3d3d8d94240"/>
+		<rom name="firmware/18.1.0/dfdbe99752ee9f7f3d0dd23b0cee873c.cnmt.nca" size="3584" crc="3396d93d" sha1="e620dce1f52143013402fb5cd054def62d3faaae" md5="553ee228a2a94f3aab3d4dcd4e3c3c39"/>
+		<rom name="firmware/18.1.0/e0620b596609a624908a9158747e6e5c.nca" size="434688" crc="485464e5" sha1="2b71f7a7832a4f93c68c5abcdf12ab86635ca41b" md5="c94d4946275d211a773201a1c9a0e64c"/>
+		<rom name="firmware/18.1.0/e15b6b2541b1a3f0230c7474e3b34122.cnmt.nca" size="3584" crc="7a5d885e" sha1="e13d1ef4de2398de489d9b9b951ddc77b0fcb8dc" md5="e39e2a4e13bb79acdbb40553533ae35a"/>
+		<rom name="firmware/18.1.0/e30e2e3b051803bf9c015fb51ba08230.cnmt.nca" size="3584" crc="6de6e8f8" sha1="ee2276f614135974ba3f16229db1cd7a359139eb" md5="cc3116a4bdbb3f08e2ff148bda16453f"/>
+		<rom name="firmware/18.1.0/e4da32c0c39fc4b366accf585690655a.nca" size="647680" crc="d7f002ca" sha1="f67bb5a1af964a283c158d150f8857184f8d3504" md5="1a91f1f0ff18b76847cce7c71a3df085"/>
+		<rom name="firmware/18.1.0/e702a4f4a59874c97712fa8f00ed2704.nca" size="6603776" crc="154ab118" sha1="23816981998cc025cdb877701207a2ee6a693ee3" md5="28ac12188cb53714b4e6e00bd5dd08b9"/>
+		<rom name="firmware/18.1.0/e98b41e620b57d6a6318bacdfa154b67.nca" size="1256448" crc="0fcf8ed1" sha1="9d3b7b84f0d20fcc7be1ba7d4ed4587c32c5a4f6" md5="4b8753a907dfbcf800c409f21bacd164"/>
+		<rom name="firmware/18.1.0/e9aba0bb4a803e1d47154bef827cd4a1.nca" size="90624" crc="219a1e41" sha1="c5663c05815cd6aa0c85d88ea8b780ce86ffd16d" md5="4d168bfeee73334484542b9101a7cc01"/>
+		<rom name="firmware/18.1.0/ea04802f4384f389f0c115e6080a00fa.nca" size="4262912" crc="498ae56a" sha1="08a8edb3b7b16fcc7d10a19a8e1cc18449175e41" md5="a4f4ac7cc5e344094bc43400bc8a2eef"/>
+		<rom name="firmware/18.1.0/eacbfaae71a447eb95bdd6bff4b3d0a2.nca" size="3758592" crc="74d25523" sha1="90154e9e4d074cc2fd7a8f4697657548b43f9b79" md5="e3365a70f303c3dbe86dcb28ef0edced"/>
+		<rom name="firmware/18.1.0/eba71505d6904872ee6f1b28a543c166.nca" size="168448" crc="e4bc6930" sha1="b4eaceeb84261ab636da95932f7f164e724ace76" md5="2c242ace2e3ca0448be94fabe53da2ef"/>
+		<rom name="firmware/18.1.0/ece1d88b4660c817d56183a515372a48.cnmt.nca" size="3584" crc="a3dfa757" sha1="77cb9cc6dbe5324f83e304141b243486c9114e4a" md5="12a485de34c292bcf588f9d42d49925d"/>
+		<rom name="firmware/18.1.0/ed243f695364cf4a7a01a4493c442ea9.cnmt.nca" size="3584" crc="f644491c" sha1="e10b14ab60e349b3b9bea33c2a4a55cca85f1296" md5="a53fcd61be0bebb5d6952d0b9e6b170a"/>
+		<rom name="firmware/18.1.0/eea423ac73acc4c409e2031dc6b78048.cnmt.nca" size="3584" crc="edbbf677" sha1="cbb913a6187eb40cff56791e7ac9a725f292920e" md5="17b5526ce5b393845b45348694899bfd"/>
+		<rom name="firmware/18.1.0/f04ebf872cf0631542945c1239071b1b.nca" size="162304" crc="a7fa2eaf" sha1="9b98a3f123cab854012bd2ce9a6d44822cf8add3" md5="e2c07145450f1852878a1d7d4a515f03"/>
+		<rom name="firmware/18.1.0/f0bc9722c6230ec5a6900c6a71f7ad40.nca" size="2139648" crc="18ffad35" sha1="f264d09d2157d189f7ea8c198623eac0bbcf4825" md5="19f8986458851ab79a5ce815b0aaaaea"/>
+		<rom name="firmware/18.1.0/f126384f51241f17dd9d51ee8f843526.cnmt.nca" size="3584" crc="9c704b54" sha1="953bbb620798ec2261971c5d7d28ebf3629f39ed" md5="597f1370c5d1b6fe63b8f4edc0f3b418"/>
+		<rom name="firmware/18.1.0/f3e1df7c2ef4092ea4984295c59bc947.nca" size="6606848" crc="42a39c30" sha1="b3458534d17b2fb30c54e2562363469b466e9982" md5="05bdcb56871ad21392774618b46f55d7"/>
+		<rom name="firmware/18.1.0/f45a54f44e691841cf3f5c536624be12.cnmt.nca" size="3584" crc="a97755ee" sha1="15f8d93877f73fedc15434986cbebaa02cda56ad" md5="82154f11366507b07126ecb444e3d0c0"/>
+		<rom name="firmware/18.1.0/f4f0f95192503c333c257d1de42b6c6f.nca" size="5858816" crc="1e5ee538" sha1="12ba24ea3e3ccad75dd30b694d923289f3dd13cd" md5="7b3ecfdb4143b985cc19190e3548087d"/>
+		<rom name="firmware/18.1.0/f51c4c701a69ff1a892467ee596521f3.cnmt.nca" size="3584" crc="2a0fb943" sha1="1bcc10e2ab2d1313a2f75c6951290287962e146a" md5="0d75ce766944753ccff2329a698e75be"/>
+		<rom name="firmware/18.1.0/f5718a5ad728bb81fe664e11aa41090e.cnmt.nca" size="3584" crc="c88ce954" sha1="d6573fbca98ea346016c1b01e181a05b9774261d" md5="39866fe963bb564512488094703e7ef7"/>
+		<rom name="firmware/18.1.0/f6c1e9a9f8dc419dc39f6390d4656671.nca" size="90624" crc="a3e75b76" sha1="8548dfcb2080c375f71d27eebddd347e812c59fa" md5="4f45e14dac6028ae9683f724807b7437"/>
+		<rom name="firmware/18.1.0/f6fe988f60ac736f72a2914e6fd88b63.nca" size="548352" crc="2e2fd2e0" sha1="28773086c85058e4c68c4237d3bd8db6b26e2986" md5="7d2f4d38dcb8a76dd94162cb94ccf686"/>
+		<rom name="firmware/18.1.0/f83fae9b1fd522dcf139c63f99091396.cnmt.nca" size="3584" crc="bbcf8ce6" sha1="40d56b8a47ce318fea60f7af3ac9c0729b579619" md5="be3efc73d7ffd2f0bb1132e8749e6384"/>
+		<rom name="firmware/18.1.0/f8a8c81f63fbe2cb742d378f294dedec.cnmt.nca" size="3584" crc="30bc1b9a" sha1="197a2a4a29e1db01611e419e59490b4ac428c05a" md5="35b7d8b92a64a19ff880ad060576e56e"/>
+		<rom name="firmware/18.1.0/f9a9dc170f8c8a708c3bcfba3f72f1aa.cnmt.nca" size="3584" crc="3aaaae6b" sha1="f96b68dfc918bfc6c36edb13bd74730aadba4478" md5="8f0343187f4845c5e50c6e4739475e27"/>
+		<rom name="firmware/18.1.0/fbcf7bcf415d4ff655ca127b9d7a178b.cnmt.nca" size="3584" crc="ce40c48e" sha1="34ceb19e4377b745009c99226bd535e76ed7262b" md5="fc831992f01677305e948ab63bd20596"/>
+		<rom name="firmware/18.1.0/fcbdb361741afb8df5f0f8e610b03708.nca" size="725504" crc="db93e009" sha1="edf74f79af4ea40f9d8d40500ab8429d0f345034" md5="4662396a72368a5bd1f9d3533c05ccee"/>
+		<rom name="firmware/18.1.0/fde3595b8e8cf1abc1f2c968426cfad0.nca" size="91136" crc="3b5bbabc" sha1="9b636c329080d39f04e68d2f02ecb32cc60bc7cb" md5="8852f96ffe5c915f6e42064bebedfd97"/>
+		<rom name="firmware/18.1.0/fdf9751d72da670283e16c2fc15d8af9.nca" size="110080" crc="648188f2" sha1="f499b5400521f34ea2bc2bb5acb4f2cfb6b34647" md5="bb272292cd8016df1cc771a5740dbb7f"/>
+		<rom name="firmware/18.1.0/ff5acacac56c762ce44ac24ed56a375b.cnmt.nca" size="3584" crc="3dc6670c" sha1="5362fa73a968db7bff7f286fc4ecf972a70128a1" md5="2370754559b3d4579731534a716c33f2"/>
+		<rom name="firmware/18.1.0/ffbe410898f399334c3cabaaaa609e0e.nca" size="4064256" crc="12f71a0f" sha1="3921b4a1ed71200fc1cb36228f891f6cbabd8232" md5="5a54290e2d3cb3a7614673c3b25f4f81"/>
+		<rom name="firmware/19.0.1/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="firmware/19.0.1/00b7c40c749108f42bdebad952179172.cnmt.nca" size="3584" crc="597b4a08" sha1="4501a3a12c80810334c0df45d08df7f735ca8354" md5="1f659eec8ac3f0201d624702ad0e1126"/>
+		<rom name="firmware/19.0.1/0216bd3304abdc931246551f9bfa2020.nca" size="3612160" crc="1ec9f4d2" sha1="1c4c8facc6bb73ef88b94de5166485c146449a91" md5="9cd252cee43ccfdd28604b4ab11f70b5"/>
+		<rom name="firmware/19.0.1/025935944fe257206b7618dd57487ea3.cnmt.nca" size="3584" crc="62f7b466" sha1="c99de8c4626f57411034e73c384bf7d0c5348699" md5="78d17f3659fe7741fb9c610240f8028b"/>
+		<rom name="firmware/19.0.1/02f98e8a80564048a18b655b5950910b.cnmt.nca" size="3584" crc="5aeec757" sha1="aa2ba727f32c9a6405be1b6ef3c7f7d657d5c587" md5="f291d4b694957167bc52f2c56a6cc461"/>
+		<rom name="firmware/19.0.1/04ff3f1a18313b4ef2b793e2377e69ec.nca" size="111104" crc="212bc2c0" sha1="bfffa6d5036e6cd8ebd8c2a8e9e6affff7014776" md5="89302aaf1b7709552cebf0bbbd69948e"/>
+		<rom name="firmware/19.0.1/0521bd5795e9943a960ddfdf2cc743fc.nca" size="189952" crc="c23368ad" sha1="6f9baa5f8904378358efea1ad882ad62e76d3233" md5="7da0242886286dbc0b49ab8f7fc39624"/>
+		<rom name="firmware/19.0.1/0570a5bd69f7c787275f994652e83d56.nca" size="905728" crc="a4ca496c" sha1="2fcd995ed56695e87f3ee5fb4fd2897e6bce1c7c" md5="d5f53ca425e51a9046eb5a4d3bff84a6"/>
+		<rom name="firmware/19.0.1/069f6aefa8a1abe64eaad52392b7b582.nca" size="584704" crc="aabb5454" sha1="fe9b54388d41dc47714c3de9d717d696045e79d8" md5="0a9d75bec10122798855d4a19054831a"/>
+		<rom name="firmware/19.0.1/0cf95a44b4b0b70c6d37477909f3c529.cnmt.nca" size="3584" crc="fcad0534" sha1="40796cbf04eb9c6755eb4f473fee01789e02694b" md5="1de1cd53b36f9b85776b80f1332a22a4"/>
+		<rom name="firmware/19.0.1/0d2ad5d9c789c6a7d707225b177d8642.nca" size="923136" crc="f29e147f" sha1="4b23b80ddd6251e5dce69e7e5034ab4964362feb" md5="83634f6c4adc1a2c2544bd204640fc18"/>
+		<rom name="firmware/19.0.1/0f8b019d2550929390b533c24e4f13e0.cnmt.nca" size="3584" crc="1b2a9168" sha1="3015b5d15a02ec7d7b5705bf72249ade4735a972" md5="3f8d191cc7051b01d9549f247ed81958"/>
+		<rom name="firmware/19.0.1/129f278c3c7ce5e571d2dfb380ade81d.cnmt.nca" size="3584" crc="a275b929" sha1="9bb48ebc79af168a55dbf352af7d5fcd74776172" md5="a1900232873183bc31632396cee74660"/>
+		<rom name="firmware/19.0.1/171d44f30e4a37a7d63392a8c977c08b.cnmt.nca" size="3584" crc="3744dfad" sha1="39aeb741c30983c149d968a1fc13cc52419b7d94" md5="8e34d10ae89933f6ce461940598202c2"/>
+		<rom name="firmware/19.0.1/17fa728e083bb57d8eea4c82091ad435.nca" size="6712832" crc="55b5ec39" sha1="2a3509523b5d1d878f668a2f8da6bc906fb32ff0" md5="719c985a066f309fdcdcbed2729fa00a"/>
+		<rom name="firmware/19.0.1/18c17d28ec4141eca160da4b05cee857.cnmt.nca" size="3584" crc="0baabf30" sha1="f14d0180924db12c624a5369a2a162490e368e5c" md5="1bf171584f5cdc55ba5ac29183c5a485"/>
+		<rom name="firmware/19.0.1/18fab0c7fd957281825ceda9411bf256.cnmt.nca" size="3584" crc="794dd9fa" sha1="fc926f49a5e2bbd4ebe839a05d6d587dcb33810c" md5="d5ace3a2632953d0f5e94c78d84a5283"/>
+		<rom name="firmware/19.0.1/191f07799be0b62f4e7502163994ed42.nca" size="16103936" crc="4ca33fef" sha1="36ecbb456d52a0dc649b4950f770d988301defae" md5="b8b3ea96d192340c13ed8dee42936469"/>
+		<rom name="firmware/19.0.1/193d1ca41d7712cf678a871211358a08.cnmt.nca" size="3584" crc="57ad0e85" sha1="92c7f4da9f668b7d8ec86aaa84b6ef0c84cb5fbf" md5="9c2423ffe923c92826dbd20e3ab5e031"/>
+		<rom name="firmware/19.0.1/19f488462f971e7c76ed8a9c696131c5.nca" size="268800" crc="33c0abe8" sha1="f1c0ec7ca7c62913b1a300a9b9087aa5b07b843a" md5="70fe49afa949a7d92e4b21156b062d7a"/>
+		<rom name="firmware/19.0.1/1d905bd21b97a03a733fc32068b2262f.cnmt.nca" size="3584" crc="db49824e" sha1="e051ccc6d3a473adacadcec181dc5db0dd3b4bbc" md5="a4675155fd4779e6a365f60b254a25c1"/>
+		<rom name="firmware/19.0.1/1f2cfea82e1cc1f46eb651c9ca20534f.nca" size="18210304" crc="5a8d45a9" sha1="f2f36b9035d2175cc5ff8cddb202f6fcd1c0377f" md5="1d0aac5c8b396f7978f193d76bf5bf44"/>
+		<rom name="firmware/19.0.1/22f33f2dee039a9d08b1c506dd2bdfeb.nca" size="171520" crc="ba3804ed" sha1="70829b58e839052852034f98996a2b2d22cd9f71" md5="d9b760a1cdf47ad8aa68626974275145"/>
+		<rom name="firmware/19.0.1/24f486dce1983b74e558ac4a21954db5.cnmt.nca" size="3584" crc="c2b213e3" sha1="dfd9d72b8eb7ef12e1326922dd7075f32a7bd7db" md5="6a2e1b403fc8fa61fc9c64f6ca5a8109"/>
+		<rom name="firmware/19.0.1/265e1975a15ef05e4b51bfed47538ebe.cnmt.nca" size="3584" crc="b828585e" sha1="769b091d955694205e05e313de207ce240ee388a" md5="1fac156189e2db5687100c1240a9e586"/>
+		<rom name="firmware/19.0.1/27048d8cf9d1a95675990b319b3964cf.cnmt.nca" size="3584" crc="a3397607" sha1="16e763a9807dc92c831b18582bffa3badde6764a" md5="6b57c4e6e4659473e51fa3de39898356"/>
+		<rom name="firmware/19.0.1/292834a35395a1021a086630dedb877e.cnmt.nca" size="3584" crc="9a6be067" sha1="894a4aac184f0c34392b60f67b5ba334eb0942cf" md5="7f7a120f7db0a738960722f48b883ec7"/>
+		<rom name="firmware/19.0.1/2bb4c8dd76f91770c7eb33028171614a.cnmt.nca" size="3584" crc="d811034a" sha1="ffaddea44e24fa39f1561a02bcbe39848d10568f" md5="a2faf8efb2b25df7d1139f60b6920f29"/>
+		<rom name="firmware/19.0.1/2bb83c45611da1982e794dd45056728d.cnmt.nca" size="3584" crc="173863a3" sha1="8512d1fbe210761c041d9303a281dfab0a50f4d5" md5="118e455560d9a17f68ba47206af8d5aa"/>
+		<rom name="firmware/19.0.1/2d7b288e349cfed2bde29b414b43b244.nca" size="442368" crc="800a11b1" sha1="b4dd47f9c3f08312a6c4889a4edcaf9a4c1923ca" md5="7dc6ad37aeaa97c0bfae2b0b5a48b253"/>
+		<rom name="firmware/19.0.1/2daa9e51b4a180a62c4f3e0131423205.nca" size="278528" crc="de1a673a" sha1="d84a2358952ccd53bcd3b47646f6b3b32024fde6" md5="f346d1bbf108ca72148cc9766f6c2f21"/>
+		<rom name="firmware/19.0.1/2e0ec33c7059fea7780badcb852ca90a.cnmt.nca" size="3584" crc="6220adf8" sha1="52bb25cc3825dd101b9e8b0ae7632b449d379fba" md5="5af8f364ed6105be44942564eab54081"/>
+		<rom name="firmware/19.0.1/30664667640369d4fec1e9691fea9ea1.nca" size="220160" crc="a5c246f9" sha1="73585ddc3e76b0757f36d6f98abfd79316a74268" md5="9b17429cc0a71f22dde09e215d95e5db"/>
+		<rom name="firmware/19.0.1/3245e890d79b29c99c54042da991673b.cnmt.nca" size="3584" crc="bab7204f" sha1="fb0cd39ed7baabdb55227e81a482f4c35276bcde" md5="395454e4ec5e0149fd6171c3ddd862b1"/>
+		<rom name="firmware/19.0.1/32913b3348f2ef01e6e3f4b83249690e.nca" size="4154880" crc="82ba9c38" sha1="5318c8d6b5580502c71348f43e83dbef79eef8b8" md5="d4173beb00916fe48369ca4a98493f6d"/>
+		<rom name="firmware/19.0.1/32d94610da223641af23e7f22a327966.nca" size="91136" crc="db313999" sha1="1daf81d42be4155d74b55a3d1759edd719d6c912" md5="d11ec67ea9e52b0bc35e8a8466b244bc"/>
+		<rom name="firmware/19.0.1/33f16bfedae02144a87b760555877b53.cnmt.nca" size="3584" crc="6b7ead3f" sha1="d3bb0252eea483facd8f720d34b7677de273a4e9" md5="acb792cc382c4b154796ff203454ae55"/>
+		<rom name="firmware/19.0.1/345eb30c36623de4ab03b2bc4a82811c.cnmt.nca" size="3584" crc="e71183df" sha1="b5048174e521f3b0c9cb1f95e5da44d16d6a493f" md5="82074d870af4c05cb93aa50ffa631a37"/>
+		<rom name="firmware/19.0.1/35835b221a62ca73763455914bf0e9aa.nca" size="27118592" crc="e24d1b93" sha1="87bd911e5a26afdad0575505abd78a944faa9926" md5="efe2f7b6b09e4378fcbe1459b87b1e27"/>
+		<rom name="firmware/19.0.1/35d6eb2abf908409b3488caa836c655d.cnmt.nca" size="3584" crc="e162a637" sha1="e5f4f9bdac4620cd20c952cf766a6e5bc19f5887" md5="6f47e28ed3138eb76576cf0da53c5bac"/>
+		<rom name="firmware/19.0.1/3627bc5a30e4d87cafaf6c30a9911a8f.cnmt.nca" size="3584" crc="d54c5808" sha1="24c6d7b5b03753f8b99555e70660b3c05d9cbb52" md5="e5f332876e7e285871952f77cd7e99e1"/>
+		<rom name="firmware/19.0.1/3684576b203be5708ccaffeacb357426.nca" size="3758592" crc="5e10ada7" sha1="d635e892271eacdf762b0d94862f70c7dcce17d9" md5="126cdda345b760f561528f40443e7c9c"/>
+		<rom name="firmware/19.0.1/388706be9609db59799d6b2fcbbffa55.nca" size="396288" crc="3abef9dd" sha1="9e43a4d1f6c4527d3653501649aa163a63c87623" md5="a55bf2464a91f66bc6f8ab8c56ef25b0"/>
+		<rom name="firmware/19.0.1/3d84bba724d1825b279fffc3cbda333b.nca" size="1252864" crc="f9bef102" sha1="2c89c05d371c2a2e04ddd604ad9211c00ce11aa2" md5="8f73bfaf7ec61298d222387f525b4c92"/>
+		<rom name="firmware/19.0.1/3f060cd13e25d687528a1453c4792800.cnmt.nca" size="3584" crc="788235c5" sha1="955e20ad207f4e563c89addbabae930d8ea929f1" md5="e750fa9b95d23f632c87edace754025c"/>
+		<rom name="firmware/19.0.1/400c8537a852ba841ee79b8de43d8cf6.cnmt.nca" size="3584" crc="e04eafb4" sha1="ef1d609b0fd17891875051da2428d60019dca14f" md5="62049d7a195fc5aa9539d04512a04f28"/>
+		<rom name="firmware/19.0.1/413e3ec1cb73021c6ec7bb96cbc8f628.cnmt.nca" size="3584" crc="380956e3" sha1="c6aab0ceaaf3e75fe51c05cc7c4d8c1be6597631" md5="ce28e5d72e36bbe72a8bdb4fb5e3b40a"/>
+		<rom name="firmware/19.0.1/414b06ee0b1f6441ab63d89f87a9c1c8.nca" size="198656" crc="da99fb50" sha1="3549d1f4cd1ebb419bf65712eaaa577ccbfff2ec" md5="3534ba9c821da52f3dcccd6d59977bc0"/>
+		<rom name="firmware/19.0.1/4759b475a573b798245ee73170d860aa.cnmt.nca" size="3584" crc="a54c2f48" sha1="e5e662e8b30d533cb9a0708e11f3d559ec114b16" md5="3111ed758cd3bfe799775b6013ff2846"/>
+		<rom name="firmware/19.0.1/486bd40bf2600f7ec683807b5ad9b334.cnmt.nca" size="3584" crc="41f11705" sha1="3ed02f97b2c43961ae3f059ceafaf6ec9c9ba8d7" md5="d5ca0c0643c7b372bc1a1592995d6fab"/>
+		<rom name="firmware/19.0.1/4bdb48c0e7a62d00e6d05c3bf8f7b97c.nca" size="6722048" crc="dd2b51f0" sha1="6cc1fd791ec9fd5d85b23bd8f979822f544cd772" md5="fecaa84158074fad1c8f693ac3502ddb"/>
+		<rom name="firmware/19.0.1/4cb18fa674b45e9edc6af6b559a3812e.cnmt.nca" size="3584" crc="c5e709c5" sha1="46f23f0cfa4f965c725f9b603f4e94191104924e" md5="283fff21bb5400ff472039d2fde0a619"/>
+		<rom name="firmware/19.0.1/4f104754c242ce499ad589d7d2ef95f9.cnmt.nca" size="3584" crc="4018fa90" sha1="db4f8ac3a2ef0791301b7822be87b7444eb41dc4" md5="d0f751e7500f1cdb8123b1f0d511db4c"/>
+		<rom name="firmware/19.0.1/4f1a92b8d52b45d3e2091c631377c0ec.cnmt.nca" size="3584" crc="01921e6a" sha1="123c582d3af71ece7c99865d74a961d49a979e6e" md5="f1058f109469661a2fd3cc423cc296cf"/>
+		<rom name="firmware/19.0.1/5118478f493f79e11ede877402b7a180.cnmt.nca" size="3584" crc="9efea497" sha1="2fdeb2466ff6bd1a98345566167f12659d2e5571" md5="9b5b36b18319df145fc56f041c697a13"/>
+		<rom name="firmware/19.0.1/5194bb10f874ca85cf390827401169d1.nca" size="248320" crc="78932660" sha1="9446a803138460210bfd7b843f54d1c461db0edc" md5="600f22d2d4dfc0e0b5f661f81be62e22"/>
+		<rom name="firmware/19.0.1/522e04f707d4a4ffa83c5c851e9551ba.cnmt.nca" size="3584" crc="1829ed7c" sha1="dca9636aa5702766f29a8704bd212f1fd7b07302" md5="b67f4903bc4c7ace91a763c71ac04450"/>
+		<rom name="firmware/19.0.1/52799db573e00a552a90766af326c530.cnmt.nca" size="3584" crc="d88a3530" sha1="52ee53c5971d319289a0b35d2be8e732d7bd548b" md5="67cea56dfbebb8fddad113e1b9411494"/>
+		<rom name="firmware/19.0.1/52920c5ca2047a0efa6781964ea318b1.cnmt.nca" size="3584" crc="74a709db" sha1="f8c658d99b2d3ca8d29b489569521fd9bb33ef96" md5="109d978813a24573c1652c8001e27c2f"/>
+		<rom name="firmware/19.0.1/54c4cea75c198d561d096d61ce9e02f5.cnmt.nca" size="3584" crc="17ea07bb" sha1="19a4885ed27a83cafa5260afd76b3d107d7ea5cd" md5="90f1c60d5cfb0001e89b8d48a510c70e"/>
+		<rom name="firmware/19.0.1/553a403ed8c118f36e1bf1c1d64bb848.cnmt.nca" size="3584" crc="37454e50" sha1="3e01a4e1f3a437a133e38c34bca078e378fb917a" md5="e2d535497e54b314cf1dc3fed3598a0f"/>
+		<rom name="firmware/19.0.1/565c3d36af625a701c2e2377bd19ab3c.nca" size="3996160" crc="7882eab0" sha1="473d6ab2994275790167da82060c2057308748dc" md5="4c87b33cbe0ba933ecd480d5f5b9d3d5"/>
+		<rom name="firmware/19.0.1/566d1ccf5c56efcd3cae70b8480f4fe0.cnmt.nca" size="5632" crc="cf77dca3" sha1="759e6268c03277f4cdc7559835838ebd323bc179" md5="70e8dc9f7c700625d201126b05db79d0"/>
+		<rom name="firmware/19.0.1/5716203813e53a55397975f0681c6462.nca" size="260608" crc="5a586cb2" sha1="b7380577eb12956e1b562c68aea30410bbdce403" md5="2210d11ab91143cda25fbcb5212391ca"/>
+		<rom name="firmware/19.0.1/578508fcc9aa5de11bfe7b45ec42be54.nca" size="788480" crc="d402e2b9" sha1="fcd91163868b69a7e086d1ece93e2d092cce0118" md5="98273a5433e6d2ec5818ae97ddbe657e"/>
+		<rom name="firmware/19.0.1/582a86b849e287f6c0edf1db1d182cfa.nca" size="6706176" crc="3130f8c7" sha1="639a4dd8d3895d30723b643787db4f056889102b" md5="ed4ad8e6698c8dcf8ac2e27137008d5b"/>
+		<rom name="firmware/19.0.1/58bfa62c507b32a346151d3eadd112fd.cnmt.nca" size="3584" crc="ab86ffbf" sha1="1775addec6cca46da9f632b387d5791810eedf49" md5="c526a673786b60fac6b38667cadb6cb6"/>
+		<rom name="firmware/19.0.1/58c1beb755c12bdd4ee3c831e25af422.nca" size="173568" crc="4657a328" sha1="1c2e4c0def3e34937a17deed3e89116219feb2e2" md5="9bb3c04c8d71ab542c8e39ff04f9e05a"/>
+		<rom name="firmware/19.0.1/598e9818d81553de63493da441d277b8.cnmt.nca" size="3584" crc="7edcc5ce" sha1="40454dd7111b167c9154d496de2f783d0ea8bd4a" md5="49256bc923140f032569587424afb71f"/>
+		<rom name="firmware/19.0.1/5a204d6ff91b75ea2cb352b6055320e5.cnmt.nca" size="3584" crc="d050510b" sha1="8ccc84ad82bdba8fcfe5fb320b1539117e160562" md5="31bbff2ef2eb402080c34cf2e677f886"/>
+		<rom name="firmware/19.0.1/5b95ad015454a2428f40a5076793018b.cnmt.nca" size="3584" crc="361f952a" sha1="9bcb326e176ae849b3a6d48dfede408059b8d7c8" md5="5452ce2fa305df637897f84c88500784"/>
+		<rom name="firmware/19.0.1/5b991be1efff3e2d2bc34fba9d200c58.nca" size="3995136" crc="7f0418b0" sha1="4ecdd92252177d25451b00f53309de7c49a1afac" md5="69ec6ac8985deef6237adbae9607aa0c"/>
+		<rom name="firmware/19.0.1/5c6107c1c243e71d2e897b5e61391672.nca" size="549888" crc="19fab995" sha1="a49850928460c89ca478420b17c81c4284414c79" md5="9947e7e42e73dc1f1095baffa44aad86"/>
+		<rom name="firmware/19.0.1/5e2c57899f25f00aa2074abaf3e7f20f.nca" size="241664" crc="ebd9918e" sha1="85dcc621b327c12388312d357f226a3e129a6ff0" md5="d929bb5137df12115f511c48c188f574"/>
+		<rom name="firmware/19.0.1/5fc72ae172a91d287d4c6b0432602718.nca" size="488448" crc="908d2481" sha1="a9df511c820e6bb6917407241f3b16c8ee4c3f1d" md5="c0ae2544ffe67ee0184cdddfc1538b6a"/>
+		<rom name="firmware/19.0.1/5fe581c21696d6fc143702918a103709.nca" size="86016" crc="a93c0004" sha1="b2daf11bb352860cf16fd97bd4056267ca81fcf4" md5="ce73b2181f50aaf0627b904c50bdf93a"/>
+		<rom name="firmware/19.0.1/61562912fb360478fef8d9ac7bc6987f.nca" size="2139648" crc="773273bb" sha1="a9a754fce6fc99c5ed8f54758fb349fa0d8fdc75" md5="d435b3ea9e8eed361cae0097e46fc3e2"/>
+		<rom name="firmware/19.0.1/639298b553522656451a2409bad87135.nca" size="1145856" crc="67b03214" sha1="0d6ec5ea7c620ec34e1846c1ed429e2981f9ce9d" md5="ee5939c652302cd07ce22dc9d3cae3b7"/>
+		<rom name="firmware/19.0.1/64345d8ceda361f2419162163026cee5.cnmt.nca" size="3584" crc="b50ff4fa" sha1="33cbb48321f365ca7d6149685803de5c393de519" md5="472d30a7271e6e569e0bf2f77459c92d"/>
+		<rom name="firmware/19.0.1/6510aed33084ba2e4b2161963768b2d6.cnmt.nca" size="3584" crc="abdac1c5" sha1="d5ef5b45dc8a30bc136541e71d74dbf29c987823" md5="7ae807d04998c4beb74b2ddfe094bdec"/>
+		<rom name="firmware/19.0.1/67006f6cd184f6fac9c3e204dea7e0e5.nca" size="6221312" crc="57126b6e" sha1="f348e08666be7c6739e34acd1ba18f39840a7922" md5="1732af07bfab058fa2d45bedfa9e98c5"/>
+		<rom name="firmware/19.0.1/670e2a6dae165330a6b36eaa420ccb19.cnmt.nca" size="3584" crc="7cf89c07" sha1="6cf562ebca3cdc2d5d8112a9a0b0844c357c8666" md5="21491cc91d1dd42ce5cf9acb13501b93"/>
+		<rom name="firmware/19.0.1/6768620093244c20ab7ac157306b2711.nca" size="346624" crc="6176d352" sha1="18984fc41e28e2efee71f92b5e4972a30a68b99a" md5="38660d61ee1c1fa14ce4a29d89a7e03b"/>
+		<rom name="firmware/19.0.1/692942f5c2715519e567c17346146897.cnmt.nca" size="3584" crc="76f89a81" sha1="9e6c30bf5c276df37d32c7488ca60436b2758d77" md5="fa704ffed8badb058e3bcd40ce0b84ba"/>
+		<rom name="firmware/19.0.1/6a80c3622ba0485f48c8cd3205e2b32b.nca" size="530944" crc="6ad34633" sha1="3277f264f1c817892de0584cf7e02f02fdffe203" md5="06a0c2d285518d2233cc180fa77e6101"/>
+		<rom name="firmware/19.0.1/6a8ba5185fec8be95d8fb9b47337f707.cnmt.nca" size="3584" crc="a4dfb1e5" sha1="624bfb2513166ebe09618086fa2531ca12a94f0f" md5="dfecf664e637a8f8297f3060827aee9d"/>
+		<rom name="firmware/19.0.1/6b80ecb87a0005a98c1f6d0188cb734c.nca" size="5408768" crc="5e640899" sha1="12702d019afc6483f10e85ded84278e3655649f8" md5="3ef0a0cfc698df49b2b90bd10347f76d"/>
+		<rom name="firmware/19.0.1/6c73e63ae7724e3e4a8cffa0d7f4f728.nca" size="757760" crc="182aa41b" sha1="31d43a0740c00138807701e0a1055fe23c5cfab2" md5="0c6d2f1b22b88439e5e4addd2b26a50b"/>
+		<rom name="firmware/19.0.1/6e99a1ab3036f98b40f9f2ab5afb4813.nca" size="91136" crc="16cfb3af" sha1="211e00a8df4429bf6f1005b14a88cb212e788f7e" md5="d5b5e5770cb562debaeadaf2cbbbaa20"/>
+		<rom name="firmware/19.0.1/70d1c71fac45d32cc3f8b17227d3fee0.nca" size="1436160" crc="fa1eb548" sha1="24421ff1ee86d89f93e481a8e21651726fea3b9a" md5="f2e77f2eeff3949115320871542bd4bf"/>
+		<rom name="firmware/19.0.1/725c03555e53ad1f72ac98807f6826d9.nca" size="148992" crc="22914a67" sha1="0b98e15c9d0bdb499cc1938877ff95109bed29f9" md5="3e7e25724fdd2c6331245305805751ab"/>
+		<rom name="firmware/19.0.1/7434a7c2436be366504ea09e2cfb3193.nca" size="6727168" crc="8c781eb9" sha1="1198a1e24de1eee880c4ec2dead51eb16b06f501" md5="694268ec39e98e6a02d538226785e60f"/>
+		<rom name="firmware/19.0.1/7445042b0851b238b52083ac889334bd.cnmt.nca" size="3584" crc="608a3d3c" sha1="6c5f6d119249cb1843a27414e3bb4339b3621007" md5="fd7936ad182438a37c8e6fafe55dc33a"/>
+		<rom name="firmware/19.0.1/74792a042777e15e8841cacebc2588c3.nca" size="86016" crc="298283d6" sha1="e34acbc742028bb0fc7fb5da2d4544f7da35c597" md5="3bd61627fdfa6c1cddc4bb5144494ede"/>
+		<rom name="firmware/19.0.1/74adcd291d34c5b8882e5c35e43078c6.nca" size="129536" crc="6b0ccf4d" sha1="7656cf20e7dbeff98a3be50387aaf92f92541979" md5="5784c3ca93abe85626146a9206fcd945"/>
+		<rom name="firmware/19.0.1/75a0e8144d97cf3dc9d05643f7221fb5.cnmt.nca" size="3584" crc="239aa54a" sha1="dcc49a5111277871c42830b2923ee508a90c5f34" md5="1bf9296d2e57312489b07588d5e3f6d8"/>
+		<rom name="firmware/19.0.1/761af82bda1bee45aff00c96bc26d84e.cnmt.nca" size="3584" crc="d441924a" sha1="a5d477eb83de76541237e1ec08c3363e0056f107" md5="5a123abd8825a5b37ae57afedc8f3017"/>
+		<rom name="firmware/19.0.1/765c5895d833f846c3cbfd03f3b0b78a.cnmt.nca" size="3584" crc="5dfbef26" sha1="4c3430236564316673034172eb44fdd817379f64" md5="dc1fd97b8549ec4b22047e718730efee"/>
+		<rom name="firmware/19.0.1/778e12228c2a877efba5390f81feed7d.nca" size="2053632" crc="aec9c6d2" sha1="12b5299aa788782d4a1155171528a5fa11a122e9" md5="f292b8b038407eda8b5b0f50375c0e02"/>
+		<rom name="firmware/19.0.1/79e18e7cbd5de5b700f054bb95e95efd.nca" size="86016" crc="0f831a05" sha1="5003a61064e72e77bfcff921c27ae29b441b810c" md5="4ae2756eed48d3a554ea4ea3ccf43877"/>
+		<rom name="firmware/19.0.1/7a99583e336be697af80b0c5f7baf994.nca" size="4272640" crc="67634b6b" sha1="66cbcc1ce0190c825811996c010050d553fe8cd2" md5="6a8fdabf9b44e4f39ee688bcb34966aa"/>
+		<rom name="firmware/19.0.1/7ad4392482cae5d8d3e6b61bc73d8848.cnmt.nca" size="3584" crc="280a90ab" sha1="a12f02a6fee7cd6841f33228236be7abc9d49e9a" md5="cd126ace1c57bdb601041655c92f09d7"/>
+		<rom name="firmware/19.0.1/7b1d7f3b3590b38021309ad2a336615d.cnmt.nca" size="3584" crc="08f9f4bb" sha1="7ece194ae92c725004d7a6c513594488df917a46" md5="b2b7962e36f679725ee5427f5877e547"/>
+		<rom name="firmware/19.0.1/7bf5a95c132614a5936d96b12bb72ee5.cnmt.nca" size="3584" crc="0dd1fb02" sha1="489fb4688e601848aea04cc36ee660504dcf14c1" md5="132a71bdd6cd4eea357d0f9f9e15869b"/>
+		<rom name="firmware/19.0.1/7ddeb7f9b5f6f3f4ccf1e83b51970cb6.nca" size="655872" crc="8b0e4dde" sha1="e25c36e306c3e692f6da3ed2ff5a5f484dff0590" md5="6e25e07bfb6076ed6938f90971ccb5fa"/>
+		<rom name="firmware/19.0.1/81af198323a2680f10f6f45d0b310169.cnmt.nca" size="3584" crc="2b26ea7f" sha1="e93913b7debb7f33d68048d4371143cc35c7ac78" md5="df04a2ab31884a181a2a844c1dd2eb91"/>
+		<rom name="firmware/19.0.1/83d0aba25904aa660d5b2851f8d45c43.cnmt.nca" size="3584" crc="10e3285f" sha1="177a23b61441685c3b4ccecb2b727b3258f31f26" md5="5e63670e78e1f24c9871a51fb6537d27"/>
+		<rom name="firmware/19.0.1/84e3c723c13a36002a7c5192af9886b0.nca" size="4313088" crc="6bcc1197" sha1="5383a6564f66d1aea7a10d7e8f4e03f26d336a63" md5="256796188a09b2aa712ac4a593642e09"/>
+		<rom name="firmware/19.0.1/85de6e5cefc825c243f096c20e95b7ac.cnmt.nca" size="3584" crc="ac97b2b5" sha1="10601026ee7a25f7dd80691626c3402c20e4fdf3" md5="ec835acc7de7b0d1b5ff2ca279ef9ae4"/>
+		<rom name="firmware/19.0.1/85f4f568a6c62fb69541ff24ec2a2649.cnmt.nca" size="3584" crc="23757f4d" sha1="d538c75bb899c00de990198f2a8e42f007f41fc8" md5="542d6c059dafe114f9366d3d5989bbc3"/>
+		<rom name="firmware/19.0.1/86cb79c698abb26caa157a9f03296447.nca" size="1617408" crc="388d587e" sha1="7ada45a3799a3c7c0b54edcecee21fa9f7791d22" md5="e70dae2b70c86fd14c54c1a7ebe8b486"/>
+		<rom name="firmware/19.0.1/8726ed28ffdc6eb302a60b8589139f33.nca" size="304640" crc="ca6b4afa" sha1="67daf021001588875aa58249f9c68e041729d6f1" md5="f0cfda3f5ff0613c865268f72205ed78"/>
+		<rom name="firmware/19.0.1/890f9f69107c74e994bfca5c96232302.cnmt.nca" size="3584" crc="2755c92f" sha1="7c14a6fe0b05a1b0e83e8783cfc907a76eb0c614" md5="21e142e1949e69fd573bab11c2efd8fa"/>
+		<rom name="firmware/19.0.1/8959a3a5f7d4b79c7320e9af6e0d32a3.nca" size="385536" crc="0cf57c65" sha1="ca3013a7b1c4aba477c13ee860e41b4f156b3ea8" md5="f5a967a5a9eac732b2c31952c6c88448"/>
+		<rom name="firmware/19.0.1/8a6455f25c813e95ebb9858833dfb23f.nca" size="3632128" crc="e77984bf" sha1="1a491819e7845da275f5af2bda0ee5d3efe540b4" md5="1d25803d31e4d5ac6e7de99332af8a99"/>
+		<rom name="firmware/19.0.1/8bb427d2e0765d99b82a8258fc7b23e9.nca" size="8057856" crc="91c9f617" sha1="aa85b1bbc2895ca432f0402983f64c9bfe092a9d" md5="8ba79a73ef2b578a5c5da757ed970ac1"/>
+		<rom name="firmware/19.0.1/8c16e0de79adc73684713afafc361b13.nca" size="74752" crc="de8e91a0" sha1="9d9bbe75363ac74570b733da1e0f4174c3a632ef" md5="dd18e5fd07fc96c263047fedda946ccb"/>
+		<rom name="firmware/19.0.1/8c9c72a76371b0658e6b89b8db1fd987.nca" size="188416" crc="4efd980c" sha1="ab472252cc3c5fb6023d3914e169ba82668004c1" md5="22b9310f1b84292d86c44537fc1d1102"/>
+		<rom name="firmware/19.0.1/8db4fef45040c5de5d9bca64ad8dd6f7.nca" size="91136" crc="67ae3848" sha1="ad46d40595c68ea1473ac068c87bb7f008cf78ec" md5="fcbb0280ed5762faa9e053c1442fd7c8"/>
+		<rom name="firmware/19.0.1/8dd1cadc9a0777b9eb0af59b90bb80f5.cnmt.nca" size="3584" crc="0862b2f9" sha1="6a7ba81d1d1fa6a269d6c5788d7c546a4ad352a8" md5="ac557b0a5da5ba443b1707bea0863716"/>
+		<rom name="firmware/19.0.1/8e322c52c445f0ca326cc3d7f9408bfd.nca" size="519168" crc="c86bd0fc" sha1="e1be93f2e97f0b35e861012b1961d36ed00cf6f1" md5="d8e8ca8d666eae1b7d39c7829753c2a8"/>
+		<rom name="firmware/19.0.1/8e910e497b9caf91f992bc6c3ae91e44.nca" size="3347968" crc="b46787d1" sha1="f3146d64622edb740ac412a8e5a51cd53438ee82" md5="d276c14e8d375fbab80cf8be0ce1f734"/>
+		<rom name="firmware/19.0.1/8eaf3d2ed45844d04d17031243c89d68.cnmt.nca" size="3584" crc="e5b091ac" sha1="85dada6d096860ecdba14f58a50c3e472dcf56c6" md5="5d27a7b991873e7f830ed9a6940ef2a6"/>
+		<rom name="firmware/19.0.1/900ff398896025d8dd77a137beb44be9.nca" size="851968" crc="b2b6ce9a" sha1="dba57ea474f0c4768c78baeab157b29456930381" md5="f61dff726683213717c082640c1c9baa"/>
+		<rom name="firmware/19.0.1/9273a4b9cd677dcfc9fba14ad10044bb.cnmt.nca" size="3584" crc="ba30d87c" sha1="2c702edff206b8ab5ef5a50220c58eccece434b7" md5="001b977680c02f9d8895d93a479f7614"/>
+		<rom name="firmware/19.0.1/92e5a5bf6113cfebd3e92dc9518226ca.nca" size="162816" crc="95e448a2" sha1="86d2ff284976013360c34144793c78e012de6d57" md5="ad26ab554bf8e13836647d2378bf3a10"/>
+		<rom name="firmware/19.0.1/93ba489d31e8f1c4b1781dd1e8d61bbc.nca" size="4191744" crc="cf243862" sha1="953de30bea4023f2a655ab6daf0ea7e27382e598" md5="a4fc47b89103164a5ee18ca2bc32adbb"/>
+		<rom name="firmware/19.0.1/95ee54640bf51a37136cde93dc0f4c19.nca" size="4481024" crc="be9b64fd" sha1="d7425f1f9b108a589fe190d54b835b2fa2a15aa7" md5="d36ffe38371df2582b93eaf0f78fb5ca"/>
+		<rom name="firmware/19.0.1/96369891a6dbc17bee76a2842de48576.cnmt.nca" size="3584" crc="19a91323" sha1="7b95458a6dc90f4ff0df19c2160a0d5b0b07dd88" md5="68d77dc3d585061195a0f0aaf6e2cc37"/>
+		<rom name="firmware/19.0.1/97985cd5b5456daa6aa8a15e8bec4cd8.cnmt.nca" size="3584" crc="6c7a8e52" sha1="6c86413fbcf0122c08657f5e59506e4ce42d8722" md5="ac2637b4d7eef92e09fde917acfbeba3"/>
+		<rom name="firmware/19.0.1/9a875c1db243f009a4f7f9fa57a81f0f.nca" size="14662144" crc="cde7d6a2" sha1="0c6d66b077a9bf61594664beabd0226a54517e9e" md5="913a30316bd62a9eaccf9a270874f14a"/>
+		<rom name="firmware/19.0.1/9b1ad154ceb1b3db7ca2a33324203761.nca" size="865792" crc="84f69e33" sha1="540a38e5cb3dc4f5fbff847e30245facada9ee8a" md5="9863f1e5055d3c0de3a2186d07e5718b"/>
+		<rom name="firmware/19.0.1/9bc3dcc9461fccd5caab42c487114eb7.cnmt.nca" size="3584" crc="3bde797b" sha1="74cece4331f4f0cf2208ad3bf9ff033a20e215dc" md5="801ac40b4ae04e1472f546b9ba058022"/>
+		<rom name="firmware/19.0.1/9c90ea66f47a7b4dbfc1868326e26dd2.nca" size="349184" crc="32edc014" sha1="a29f53354fb35153d227ed38445c415b243e51f5" md5="f207af36b30eefc9d4814a56d93d2321"/>
+		<rom name="firmware/19.0.1/9d27e65d6997f51314ba9e7328cd5605.nca" size="229376" crc="88bd660f" sha1="41f3d55366c678ef0ead6810ea09d9a5344753ee" md5="3e77ae0012420736079d3ea57133d2ed"/>
+		<rom name="firmware/19.0.1/9da759303ac67b7cabed8168912e263a.nca" size="4744192" crc="3ac5bf14" sha1="d137460e694e5fd37afb088f701aca36ddde6ef9" md5="9baa410ad43e8e982404038b5b849904"/>
+		<rom name="firmware/19.0.1/9f2d38ce1ea274e8721fdf2b8f588b47.cnmt.nca" size="3584" crc="04d88a58" sha1="bd754e938de9e01b10b728fa6fad1f5662a106b5" md5="7fadefc6a6d4f83877b53c30e2dc936e"/>
+		<rom name="firmware/19.0.1/9f68f582238182effec7c4abf0a306af.cnmt.nca" size="3584" crc="8bf57354" sha1="187a6a7c8c912ea683b2d19518d71c1105df115c" md5="491a02f6da90e083832c47134e5653aa"/>
+		<rom name="firmware/19.0.1/a0111da565e8fe8c982eb93418553aa5.cnmt.nca" size="3584" crc="0404d8bb" sha1="3b3bab070616518a2a941de5966b09e243a64461" md5="c7a043eb92adb3b90e561de085931f26"/>
+		<rom name="firmware/19.0.1/a03f08989aed6f01b6746a959495f433.nca" size="1054208" crc="e41252ae" sha1="e1668094e449ddc9b7d56fde190bb634758e4665" md5="55b658bfaeae7d487962e25f884ee24e"/>
+		<rom name="firmware/19.0.1/a042179f2dc68775db827f368afd8d5c.cnmt.nca" size="3584" crc="cc0cb1c8" sha1="30358acd00b7a43d3b871cb4d16ce11e07c93631" md5="037e1b46b2ddcb70256ac61b735e291c"/>
+		<rom name="firmware/19.0.1/a05c2dba9dae8c43c0da7f6344b6ea19.nca" size="502784" crc="2617a176" sha1="99b628bdda2e4dfc67d2ebd851e5294e90bc43dd" md5="528cb5e8c9c5445b8f6b588aca4dc900"/>
+		<rom name="firmware/19.0.1/a2253757567708d1712dc01310ec43f3.cnmt.nca" size="3584" crc="a50b118b" sha1="06e96969ad6dd09a765d9a783273aa66b39fed6f" md5="731f59987b6ab8eb7776fe50acdc6d70"/>
+		<rom name="firmware/19.0.1/a32ae336b2a60aeb69192f721bfa024d.cnmt.nca" size="3584" crc="4d340a6b" sha1="9aa9e95dfcde75905e4943467ba5c49503d7210f" md5="6645b46c3ae8cc3eb9d7224ef3304361"/>
+		<rom name="firmware/19.0.1/a56c281e4b8fc6b2d8c8affad2fbac95.cnmt.nca" size="3584" crc="af358004" sha1="df5fb5d7cb097073cba5fb89b057460174077c99" md5="19afc3ffb466773d2cfe7afe54d906d3"/>
+		<rom name="firmware/19.0.1/a7797cc91e8c0ed3d3d5d1d4d163f5aa.cnmt.nca" size="3584" crc="07c758b1" sha1="1ac142947094c3bf6d4c0fad675a849e0a843a4c" md5="439284feabe877fc916bb946f4edcbdf"/>
+		<rom name="firmware/19.0.1/a78023f62e10d8d7adb3b6e38c97d2f5.nca" size="55808" crc="b12b0e69" sha1="99024df0b9f8f99e57ab85d82f037e309faead1f" md5="96e6bc6381a7ae418990d243ec4153c1"/>
+		<rom name="firmware/19.0.1/a86fa01027971fa059edee3c6483a3da.nca" size="454144" crc="73f0c6a2" sha1="520f610e0d265473e7ea6c33493dc8b22424572c" md5="f40c97c985dffd81b420e0fd3a577621"/>
+		<rom name="firmware/19.0.1/ab1f4cecb6d6b3bb0c5f8fa5445cdead.nca" size="1016320" crc="62615650" sha1="efa6ba1c196e3192e7296910d571b4573c3ba111" md5="d906202019d9930c5929f0401334a823"/>
+		<rom name="firmware/19.0.1/ad6f019018c93a5b602839197628738f.cnmt.nca" size="3584" crc="9f4abd7d" sha1="8d6fc322eefdf9cd7d5e25500b703ae0048847ed" md5="19d5625fb7cd6946848806bb4e11beba"/>
+		<rom name="firmware/19.0.1/aebac0d80faea5158cad4d17a15167af.cnmt.nca" size="3584" crc="c8882d4e" sha1="e34a8f88827ae99204d462419f0a0bbdebefef00" md5="18fcc21fc26043728a8bee007efa9cfe"/>
+		<rom name="firmware/19.0.1/af91d7eb05e39c50a9cfcd27b50e3b25.cnmt.nca" size="3584" crc="e87d2d55" sha1="3400b52a2913f9cac506a1eaab5daf9699877fc3" md5="7c8b09c026afff144edd5ffca0ace187"/>
+		<rom name="firmware/19.0.1/afc78068f5165699a8c9db2bef43dd1d.nca" size="19704832" crc="22e17994" sha1="9ba35ed46a4a8e7e85f4c98aa438d031a4e546e4" md5="b44dd640aaa54aa55da62def93868184"/>
+		<rom name="firmware/19.0.1/b05e6fc997ab48684df9b16d974c309b.nca" size="290304" crc="4722b04d" sha1="46bb385d4a5a00c340e5d45a3e31f012ea5364ab" md5="4d44fcabf3705becb627981f8391965f"/>
+		<rom name="firmware/19.0.1/b3893461f70e726edabe39cb21bd8cc7.cnmt.nca" size="3584" crc="1d0ad1ee" sha1="fe1d2b2e9b98b14b27ea1eba5d04ed3e9859d805" md5="a31d6413b2b78e423d86bb28e3eb8a1f"/>
+		<rom name="firmware/19.0.1/b4216df1ddc353c939ee5a983ee05ebb.nca" size="19530240" crc="054565fb" sha1="ed3161b8fa57e80e6957e243ea930af8166b3ed3" md5="4d20cfb5ae3e918a4ba897656b302e6a"/>
+		<rom name="firmware/19.0.1/b4c1d635172d4014d7f5390105cc8c0e.cnmt.nca" size="3584" crc="2f18ffa3" sha1="58e2dd208d59a43d295fdd7b4b4aa929d65472e8" md5="9bcfb79de2129e8e9dd9182775a39683"/>
+		<rom name="firmware/19.0.1/b4c73d16f248a03ff84f20755c74c93e.cnmt.nca" size="3584" crc="5ff33b68" sha1="a3f78767e3888e8edf6652956619634a2258eb04" md5="490825c87c573b7a82cd2afbb7febac8"/>
+		<rom name="firmware/19.0.1/b5439662d8b92a3dd3210adf65179329.cnmt.nca" size="3584" crc="04137a3f" sha1="05651c6ef132567b6a288fadca74da6e5e7a3b33" md5="78041a93af28cd30ae2d0243edaa3893"/>
+		<rom name="firmware/19.0.1/b5c62676f3a755395d19e10c00b701e9.cnmt.nca" size="3584" crc="60ef646d" sha1="49a13d8a487146ac99989cd5c7313112b99f2846" md5="ea870c66c9d2667b3467f8f35ce06358"/>
+		<rom name="firmware/19.0.1/b60e4470b2a0864450a484ae10b64e6f.cnmt.nca" size="3584" crc="c4c6e770" sha1="da10b1c8301b05bb7b97ec46b6bdd4f4a896687e" md5="78ee4ccf2bbef3316fad2146d80558e3"/>
+		<rom name="firmware/19.0.1/b6c6ea3ae39c4d58db4d830512fde365.cnmt.nca" size="3584" crc="59d4fe70" sha1="d682d62a4467b88e3a7dc857c4a6892cc4380054" md5="67972da4fd4680a8668b220f863a38dc"/>
+		<rom name="firmware/19.0.1/b7c1d14303252674ad0c5bd7e4277bf9.cnmt.nca" size="3584" crc="d8a6dde3" sha1="6c39299e3cc0ec57d23d49223291655ac8ba317a" md5="dd1c1341f038941a89efef24c4ec1784"/>
+		<rom name="firmware/19.0.1/b9152056012c0d292641980788413803.cnmt.nca" size="3584" crc="7d4f0b09" sha1="b9a93647942c2a6104df8e26218255b20bf3e608" md5="b3dc1ff9c12faac6278b6385ba58dc7f"/>
+		<rom name="firmware/19.0.1/b937dedc8e76e65a7d46dbd68070c5a9.cnmt.nca" size="3584" crc="4bdb1354" sha1="44341a9fa64bdad9cf7ff7b299f0e2ac86563083" md5="ee8a7c81b7e151382defe3b137731a96"/>
+		<rom name="firmware/19.0.1/b979707157cc922ac6e36638e72191d5.nca" size="1319424" crc="eb4b0e86" sha1="4a3223bc1fe82072b96d5b2c0a4ef2033c37cf3a" md5="61d7929e46359f1356dcbecae804346a"/>
+		<rom name="firmware/19.0.1/ba15e923322fa5f7242e906d6e91b86b.nca" size="111104" crc="94a5d5c2" sha1="b2efeecbaa4eed424ccde44afce8f7ab2c6187dc" md5="0026da2333815e513a7500956a9f32e3"/>
+		<rom name="firmware/19.0.1/ba88bd048814486630e751a11734ff44.cnmt.nca" size="3584" crc="6b039445" sha1="8d7f8a2233a338c49c48189b9d4c422e455f35c8" md5="62de9ec2040229f6e6ab19dddff8cc14"/>
+		<rom name="firmware/19.0.1/bd3d5f6715501a7fcbaa15a8ae882139.nca" size="696320" crc="c67d8cb3" sha1="d1ce55e4841d15e5baf74a1554e9b3c639df6108" md5="18e3e30dc79833fb74ee23f367504dbd"/>
+		<rom name="firmware/19.0.1/bd3e6c790bc712fea068de146aad8832.cnmt.nca" size="3584" crc="5a91164b" sha1="0da3510457275a067e59733960b32401a2321a70" md5="3c3cc595be8421f2713e0a25d70145fb"/>
+		<rom name="firmware/19.0.1/bd7412a37b042826fa79ba6258066df4.nca" size="4289024" crc="e6386b83" sha1="7dad7c72b12efd29823599403af6d88903fe5a3d" md5="9381f87e87b6d2ff4b546f79fb0b6673"/>
+		<rom name="firmware/19.0.1/be94ed8ed90159cbab7cdda91122eee1.cnmt.nca" size="3584" crc="df8fb4f4" sha1="669eb0ea91dd3203ae27f5fb9f526e267d357945" md5="0ba1223a900c4abedcccd15117dcd956"/>
+		<rom name="firmware/19.0.1/c0ad3f913d190a1051f83b6333b445fc.nca" size="156672" crc="76febd0b" sha1="ac04f5b517e46dcdc92a62eeb1a70e70646a28f1" md5="e95b1ead17237774c21a78d646c9f6f8"/>
+		<rom name="firmware/19.0.1/c13d83babfbba3d316ad8e4fb9ea3d1d.cnmt.nca" size="3584" crc="236d851f" sha1="6abf28828e5ae1f2881cc32a2b6fb394ffd53321" md5="f067c55fcf7d0c984b06ebe392a2c886"/>
+		<rom name="firmware/19.0.1/c21e22caafa2feec1c25787994762ca0.nca" size="91136" crc="f3cdd483" sha1="3a3f555c3692c0736d182a2a9d8327d08b1c586a" md5="31a00e4785d9be95529f2cc697ca290e"/>
+		<rom name="firmware/19.0.1/c27b4e742487a037be3ae7d3bcad84ef.cnmt.nca" size="3584" crc="5da3fbd5" sha1="109ae8d65ccffbbbc880dd43275f2f84a929df73" md5="7b1d2fa19576effada1b79038ea4a24f"/>
+		<rom name="firmware/19.0.1/c35e6f9898e1f43aa2c0cb9962e01b73.cnmt.nca" size="3584" crc="23adebe7" sha1="9df5c05c1e50905b12bbbce6ea3455a00e4384a0" md5="29ccb56909eae29629fa6df1bab6ea17"/>
+		<rom name="firmware/19.0.1/c5554b49e8ff2c934c446b1be31d6563.cnmt.nca" size="3584" crc="632f2e82" sha1="fdf184192904ce8aaa61d88a3ff7dfea26b0eac2" md5="50e6efc799473035aec1b181bfff70e4"/>
+		<rom name="firmware/19.0.1/cbe7aefd548cffd65e1847c7d6ae1b25.nca" size="1074688" crc="2ccf5ffd" sha1="8f54fd137f5d7e8a60d14f9c356b1ddf98f16487" md5="da2745444c5340ea1a1e2f9230abaf22"/>
+		<rom name="firmware/19.0.1/cc377560b095202d46649524c04d5e87.nca" size="438784" crc="5bee5205" sha1="551ed24c7a9f91a689827bfdb3f2311fc97783e0" md5="dd0ea4bce5a566ebd978fdd914f4bc6e"/>
+		<rom name="firmware/19.0.1/ce8f8337c2359292fff0145832d06b9e.nca" size="231936" crc="29e200fe" sha1="2396d9c68ff190602cceb839e34ede3f30e4b352" md5="9c37faffef66c34de05ecd331656f7be"/>
+		<rom name="firmware/19.0.1/cfeec0b45664bfecf91be7de2200addb.nca" size="989184" crc="62c80221" sha1="f23637e955e9791f0d8826d3872df77f1383935d" md5="56d0d06be98589471befd9c83d8eb06a"/>
+		<rom name="firmware/19.0.1/d01073ddb4d7bab747b4be2c2a26eacf.nca" size="6719488" crc="9857881f" sha1="c7195c3cdaee5dd1c773f05bde1b68db5e05a4d8" md5="ddf701ef64cdcd8d0cc8fa28851db4e8"/>
+		<rom name="firmware/19.0.1/d13f3234eb3b55e0d65a8467e0b8928a.cnmt.nca" size="3584" crc="aa2c53cb" sha1="53b076a04245460326980c1ea9082eb9430d2f88" md5="1c267dd298d5ba5403eede64501adb19"/>
+		<rom name="firmware/19.0.1/d2fd0c1b8d427def553764f81311860c.nca" size="345600" crc="f7aa255b" sha1="d31a85eb60b7edcb4c8991f3d54a40b03ef0ec1c" md5="df3ca90533df4828934bdcd226044c81"/>
+		<rom name="firmware/19.0.1/d31b44452e318f3b608cc31dad0940ca.cnmt.nca" size="3584" crc="5020d3c3" sha1="2f0d09e708085fd007a7d3c6629c98371117428c" md5="87a5bf7840ecb4bcf4aed034eccac8fb"/>
+		<rom name="firmware/19.0.1/d52185ee35b328e746862ee1c94283e4.nca" size="8214016" crc="03bb1fb4" sha1="2f105aecf32d88632df7098c847198d9b7e3dada" md5="9a6a01b0f7dad7deddc5bf991fc7fff7"/>
+		<rom name="firmware/19.0.1/d692298ad6188a50730a88446421a36c.nca" size="3886080" crc="95a1ca4c" sha1="73187b30b32f7d836ef9f9bf6a11b1d202dfaa51" md5="61690b21046192fdd67237441fd57e58"/>
+		<rom name="firmware/19.0.1/d71d37407f7edef298e67e53a79fdf04.nca" size="846848" crc="1bffc046" sha1="ada1d2e93d939c38e90cd0d31b3e992f36a9c422" md5="cb384f3182622033405c11dc2828dc6f"/>
+		<rom name="firmware/19.0.1/d86ce94df60a9188b38319899c0edd9a.nca" size="262656" crc="fcd98f7f" sha1="c1ec4af22fb2c4610cfe9686c8abb6f07379032b" md5="4db549f5e1682c97b439258a0dbce32c"/>
+		<rom name="firmware/19.0.1/d8e6bdc2dfc5e4306084e3700e95f546.cnmt.nca" size="3584" crc="0d837737" sha1="6cdb5b72153903cdb71dba07b5f3481ac1468050" md5="b8cd83c35986b74ae43fa4d3adbc9feb"/>
+		<rom name="firmware/19.0.1/d9b3b6a0cda3df74d8a91c3958ff387c.nca" size="171008" crc="35f5bf60" sha1="0be2333dec7a8485e395e1f6624ac9a7e1650927" md5="a5ea2009e023084424b58d9b75c18e11"/>
+		<rom name="firmware/19.0.1/d9b618fed832e434ce347930af753a05.cnmt.nca" size="3584" crc="986b4050" sha1="831437b210b6f2fab2952be9732757571520c691" md5="ba1302f69981610fa7d3082fe05309c6"/>
+		<rom name="firmware/19.0.1/da74fede46b903b508701bdf50b43509.nca" size="3574784" crc="35f63214" sha1="ddcda84dbbf9c0f52b42d1b49413d54ce24f67f6" md5="bf9beefd40edba333824b19bd155df7a"/>
+		<rom name="firmware/19.0.1/db4af5537fc5de75399bd6f7b5c899b2.nca" size="843776" crc="6085fff4" sha1="2f612fee4bac728e2b7bf12bd828bd1b78f0fa01" md5="54bfdf6bc460fc9353ca8ca638476212"/>
+		<rom name="firmware/19.0.1/dc84ad71c7058e463c2b3c760ceefe92.nca" size="216576" crc="e3b1b523" sha1="749c9dd57229db927028c045cd1c356ca78d5264" md5="a442c3e161ceda32f2854631311cf468"/>
+		<rom name="firmware/19.0.1/ddc08cb04e735b6ec6e884dba7e96082.cnmt.nca" size="3584" crc="ddee2187" sha1="f25f648f5a84ba8e2b348a81afc061d27ac9f605" md5="084198a4a39951ffc1dee6f5bc731229"/>
+		<rom name="firmware/19.0.1/de8445d010adb1ca6b078cfae33112c0.nca" size="90624" crc="462d46ef" sha1="5a69f43372ddd74b913f887cc2cb30570f2182fb" md5="57b860a20abbf74f158cb09e569ca69f"/>
+		<rom name="firmware/19.0.1/e0f1b164ca581f6149030da36e9cadd6.cnmt.nca" size="3584" crc="aedeff5f" sha1="b6e7f9017deb654a2fb108ec7eec292411ee2672" md5="03d15ae316ae2083050b4ba81c72e44a"/>
+		<rom name="firmware/19.0.1/e270b3b35fb2ed964d50dfd35c580014.nca" size="5858816" crc="39b0dd9c" sha1="f0f3aa2b6c434266f94c78c644f2fe9ce9431518" md5="0718c72bd1662295cb628bb46bfacf1b"/>
+		<rom name="firmware/19.0.1/e3d2708ea1af9958a953d7a143e19c7b.nca" size="2454528" crc="26fdfcf4" sha1="5666c5abf3a3def3aa7023d3e7933d451ed56998" md5="ba7dea19cd975eb145f1934a9dadec0d"/>
+		<rom name="firmware/19.0.1/e49a04425773ff3ffc81b08538d9bcc6.cnmt.nca" size="3584" crc="c8ac01d7" sha1="b597a68f3e48af74fdf241de33bfbe4b0d9524a5" md5="bd6ef05dd2a713546a627cf5d2e9f38c"/>
+		<rom name="firmware/19.0.1/e562858d0ddd932f0330a3907697934f.cnmt.nca" size="3584" crc="ccd21d4b" sha1="8bc766ab8067f828ae2d0bde06a01c41230194b5" md5="785902548a72e2cec7b926a37974cd78"/>
+		<rom name="firmware/19.0.1/e5c9b870de8cfb8203ea6cee0b71a756.cnmt.nca" size="3584" crc="1f2a2364" sha1="0a8f0a3d9f0306a3e9055147127b083a2c74f12c" md5="007206d054a9aef3cfaaa111e42df08c"/>
+		<rom name="firmware/19.0.1/e9b068dc6d4e3e374f64ad32768d4196.cnmt.nca" size="3584" crc="023b5e0a" sha1="58faf0d5d349e33587cddf5005d03ccc5ae90509" md5="bda3f9b380a70e934328853935701d77"/>
+		<rom name="firmware/19.0.1/ea04802f4384f389f0c115e6080a00fa.nca" size="4262912" crc="498ae56a" sha1="08a8edb3b7b16fcc7d10a19a8e1cc18449175e41" md5="a4f4ac7cc5e344094bc43400bc8a2eef"/>
+		<rom name="firmware/19.0.1/ea33a8264f0a70992b5b433b9772f672.cnmt.nca" size="3584" crc="65eafe73" sha1="e896cc03d491afb9c9569115d0249f2cfd2e8857" md5="5a4ae0c2206a8dab493169ace44ad98b"/>
+		<rom name="firmware/19.0.1/eaaf2b7e36169eb0187ea898d7d225f8.nca" size="286720" crc="3c39cfcf" sha1="84667ccf1d75696963f97e3e7d0bebb9b5a74ae8" md5="a5a0b7ee1fbd08bcea4460dcd2ac985b"/>
+		<rom name="firmware/19.0.1/ebcc9c853d9f7828a0dec2b90b9ac9cc.nca" size="91136" crc="a1e1ad56" sha1="533e61195a9ef39cddee09db58249ddff7d55b59" md5="875b94592012cefbdc356f0b7fab674a"/>
+		<rom name="firmware/19.0.1/ec70a8cb1296a362a82f7f15a466d3a4.nca" size="638976" crc="58fdd43b" sha1="1968ed9a9cfb6770636630820f7009365d74d0cd" md5="c18bb2051d87c238015cbfad0cb553df"/>
+		<rom name="firmware/19.0.1/ece1d88b4660c817d56183a515372a48.cnmt.nca" size="3584" crc="a3dfa757" sha1="77cb9cc6dbe5324f83e304141b243486c9114e4a" md5="12a485de34c292bcf588f9d42d49925d"/>
+		<rom name="firmware/19.0.1/eea423ac73acc4c409e2031dc6b78048.cnmt.nca" size="3584" crc="edbbf677" sha1="cbb913a6187eb40cff56791e7ac9a725f292920e" md5="17b5526ce5b393845b45348694899bfd"/>
+		<rom name="firmware/19.0.1/ef7f6804d14eb023dfbc69794b7fa79c.nca" size="38837248" crc="0fb64830" sha1="5556b6c8f974b93d51f3defe324ea6d7f8e5236e" md5="91fa79ea8cc83d40fbd3577dd007f2ff"/>
+		<rom name="firmware/19.0.1/f41e4567e5bd94a6056c6982aeece99a.nca" size="3311104" crc="b8da7f36" sha1="129d8532ff27a83a20bd3199746422355856a540" md5="39c16556a6a33ab7a0928899d8f7f4ca"/>
+		<rom name="firmware/19.0.1/f45daad572449aad310bf8ea3631468c.nca" size="1370112" crc="a2d445af" sha1="633fda88f5dd54aef5beefc36917a9b2f7bad2de" md5="ae23d154690304d219985e8e97038156"/>
+		<rom name="firmware/19.0.1/f46c6b2e897bdd6605dd4d841e1ff4a4.cnmt.nca" size="3584" crc="723fbe0a" sha1="b207b517937bf5257398d48a1c04401784964dce" md5="ec4d77dfc118205ed0eb05810dd647ee"/>
+		<rom name="firmware/19.0.1/f4bd84f83c4ad0c005d4d980e099ab36.cnmt.nca" size="3584" crc="d2a734ba" sha1="6c678f9441c30533a19287eaea6d8f2afd0468a2" md5="9a5367f03486f7bca3d74643abef9b3e"/>
+		<rom name="firmware/19.0.1/f5718a5ad728bb81fe664e11aa41090e.cnmt.nca" size="3584" crc="c88ce954" sha1="d6573fbca98ea346016c1b01e181a05b9774261d" md5="39866fe963bb564512488094703e7ef7"/>
+		<rom name="firmware/19.0.1/f5efb100172e2d3b5995269b4b18b1f3.nca" size="101888" crc="d92e9caa" sha1="85b302b3a650538ef56e159da1f1431843fbe766" md5="76d03b908b89bcf68d0826e8e69f7d89"/>
+		<rom name="firmware/19.0.1/f6c1e9a9f8dc419dc39f6390d4656671.nca" size="90624" crc="a3e75b76" sha1="8548dfcb2080c375f71d27eebddd347e812c59fa" md5="4f45e14dac6028ae9683f724807b7437"/>
+		<rom name="firmware/19.0.1/f7392f293e4fbc535fec60c23a8da99d.cnmt.nca" size="3584" crc="e4e73499" sha1="e8b838c1a2e45bd9c99ff21009818de4083d2d45" md5="6d099db50bacd576c8c35f1a3848e850"/>
+		<rom name="firmware/19.0.1/f83fae9b1fd522dcf139c63f99091396.cnmt.nca" size="3584" crc="bbcf8ce6" sha1="40d56b8a47ce318fea60f7af3ac9c0729b579619" md5="be3efc73d7ffd2f0bb1132e8749e6384"/>
+		<rom name="firmware/19.0.1/f846a1c2d0b4e14d1179499f462f4eb1.nca" size="3665920" crc="394b29c5" sha1="964d8cb52e8bbba103c612d18b3feab0417bcb4e" md5="1325dd928064b99b6132a07f8d288c32"/>
+		<rom name="firmware/19.0.1/f88569234f4dca373f9d66fffece86f9.nca" size="86016" crc="503d3af1" sha1="0f8036040cf9e275b656aa2b8bd8b2f9a0871863" md5="0be7e1e3816592144c56fbe5ba83a2a3"/>
+		<rom name="firmware/19.0.1/fcf3579546cb440505e1fd71d4637cd1.cnmt.nca" size="3584" crc="f6db3ff6" sha1="2b5f6dbab5a0c8d727293cb451484bf6b1eaa47c" md5="b340b8aff5a2e8f367b6961f8065d6f7"/>
+		<rom name="firmware/19.0.1/fd1033724d858e0f7ec4696db781af3c.cnmt.nca" size="3584" crc="1b0efc65" sha1="bd505aaeeaab3a9776a626b3361367de48f611a9" md5="4649337d37eb86305addf144121b7397"/>
+		<rom name="firmware/19.0.1/fd8aa2480e4bf2f766f76289c544d53a.cnmt.nca" size="3584" crc="757b9c63" sha1="7f2b7566a6254210abe51a034899dfc469b212fb" md5="50c811986fead5133ac817ba1c86c25d"/>
+		<rom name="firmware/19.0.1/fddb1aa3973fad4723feb0c7809ac990.cnmt.nca" size="3584" crc="1e6056b2" sha1="b632ab9a7cb896ad7f0dd325346d47acb356c35d" md5="b3c232c4d5fbcdf8873a137787be5451"/>
+		<rom name="firmware/19.0.1/fdf9b468741068b30b16834c4d96e02b.cnmt.nca" size="3584" crc="1709cc56" sha1="d13840872556b88a3ea1277a224d64d6d2458a80" md5="ee55169c526d8ce041cf4483e98b1da1"/>
+		<rom name="firmware/19.0.1/ffbe410898f399334c3cabaaaa609e0e.nca" size="4064256" crc="12f71a0f" sha1="3921b4a1ed71200fc1cb36228f891f6cbabd8232" md5="5a54290e2d3cb3a7614673c3b25f4f81"/>
+		<rom name="firmware/20.2.0/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="firmware/20.2.0/004c8823e33982b4c09e3421da785c5f.cnmt.nca" size="3584" crc="b8d1045b" sha1="bc94fa43abecc60095e6c85524fb317dd865cfe3" md5="e27e1a24a441f50cf9f48d6072a96571"/>
+		<rom name="firmware/20.2.0/0090da8b02bdaac823eebad77086cbd7.cnmt.nca" size="3584" crc="79c7cf8e" sha1="87e7f0a311f187e52e933ca0187bc46ceaf96a9c" md5="cfc0fef10567c4c5b30dd0fe7977083f"/>
+		<rom name="firmware/20.2.0/01f681ef7ffec100dcae94494ee032e2.cnmt.nca" size="3584" crc="2b092825" sha1="32726bb8c13f16fa8f84d80b0c4d62964318470a" md5="b4e58d230f5055333a08cbdd8a84483a"/>
+		<rom name="firmware/20.2.0/02a888f423c58d8ae79121766556ed13.nca" size="174592" crc="472d72ad" sha1="e4cdaa4febf41573ddc84d3db8967da66d99341e" md5="9e4df353f443f8f8f128b7ca79fd7b00"/>
+		<rom name="firmware/20.2.0/0339fe95482084946327e57affe76995.cnmt.nca" size="3584" crc="7e528b0d" sha1="f184966597c498414ed810af2483964ed02e4960" md5="a16ba9e290d6c15f0bca1e3d7b857403"/>
+		<rom name="firmware/20.2.0/04b363c5221b3c3feec47ee50527aaa9.nca" size="7088128" crc="959d22a2" sha1="77da26b52c21567330bceb931dea5dab80467b75" md5="c40f2834583198fbe82c25fb7a893f15"/>
+		<rom name="firmware/20.2.0/04c475e494a3d47201271972b0046071.nca" size="1316352" crc="5898452f" sha1="e71695de9cc9f65ab644afceb0dfc4ec800ec7c2" md5="824b2cdc0658715d996990c1eea56cb2"/>
+		<rom name="firmware/20.2.0/0573ee0039458be6f240d1a1283f85e0.cnmt.nca" size="3584" crc="455a1da7" sha1="35b118a891a8037297ec4b60ea09749ca00d65ca" md5="0422ee56ad6df7c6300927324ed79d57"/>
+		<rom name="firmware/20.2.0/05c0432d5ee864e37a50c3996dd84c43.nca" size="213504" crc="b88725af" sha1="cff62e2609689775da8232594b0061ffe3935fa9" md5="e923d0554c3aa1738d479f3f65334578"/>
+		<rom name="firmware/20.2.0/0606f268b595e85d49180ea177d381d8.nca" size="4145664" crc="0b015749" sha1="9c9ce4affb422d4f9c9561f77ff0ad1d344fe557" md5="b380d42a0de9ae24e6e95c4f5d445848"/>
+		<rom name="firmware/20.2.0/08037db306869f740f69137f9cc37e88.cnmt.nca" size="3584" crc="f40ad33c" sha1="67c94f630552f0e4cbf0b32fcbf34b568dd99bf6" md5="85aad81c8d1e49e6ae0d2f4cd69e67fd"/>
+		<rom name="firmware/20.2.0/080a2578e2b35c4ed3048e55493e0fd4.cnmt.nca" size="3584" crc="ee0312c8" sha1="b8c6abb98ec60c566e01130bb9c114934c42e771" md5="64247388f8d9184f092770289fbfded5"/>
+		<rom name="firmware/20.2.0/0a02c03e9358144880dbc199a706dcdf.nca" size="4228608" crc="5987071a" sha1="a51591906ab04eb0bde7309543dd9e359e7e6d2a" md5="fc8482fdc7d24764d63aa67856d6174a"/>
+		<rom name="firmware/20.2.0/0a932d55efded1bdadd0ba70268f7a46.cnmt.nca" size="3584" crc="969ba710" sha1="81d63f911d493fcfb50b7c30f4fd26a34143e87e" md5="fa40a25322e7069eb28c08233286a23e"/>
+		<rom name="firmware/20.2.0/0cdb721db8023b1d209dc189112cb561.nca" size="91136" crc="d0824ccb" sha1="f8dad4aa7b5678d5561ae47e281659e6d2aedf43" md5="3e438ee1d90cda22314212580a040292"/>
+		<rom name="firmware/20.2.0/0cf95a44b4b0b70c6d37477909f3c529.cnmt.nca" size="3584" crc="fcad0534" sha1="40796cbf04eb9c6755eb4f473fee01789e02694b" md5="1de1cd53b36f9b85776b80f1332a22a4"/>
+		<rom name="firmware/20.2.0/0d2516ac51a57f1cb4e140810df18ba8.nca" size="248320" crc="17984a3c" sha1="cfbd9f3426c282be45253e7604527003b348ef3d" md5="cbdfdf09ed35221582ef06514e6afed0"/>
+		<rom name="firmware/20.2.0/0d53a87b0c8efb61c23adc7264009795.cnmt.nca" size="3584" crc="1f60f17e" sha1="84511a5655bb87b8ab02da50478f32d77d8feddb" md5="ed0c271835d17bfcae24e5bc647127b9"/>
+		<rom name="firmware/20.2.0/0e7ff0424bcd16865130730caef9843e.cnmt.nca" size="3584" crc="e79e4d67" sha1="c618138b62e4b7c030430450b3d1aaf58b1004d5" md5="bbc5388d52e0d502dc0f4e283b74bdde"/>
+		<rom name="firmware/20.2.0/0e948562c124949bee9be933e9e5b413.nca" size="1289216" crc="94ff907b" sha1="70b8cbccca0be7e2fb5a79b390e3ce613428f0ce" md5="5e14ecdf1045ef65ab1417c971a20829"/>
+		<rom name="firmware/20.2.0/0f768bf89a3e491e270031a5ac1d421c.nca" size="91136" crc="22eca436" sha1="c7c1822ee7564201e596c8c6930c66371455a033" md5="5492fcc25e3dfa9924693e3f4cc2912f"/>
+		<rom name="firmware/20.2.0/10ce2cc872134c2c56eaf11653f5ea79.cnmt.nca" size="3584" crc="efe06c12" sha1="9f8d37d430c6912c9464d6b0693069f4dada2c16" md5="e5a9633c49da7ba99a9c66b0007391be"/>
+		<rom name="firmware/20.2.0/130bcafd94bc3487e3fbbb97591da2e9.nca" size="3758592" crc="78219c55" sha1="34614b5fbd670153647225023e7c30f4be7d1680" md5="f94baa8c2e865000cde6c5dd2a18d69e"/>
+		<rom name="firmware/20.2.0/139564b77b61ac721567b2b99526282d.cnmt.nca" size="3584" crc="dafd0111" sha1="efdc4805e9210adab9dc6ef4b8fafa591f104f5b" md5="feefe4c18958e14245624639238af31d"/>
+		<rom name="firmware/20.2.0/13e40aa387a954cb276e7eb803e34bda.cnmt.nca" size="3584" crc="d7402c3a" sha1="4ed982545f62513ecd47fdd24aa84807eb2e2d36" md5="c8c23f32eb2db42579109a1cafdb0e49"/>
+		<rom name="firmware/20.2.0/140fbf36bf78fca75566ed68708205d3.nca" size="175104" crc="3425df2a" sha1="6352e0ea7fb8b47eceacaa530826e9d355c42c17" md5="74d8a1c5c1857f7e34fbc3998f72c4be"/>
+		<rom name="firmware/20.2.0/14b27e8daee1e9dfc5d099c015f48aab.nca" size="148480" crc="4fc580d3" sha1="f18a92b447223d273e555e0b1080209fca121d6e" md5="2f7cfe5af41f74c59797bc639486719e"/>
+		<rom name="firmware/20.2.0/16329cb73e428926e95b6324755743f6.cnmt.nca" size="3584" crc="c57f6326" sha1="1b6dbfca3a5cb3bd9a185c1043b66644a7980bf1" md5="c2694e8ac62bfc2b239d1e2929be9014"/>
+		<rom name="firmware/20.2.0/17b848744d709194efb2b3c6a4a492ca.nca" size="42333696" crc="2ec31e96" sha1="2a741db3caf81add71873c3137390c350b97c005" md5="592ab38f33ddd8594d039e0ebcf13496"/>
+		<rom name="firmware/20.2.0/17fa59c50df892d83de59d16be2c7c77.nca" size="465408" crc="9181fff6" sha1="c70addc822b76233e169df8002cddbe5cb99a1ac" md5="809ebb02353f81be3d87fefea83a0915"/>
+		<rom name="firmware/20.2.0/1882b3454a0a3ded0e9dab9189049197.cnmt.nca" size="3584" crc="e50b3baf" sha1="c3a890c988a7abeff71ad17629aab6d83090dc8a" md5="ad719a501eb28dec4026568dea726b80"/>
+		<rom name="firmware/20.2.0/18889bd7d3702f7049b9228909714dbe.nca" size="4419584" crc="c1900f20" sha1="31fc8628951ed78028b9e08b53c8844b7310b18f" md5="6e08d4b6166c9e393db7896591ddeded"/>
+		<rom name="firmware/20.2.0/1a8a7947f0f52e6634878fcc61f0baa4.nca" size="55808" crc="5b1a9691" sha1="99dda46b0d41b01c6421adcbdf9ff0faed4c3960" md5="38a9b9a7c6b48100fcbfd8efba0bda58"/>
+		<rom name="firmware/20.2.0/1d533347e78225ba1ca76674f7607655.cnmt.nca" size="3584" crc="b1d5f1a1" sha1="b55396c213b02b0f3aa626e047510255dfcd7f5f" md5="6d9ddd1e87759a9960a4b88b7273dcd7"/>
+		<rom name="firmware/20.2.0/1dac38fe5fcd18d4583266d9ee5bae51.nca" size="7095296" crc="0ae8b94a" sha1="131ada8bf1fa8722702edcfa45d6e3b7731274ea" md5="4f04fa80b0b28ffcd195ca523826f41c"/>
+		<rom name="firmware/20.2.0/1e1a4d7b22b52ce080abea68450b768d.cnmt.nca" size="3584" crc="366ef5fe" sha1="7d447d11569eb0c7dfc52c6800d6e3301e41e1e2" md5="ed96ab98401db98e7c76152995e57b6f"/>
+		<rom name="firmware/20.2.0/1f2cfea82e1cc1f46eb651c9ca20534f.nca" size="18210304" crc="5a8d45a9" sha1="f2f36b9035d2175cc5ff8cddb202f6fcd1c0377f" md5="1d0aac5c8b396f7978f193d76bf5bf44"/>
+		<rom name="firmware/20.2.0/1fc8eb81c77b03b48639dfed502b01b9.cnmt.nca" size="5632" crc="bbb26ab1" sha1="872c7ca66359fd5f978178d1c45e24723704abb7" md5="3df6825b82230479320fbdf582fe2384"/>
+		<rom name="firmware/20.2.0/2019fcbac85e97ecd02f29a8d796521c.nca" size="866304" crc="8ddb33df" sha1="6bd9e93ec45cd78ef7c7b54c25cdfd0716ddcefe" md5="41bec6729983e136643944e48c8a227e"/>
+		<rom name="firmware/20.2.0/20b90ed7929c0b2e711ea5460f68d927.nca" size="264192" crc="bda3f72c" sha1="f5cc890752b8add74ea5803bd312fe8929e697c6" md5="26afa7a0055730c199af5d22ef2f5e46"/>
+		<rom name="firmware/20.2.0/20d23fec329d27245dfd5f9c9c5254ab.nca" size="163840" crc="655d43f3" sha1="9266e09988600dd7a1247503ba47eb160f1c9449" md5="f48b927d895858c60f07b02e3384f36e"/>
+		<rom name="firmware/20.2.0/21678b28b1a543518a5c9cf468398887.nca" size="4155904" crc="387a9e8a" sha1="a209119701d14fcf5e83ee0492525010599ea282" md5="57e92957bcff365cc3c6681a3efb1d4a"/>
+		<rom name="firmware/20.2.0/221b2e1772850d73d6281f23e92d5c99.cnmt.nca" size="3584" crc="ad1a9db9" sha1="ae77492b3ec775026002f2b4bd9e1bf759d9b4fd" md5="a4b79c2cb1cb4e2bea5f918974817540"/>
+		<rom name="firmware/20.2.0/22a213fcb301131d70ee43f963a2f63f.cnmt.nca" size="3584" crc="b678023c" sha1="50b5ed18753654bc523a4f8ae3fb9e0d4d0f4d2a" md5="eacc9c673895f0979f41e95db7dccb5f"/>
+		<rom name="firmware/20.2.0/23b417405f71b9ebde0dc50a055f5c9c.nca" size="86016" crc="0e37ec56" sha1="f9af2f3befc8d18d80dd3036c19310f5c02af039" md5="ee009bf0320051706297f8cc3b1ad4bb"/>
+		<rom name="firmware/20.2.0/24920b4d4262fa20df1781c776e53d04.cnmt.nca" size="3584" crc="702a5e4a" sha1="72a1425a029d84b0cbb29cf704a3e2de0786441a" md5="56aae997eca8e51b501e56e5da14a8b1"/>
+		<rom name="firmware/20.2.0/24db71debbd9835983b0743b8f89f62a.cnmt.nca" size="3584" crc="b7620da6" sha1="5287f832e4cd7d2824d13d938f84f77997125003" md5="a1c2c2f62e4fdb5838ad547bd78d1bff"/>
+		<rom name="firmware/20.2.0/25ae67387f0b538e6aa769331bc73efb.nca" size="164352" crc="89f1da79" sha1="cb25b04ee4e416a9235ff53dcbc69bf85eaba690" md5="0379e5e80ca753dcf400891661b63dfd"/>
+		<rom name="firmware/20.2.0/2759db649c7cac7141990840ada9dedc.cnmt.nca" size="3584" crc="7fbf9a8d" sha1="d4f82074f4d69beb1588c13a73d10824175229ae" md5="5147d58c1cf8a6241489ab98a26ab385"/>
+		<rom name="firmware/20.2.0/294347793944d29b382996ee56c14fdc.nca" size="3372544" crc="a9bb8513" sha1="2e34cc79120c2cede1bf20fce7467a374c4584f8" md5="7cacaa7d9de86f4a660ae8c3eb3b1b98"/>
+		<rom name="firmware/20.2.0/2de564718e4f95d7072fc0673b97d40b.nca" size="448000" crc="3fe8a40c" sha1="edc879671af562a87b86060c7fcc8dc8ecf0f9b0" md5="9dac2b5b29fb9a29e39743244a9bf9b1"/>
+		<rom name="firmware/20.2.0/2e0ec33c7059fea7780badcb852ca90a.cnmt.nca" size="3584" crc="6220adf8" sha1="52bb25cc3825dd101b9e8b0ae7632b449d379fba" md5="5af8f364ed6105be44942564eab54081"/>
+		<rom name="firmware/20.2.0/2edc68ea5df5ee79ffe54a2fa5312b86.cnmt.nca" size="3584" crc="34c2d98d" sha1="001ec5244e465b1b9206636e0a1258f5fb4c6b03" md5="3c5b1ee5c7f8ee6c018ea5448b50181a"/>
+		<rom name="firmware/20.2.0/2f121eec064e358ce4a8ed5f7d5a609b.cnmt.nca" size="3584" crc="4dc34348" sha1="56186615b9f8b1bf3b938baba4e5a913d781c953" md5="ff39ee5fee41054d717a7db4875ab05e"/>
+		<rom name="firmware/20.2.0/30b5f1b32e7e75d7197b140f78ef08af.cnmt.nca" size="3584" crc="f2c878ba" sha1="8485b36f7257c5c2cfe46453b61f37220a5d9330" md5="0ca9f9e8663d943b3ea87558c42a6db0"/>
+		<rom name="firmware/20.2.0/314318b81fc071e917f6e7679f73e74a.nca" size="1458688" crc="3be6b0a0" sha1="52b400ea54002f405eb1fc9074e02b8b9c2361fe" md5="076cd8b5a1fbbe277d000f9ca0e54fad"/>
+		<rom name="firmware/20.2.0/334d501619ff5fca3ba6d99206a85727.nca" size="192000" crc="db0daac1" sha1="67d4c258c9c939f23469dc6ddb0e0ac20dd3ecaf" md5="cf27c26ba64d5631a0ddfa653137a721"/>
+		<rom name="firmware/20.2.0/33634ccef75c6ea51edf85271265ef3c.nca" size="892928" crc="074f535b" sha1="763a8fd4534c1a7c1060484a806930ba37df898c" md5="5484726b79daa7f9473342e748814780"/>
+		<rom name="firmware/20.2.0/33f86aa17bbcfd0f318902261c4391fc.cnmt.nca" size="3584" crc="1539da0f" sha1="670080d006e73b5a1df2a4831a0ac36b78246ce6" md5="4518f3a5004659f4f808f7f2a42549b9"/>
+		<rom name="firmware/20.2.0/35749c0b20bf07994bbc6677edf7fb45.cnmt.nca" size="3584" crc="48b3fda2" sha1="0e404bcc9d41a8aa4ed10f78f4baa3dac3d1bbfe" md5="9900b3001e19f9b87de12ad33ab23f3d"/>
+		<rom name="firmware/20.2.0/35797b5be6295cfe102c56c81684288d.nca" size="3632128" crc="1a27da02" sha1="5ccb0658fe595c8dc4a85341007614a34f604518" md5="626f263bf99e4a0ec55bfcc32aabc498"/>
+		<rom name="firmware/20.2.0/358f37b472d10a4e3da0668507f820f7.cnmt.nca" size="3584" crc="5077b3b3" sha1="6e72d3051db786eaf8e677e5fef6ca128ea217d8" md5="73aca019c7dc150eb928f75b69e37f7c"/>
+		<rom name="firmware/20.2.0/36c92845f8d3aa3aa13657b7e68150ef.cnmt.nca" size="3584" crc="071c55d0" sha1="653e38cb6eb2109f59bab7f087a1f2c75ab6b02b" md5="8c46b46df24f1844ce60d115f4955745"/>
+		<rom name="firmware/20.2.0/36ee3c310929af46409f691fb027be9f.cnmt.nca" size="3584" crc="a9800e78" sha1="383e3b48d061377765cd168c2fb96b4f563dc7f5" md5="f8db09509cf21e209e17de7377c8dc43"/>
+		<rom name="firmware/20.2.0/372d69daebbc41dfd4557cc502385ad6.cnmt.nca" size="3584" crc="25ea5e3f" sha1="6378ebe87644ab8949213271217dd256bb637981" md5="a52a6b62ee8ebbe319293a18d24395a1"/>
+		<rom name="firmware/20.2.0/384a7fc1105d1af33c70acd3b887af02.cnmt.nca" size="3584" crc="beadaf4b" sha1="d879b4a4ab16aa18d48a24aacce850cace24ae57" md5="908e3c6db898406ef2c5b8a97727eb82"/>
+		<rom name="firmware/20.2.0/3dfabe123b7ced253e54b8269374b6cf.cnmt.nca" size="3584" crc="901dd848" sha1="4291b85d4e9b2165472acd0fbdcf229749f99d96" md5="4ec903f178a1993e57f5c9e733c62c73"/>
+		<rom name="firmware/20.2.0/3e323bf0f8b427ef508b3cfbb4add2e9.cnmt.nca" size="3584" crc="2755d1e9" sha1="e9d4223b3dc1319a53634d0535fec648855c835c" md5="82cb53a52de075fb5ab89ed0c79c7502"/>
+		<rom name="firmware/20.2.0/40893def0339592eec3149b7ea6c9c2b.nca" size="6650368" crc="0d49e9ed" sha1="3e480db3b573623f1a5b09f0504bd19d9775daba" md5="544d7cbbc078c230777af7cdb996abde"/>
+		<rom name="firmware/20.2.0/4238ae844c7fd7274818b8f82d1f34f7.nca" size="4040704" crc="7e2c9b0b" sha1="3e7e6c32cb4edaec8a2f89e0f85122d01af72300" md5="a6b55c9960b9fbd7c1912cf031a8f63b"/>
+		<rom name="firmware/20.2.0/43e4c180830fb7201c3a1238b4d1e92b.nca" size="899584" crc="575b0ca3" sha1="7afb91af887c50da08b29868a469a7148f0923c2" md5="63e32b8e46aaee7c0348d8b083595771"/>
+		<rom name="firmware/20.2.0/45618384851d526df4d8a85013a08fb9.nca" size="551936" crc="e351ab1e" sha1="85aefbaf1143964245a30702c13f0c9507f0c095" md5="57d575a484f45d34cbc8297ba512fdf9"/>
+		<rom name="firmware/20.2.0/464d798e636738e7533e1b7d6d49d5be.nca" size="365568" crc="70cc6dca" sha1="bb2c85d0eec4718b2c2a3813b1d19c159f1c4409" md5="0855f1909b9288471896ecba0cb989e9"/>
+		<rom name="firmware/20.2.0/47741f9cb553ea178df10b3687bc4082.cnmt.nca" size="3584" crc="6334a519" sha1="d285c74476c11629fbfa1aec4f4c43a55a892523" md5="fccc5fbbbbbc3a5dee47875a39934654"/>
+		<rom name="firmware/20.2.0/48232f857356104f23eba427426ff7bf.nca" size="86016" crc="773677ee" sha1="4cc5c699857b7d06d767e700a5e7e54c5da6b5a6" md5="6321990a7fdbca8f88e32a38d9e7db91"/>
+		<rom name="firmware/20.2.0/4873538a7a4fc3e84b8b301292d6d4d6.nca" size="246272" crc="ca221f67" sha1="59183f3e0955866e4ed94c1334d3ad53064bd6cf" md5="9f2ecda9ad5b1f774db825e47019e5de"/>
+		<rom name="firmware/20.2.0/489b68735b3fed883360e0a7492337f2.cnmt.nca" size="3584" crc="65875cdd" sha1="36db2634d3cf1f7a67a9f5600cc39e0b5488de64" md5="5f3655a8ef7f82c29e66f37af0be89a4"/>
+		<rom name="firmware/20.2.0/4a3704fd5f9de3ab87d241cec26273b5.cnmt.nca" size="3584" crc="c5911da5" sha1="114c3bd73b64f78e660bb6f7b3d9f9d9165f644e" md5="d2a9f8187c3203743feb2526a8acbb08"/>
+		<rom name="firmware/20.2.0/4b3ab8d8376cc5ffa8ab7a6b61bcd430.nca" size="1888256" crc="5b04615d" sha1="9be85d2cab76a41d176df7815dd78c7d6df11b47" md5="0f2fae5abff80a3f6cc7fb254cc75441"/>
+		<rom name="firmware/20.2.0/4b3fec04b2349a0d129933c46a965b94.cnmt.nca" size="3584" crc="bcfde179" sha1="f2311ff2219782ebd77a9d0710928dcfeb09b8be" md5="8cffa30b1947ae44dc9441130adcd6aa"/>
+		<rom name="firmware/20.2.0/4bb91bcf4220e0e1bdefec4e0f21846c.cnmt.nca" size="3584" crc="757b359e" sha1="e4b498a60df4ada0185224d4b5176a746070e31b" md5="e0e44475863e6e5b5a5ef1e6fa8f86dd"/>
+		<rom name="firmware/20.2.0/4c5bad0ef4d5b4b4c4ae56e1d0a88aaa.cnmt.nca" size="3584" crc="646666b7" sha1="1d6c8fa9b7bfba3fb8e3e8fd82795f77af8da56c" md5="754927e4cba54ea8618e8feeb3d91d38"/>
+		<rom name="firmware/20.2.0/4cb64ced2c8bfdc9997e0454a38127fb.nca" size="1069056" crc="5ecf1883" sha1="70b8c3e6f7de5bd122f40ac20b191d56718c2121" md5="6653f6cc46a3edaa8bf7b208aee3dbe4"/>
+		<rom name="firmware/20.2.0/4d269f8b50afe6f0b9171d5364b2c01b.cnmt.nca" size="3584" crc="7e95adf8" sha1="18c7f0a4f5b5e86e91df39f3e26696a507b84ed9" md5="a90bd0f19d9f8194747ed50fb895b155"/>
+		<rom name="firmware/20.2.0/5060e6da3568cbd812aa30fcd5bb3b86.nca" size="272896" crc="5cc290cc" sha1="b935ecd26d948f892c2ef791e8ddca8b0888fcbc" md5="00f0d42355bb71461aba6078cec1ad24"/>
+		<rom name="firmware/20.2.0/511a7c220f3642f97ce13fd81c9a38ec.cnmt.nca" size="3584" crc="763f6d27" sha1="969407fdee7906ea432cd2f3a8370a315abb6365" md5="5e5a04130182012e9685bc50dd8885cf"/>
+		<rom name="firmware/20.2.0/5356c32a8ab60045f95574ec55f84f65.nca" size="645120" crc="2713c4d5" sha1="b97e52893485af940e5983b2efbe19e45e239e51" md5="aa8b6034b0b12e1e281cc08c13d53350"/>
+		<rom name="firmware/20.2.0/54cc89073b66aa19ed87bf98fb44de42.cnmt.nca" size="3584" crc="f3da35b6" sha1="8d9ed3de6b5c9035b559cc2787f84f27faa59e91" md5="c71bb183e59e45fc6af87eec4dd4f069"/>
+		<rom name="firmware/20.2.0/5532d6cfb5d01bc89210f55791954238.nca" size="2139648" crc="0fddb1f1" sha1="011e31dc3994294ef4880068ee8dd9c995203c42" md5="3f5572e3574f221432f7254fb06f7e6d"/>
+		<rom name="firmware/20.2.0/55b5068c6a5f721a863ae15736ea07be.nca" size="3622400" crc="9484e281" sha1="d508d650deb9094c7fb1340f49ebe63b346bba95" md5="be20105ece8c36ae1115dd3b4b5ecb83"/>
+		<rom name="firmware/20.2.0/5700b9e4cc9bee9546d4d35081e1e92f.cnmt.nca" size="3584" crc="752cccdd" sha1="8c74877a44663d45a5944e6d01e86c3dd42ba114" md5="5ac30d65e66d818446e89912ed1ad984"/>
+		<rom name="firmware/20.2.0/5751ac8e9cce2b09d01cd99d9e9e87f5.cnmt.nca" size="3584" crc="2d7f9595" sha1="5d6237928a7f95a1d23c584b74d6dcc9ccb38295" md5="c66bc0261ba06073f84dc17667c0f341"/>
+		<rom name="firmware/20.2.0/582ab53e856c72fba54038ac85ae1055.cnmt.nca" size="3584" crc="3b37b831" sha1="24c7dfea2ff169d728dd8a1b0764c7ac6a83e6d7" md5="cd8d6f54f018019e5960afd275783b5e"/>
+		<rom name="firmware/20.2.0/58d74d603122c45be8d49d4c82841215.cnmt.nca" size="3584" crc="cf0dcd0b" sha1="51dcf4415ed5e54b1bd04b8ffd802070425f1a0d" md5="6393b5d19fefe6296b57dc148af9d275"/>
+		<rom name="firmware/20.2.0/591f113835c424436d7e9ebe460bd993.nca" size="396288" crc="3276bced" sha1="713902cfb8886df47386800b0f04a7355efb91c2" md5="be966a7149c12c6364a6b831212b0de8"/>
+		<rom name="firmware/20.2.0/59bd83f20cf8c4056eb350c0ec351f59.cnmt.nca" size="3584" crc="cf26ea69" sha1="6a439eac23fa26dcd0819ef0388546393bbee831" md5="b1c5b1703079cb1957537cc7847c63cc"/>
+		<rom name="firmware/20.2.0/59dbb6474ed747a387a5aedf7589d9bf.cnmt.nca" size="3584" crc="6cbdf398" sha1="4b551b2a95f4c51f4a43edd531ca87ab35c0df2f" md5="282ec078907c0d04d61ac16669369b30"/>
+		<rom name="firmware/20.2.0/5a57981e92ae00c27014e2830310201d.cnmt.nca" size="3584" crc="5eeee68b" sha1="4282cb13a6713a88d2b85670a146d685d74959e1" md5="7e4edfd79a8a170625f187447cf92b55"/>
+		<rom name="firmware/20.2.0/5ec0fba4720d0924a976a2fc78c7f3bc.cnmt.nca" size="3584" crc="53cb32e8" sha1="eaee81ddb470926d502930e1f5a3ec7bbbcf65d7" md5="7a915eb3ad035dbc79a8a7b22ad4f293"/>
+		<rom name="firmware/20.2.0/5f1a820d85afe34cb98e92a5c1a2cc7f.cnmt.nca" size="3584" crc="ee1cc172" sha1="4e4a81bbce80513ebe26482ea2387934d1237cad" md5="bec8711712326bc021687f5f23f4d857"/>
+		<rom name="firmware/20.2.0/5fd2aef617ffb698bdd5095dfdec43e0.nca" size="7088640" crc="a09323e1" sha1="e73dfa07b62f87c90ad9a42473bc8fa631860374" md5="278255f5843c17d13ecbb8261fc0ca0e"/>
+		<rom name="firmware/20.2.0/5fe581c21696d6fc143702918a103709.nca" size="86016" crc="a93c0004" sha1="b2daf11bb352860cf16fd97bd4056267ca81fcf4" md5="ce73b2181f50aaf0627b904c50bdf93a"/>
+		<rom name="firmware/20.2.0/607cf11020a35ba529400ee00f3ebefe.cnmt.nca" size="3584" crc="1aa6228d" sha1="f1ec1134ffbd82fe4a9032bc22abc2c85679e830" md5="1bb72e52b55d688a02aec2ad7dbb3924"/>
+		<rom name="firmware/20.2.0/62ece8a24bf03f7a181dd46a98ee96e2.cnmt.nca" size="3584" crc="1e248b69" sha1="4d3d75e33b6895453db4133b8d089fe54a0ed29b" md5="256774070ba18327826c1dc40c2e2ad3"/>
+		<rom name="firmware/20.2.0/63f8ddec46ab25ac4d0558bb1e609143.nca" size="77312" crc="4d9f7f13" sha1="282b82d1cda4baeef166649a309c0b29ed17b56f" md5="967c0faf4f2b015395a5790423cc3a55"/>
+		<rom name="firmware/20.2.0/6419ed05390bc3bdaac8f5353b3c78b5.nca" size="438784" crc="8450b11e" sha1="cd11ce4e0288468459af94df40d02f48c07153e4" md5="23f10b1597d19e04b78dde9a8892d37b"/>
+		<rom name="firmware/20.2.0/64b025f4c46b72b7d095b55620001e70.cnmt.nca" size="3584" crc="303e7356" sha1="08eb9151be7ce091590f971a095021fa65aeac59" md5="5e551e3f60f5bc06db167956ae153e65"/>
+		<rom name="firmware/20.2.0/64bd8248e109bb6ab62abd5d638ee15a.cnmt.nca" size="3584" crc="8b587823" sha1="ce3c10725036b169d4657216adc8775153775885" md5="afc92281ad2f67b5b9497d9e30891fb9"/>
+		<rom name="firmware/20.2.0/64fb82f5a72bd7667699245f1558ca5c.cnmt.nca" size="3584" crc="c50cfafb" sha1="465e93976eab8ba34de6059230602b649174ce2d" md5="62b16ade5f6cb0bbb4cf2e3c088ee1fc"/>
+		<rom name="firmware/20.2.0/666f9ba721f30a48024fe0af7a9be5b4.cnmt.nca" size="3584" crc="309b7660" sha1="16fd754baa46a65a1eea957e59e2328d822d1ed6" md5="75a3f6af1d6198e4c0808f8bfe5d8746"/>
+		<rom name="firmware/20.2.0/684ac8af8d6e6199306fd041dc10cd2d.cnmt.nca" size="3584" crc="5f33c6e7" sha1="3ad48d3ee19ab6210df7d85e1ca8aa683f72968b" md5="22531f3386eaabe70f20f372e5ffadf5"/>
+		<rom name="firmware/20.2.0/6bf5f6b119db507280e004eecaac7408.nca" size="19639808" crc="b75f3097" sha1="a2d2d7a0cc82ad13e90a9285ae699756ac13cd6e" md5="808579a5da64fc43d23eda2dccb09515"/>
+		<rom name="firmware/20.2.0/6d4366001757f519aa52f14de1ecd8a9.nca" size="113152" crc="c31b6d4e" sha1="7025f77737ae84fee0ffa928d426042f8336b9ae" md5="a3ca7aa5f5d0f57712cff307ee334afa"/>
+		<rom name="firmware/20.2.0/6ee66cbb69f054b483c6fdfb77aaa8f6.cnmt.nca" size="3584" crc="664f310d" sha1="5d9570a27b0abacf8bfad8d5cfe45a9b291b7043" md5="a54cb042b138c4f25379209d4cc02fcf"/>
+		<rom name="firmware/20.2.0/6f006eb9f72bcda8be29921e77bf1630.nca" size="317952" crc="3f048e95" sha1="0b13dc8b8438bf2073c7a625fa00a96eed217715" md5="c48aa4cceef4674da207c107eef26bfe"/>
+		<rom name="firmware/20.2.0/6f0f68fb7de978e868d4dfd1545bc6d8.nca" size="1284096" crc="6ff9a95a" sha1="311c0cbe36f27db00a8d28aaad4a4a5c9c3a2305" md5="ce2eca254e54a10aaf433fabe93a3249"/>
+		<rom name="firmware/20.2.0/70c80ddf93c02507c230372bb457a951.nca" size="5858816" crc="709e11ab" sha1="31699f7f92b10e449f27d170647a58bb0112f66a" md5="a07ebb913ff5775a7516f70e231e0a08"/>
+		<rom name="firmware/20.2.0/71235714804b36a739e84545ecc9b0d0.nca" size="181760" crc="5d06eac5" sha1="2d37fdb4540018e8399980c88e22b89b1345b1fa" md5="9ce441fd8d6aecdc0f982e75ebb8befe"/>
+		<rom name="firmware/20.2.0/725c03555e53ad1f72ac98807f6826d9.nca" size="148992" crc="22914a67" sha1="0b98e15c9d0bdb499cc1938877ff95109bed29f9" md5="3e7e25724fdd2c6331245305805751ab"/>
+		<rom name="firmware/20.2.0/734c64b7683d322ac5d7bf8a2d78d6c2.cnmt.nca" size="3584" crc="fc6e54c4" sha1="59d6c5f8af79ae592c1d4610548df348aa98be74" md5="c58d47e15c15c324808c42f3a51e33ce"/>
+		<rom name="firmware/20.2.0/75a0e8144d97cf3dc9d05643f7221fb5.cnmt.nca" size="3584" crc="239aa54a" sha1="dcc49a5111277871c42830b2923ee508a90c5f34" md5="1bf9296d2e57312489b07588d5e3f6d8"/>
+		<rom name="firmware/20.2.0/75ac4a5a4881107606f39f3b58d75ac8.nca" size="2458112" crc="87ef461b" sha1="1c0f602143877a3ceec3aa050d8349cf0256c417" md5="290710c0a0182e7515444a815bd497fe"/>
+		<rom name="firmware/20.2.0/764f15f09979cd8d6e70a18dbae71c87.nca" size="4003840" crc="12130502" sha1="5c7234c8fa76945cbd0c76467544c7d2a6055762" md5="3307b056685224a9e3317a10bc84f8cd"/>
+		<rom name="firmware/20.2.0/770faaeca3ef25f8631a275354c339f1.nca" size="553984" crc="0643847a" sha1="c94815fb7c0ca61391c82df2d3bdec069d9acf86" md5="e9df651dc5cf6890bc31c8a9003c7b93"/>
+		<rom name="firmware/20.2.0/787a5794b1e5f252b0796bb498171376.nca" size="320512" crc="ca85a404" sha1="80a478455e4a24aed72dbf4e98e1c0ce74d1f7e9" md5="78e7a0d37b02ea93c04c44277536b939"/>
+		<rom name="firmware/20.2.0/793b767dc1ded58a9d1922df07bc0cd4.nca" size="3409408" crc="0e0ca5c1" sha1="40a4883560acf5d917b8260082634fb71e770dee" md5="d1d3e195e21d6a23fc0e37862cc004c2"/>
+		<rom name="firmware/20.2.0/79def329a7805475640cc4c57a9fc374.nca" size="280576" crc="2deeaff3" sha1="6456c5cfa2f17b965554b1440349f9e267e9c42f" md5="b908fb10bd15354546bb49fabefd4162"/>
+		<rom name="firmware/20.2.0/7a099d31df6755b44d71e455e1f02ed2.cnmt.nca" size="3584" crc="ea914dec" sha1="2895198ee26135afec9063dae8d0cf52d58a62a9" md5="165b015026dda157d72b1dccc67203b3"/>
+		<rom name="firmware/20.2.0/7a7b1210a971e8a709154acd248306f5.nca" size="1022976" crc="b1b3dd5a" sha1="80d0f71fd13335584d5949b786c394e9b4328dd8" md5="3466abd18b1281f5047ef6ecd4b9de8b"/>
+		<rom name="firmware/20.2.0/7d34585468942264536d1f605e93ce74.cnmt.nca" size="3584" crc="d3795188" sha1="ad997c04a764c2faece96f9a01583af8be5b96e6" md5="c7877d9121725d123689a4f4108b2bdf"/>
+		<rom name="firmware/20.2.0/80a6b3f3a145a5afc11553e441068b7b.nca" size="4329984" crc="46d8815f" sha1="be3267ebb7e390fcf7d374150c1b08b045b87b91" md5="d81cb016ac324b2ae7d72b51ed0d505f"/>
+		<rom name="firmware/20.2.0/80dee3e71dd4041a797f97b695cb9967.nca" size="3665920" crc="0b42e15b" sha1="81f1a7ef7fa4c7c6f33c7c3f9a67c416d0eb8f1b" md5="b39bbedd279228304d4782677dc39771"/>
+		<rom name="firmware/20.2.0/81af198323a2680f10f6f45d0b310169.cnmt.nca" size="3584" crc="2b26ea7f" sha1="e93913b7debb7f33d68048d4371143cc35c7ac78" md5="df04a2ab31884a181a2a844c1dd2eb91"/>
+		<rom name="firmware/20.2.0/84e3c723c13a36002a7c5192af9886b0.nca" size="4313088" crc="6bcc1197" sha1="5383a6564f66d1aea7a10d7e8f4e03f26d336a63" md5="256796188a09b2aa712ac4a593642e09"/>
+		<rom name="firmware/20.2.0/86128921559ef4b07094aed1a2b4d65d.nca" size="293376" crc="bb3c2e76" sha1="ab02a7a6bfdceaf0f21bf44eb2d9547cd1334744" md5="01b84b2b599827b39b4bc13d9b1a9191"/>
+		<rom name="firmware/20.2.0/87cb7ab4189750b13273005f287a3c2e.cnmt.nca" size="3584" crc="70a866e1" sha1="97ea22bcf733d358cc66e5ac519f9a31fa6e90ea" md5="f4ba2be63b5bb729860d5e8de79cfc52"/>
+		<rom name="firmware/20.2.0/87daeece6f5c71d682d4d57fa633ce8f.cnmt.nca" size="3584" crc="8b3b1ad1" sha1="35cb04aef572761b1fe0071ef011ec0b3dfaaf0a" md5="e753250aedeb8929532b16a8418f0347"/>
+		<rom name="firmware/20.2.0/8a12fc974ec0e9a20d29d518f394de11.nca" size="662528" crc="47a6ef5a" sha1="224c57905a628cf0fa10702a3dadcd60be59c57b" md5="145a25ca6d6df7f50bacb206ec08073a"/>
+		<rom name="firmware/20.2.0/8e499bf8ff67bcaf918d165f2f80d608.cnmt.nca" size="3584" crc="5d4d7e5e" sha1="0e5e43ef28000e7eaaf970b709189472f5d49951" md5="c9c4f89406f651ac05cbe112b5038b1a"/>
+		<rom name="firmware/20.2.0/8fefd5281d05b908f6537ac080dd55b9.nca" size="86016" crc="458c7f8e" sha1="88d39e3e730e9271867d6209ab7b4f60fca229c3" md5="21e7efd63062a13a87e20ff8fa4d6928"/>
+		<rom name="firmware/20.2.0/918032935ce1d4d67f72d81412d6e59b.nca" size="545792" crc="5ab76cbd" sha1="f27843d29e8cfddaeb91ff3ee2baa661395dac11" md5="4fc9f2003f25e4a89aef33e1f2dda381"/>
+		<rom name="firmware/20.2.0/91d09ee619528c39882186eb433fa1f3.cnmt.nca" size="3584" crc="1f953135" sha1="53002b846e1288174137564f45d2b59219eed818" md5="6036f51a82b1e95045e1184c36f03622"/>
+		<rom name="firmware/20.2.0/91ef59d20d0d3fb58bd3addd024c8db2.cnmt.nca" size="3584" crc="e223ee2a" sha1="ca9847dced800fd55179d4570a05f647697a03b2" md5="b2a67e4319c7247487e46105125f7976"/>
+		<rom name="firmware/20.2.0/928ae1ddb82ce874b522fdacbeb1529f.cnmt.nca" size="3584" crc="889573fc" sha1="bfcdaee28b55bfc77810aeaff3f820c27c968843" md5="3c89dcb20f86de90a6007dc5de3d0138"/>
+		<rom name="firmware/20.2.0/9334f455f6c4d8b6f02af5780d122d07.nca" size="8072704" crc="30a54176" sha1="19c39300162a7a5466c58d58fd2c042c0ec7048c" md5="5d8c745a93966a291c4b822bdfa3a923"/>
+		<rom name="firmware/20.2.0/94e076161e5c1bd7d9ff34ac8e8352a9.nca" size="111104" crc="bd23d96b" sha1="496681458d36c7e3dbff026792797923a8a0c882" md5="d86aeb5996d0781866fb6762388b40f3"/>
+		<rom name="firmware/20.2.0/9548dbfcbaf1c195c0976ce2a164c374.nca" size="4203520" crc="b084fcbd" sha1="2e8f00255157c9f30998e0110d36807673c937c5" md5="2b2e2dd02b57b1e02fa6a4c6760e1e5c"/>
+		<rom name="firmware/20.2.0/970efea0198cc5995d0bfb8fcfca4ac3.cnmt.nca" size="3584" crc="30eae04b" sha1="28cfd8b1f0e0cc3db67e3d3f877cb6c501d10672" md5="a4909258ff8f55d657fe6034f3aa005b"/>
+		<rom name="firmware/20.2.0/9a9899fcc8d988614f29ddc0cf24047e.nca" size="91136" crc="f3869400" sha1="98ba51ea357fe5362991acee388f0f1591acd26d" md5="c7d28d017ecd58272680ea5753004e0b"/>
+		<rom name="firmware/20.2.0/9b025ff9fe1f6b27904970427bda050f.cnmt.nca" size="3584" crc="04dac65a" sha1="f3a7399580f15bb5a361d6a863e98bb369e44138" md5="582038609dc981074f18ca2340a16b80"/>
+		<rom name="firmware/20.2.0/9b7d059ebe6e5afad24bd4a741d52ffe.cnmt.nca" size="3584" crc="00abba9e" sha1="610ca0ca49bcf91a6787b71a7f2fbdb20f78ac6e" md5="465a4c01e2028c8498017f7f5b816c09"/>
+		<rom name="firmware/20.2.0/9c6ffaac20f51e80d4242d685a2d6c98.nca" size="5553152" crc="985b986d" sha1="1fa71119ce30489a55ffcef9d8f029a3320ddbc8" md5="bb94630750fa765890d35025827566bc"/>
+		<rom name="firmware/20.2.0/9c9824dcfdcaf18329968abc0a6a891b.nca" size="27086336" crc="10819e52" sha1="1a9097109108bb0007fc40a2261af808222168f2" md5="0cd4d3b4c148bab2e295ff246a558c3f"/>
+		<rom name="firmware/20.2.0/9d78432f6cc14c8e90f6e6de93984da1.nca" size="238080" crc="20b2a789" sha1="e85b9e8933bc5777276f0f853bca117e8a5e3a99" md5="2b4f4f573bbb02dca2868f177c1d5cb5"/>
+		<rom name="firmware/20.2.0/9e07a27655c147e1ce7f80fa87727ac8.nca" size="512512" crc="d5933e5f" sha1="a1fbeca534bca89cd49745c2ddee622ef350b0cb" md5="324dffb81a15f95148a106cec007cdc6"/>
+		<rom name="firmware/20.2.0/9f668699523f60f463e3b2bb4e572d70.cnmt.nca" size="3584" crc="dc11f2be" sha1="297e450287ab8ee9217947e44ab550b31d620d9c" md5="38400322c1677f63e36009f2afa58088"/>
+		<rom name="firmware/20.2.0/9ff429e431a237212ea9606e991bec60.cnmt.nca" size="3584" crc="8c8add88" sha1="148c32435acacd46a88bb6e836307fcc302e7003" md5="caa956925d987adf0cdcff1814593394"/>
+		<rom name="firmware/20.2.0/a321142626043c7ebdc5e3fe67c9db5a.nca" size="4265472" crc="aad36ca8" sha1="3cefd0cf2c099e5efd5653ce3ddcf2d4ee08c880" md5="a6d1c8cae97c17c1ee58a77aa4e6ab79"/>
+		<rom name="firmware/20.2.0/a7e56e0aad2c6ee993259874a526f882.nca" size="267776" crc="cf7eccc1" sha1="7fbe28df72030395032c840751f6770ee78af1bd" md5="b56ccccf36699f83cc5a1e996c605f72"/>
+		<rom name="firmware/20.2.0/a9713799c1e955acfc892b817eb3a230.cnmt.nca" size="3584" crc="1bb06921" sha1="efcf530b97a3ad5e1874ce80ae56b4bdeac5f604" md5="14d3e1fe3e99896ec3a1457b63e0ab69"/>
+		<rom name="firmware/20.2.0/aa677534de9028b5060507426caa011d.cnmt.nca" size="3584" crc="56e659a9" sha1="42244b1e2d5a1e44e2f22c07b4449f4183d7b1e3" md5="f47c73002a3446f0c442799a3f84f700"/>
+		<rom name="firmware/20.2.0/aafdeddbdda1da34c4672d243cd943b9.cnmt.nca" size="3584" crc="e947aec4" sha1="8c251caf5951e91ec68151feeaadfa4c5c090fab" md5="9d41de668c18d124acea4d5cc69df1a4"/>
+		<rom name="firmware/20.2.0/acd75cdbc0c8a7da3583c53d4b696a7c.nca" size="391680" crc="fccac472" sha1="00a06a3f8ba5d7bfdd0dd0637387b65e50b1af1d" md5="000fa4c6a571be8745f43b2ead170e87"/>
+		<rom name="firmware/20.2.0/ace7baf349efe5c8086cc0cb20d34aca.nca" size="4567552" crc="eba68dd2" sha1="cfe8e6a00e7c774a370cfb30fc5824bf496f97f5" md5="775bf3052f660972843c62f807fda263"/>
+		<rom name="firmware/20.2.0/ae8e66253c9c954f7e9e3a73a58424fe.cnmt.nca" size="3584" crc="e7786f7b" sha1="97ced17268b06c046de970a9dc60a1c26e195255" md5="f7c130dc2e18821a95d46469b39d66be"/>
+		<rom name="firmware/20.2.0/aeebe9db3c06321e29c68ddefb911d89.nca" size="862720" crc="ea7eebe4" sha1="23abec27774e53d5483f6a072595414ce00a49a6" md5="041373602f8c34aa962b9da3b8e07ddc"/>
+		<rom name="firmware/20.2.0/afc78068f5165699a8c9db2bef43dd1d.nca" size="19704832" crc="22e17994" sha1="9ba35ed46a4a8e7e85f4c98aa438d031a4e546e4" md5="b44dd640aaa54aa55da62def93868184"/>
+		<rom name="firmware/20.2.0/afd94fcd9d3f1360e98ab96ecb419c08.nca" size="16103936" crc="f8bdab32" sha1="8cd4be03c57a9d6e998dfc44bcb3a0c3814c169b" md5="3d8558fa254676da641a2b51245022cf"/>
+		<rom name="firmware/20.2.0/b067c48b298d7ed89b62b6d21cbcf3aa.nca" size="349184" crc="d15b68e2" sha1="833be001a03500843a72cb1b69a9fbdf1ee6ea64" md5="6d3cd30661e8556e29bda49d4c357adf"/>
+		<rom name="firmware/20.2.0/b0ed3f1dc7bbd65ba537c08e24258895.cnmt.nca" size="3584" crc="e6738df7" sha1="8e24f37ed5d7b95bb943b7fb26f70105cd49dc6a" md5="18028edc749edf67ac5d9abebd4fbf75"/>
+		<rom name="firmware/20.2.0/b1aad140d719a42fc3c84b8ff1b27f08.nca" size="1125376" crc="51680b2f" sha1="aab030376e9956fbf2247ae507af9eff32d58dda" md5="e66dd5ca7818baef1a981fed97a45e6e"/>
+		<rom name="firmware/20.2.0/b1d5ccb885cc57573a40afc0d030b8df.cnmt.nca" size="3584" crc="d952442d" sha1="bf6480b80b798fbb480bf9e2c3adeffcb29eeacc" md5="9f3ba8cf7c9d864d7f2c313d0873262d"/>
+		<rom name="firmware/20.2.0/b20963987fc348779b7534bb41ba519b.cnmt.nca" size="3584" crc="5848be8e" sha1="9c6cc8ebb76be1e1d92c25cd69e8690876640cef" md5="8943829a7341560612acdc0b17224049"/>
+		<rom name="firmware/20.2.0/b26231b78ac5ef307bdc66cd62d23e21.cnmt.nca" size="3584" crc="04362d7c" sha1="4a235047a2a4e07aac0ef0b72ab08f8c56138705" md5="8c91730e07f82de52c4aaf13ab133a01"/>
+		<rom name="firmware/20.2.0/b353e61ead751db8332c8623f0cca714.cnmt.nca" size="3584" crc="4c70290a" sha1="e425daa88b00e0c07345518aedcd0def1ade2750" md5="826b69500e8c412406541050c853b27f"/>
+		<rom name="firmware/20.2.0/b39c1d787572f78a4e56db02508aef0b.cnmt.nca" size="3584" crc="2a001e3e" sha1="124ba29e096bdc4e16ad991104f469001eea8fc8" md5="63d45c2559d26635cd44f64638e3fe3a"/>
+		<rom name="firmware/20.2.0/b705d1b00ff740639710664d73fe0c51.cnmt.nca" size="3584" crc="773f3af7" sha1="5fe6855992fa0adcb4bdedf4e3dd26bd236f5163" md5="7ab20ceba6629711560a549da6cd1281"/>
+		<rom name="firmware/20.2.0/b8aa9eb0a5a7ffd40283536dcb1b3c5e.cnmt.nca" size="3584" crc="ea10cea0" sha1="1218dd7d7ab937305c9954cf4a3ab39fda66de23" md5="4032acca34b03cc751db5262361a0719"/>
+		<rom name="firmware/20.2.0/b9152056012c0d292641980788413803.cnmt.nca" size="3584" crc="7d4f0b09" sha1="b9a93647942c2a6104df8e26218255b20bf3e608" md5="b3dc1ff9c12faac6278b6385ba58dc7f"/>
+		<rom name="firmware/20.2.0/b94cd11ea78831864a56acae0922a544.nca" size="1163264" crc="c88f1c35" sha1="0d711752d30724e2fa7a3753817c9a7404ac40f4" md5="a3a6f09fd076e040e643db2515914626"/>
+		<rom name="firmware/20.2.0/b9e40979e96bc0612009982f0d63cbe1.cnmt.nca" size="3584" crc="01de86a1" sha1="9c7132a376b153defab80a4e427ae8c462baf71c" md5="7aed11cd3eed0e9b835206da687369d2"/>
+		<rom name="firmware/20.2.0/ba8ee1a75dfbc6d644ab0142bc26c179.cnmt.nca" size="3584" crc="94bc9a1e" sha1="270d23c667fd0b315d7579c26f677c66724d1bee" md5="cbe60de482d08349e59f341934f6bf18"/>
+		<rom name="firmware/20.2.0/bb115d8f3054bccbe1a3534378325091.nca" size="235008" crc="5445fd61" sha1="e4fe1480d80aa83e2e5619157faffe40090c5127" md5="06fcc0f9c109db23eff2a98efa632d82"/>
+		<rom name="firmware/20.2.0/bc6a6f0727489959626b3583380b3a33.nca" size="3638272" crc="4b52c8b9" sha1="9fcd50c12e3f8e849f04227f54314e891d1d5ff9" md5="10a7bc18addc030e0fe12f801e77305f"/>
+		<rom name="firmware/20.2.0/be6c2e14463852cdea570c3e10e3631a.cnmt.nca" size="3584" crc="a546278c" sha1="a44da309ab10c2856bf2ce902c0fc5df3dcfc2cb" md5="0e0419aa9ccd833be4e613bf49c1c632"/>
+		<rom name="firmware/20.2.0/bfab8caa278e456f9fc5e1f5fd734feb.nca" size="90624" crc="7ce8c74d" sha1="6d2e43cb9fbbd7b262dfcbc7dac475e07f897625" md5="77839980053aac181f63bd7f588dcaf6"/>
+		<rom name="firmware/20.2.0/c00e2016242990ea090c2a7d61591118.nca" size="86016" crc="d4ee7c6b" sha1="93865a943503c7e9482020ca1477ca262ef567fe" md5="84f4ad010acff477944bf70de3268b76"/>
+		<rom name="firmware/20.2.0/c04eadc181262a21e443f0c9b329bd92.nca" size="357888" crc="b3c2ad3c" sha1="640b63c34cd1360c605d80125dd1bbaff9770c2e" md5="482bece83af345dcc1918d61cbd6acc1"/>
+		<rom name="firmware/20.2.0/c119c6d39a859929bb112746e80e4b66.cnmt.nca" size="3584" crc="90cad73c" sha1="2211eaf9ec29aab01e75e48c7eba481cf277730e" md5="09ded59b856e1d7502bc1b27a790fc1c"/>
+		<rom name="firmware/20.2.0/c1f7ac3392fe5f89d430cd73516bff48.nca" size="908288" crc="7cf6685e" sha1="3c37291212ca3a89e5892a946679eb0246132d77" md5="5c0fe2ab7566bed224724a1c9fcdd9d8"/>
+		<rom name="firmware/20.2.0/c41ca6cb30fb6091dfcb86b4ef21f644.cnmt.nca" size="3584" crc="a297246b" sha1="7c31bf11dad06547baaa549d39a63f7daeddfb40" md5="2b4fee2cace0c32beb00a395f434f104"/>
+		<rom name="firmware/20.2.0/c4b432cb3ac987791292347440af96e3.nca" size="5022208" crc="af71d674" sha1="f0e8a2243e105df27a0578b42875c1e5a2ced9ab" md5="4da712e70d5abc4fa3bcae360e973d7b"/>
+		<rom name="firmware/20.2.0/cb1f4e7a5f94eeb2763dec5d1028de99.cnmt.nca" size="3584" crc="f8a8cfb6" sha1="613b0ce24bf8b355648f754ad5728be37491ffa8" md5="09e88beef8fabbb4b2c23a46938c16d8"/>
+		<rom name="firmware/20.2.0/cc96259b1812e6d76b1e454cea3b5a01.nca" size="775680" crc="9ffbe762" sha1="3cd6af2d2c23625fb4624bfae3fa0de967b6329d" md5="b6ff4663651db3d787d6cb59c1cc8ca8"/>
+		<rom name="firmware/20.2.0/ccc1e824b30484f6379a5f61c2c0af11.cnmt.nca" size="3584" crc="5bae5578" sha1="4925329d2d270296722e91263b1e3186c978cd95" md5="8881a10bf561af5b9b9755c4551ab551"/>
+		<rom name="firmware/20.2.0/cdc93b4c257a1f60a1e36899e6e50296.nca" size="596480" crc="f9f8b329" sha1="ecac66c0f6cd27c01ed60d936b4d6cf56d67db97" md5="9d726e4a0498f4efd7a1eeccdcf41469"/>
+		<rom name="firmware/20.2.0/cf4a45d98656bf6b5e3b02003b7a5937.nca" size="6329344" crc="03665577" sha1="dbbf930011448d5acba82312d0830ec2e23b7eff" md5="3fe4285428a0a138f9050ab1c1e7b81e"/>
+		<rom name="firmware/20.2.0/d0cc224ad3a2c14c620b60631e7664ad.nca" size="193024" crc="aa3d4e28" sha1="0e12e112eb2569b5af5c40df39fc8e335a1fdba5" md5="1fe1a9f84bd053146ed7c4bfa060894a"/>
+		<rom name="firmware/20.2.0/d1a7cefdc361392f9ab7bfa0e682b7fc.nca" size="550400" crc="85c4eb76" sha1="76b8d0db0e51a4d6126aed94a1c165b7309e8abe" md5="e475c34e72ccb689d5610ea1d3f84cb2"/>
+		<rom name="firmware/20.2.0/d2d6a600fcd8bf1420bb9ff4f5c5dc98.cnmt.nca" size="3584" crc="17749909" sha1="3ff369d560a12d41b40e4f148b0c1fbc44b02d71" md5="1b7d99a0b2db8a6f357a31591463b278"/>
+		<rom name="firmware/20.2.0/d318deebbc175c523d6c33354a7ec5d4.cnmt.nca" size="3584" crc="15b4ef84" sha1="7c33ba3c3b114b39a7cf9bc432074533089551b7" md5="c914d629a9e70435c77033e3f2c9c3d8"/>
+		<rom name="firmware/20.2.0/d496facc41be77ed7d78de8164ab491b.nca" size="86016" crc="9bc80ab1" sha1="bbf856e39d8874ecea1eeb10ed62699fd5556dfc" md5="f570fc261072604082749ba0df2f32df"/>
+		<rom name="firmware/20.2.0/d4f110638751268e0595e46c64fc7923.nca" size="101888" crc="2fb4d4f1" sha1="227a4a448f872f7b589f1ec5610f2c8a694763d8" md5="3123469852d32bde341c75e53881e653"/>
+		<rom name="firmware/20.2.0/d5aa0c77f0eae791d4fcad77e581c11c.nca" size="91136" crc="75e84bc2" sha1="3c44861983a75c77f3fb2cd485d3a203b54d843c" md5="1e6053bce6feea1a75d9385b386f489f"/>
+		<rom name="firmware/20.2.0/d5eee6906d4167c54f917cacc121171e.cnmt.nca" size="3584" crc="13f19700" sha1="04d94dc554768d056e6ae4a3eb8e58caa6c9f5d6" md5="2b32da4dfbaa61891e4f3efb1fc0e562"/>
+		<rom name="firmware/20.2.0/d640f0df85e21d20daf5a7f678802e59.cnmt.nca" size="3584" crc="a59076e2" sha1="19c74456e9cd7becdb0ebc67dce5bfbe4f63bf7a" md5="5ce1957a8c106c05b9b9823d31704432"/>
+		<rom name="firmware/20.2.0/d7c71e2e76b4768741f48abcc3ab9340.nca" size="1123840" crc="bc2f9789" sha1="03b38994e4f0ad340bc15a28ebe859bf44692d2a" md5="f67dec8e0064b5a2e0ee7be6a0c3090f"/>
+		<rom name="firmware/20.2.0/d7ed469987f1c68c313a54c8d56c7d25.cnmt.nca" size="3584" crc="8e90cb7b" sha1="2ee406eba64c6810669fac2effc59a244ad15d33" md5="b05fc43d3035c5b1855d2fd51dd26566"/>
+		<rom name="firmware/20.2.0/d9962f29dea4244f409d1c76c58589af.nca" size="2075136" crc="816551b9" sha1="7c0d3a7e02dc34afef7ed0d67b18e2c4a15b4a64" md5="59b6031c37868ae72f118d047cc95f07"/>
+		<rom name="firmware/20.2.0/d9b50760554bb0296798b52896a3e79b.cnmt.nca" size="3584" crc="df4341e5" sha1="a40c5d42c79e7ca88d7b87e0072508b56ffe511e" md5="118f38b4e418e64338798ac11c05b6e2"/>
+		<rom name="firmware/20.2.0/dbb121ced4e8b1e82f16c7f4a871dd42.cnmt.nca" size="3584" crc="3350e46e" sha1="84dea3a6666a1564ced0e03840cd7bbff9de5284" md5="25b50a2bf0bfcf7037403c6038e10a6e"/>
+		<rom name="firmware/20.2.0/dc38371180494ad55753e0cba349d279.nca" size="7086080" crc="ff774d08" sha1="137bfb41902b44a5b11178aff50d7d3462eba9c2" md5="ad6cc1fa435c6aedab7e569da25fed69"/>
+		<rom name="firmware/20.2.0/dc65dc001191551827ca92612f679c80.cnmt.nca" size="3584" crc="2441d182" sha1="171a6a1494beb0a5cd2ddc57a655a0e534f1c13c" md5="6ae4226fa89ecf6c7aff77b68501a8f5"/>
+		<rom name="firmware/20.2.0/dc93a368d01dc2cbe71684ab9a16ea36.cnmt.nca" size="3584" crc="88d3ef8d" sha1="a155e9d41b5db918886effa69279aeb5a8dfe163" md5="1579f544e0891489e5b12c9651e3db38"/>
+		<rom name="firmware/20.2.0/e14e5a7c94bcb858c01a4da3dd07cd0f.nca" size="935424" crc="5e01b165" sha1="688bcf696d7df49738248d4a4e4bc7d41bd8cd52" md5="77bc2af3ae766c5445d6b8401242302d"/>
+		<rom name="firmware/20.2.0/e77911e8ed80bb767c1246edab270570.cnmt.nca" size="3584" crc="9d488938" sha1="0ac3cb3731ea5b31648c1a3f94075db20f4f01ff" md5="cd81d055fb0fbb713886fbb803e3a6bc"/>
+		<rom name="firmware/20.2.0/e8901819539a020e4249f03b5dea9b33.nca" size="200192" crc="03aa2eb5" sha1="848ea6a9fe4e1c091de2b8f56edab6dd67454bba" md5="10a2065c1f128e826f82b98f3933df31"/>
+		<rom name="firmware/20.2.0/ea44ed93ba7a677c8f2edefff748a85e.cnmt.nca" size="3584" crc="93758872" sha1="47a1313b52a4eb8c1cbcf19dfd90d799fb492286" md5="3a7b4db855d41ef223cd16155981d1f9"/>
+		<rom name="firmware/20.2.0/ebc6f31e05a8e26e9a72e8b6c7fd9848.nca" size="17431552" crc="e52ed387" sha1="93dc1935c2466f77c583ecc0dca7e5cb0b303746" md5="27bd8fd02538313c28e68008ad229e8e"/>
+		<rom name="firmware/20.2.0/ebcd31c79c44363f6954abfff0c69e1a.cnmt.nca" size="3584" crc="a57ac38b" sha1="3171b00072d3dddab6a35c7b1034b96171fdf3f4" md5="0ad5670644393827c693213d8c2896c5"/>
+		<rom name="firmware/20.2.0/ece1d88b4660c817d56183a515372a48.cnmt.nca" size="3584" crc="a3dfa757" sha1="77cb9cc6dbe5324f83e304141b243486c9114e4a" md5="12a485de34c292bcf588f9d42d49925d"/>
+		<rom name="firmware/20.2.0/edb09240d394e696bb9122109de5a491.cnmt.nca" size="3584" crc="b73ff68b" sha1="0d17fdff82af01783e513ccf2c9df25a27b4a4a3" md5="bbb31d9805d40129d49e33ffa639838c"/>
+		<rom name="firmware/20.2.0/ee97b009d9a0bee534ff14fb0ab7bdca.cnmt.nca" size="3584" crc="2f424fb2" sha1="7a31c1f3b8907d363c529082312bfce4f78a1783" md5="7909d309151d3169c8f8753c83dd4ced"/>
+		<rom name="firmware/20.2.0/f167e3965b5a53b398f8aacdf7b0272e.cnmt.nca" size="3584" crc="8d561f46" sha1="7133ea3f6a8bbb27913f00430b62e35340ed9f45" md5="028a53db812aa3d0989f506512200e74"/>
+		<rom name="firmware/20.2.0/f24e802042be7c8382e3f19fee1dfeef.nca" size="1639936" crc="bbe7f3df" sha1="ed4683f9d2558dea2cd129ddf6048353f4d6bc60" md5="2c308992c2c360231be2d41de2581ac9"/>
+		<rom name="firmware/20.2.0/f2f26c29878911da54e325d626ad8f01.nca" size="91136" crc="8c8f61b5" sha1="adc5e1879db0da66206b825d2972dba38c641168" md5="a948bee8393379b707f16e9cbcb37469"/>
+		<rom name="firmware/20.2.0/f5718a5ad728bb81fe664e11aa41090e.cnmt.nca" size="3584" crc="c88ce954" sha1="d6573fbca98ea346016c1b01e181a05b9774261d" md5="39866fe963bb564512488094703e7ef7"/>
+		<rom name="firmware/20.2.0/f79cfbf9357efc261fe89b996ea6cc8f.nca" size="6993408" crc="5d5c90dd" sha1="c3b4edf8f0911c4576abdfa5e3a0161d87f190f0" md5="2086efec3b7e639ac7c0abc742fe35ce"/>
+		<rom name="firmware/20.2.0/f967032b97f403bf3484949199105afe.cnmt.nca" size="3584" crc="0f27409e" sha1="7a269dd799ab2a67cc6a6dd9c401b7b7a423e379" md5="dae095ba47c894b6cb9116c3f604e4bb"/>
+		<rom name="firmware/20.2.0/f9fbeffb5d6da9b38e48fa694b9176de.cnmt.nca" size="3584" crc="139b6fff" sha1="47f6a2997a4d441f684f9bb19ead06204891a8b5" md5="d4bb25b6aa0f6cdc2c1011e825dbd25e"/>
+		<rom name="firmware/20.2.0/fb926eab32789c617a3c87cfc25b2295.nca" size="90624" crc="4645e16a" sha1="98382693fb42120615378d465d143344d290f2b6" md5="4a65c90ce932f43701863509a1a589eb"/>
+		<rom name="firmware/20.2.0/fc8bd9b942d1876db078389684b2a723.cnmt.nca" size="3584" crc="3f61d6fe" sha1="ea59742243461a9f75171d3a4b82f1074f0425a7" md5="488e2cc0abb2dcbaa00e5712ed57764e"/>
+		<rom name="firmware/20.2.0/fdd3b3e4fc156b3b1db6ac6897a88a20.nca" size="737280" crc="12973e75" sha1="d1a23ea643fcab43fb01e0425134dec2d896b715" md5="edcd0f73140c4f3f6933577cfbf3c831"/>
+		<rom name="firmware/20.2.0/fe132a6b9b63d4622dd2a69d94bea9d8.nca" size="436736" crc="d8a8c607" sha1="13b5c8815735cea880c33b49d75c6a00a6a7b6b7" md5="24a0e1f6e01fdcdaf5522b3cab735d94"/>
+		<rom name="firmware/20.2.0/fe9c8442a45db3e10a9635c89de0c547.nca" size="8057856" crc="8967cc70" sha1="1ee739fa71767de6077214ddf2b90d0c23f627d3" md5="88f2101f759c00dea4d588bb452218dd"/>
+		<rom name="keys/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="keys/18.1.0/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="keys/18.1.0/.switch/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="keys/18.1.0/.switch/common.cert" size="1792" crc="e89126c0" sha1="6d09d64edaff36682c41a856f480a7c872165502" md5="2a5fb197f8da52f2e35ca98ebd963da7"/>
+		<rom name="keys/18.1.0/.switch/dev.keys" size="14598" crc="1d0c5968" sha1="8744f1211b1db94b4bd9e7405bb32a13025b0a62" md5="53ccea9fa08425ac2d24b8f4b8ea28ce"/>
+		<rom name="keys/18.1.0/.switch/prod.keys" size="12574" crc="457e2d26" sha1="caef7c0f9dccd2f3b28f91be8a00caa34c76529a" md5="ce2bba84962893e51d8c06683de28df0"/>
+		<rom name="keys/18.1.0/.switch/title.keys" size="1224" crc="77cacffb" sha1="bfee8e708dc4c8f27bfe51a12d57caaa0b7f74de" md5="f65367650f88124362922994b78ede77"/>
+		<rom name="keys/19.0.1/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="keys/19.0.1/.switch/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="keys/19.0.1/.switch/common.cert" size="1792" crc="e89126c0" sha1="6d09d64edaff36682c41a856f480a7c872165502" md5="2a5fb197f8da52f2e35ca98ebd963da7"/>
+		<rom name="keys/19.0.1/.switch/dev.keys" size="14598" crc="1d0c5968" sha1="8744f1211b1db94b4bd9e7405bb32a13025b0a62" md5="53ccea9fa08425ac2d24b8f4b8ea28ce"/>
+		<rom name="keys/19.0.1/.switch/prod.keys" size="16025" crc="a65c13ca" sha1="c146b651696d25287241f4bab18226e488bc45b3" md5="31fda6c3678507b12631dfd01b0415ef"/>
+		<rom name="keys/19.0.1/.switch/title.keys" size="1224" crc="77cacffb" sha1="bfee8e708dc4c8f27bfe51a12d57caaa0b7f74de" md5="f65367650f88124362922994b78ede77"/>
+		<rom name="keys/20.0.1/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="keys/20.0.1/.switch/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="keys/20.0.1/.switch/common.cert" size="1792" crc="e89126c0" sha1="6d09d64edaff36682c41a856f480a7c872165502" md5="2a5fb197f8da52f2e35ca98ebd963da7"/>
+		<rom name="keys/20.0.1/.switch/dev.keys" size="14598" crc="1d0c5968" sha1="8744f1211b1db94b4bd9e7405bb32a13025b0a62" md5="53ccea9fa08425ac2d24b8f4b8ea28ce"/>
+		<rom name="keys/20.0.1/.switch/prod.keys" size="12619" crc="fefa38c9" sha1="1c732d3dd95c1031524623e83486df16211fb70b" md5="65bf82982e3ed7a2fb3a55f81ac902f6"/>
+		<rom name="keys/20.0.1/.switch/title.keys" size="408" crc="065f002a" sha1="79a579274ccec52bf2ed0869f094628d68051644" md5="782aea76b1aa9718ba2d5b0bc6bc3af8"/>
+		<rom name="ryujinx-1.3.2-win_x64/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="ryujinx-1.3.2-win_x64/alsoft.ini" size="31" crc="02b7b51f" sha1="c616cb514944d07c6c7b6fca1b08286538cff2f2" md5="c0a92d39626eab678620c85e8eff1730"/>
+		<rom name="ryujinx-1.3.2-win_x64/av_libglesv2.dll" size="4369408" crc="6365e47f" sha1="81f751a34e0c25bdea93902a19a94a49ce1495df" md5="73d2fb4c35d323813a86e3bf5c85c345"/>
+		<rom name="ryujinx-1.3.2-win_x64/avcodec-60.dll" size="3814912" crc="60265b19" sha1="2ffce00bdbae0aafbc9affe163d24484f909fc72" md5="0da8020a95d29fd7c7ef020f38845115"/>
+		<rom name="ryujinx-1.3.2-win_x64/avutil-58.dll" size="847360" crc="e900c5b9" sha1="23379c6baa10cd813c247120a68416dbbaa1c117" md5="41a99218993ea073ec161cf8358104a9"/>
+		<rom name="ryujinx-1.3.2-win_x64/glfw3.dll" size="354816" crc="f01eba72" sha1="7eeca1b55f2dc9f73e73aa42ef3809955a5ebc74" md5="529bf9fb63a41e5cc66cb1fc0b4303d7"/>
+		<rom name="ryujinx-1.3.2-win_x64/libHarfBuzzSharp.dll" size="1607216" crc="e705f749" sha1="cff7fc6071b8ccfbaea2ad922071f243d265afea" md5="c22de44419d1a1f1aa059f451fc59016"/>
+		<rom name="ryujinx-1.3.2-win_x64/libSkiaSharp.dll" size="9414216" crc="f111eb09" sha1="ad988af9826e5aacc7b8e5ed6d220b229d70060e" md5="ef1fabce43fe32ca83260481253f5476"/>
+		<rom name="ryujinx-1.3.2-win_x64/libsoundio.dll" size="85504" crc="f554d816" sha1="95a6e6de7f452ed7cb7bc02730cde999f27cca53" md5="b492d241dbae5fd322b1779226a3f0a9"/>
+		<rom name="ryujinx-1.3.2-win_x64/LICENSE.txt" size="1081" crc="d2d1cfe4" sha1="fa29141f4e5aad8f881c2d8f8bdf256b1989f76f" md5="9637787beb66a7405dc0e8cada65505a"/>
+		<rom name="ryujinx-1.3.2-win_x64/OpenAL32.dll" size="1771008" crc="47201e1c" sha1="2dd9130b6dd4c49864635b1b7cc4a93ebcdd5e17" md5="ff08ba3a9dfe6bd0b26f9055094c9550"/>
+		<rom name="ryujinx-1.3.2-win_x64/Ryujinx.exe" size="73204019" crc="87306632" sha1="364e8ab1eb09d598c105e3f958087f29709bd6fc" md5="8fca640af0ef43a6fa13c8c0592546b6"/>
+		<rom name="ryujinx-1.3.2-win_x64/Ryujinx.SDL2.Common.dll.config" size="244" crc="d415ab30" sha1="1b220dfd4badb4fe6d0f0cf839c76cced2f6e47e" md5="2d175f1dad5afd5ff46691db53d9459a"/>
+		<rom name="ryujinx-1.3.2-win_x64/SDL2.dll" size="1689088" crc="c66b57a5" sha1="46c4da0e88e96a8a37a7d853a93e5fba80734dcc" md5="26d8af4c3b7e8aa2bdbee75be3506728"/>
+		<rom name="ryujinx-1.3.2-win_x64/THIRDPARTY.md" size="36225" crc="5aa595bd" sha1="bbe68603a56ed02d413dc91581ee4b15adcc42a6" md5="fc20aeb2278beb7a0373e8d80053a94c"/>
+		<rom name="sudachi-windows-v1.0.15/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="sudachi-windows-v1.0.15/avcodec-61.dll" size="5564416" crc="56076459" sha1="081468309a4676b8e6ddd5e6d1b1d8fe81f97e39" md5="6f9c0177c971d3c90caa32bc53b09370"/>
+		<rom name="sudachi-windows-v1.0.15/avfilter-10.dll" size="901632" crc="2ef97b86" sha1="6850fa5658227d40f05ee62ce96876433360e4d8" md5="1b848188856709e3f5d2b6df0567b825"/>
+		<rom name="sudachi-windows-v1.0.15/avutil-59.dll" size="2194432" crc="6accfcdc" sha1="bed90004e86335feb270378eff5b9c0981df6434" md5="be6401e1406b5d4da04978ba6ed98b43"/>
+		<rom name="sudachi-windows-v1.0.15/boost_context-vc144-mt-x64-1_85.dll" size="12800" crc="cb0be8cd" sha1="1bf4d185afe25f8b1a51d1a60470f8e6e6121a37" md5="1ab7b126511b3f74791c68dd917d2d5a"/>
+		<rom name="sudachi-windows-v1.0.15/dxcompiler.dll" size="14722664" crc="6d8f141b" sha1="82cc0288022e97fd3a7bf90c9ec040b5c3aef820" md5="4b58be9e12436abb29e6dd7141b4aabd"/>
+		<rom name="sudachi-windows-v1.0.15/dxil.dll" size="1508472" crc="c17b04b4" sha1="8701b9ec26ffb2be0abbcb0ed1c310df1928887d" md5="88490ebe28ab3caea518b055aed20d9f"/>
+		<rom name="sudachi-windows-v1.0.15/fmt.dll" size="139264" crc="780a4246" sha1="fe455e7d4986cb2904e4727edb47491ba1493f82" md5="9baa3635b89c22b9f518242cb8a96257"/>
+		<rom name="sudachi-windows-v1.0.15/libcrypto-3-x64.dll" size="4700160" crc="8d12fd37" sha1="76b24bf0fec3ad63ddac4861e9d30fe38fbb99e6" md5="45c03c0a808ce83c7d0d834ed1bbdc71"/>
+		<rom name="sudachi-windows-v1.0.15/libssl-3-x64.dll" size="823296" crc="5bc5ae61" sha1="20ef61901f2d6aca05909fb2b8edd459e15ddbb5" md5="e7963cf90b635b8ed251e9ae990e767b"/>
+		<rom name="sudachi-windows-v1.0.15/libwinpthread-1.dll" size="60798" crc="f9711abf" sha1="756288dcf11e2e6f43af6621bd10f11418c02c6c" md5="baecb005bf7e5c22eabe35327426f153"/>
+		<rom name="sudachi-windows-v1.0.15/lz4.dll" size="121344" crc="5f3fc395" sha1="2cbbc40790ca4bce62369ad359acf0ea9f651d5e" md5="7a6f54e3bb39fb009fa87d3b44d81740"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/generic/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/generic/qtuiotouchplugin.dll" size="102040" crc="3233e67c" sha1="f63521ad9fcb7df3b383ac52b7804b4521cf66ce" md5="62166a6026d3165ca782f6c947c2bf33"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/iconengines/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/iconengines/qsvgicon.dll" size="77464" crc="ddbd7020" sha1="08c94f58bf50c962ec1a559d972c30745984f976" md5="95fa1b35cbd5c7d9959adb104da95266"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/imageformats/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/imageformats/qgif.dll" size="47768" crc="6ac471a6" sha1="ebf724bc3048419144911eea50fa5f6d4e7ea4fb" md5="6dc8813089c358772eb3fb84961bf8ee"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/imageformats/qico.dll" size="46232" crc="528512a2" sha1="0d22aad4a2b35d8b4690641384b6010ac10db423" md5="a0d9e077d3b1c3518024f2ef9bf9c22d"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/imageformats/qjpeg.dll" size="575640" crc="5356a056" sha1="f41425a4e8fc301f5a062d74e685d6b1d7840330" md5="ea4bd3ec9573080ada6a3b0c19c523d6"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/imageformats/qsvg.dll" size="39064" crc="2a073a98" sha1="2dde793d39f018a5ed069edff311c79b089a789f" md5="cfd30c65825f3f6dc7e4c9f7c48de332"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/networkinformation/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/networkinformation/qnetworklistmanager.dll" size="71320" crc="7f71fe4b" sha1="c90e369430d13104268c9f9275de9a9b392586cd" md5="a8956823e438adae97602f6e85328c02"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/platforms/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/platforms/qwindows.dll" size="907928" crc="3e1b97a3" sha1="49fe8b62a9f22fca19dec80a77c1e6aa1698e0fc" md5="cbb594a2c2708f51f83134d527a01cd5"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/styles/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/styles/qmodernwindowsstyle.dll" size="216728" crc="5c5fbf50" sha1="e465b44326a9eeedc64e520d83b489c995e06e96" md5="c530ec3f535e240809312c791b414499"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/tls/" size="0" crc="00000000" sha1="da39a3ee5e6b4b0d3255bfef95601890afd80709" md5="d41d8cd98f00b204e9800998ecf8427e"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/tls/qcertonlybackend.dll" size="102040" crc="6260a37b" sha1="7768d14039381a161e79a5b415ceeb48ca27ddeb" md5="594d3128e9cb5a1998411eeec28b040d"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/tls/qopensslbackend.dll" size="312472" crc="d1151393" sha1="d68a902d45451f4c4f2b649c6960b814694e81cb" md5="47518ad1e62d5fcf103753bd22158ded"/>
+		<rom name="sudachi-windows-v1.0.15/plugins/tls/qschannelbackend.dll" size="254616" crc="ccc13373" sha1="47eb358a3e08e2e408502e9f928020f2abf0889c" md5="a1b8337b94f0ad9b78ca7ba5ce293197"/>
+		<rom name="sudachi-windows-v1.0.15/Qt6Core.dll" size="6095512" crc="007c069e" sha1="1c0914de24f41d80f572d9d8238a11e25dbc0d78" md5="8b1ce7c4ae80f5a2ef4d968e5a78b8d6"/>
+		<rom name="sudachi-windows-v1.0.15/Qt6Gui.dll" size="9247896" crc="be72f853" sha1="6e76bffc86743ed979fb0e89aafb0e03789666de" md5="c9e8af54833d05fe951db2de478cac98"/>
+		<rom name="sudachi-windows-v1.0.15/Qt6Network.dll" size="1755800" crc="2cf15114" sha1="be91e80352c58fff117cbce22efcb65af43b1df3" md5="4eb97aa3c5b281f569b3d36333e41676"/>
+		<rom name="sudachi-windows-v1.0.15/Qt6Svg.dll" size="526488" crc="6732f40e" sha1="9b2ea7295d495e920dc93376e1f9513a33525a25" md5="89cd5cd993c33ce2c984fc56a6b63736"/>
+		<rom name="sudachi-windows-v1.0.15/Qt6Widgets.dll" size="6496408" crc="13dd444f" sha1="9ea8e49eb7fd8d77ab5b0c4eab5ffb78a9d11464" md5="6532269dc53d121b4f5129fd96789d74"/>
+		<rom name="sudachi-windows-v1.0.15/sudachi-cmd.exe" size="22798848" crc="3f55e22d" sha1="75549d97157158bc91223641f3df3ebad8fc6d32" md5="3584f9cb0a0d1140470bc7eb824dcbef"/>
+		<rom name="sudachi-windows-v1.0.15/sudachi-room.exe" size="795648" crc="684537a1" sha1="017eb7d778a4590b6f401a0334673f938670fe32" md5="2ee6b530d9ec62fcd320edd701e31a87"/>
+		<rom name="sudachi-windows-v1.0.15/sudachi.exe" size="26616832" crc="24320372" sha1="67e56e2426785d91f03ae89ea22079e9a8f5383d" md5="9fe9041ac3f7f07972693a4dc97e51f5"/>
+		<rom name="sudachi-windows-v1.0.15/swscale-8.dll" size="1495040" crc="db988a97" sha1="26a937da39a4b6b63ac3aeccdb0561e4272b3852" md5="e608799cd3714a6d877ad5429026f825"/>
+		<rom name="sudachi-windows-v1.0.15/zlib1.dll" size="90624" crc="98b03c0f" sha1="9c2cd43770b84f79d3d71998951936a6bc3015d7" md5="f1dd2ad7c15d9a71e25b79695cc3e938"/>
+		<rom name="sudachi-windows-v1.0.15/zstd.dll" size="652288" crc="8ee5e35e" sha1="f11ef1b8f78a55c95219c5a33adb29e276302f7d" md5="62d859f17e95d45ab68220a6a08bcca8"/>
+	</game>
+	<game name="Fushigi no Gensokyo - Lotus Labyrinth (Japan) [0100D7800C56A000]">
+		<description>Fushigi no Gensokyo - Lotus Labyrinth (Japan) [0100D7800C56A000]</description>
+		<rom name="DLC/Fushigi no Gensokyo - Lotus Labyrinth - Additional Character Costume Spring Outfit - Sanae &amp; Tenshi (Japan)(Ja)[0100D7800C56B001][v0][DLC].nsp" size="121056" crc="062c9d5d" sha1="c704721727b1acd0135faf8056dafbb7974babd1" md5="28e7810b6d91fee628fd85692af7b136"/>
+		<rom name="DLC/Fushigi no Gensokyo - Lotus Labyrinth - Hakurei Reimu Ao &amp; Miko Rabbit-chan No. 1 (Japan)(Ja)[0100D7800C56B003][v0][DLC].nsp" size="121056" crc="f3207ade" sha1="15bf53fbc3fa642e7a38f252239f01766c312d58" md5="e88144227a06a9ac71cfea6e9044630d"/>
+		<rom name="DLC/Fushigi no Gensokyo - Lotus Labyrinth - Lotus Friends (Japan)(Ja)[0100D7800C56B004][v0][DLC].nsp" size="121056" crc="39619984" sha1="1d6797a8a11172a53c277950f5ed08b851a611a2" md5="ac611375efbabff116b81504190c6b11"/>
+		<rom name="Fushigi no Gensokyo - Lotus Labyrinth (Japan)(Ja)[1.1.6][0100D7800C56A800][v917504][UPD].nsp" size="2655064640" crc="6159a690" sha1="19ff35019f902b00ee0eb2e905abbbd6bcd543a6" md5="c9fc8ed1112771f7a1eaf46a9f67001a"/>
+		<rom name="Fushigi no Gensokyo - Lotus Labyrinth (Japan)[1.0.0][0100D7800C56A000][v0].xci" size="7985954816" crc="ae143330" sha1="8718c8d4a68d3a4e2bd03c36e59cea3cb35c1f2e" md5="a812428c2bf188da52642508012238e6"/>
+	</game>
+	<game name="Fushigi no Gensoukyou TOD - Reloaded (Japan) [010033500944A000]">
+		<description>Fushigi no Gensoukyou TOD - Reloaded (Japan) [010033500944A000]</description>
+		<rom name="Fushigi no Gensoukyou TOD - Reloaded (Japan) (+2 DLC Bundle)[1.0.0][010033500944A000][v524288].xci" size="15971909632" crc="805492cd" sha1="bee9362dcc69810162cd6559438e6d195843925b" md5="bf316cae001a326b62156dfe944a7eb6"/>
+	</game>
+	<game name="Fushigi no Gensoukyou TOD - Reloaded (Taiwan, Hong Kong) [01000E100A470000]">
+		<description>Fushigi no Gensoukyou TOD - Reloaded (Taiwan, Hong Kong) [01000E100A470000]</description>
+		<rom name="Fushigi no Gensoukyou TOD - Reloaded (Taiwan, Hong Kong)(Ja,Zh-Hant,Zh-Hans)[1.0.0][01000E100A470000][v0].xci" size="7985954816" crc="bc72c984" sha1="b2948c29791fd87c919752041a53571a3651d13b" md5="97c6b7f176d90cba87e1c8a0a487ef20"/>
+		<rom name="Fushigi no Gensoukyou TOD - Reloaded (Taiwan, Hong Kong)(Ja,Zh-Hant,Zh-Hans)[1.0.1][01000E100A470800][v65536][UPD].nsp" size="74422688" crc="5806f1c8" sha1="13add5c533abd7f018e6fd62e87530d38759e6e4" md5="8551029be271018cc66ada44edea4dd6"/>
+	</game>
+	<game name="Labyrinth of Touhou 2 - Gensokyo And The Heaven-Piercing Tree (Japan) [0100E550118D0000]">
+		<description>Labyrinth of Touhou 2 - Gensokyo And The Heaven-Piercing Tree (Japan) [0100E550118D0000]</description>
+		<rom name="Labyrinth of Touhou 2 - Gensokyo And The Heaven-Piercing Tree (Japan)(Ja)[1.0.0][0100E550118D0000][v0][BASE].nsp" size="1884279136" crc="3ff79017" sha1="d9cec0909acd2a1b1a167cb1823b063aa6c849c6" md5="d99463b8b530155950682756e63d1109"/>
+		<rom name="Labyrinth of Touhou 2 - Gensokyo And The Heaven-Piercing Tree (Japan)(Ja)[1.0.2][0100E550118D0800][v131072][UPD].nsp" size="44369248" crc="b8183acb" sha1="cf9f81ae1ca74882278be2262c15ef7b488ada52" md5="f4dc2a1cdb575d4bc2cbbfefa1ca01d4"/>
+	</game>
+	<game name="Touhou Artificial Dream in Arcadia (World) [0100F06021822000]">
+		<description>Touhou Artificial Dream in Arcadia (World) [0100F06021822000]</description>
+		<rom name="Touhou Artificial Dream in Arcadia (World)(En)[1.0.0][0100F06021822000][v0][BASE].nsp" size="159655264" crc="ff3d6104" sha1="fd087bed8bd600e815f656564dd8344f587030d6" md5="5037e3edac9a1c68e5de4f03a7ed6131"/>
+		<rom name="Touhou Artificial Dream in Arcadia (World)(En,Ja,Ko,Zh-Hant)[1.0.3][0100F06021822800][v196608][UPD].nsp" size="38739808" crc="bc9c4bee" sha1="b2118de13d64a0482f0de2b1e20daaf71e4fcab5" md5="5939e0971f8c92623b21c346ed9e5cce"/>
+	</game>
+	<game name="Touhou Danmaku Kagura - Phantasia Lost (Japan) [010082301EC24000]">
+		<description>Touhou Danmaku Kagura - Phantasia Lost (Japan) [010082301EC24000]</description>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan)(En,Ja,Zh-Hant,Zh-Hans)[1.4.0][010082301EC24000][v0].xci" size="7985954816" crc="a7cba52f" sha1="a949d5e5f40e84fa576f3084887631e419dbc4d0" md5="2e820c69c925f04b5f65414effaecd62"/>
+		<rom name="Touhou Danmaku Kagura Phantasia Lost (World)(En,Ja,Ko,Zh-Hant,Zh-Hans)[1.11.0][010082301EC24800][v1441792][UPD].nsp" size="1648423264" crc="00a4430a" sha1="b46892f0c3f0f80351fd3a08870fe647b4c91739" md5="60bff43dc03371215ffebdfa7ad2e52e"/>
+	</game>
+	<game name="Touhou Danmaku Kagura - Phantasia Lost (Japan) [DLC Packs]">
+		<description>Touhou Danmaku Kagura - Phantasia Lost (Japan) [DLC Packs]</description>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 1 [DLC Unlocker].nsp" size="124112" crc="fad990da" sha1="c64112e9f0e548edbf019b4852168832c4eff816" md5="800bf4d0e56a8bec97c687d63d6aae2b"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 10 [DLC Unlocker].nsp" size="124112" crc="2db1aa9c" sha1="e93f6705a8ce808006857e1fd42ad05052c56256" md5="60956a3a53abb5a4eac4d4ab37cf8386"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 11 [DLC Unlocker].nsp" size="124112" crc="6ce58fd4" sha1="2a7935c8943c491948e726f7f12b93ef8945f55f" md5="784bafb6270346e4dc506603f847ea69"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 2 [DLC Unlocker].nsp" size="124112" crc="053476c8" sha1="49e2cdd70307fe5b3b7c50c3822a45357e2eadd1" md5="7d08c51368ba148a28933cfd989c3c8d"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 3 [DLC Unlocker].nsp" size="124112" crc="1f8c98eb" sha1="38ffa25f881f985a3fb6f1ce2de02c9d6bf531a8" md5="9280fb3bbc2febe0b66d0ae4d4e44bb8"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 4 [DLC Unlocker].nsp" size="124112" crc="701b6b56" sha1="8a0865714cfc2329e2dca008c573e150f991db3b" md5="ee85a33e7c23e8692c78ae4a210ad17a"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 5 [DLC Unlocker].nsp" size="124112" crc="16732e61" sha1="94c6b14fb1ecc8dec72f21db4ce344bc0e47ca56" md5="64b973b492a247a33dfbf602c076e13f"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 6 [DLC Unlocker].nsp" size="124112" crc="02f65898" sha1="a71924c5f9270924ee2512c9f67cc14c0965933d" md5="c992fd3001c9b595184b48bc45f7db68"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 7 [DLC Unlocker].nsp" size="124112" crc="6f353fc1" sha1="ac9cd574d5a144474678160a181e72401a871513" md5="7b6bdbc953a0d0a579d2cba5a9e6b8e2"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 8 [DLC Unlocker].nsp" size="124112" crc="c5061e09" sha1="95a8ff68d1e1b6aa458d27a49ee9a6ba2daf6b95" md5="25120429d37bcf75da301237f3922db5"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Extra Song Pack 9 [DLC Unlocker].nsp" size="124112" crc="78d9ac58" sha1="499c947cd5f75d7f77844a4863021baf307a1931" md5="4a0e1859b8354dd5070586037681a337"/>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost (Japan) - Unlock All Songs [DLC Unlocker].nsp" size="124112" crc="407863ee" sha1="6c0c9b01d63c156cbdafd7c8e3f0b212d8cf7386" md5="1e529478e31e480d4653fec29ac9a9b3"/>
+	</game>
+	<game name="Touhou Danmaku Kagura - Phantasia Lost with Extra Song Pack 1 [010082301EC24000][917504]">
+		<description>Touhou Danmaku Kagura - Phantasia Lost with Extra Song Pack 1 [010082301EC24000][917504]</description>
+		<rom name="Touhou Danmaku Kagura - Phantasia Lost with Extra Song Pack 1 [010082301EC24000][917504].xci" size="7985954816" crc="a40b7a8e" sha1="5dfd7a0097748a015e4f836126249b7794dcd577" md5="aba51e03d36426e878caea2885b6f0e2"/>
+	</game>
+	<game name="Touhou Fan-made Virtual Autography (World) [0100196016944000]">
+		<description>Touhou Fan-made Virtual Autography (World) [0100196016944000]</description>
+		<rom name="Touhou Fan-made Virtual Autography (World)(En,Ja)[1.1.0][0100196016944000][v0][BASE].nsp" size="204106080" crc="41233bb4" sha1="5f00d6095151294b9e365dd017f9f4443e934dad" md5="1dea14e5d0eeb55082807bd2345c54be"/>
+		<rom name="Touhou Fan-made Virtual Autography (World)(En,Ja)[1.1.3][0100196016944800][v196608][UPD].nsp" size="54535008" crc="71c47896" sha1="548b7d2fdab9b4c8d7feaf625378be938b459e40" md5="d543092eaeadd68c2104216d5d091fb5"/>
+	</game>
+	<game name="Touhou Genso Wanderer - FORESIGHT (Japan) [01001B201FDEE000]">
+		<description>Touhou Genso Wanderer - FORESIGHT (Japan) [01001B201FDEE000]</description>
+		<rom name="Touhou Genso Wanderer - FORESIGHT (Asia)(En,Ja,Zh-Hant,Zh-Hans)[1.0.3][01001B201FDEE800][v196608][UPD].nsp" size="287226720" crc="50955282" sha1="65c553364b7e0a045677997f591656910aca3925" md5="3a47c12c76edf2255c9a6b0cca927917"/>
+		<rom name="Touhou Genso Wanderer - FORESIGHT (Japan)(En,Ja,Zh-Hant,Zh-Hans) (Rev 1)[v1.0.0][01001B201FDEE000][v131072].xci" size="7985954816" crc="18615df8" sha1="4d57e78a470dc6b2b3c54fd537a4f0062ef63879" md5="f2b7afcbc759c1043650321106edac05"/>
+	</game>
+	<game name="Touhou Genso Wanderer - Lotus Labyrinth R (Japan) [0100A7A015E4C000]">
+		<description>Touhou Genso Wanderer - Lotus Labyrinth R (Japan) [0100A7A015E4C000]</description>
+		<rom name="DLC/Touhou Genso Wanderer - Lotus Labyrinth R - Added Partners - Lotus Friends (World)(En,Ja,Zh-Hans,Zh-Hant)[0100A7A015E4D004][v0][DLC].nsp" size="121056" crc="f46f15f6" sha1="5758f3092b3c4d109df5431b9e6c8918b1ca9c71" md5="22b9da8692d32d77a650f7106863d88e"/>
+		<rom name="DLC/Touhou Genso Wanderer - Lotus Labyrinth R - Added Partners - Wily Beast and Weakest Creature Friends (World)(En,Ja,Zh-Hans,Zh-Hant)[0100A7A015E4D005][v0][DLC].nsp" size="121056" crc="2cb88b1e" sha1="55ace61082b9cf64ebb7785bc892aabae26945be" md5="f607aaa2c345c808124fef44cb338eb4"/>
+		<rom name="Touhou Genso Wanderer - Lotus Labyrinth R (Japan) (En,Ja,Zh-Hant,Zh-Hans)[v1.0.0][0100A7A015E4C000][v65536].xci" size="7985954816" crc="195474fe" sha1="9a4a107018f5f4efecfe7d4c432f35c60517751f" md5="a29f97f9fb13ee4d5a28be208461fa25"/>
+		<rom name="Touhou Genso Wanderer - Lotus Labyrinth R (World)(En,Ja,Zh-Hant,Zh-Hans)[1.0.1][0100A7A015E4C800][v65536][UPD].nsp" size="33274272" crc="c56d30c4" sha1="cddd47623c1a95b232ababa78b28bf0fe1a6dd02" md5="04490dc17ca131e8a5b7221a70abf0ab"/>
+	</game>
+	<game name="Touhou Genso Wanderer Reloaded (USA) [01004E900B082000]">
+		<description>Touhou Genso Wanderer Reloaded (USA) [01004E900B082000]</description>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Additional Story - Clock Remains &amp; Playable Character - Sakuya Izayoi (World)(En,Ja)[01004E900B083005][v0][DLC].nsp" size="121056" crc="1e4020b1" sha1="ad436d25921d3a85a2c888fa264d92e8110a9f61" md5="2653b2cdbb3de15ec3358578c129207e"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Alice Margatroid &amp; Equipment (World)(En,Ja)[01004E900B083003][v0][DLC].nsp" size="121056" crc="b329844b" sha1="17bf0a615409db305e6e27b26988f2837b565975" md5="c1284846bcf81feebaab71c20c362533"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Cirno &amp; New Partner - Daiyosei (World)(En,Ja)[01004E900B08300C][v0][DLC].nsp" size="121056" crc="2f0b19e5" sha1="404992bb9607e45f6a26166ef99c3afeff6f9462" md5="012ad622d8f42dd639751e77da19461e"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Flandre Scarlet (World)(En,Ja)[01004E900B083002][v0][DLC].nsp" size="121056" crc="d03a9af6" sha1="c57eadf0e7a3a2f93998e2a2dbc10c867477405a" md5="52fddf168cacbceb248f85184a94f128"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Kasen Ibaraki &amp; Equipment (World)(En,Ja)[01004E900B083008][v0][DLC].nsp" size="121056" crc="d324f789" sha1="f706c59e4090c35e45bf43bdc78c2cb8a9ba95eb" md5="47f4e3018eade5c415d55556d138398a"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Kokoro Hata &amp; Equipment (World)(En,Ja)[01004E900B08300B][v0][DLC].nsp" size="121056" crc="5c6b809c" sha1="0f11af4f2e71e8314813569e067608c56948f998" md5="6c5425ed000069d28accb9e1ab29b9e4"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Rei&apos;sen &amp; Equipment (World)(En,Ja)[01004E900B083009][v0][DLC].nsp" size="121056" crc="902ae97a" sha1="d6524ad516a41d09f6ac957d3d0e4f6a4019f2e4" md5="ed26c95ea4d4f70eeed9e83be00dbe04"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Satori Komeiji &amp; Equipment (World)(En,Ja)[01004E900B08300A][v0][DLC].nsp" size="121056" crc="a2715cad" sha1="00f051f7d933cd57e27996c93fb7151861dd7def" md5="e4f634f259a2917d54b72601e2fdad10"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Suwako Moriya &amp; Equipment (World)(En,Ja)[01004E900B083006][v0][DLC].nsp" size="121056" crc="2ce1ec42" sha1="2f830f5d26e718b2ca204a6a86ffdb8aeb699048" md5="89c855fdb0f9aa8e230879780ac43df9"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Tenshi Hinanawi &amp; Equipment (World)(En,Ja)[01004E900B08300E][v0][DLC].nsp" size="121056" crc="fabbe0e3" sha1="4de7801115106c74e119dfef3f9ca5a466bf9d31" md5="4028c3168b9c76e7ea540a17b7e816c1"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Tojiko Soga &amp; Equipment (World)(En,Ja)[01004E900B083007][v0][DLC].nsp" size="121056" crc="5f6134f1" sha1="1b0359cc08ef010b13c2c806de831fbc16139f7d" md5="9341fca60dbd1083100c2b0cecf2eb9c"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character - Utsuho Reiuji &amp; Equipment (World)(En,Ja)[01004E900B083004][v0][DLC].nsp" size="121056" crc="4c456998" sha1="91c00de6535dee1c4c74d3004bbeed9514341653" md5="35734a26bb992526e35f388fca6788fd"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Playable Character Partner - Daiyosei &amp; Equipment (World)(En,Ja)[01004E900B08300F][v0][DLC].nsp" size="121056" crc="c364a62a" sha1="1ca1e9f2d68d0372f23455ac1680f853c1440488" md5="8cb0bdd2c62507585378a78837f2dc20"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Season Pass - The Elegance Bonus Items (World)(En,Ja)[01004E900B08300D][v0][DLC].nsp" size="121056" crc="07de587b" sha1="9f9c7a0732aa7665a825e478a487dc40a1bc7961" md5="f3498fa559c2e4a9b0b7f74702b5194f"/>
+		<rom name="DLC/Touhou Genso Wanderer Reloaded - Season Pass Bonus - Reimu Santa Costume (World)(En,Ja)[01004E900B083001][v0][DLC].nsp" size="121056" crc="ff22dd65" sha1="037f7408ef6557b8c0b20efcaa63000d82e82711" md5="7c069054c05f6136947735b3c87b9825"/>
+		<rom name="Touhou Genso Wanderer - Reloaded (USA)(En,Ja)[v1.0.0][01004E900B082000][v0].xci" size="7985954816" crc="904e6a2a" sha1="1425ce753c00c95481dc48e997728d50d319d321" md5="e366d2058442bde967f76d18e30e0ba9"/>
+		<rom name="Touhou Genso Wanderer - Reloaded (World)(En,Ja,Zh-Hant,Zh-Hans)[1.0.3][01004E900B082800][v196608][UPD].nsp" size="994626400" crc="c65f27cb" sha1="ce8eab61badc467a27607b155a3769c6f0474dc9" md5="77e18e9f7854b10513e5b3893667439a"/>
+	</game>
+	<game name="Touhou Gensou Mahjong (Japan) [0100F6C00DA56000]">
+		<description>Touhou Gensou Mahjong (Japan) [0100F6C00DA56000]</description>
+		<rom name="DLC/Touhou Gensou Mahjong - 25-song pack from Touhou Gensou Mahjong 4 (Japan)(Ja)[0100F6C00DA57005][v0][DLC].nsp" size="94132448" crc="0c320877" sha1="b9187864664157473b9bf3eaa600e06d817c7e1f" md5="c4f19dcfead0ec041242542658479724"/>
+		<rom name="DLC/Touhou Gensou Mahjong - Ongeki Guest Characters Vol.1 (Japan)(Ja)[0100F6C00DA57002][v0][DLC].nsp" size="121056" crc="f14776b5" sha1="24337a392be56208eda791ce5634ea9faf30409a" md5="ab1b9a93447fc973d417515062aee994"/>
+		<rom name="DLC/Touhou Gensou Mahjong - Ongeki Guest Characters Vol.2 (Japan)(Ja)[0100F6C00DA57003][v0][DLC].nsp" size="121056" crc="a58b347a" sha1="662b1cbbee4159537a7629d6df49f26d1e4852d1" md5="e53a7256b609829f90d0c00b58d3aae7"/>
+		<rom name="DLC/Touhou Gensou Mahjong - Ongeki Guest Characters Vol.3 (Japan)(Ja)[0100F6C00DA57006][v0][DLC].nsp" size="121056" crc="230ac017" sha1="3b31b6aff5eca6a319e6da525d3b79ecee83abaf" md5="85b94cb479d40d22bd87f1c98211c1d8"/>
+		<rom name="DLC/Touhou Gensou Mahjong - Ongeki Guest Characters Vol.4 (Japan)(Ja)[0100F6C00DA57007][v0][DLC].nsp" size="121056" crc="27f59701" sha1="9621bce0050f538465afefca71d6ccdd612018b1" md5="09aba4638a65eb41cf9ee066418e48d1"/>
+		<rom name="DLC/Touhou Gensou Mahjong - Playable Character ZUN (Japan)(Ja)[0100F6C00DA57001][v0][DLC].nsp" size="121056" crc="ad4e0bf8" sha1="132f1d1dbd2c2e88f95b884943d90b41f7e3ef33" md5="64fa3589d52ca72acbd65f7521bbe9f3"/>
+		<rom name="DLC/Touhou Gensou Mahjong - Touhou Unconnected Marketeers - New Character &amp; Stage (Japan)(Ja)[0100F6C00DA57004][v0][DLC].nsp" size="121056" crc="56c4e873" sha1="2cf8a670a8cf73f5f57ea25af97a704922d087f4" md5="7717fe04ba819384a6ddf3247f14aaee"/>
+		<rom name="Touhou Gensou Mahjong (Japan)(Ja)[1.0.0][0100F6C00DA56000][v0][BASE].nsp" size="790277472" crc="ca8d40ac" sha1="01b3b0ce7f39f8224b28bb5f27fbc4aa31ec182b" md5="d5f3c20bd109a7796af0d37368db1fa1"/>
+		<rom name="Touhou Gensou Mahjong (Japan)(Ja)[1.1.17][0100F6C00DA56800][v1572864][UPD].nsp" size="390426976" crc="0145cf50" sha1="65e2cdd64de19d7582e62de2bf2a9da23875519a" md5="13bfe83fc3c1f33ed0932cc11e15c5e7"/>
+	</game>
+	<game name="Touhou Gensou Marou W (Japan) [0100EEF00BBE2000]">
+		<description>Touhou Gensou Marou W (Japan) [0100EEF00BBE2000]</description>
+		<rom name="DLC/Touhou Gensou Maroku W - Shikigami Add-on (Japan)(Ja)[0100EEF00BBE3001][v0][DLC].nsp" size="121056" crc="47647200" sha1="d4bc6724920af473e8b69ea252b99d9e064fc2e4" md5="296385e83034476e458b56dc93a879fd"/>
+		<rom name="Touhou Gensou Maroku W (Japan)(Ja)[1.0.0][0100EEF00BBE2000][v0][BASE].nsp" size="2527856992" crc="50c156e2" sha1="34770cd4f8efc6cbbf7a0f9c6042cd62d003bf95" md5="079cbdb9247d545cf80f590836555d49"/>
+	</game>
+	<game name="Touhou Gouyoku Ibun - Sunken Fossil World (World) [0100031018CFE000]">
+		<description>Touhou Gouyoku Ibun - Sunken Fossil World (World) [0100031018CFE000]</description>
+		<rom name="Touhou Gouyoku Ibun - Sunken Fossil World. (World)(En,Ja,Zh-Hant,Zh-Hans)[1.1.0][0100031018CFE000][v0][BASE].nsp" size="592008032" crc="d442f5d5" sha1="d4c6b25c68545ad426f800e78a79aa75a62ba774" md5="bb0bbbac59c353cf32ad1e649cad8cbb"/>
+		<rom name="Touhou Gouyoku Ibun - Sunken Fossil World. (World)(En,Ja,Zh-Hant,Zh-Hans)[1.15][0100031018CFE800][v262144][UPD].nsp" size="57589600" crc="a890d91b" sha1="b417c35e7ef678910c0bdc209767e7862c9e39d2" md5="870fe4a28a94f2aa38c8117769053617"/>
+	</game>
+	<game name="Touhou Hyouibana - Antinomy of Common Flowers (World) [0100ECF012414000]">
+		<description>Touhou Hyouibana - Antinomy of Common Flowers (World) [0100ECF012414000]</description>
+		<rom name="Touhou Hyouibana - Antinomy of Common Flowers. (World)(En,Ja)[1.0.0][0100ECF012414000][v0][BASE].nsp" size="1142837600" crc="afb25d2d" sha1="87ec638e79cf212b211c8cd964b636178569787b" md5="837298fbb5e4cdc6f48389106737d6ec"/>
+		<rom name="Touhou Hyouibana - Antinomy of Common Flowers. (World)(En,Ja)[1.0.3c][0100ECF012414800][v393216][UPD].nsp" size="18127200" crc="b0b368a4" sha1="21986343279a80b2180cccf27cf60a8ffd179ba3" md5="b58ea503dcd13eaea4da014babaf5d32"/>
+	</game>
+	<game name="Touhou Kobuto V (Japan) [01007C8007376000]">
+		<description>Touhou Kobuto V (Japan) [01007C8007376000]</description>
+		<rom name="DLC/Touhou Kobuto V - Additional Theme - Chibi Characters (Japan)(En,Ja)[01007C8007377002][v0][DLC].nsp" size="121056" crc="8af9ebfd" sha1="bea07decfe9294abfd3402ab35cb327d2b715ee6" md5="4127d7648080aa11aa2bfbb0ebeb9b1b"/>
+		<rom name="DLC/Touhou Kobuto V - Playable Character Koishi Komeiji – Includes New Story &amp; Music (Japan)(En,Ja)[01007C8007377001][v0][DLC].nsp" size="121056" crc="c408d8b2" sha1="abf55a31fd0bdc0224285598fd2b195c4254b63b" md5="8755e9fad6ecc479307a6d32f6325844"/>
+		<rom name="DLC/Touhou Kobuto V - Playable Character Youmu Konpaku – Includes Story &amp; Music (Japan)(En,Ja)[01007C8007377003][v0][DLC].nsp" size="121056" crc="e6a797b1" sha1="47cd9c40fd6e55a3b236a7e6711b9b5efe3a4c47" md5="df01c6b76cf5ff40c3b3483fe37b53f7"/>
+		<rom name="Touhou Kobuto V (Japan) (Japan)(Ja)[1.0.0][01007C8007376000][v0][BASE].nsp" size="1149538144" crc="2d34f6e7" sha1="3fc7468bbcb79ffa9a08f6964daccf0627c6c061" md5="955930dab6a071697570ba638769bf87"/>
+		<rom name="Touhou Kobuto V (Japan) (Japan)(Ja)[1.0.2][01007C8007376800][v131072][UPD].nsp" size="135032160" crc="1a9fc019" sha1="35acf0c403c9d9a338a44e630c5f401c10d7f354" md5="7df579755137fd46821c9a6854356401"/>
+	</game>
+	<game name="Touhou Kobuto V - Burst Battle (USA, Europe) [010010F004022000]">
+		<description>Touhou Kobuto V - Burst Battle (USA, Europe) [010010F004022000]</description>
+		<rom name="DLC/Touhou Kobuto V - Burst Battle - Chibi-Chara (World)(En)[010010F004023002][v0][DLC].nsp" size="121056" crc="97322994" sha1="06e982f2061ba09b05a81aba41c610e047a4d3e4" md5="3b2c0c62a3d5e6a27415dfdfaceee19b"/>
+		<rom name="DLC/Touhou Kobuto V - Burst Battle - Koishi Komeiji (World)(En)[010010F004023001][v0][DLC].nsp" size="121056" crc="0b25fc09" sha1="a858182f7f3b1f6a7966d8890f115d407c7770c3" md5="f8dfef94d7711115c7318c099de0d024"/>
+		<rom name="DLC/Touhou Kobuto V - Burst Battle - Youmu Konpaku (World)(En)[010010F004023003][v0][DLC].nsp" size="121056" crc="6c859050" sha1="756b7616d01917deb282d3205764ef48cf55ce88" md5="406d488573f11c0fc9ddcbf044856b66"/>
+		<rom name="Touhou Kobuto V - Burst Battle (USA, Europe)(En)[v1.0.0][010010F004022000][v0].xci" size="1996488704" crc="eb5a1ff2" sha1="bc9d1f007aeaa2c9ff91eeac8cd72c8c31e970ae" md5="bb8845b0986e5b08f00e08f9014e3521"/>
+		<rom name="Touhou Kobuto V - Burst Battle (World)(En,Ja)[1.0.4][010010F004022800][v262144][UPD].nsp" size="365942624" crc="517e0cbb" sha1="76a93c88577d5edee7c957a0527ef5589188840c" md5="0232ea32ab6fe4736d0d991c4ec8e186"/>
+	</game>
+	<game name="Touhou Luna Nights (Japan) [0100D850131B0000]">
+		<description>Touhou Luna Nights (Japan) [0100D850131B0000]</description>
+		<rom name="Touhou Luna Nights (Japan) (En,Ja,Fr,De,Zh-Hans,Ko)[v1.0.0][0100D850131B0000][v131072].xci" size="1996488704" crc="2c3e739f" sha1="189261c4676a78a484bb2ed27faaef44dc55463c" md5="53e099c565878c3037e9cb308854d2c2"/>
+		<rom name="Touhou Luna Nights (World)(En)[1.0.5][0100D850131B0800][v327680][UPD].nsp" size="71554912" crc="6bc5301a" sha1="fad7c6e78a6e560e69782ecb232173851ff13acb" md5="2e8aec6abd8d51df70560f2e4d8c140e"/>
+	</game>
+	<game name="Touhou Mystia&apos;s Izakaya (Japan) [01000BA01D500000]">
+		<description>Touhou Mystia&apos;s Izakaya (Japan) [01000BA01D500000]</description>
+		<rom name="Touhou Mystia&apos;s Izakaya (Japan)(En,Ja,Zh-Hant,Zh-Hans)[v1.0.0][01000BA01D500000][v0].xci" size="3992977408" crc="5f35e4f6" sha1="66bfc9746ca2ca76be696f283e9d673f1d4a2106" md5="3056fa12af7811bc207bc95d254e9e66"/>
+		<rom name="Touhou Mystia&apos;s Izakaya (World)(En,Ja,Ko,Zh-Hant,Zh-Hans)[1.0.1][01000BA01D500800][v65536][UPD].nsp" size="476019552" crc="5d9e2c50" sha1="0008d458506917d6bcfd498435457bf4dd179adf" md5="c6aab4520e7007f1b8518efd3c8c579d"/>
+	</game>
+	<game name="Touhou New World (Japan) [0100102019824000]">
+		<description>Touhou New World (Japan) [0100102019824000]</description>
+		<rom name="DLC/Touhou - New World - Gensokyo Dreaming (World)(En,Ja,Zh-Hans,Zh-Hant)[0100102019825001][v0][DLC].nsp" size="537450720" crc="ff5c65a9" sha1="2b3dd960bb6e77cedb8d63acd4b3a6066af77d21" md5="1878f179dd6d8bfee9def53ddc978f6e"/>
+		<rom name="Touhou New World (Japan) (En,Ja,Zh-Hant)[1.0.0][0100102019824000][v0].xci" size="7985954816" crc="d4365674" sha1="d3c8dec8addc391d03e4fc4f0d2a19c4a81efb89" md5="94378acd9593ef3550e7b9a566c23444"/>
+		<rom name="Touhou New World (World)(En,Ja,Zh-Hant,Zh-Hans)[1.5.1][0100102019824800][v196608][UPD].nsp" size="343325536" crc="0f4977fc" sha1="b3f6656e6278565377d75e0ec2aff7b07a3d1ac9" md5="e113615a2cbdb9daa63a2a74a5d980be"/>
+	</game>
+	<game name="Touhou Shoujo Tale of Beautiful Memories (World) [010056201862C000]">
+		<description>Touhou Shoujo Tale of Beautiful Memories (World) [010056201862C000]</description>
+		<rom name="Touhou Shoujo Tale of Beautiful Memories (World)(En,Ja,Zh-Hant,Zh-Hans)[1.0.0][010056201862C000][v0][BASE].nsp" size="560891744" crc="22dbbc5b" sha1="09bba98bb5b1477e6b45d20b523a7d0d672b1d13" md5="bf986e033c084a4920e784a64b876b7a"/>
+		<rom name="Touhou Shoujo Tale of Beautiful Memories (World)(En,Ja,Zh-Hant,Zh-Hans)[1.0.3][010056201862C800][v196608][UPD].nsp" size="111929184" crc="9d4ff73c" sha1="a8e09aef4c24964a2050996f7c24bb5629d6d7cf" md5="646de9016885704c13306054029dc2ea"/>
+	</game>
+	<game name="Touhou Sky Arena - MATSURI CLIMAX (Japan) [0100F42007752000]">
+		<description>Touhou Sky Arena - MATSURI CLIMAX (Japan) [0100F42007752000]</description>
+		<rom name="DLC/Touhou Sky Arena Matsuri Climax - New &amp; Popular Songs Pack (World)(En,Ja)[0100F42007753005][v0][DLC].nsp" size="121056" crc="7abdf0d2" sha1="8025858d0f3e8a54dd33d4d09095c1c26ea95c35" md5="2d51705eb748ac441e4da917dac9d5e8"/>
+		<rom name="DLC/Touhou Sky Arena Matsuri Climax - Playable Character - Toyosatomimi no Miko (World)(En,Ja)[0100F42007753001][v0][DLC].nsp" size="121056" crc="07c3faed" sha1="9df6e16b570c001a162f59aee9022129ae04af9f" md5="f2a5bbf88200c1fc3e0fb340eb0b0226"/>
+		<rom name="DLC/Touhou Sky Arena Matsuri Climax - Playable Character - Yukari Yakumo (World)(En,Ja)[0100F42007753002][v0][DLC].nsp" size="121056" crc="838b2eb7" sha1="30048bd957274a851e3d4f8ad772ad0f4a1f2263" md5="ae36bc6f3d0c48067a5a11071b284e62"/>
+		<rom name="DLC/Touhou Sky Arena Matsuri Climax - Playable Character - Yuyuko Saigyouji (World)(En,Ja)[0100F42007753003][v0][DLC].nsp" size="121056" crc="249893a0" sha1="b6474b4efded5f3d429251de10ce44c64cc49194" md5="16d6455606451bc204cff6b498dce46c"/>
+		<rom name="Touhou Sky Arena - Matsuri Climax (Japan)(En,Ja)[v1.0.0][0100F42007752000][v262144].xci" size="3992977408" crc="13a0a7ae" sha1="0f4d257a8426014970f83f51ef32bc59036fbc89" md5="65de9f1f0ff67ec42a6552a5d6b94a81"/>
+		<rom name="Touhou Sky Arena - Matsuri Climax (World)(En,Ja)[1.0.5][0100F42007752800][v327680][UPD].nsp" size="619818848" crc="87b4bb02" sha1="0a93f1a8011728c527e04100ef08e5bd6a491a8d" md5="50f0e442408952301de053ce58e37979"/>
+	</game>
+	<game name="Touhou Soujinengi V &amp; Touhou Genso Maroku W Double Pack (Japan) [0100A9400991E000][0100EEF00BBE2000]">
+		<description>Touhou Soujinengi V &amp; Touhou Genso Maroku W Double Pack (Japan) [0100A9400991E000][0100EEF00BBE2000]</description>
+		<rom name="Touhou Soujinengi V &amp; Touhou Genso Maroku W Double Pack (Japan)[1.0.0][0100A9400991E000,v65536][0100EEF00BBE2000,v0].xci" size="7985954816" crc="92c9f1c1" sha1="8a15d6bde9c88d38183740d7b9499967b071af10" md5="1c711f2d3bb23b94a6e1f291544ac91d"/>
+	</game>
+	<game name="Touhou Spell Bubble (Taiwan, Hong Kong) [0100AE7012B5E000]">
+		<description>Touhou Spell Bubble (Taiwan, Hong Kong) [0100AE7012B5E000]</description>
+		<rom name="DLC/Touhou Spell Bubble - Eurobeats Pack (Asia)(En,Ja,Ko,Zh-Hans,Zh-Hant)[0100AE7012B5F00E][v0][DLC].nsp" size="121056" crc="28ba2626" sha1="054a26071dc06c16021e57668990d49676f0acdd" md5="399aa98e87f009be9f8ec11a81048aa1"/>
+		<rom name="DLC/Touhou Spell Bubble - Unknown DLC (World)[0100AE7012B5F029][v2097152][DLC].nsp" size="124112" crc="9bef7844" sha1="f53d3bb2d7c75226507391ea37146685dbaa0a1a" md5="028e2ff02f97a04e0095bb611510762f"/>
+		<rom name="DLC/Touhou Spell Bubble - Unknown DLC (World)[0100AE7012B5F02A][v2097152][DLC].nsp" size="124112" crc="0e91816e" sha1="03a9f5295fbfcda798f0cf3be5b1fd1b971dd59e" md5="6a9fc64b1ba72831acb2b49f6d3ce4c1"/>
+		<rom name="DLC/Touhou Spell Bubble - Unknown DLC (World)[0100AE7012B5F02B][v2097152][DLC].nsp" size="124112" crc="9fa2c71a" sha1="f84af10096f3ac63d18cbcebb3dfb554e8a629a4" md5="1217531cd356322c7acf75112f95cee7"/>
+		<rom name="DLC/Touhou Spell Bubble - Unknown DLC (World)[0100AE7012B5F02C][v2097152][DLC].nsp" size="124112" crc="82799baf" sha1="0431f7bb315a11a521b22426512bc6ee6dbefec4" md5="bda3c24f0e98d8c4107e664c29593343"/>
+		<rom name="DLC/Touhou Spell Bubble - Unknown DLC (World)[0100AE7012B5F02D][v2097152][DLC].nsp" size="124112" crc="83667f63" sha1="8e9b483138b224a009384683b249a33f8c75da2c" md5="88b1b9cdfe3f6ed5647888fb29536f61"/>
+		<rom name="DLC/Touhou Spell Bubble - Unknown DLC (World)[0100AE7012B5F02E][v2097152][DLC].nsp" size="124112" crc="87340a0a" sha1="ae8c93fb838f7474ed0c7158d6bccb419019e672" md5="943103d209fe97eb0903c9d2e4708cf9"/>
+		<rom name="Touhou Spell Bubble (Taiwan, Hong Kong)(En,Ja,Ko,Zh-Hant,Zh-Hans)[4.8.1_A(36)][0100AE7012B5E800][v2359296][UPD].nsp" size="2201616736" crc="d4c2c1f0" sha1="a5a6743bb987eed5baebb110d51fe9f7f242b3b4" md5="4b39d7d2fdb62b5c3225c57cd406fd36"/>
+		<rom name="Touhou Spell Bubble (Taiwan, Hong Kong)(En,Ja,Zh-Hant,Zh-Hans,Ko)[2.2.0_A(0)][0100AE7012B5E000][v0].xci" size="1996488704" crc="00fca59d" sha1="ad92967cb9f685a399247fe0355e6cf868b556e1" md5="3641b4d840a94ae0bf25d8d186149b94"/>
+	</game>
+	<game name="Touhou Spell Bubble (World) [0100E9D00D6C2000]">
+		<description>Touhou Spell Bubble (World) [0100E9D00D6C2000]</description>
+		<rom name="DLC/Touhou Spell Bubble - Akatsuki Records Song Pack (World)(En,Ja)[0100E9D00D6C3011][v0][DLC].nsp" size="121056" crc="b815086c" sha1="f9990835fa390e993529e8736849369eddcdb93f" md5="28b17eb12baab4868a3068efaf027af1"/>
+		<rom name="DLC/Touhou Spell Bubble - Character Pack - Momiji Inubashiri (World)(En,Ja)[0100E9D00D6C302E][v0][DLC].nsp" size="121056" crc="08459592" sha1="3c0526f41a56345c225d9ae70d867a023579513c" md5="fab39c0c153fd0f37a1af82d6c41e63c"/>
+		<rom name="DLC/Touhou Spell Bubble - Character Pack Hata no Kokoro (World)(En,Ja)[0100E9D00D6C301D][v0][DLC].nsp" size="121056" crc="65aad587" sha1="826d65b6ae49866540ac67fa9cc0bf7506ef695e" md5="dd890fe2e07dc90d26eb3cac839177e3"/>
+		<rom name="DLC/Touhou Spell Bubble - Character Pack Hong Meiling (World)(En,Ja)[0100E9D00D6C3026][v0][DLC].nsp" size="121056" crc="f171ee6f" sha1="39e3d7724b5be18fb610d4290ff5cf3220292ce3" md5="6559f0704e9f9f62655658130f675d41"/>
+		<rom name="DLC/Touhou Spell Bubble - Character Pack Kijin Seija (World)(En,Ja)[0100E9D00D6C301E][v0][DLC].nsp" size="121056" crc="e367b0c6" sha1="32bbf64ad78b6f012232d6c14121e063c7c34ff5" md5="d38abcad1335b3c5d93997288027395b"/>
+		<rom name="DLC/Touhou Spell Bubble - Character Pack Moriya Suwako (World)(En,Ja)[0100E9D00D6C3016][v0][DLC].nsp" size="121056" crc="681524e9" sha1="8de1a5e3dfc69925857f29fed52c1764fb9b906c" md5="7c0ebf24f3985b666608f57a55a5dfa0"/>
+		<rom name="DLC/Touhou Spell Bubble - Character Pack Ran Yakumo (World)(En,Ja)[0100E9D00D6C3029][v0][DLC].nsp" size="121056" crc="0f8273ad" sha1="907fd1f500406da80da4fe267628909eabb6cb53" md5="a3aec4d5c1d4598ee0dc7ba4791f30a3"/>
+		<rom name="DLC/Touhou Spell Bubble - Character Pack Rumia (World)(En,Ja)[0100E9D00D6C3022][v0][DLC].nsp" size="121056" crc="e20e3fc8" sha1="3d24318e9c868c397fd7dcd3d89dfd5f3b0eb6b9" md5="397ed6ba0263cb3b5885b7a1894f2fd4"/>
+		<rom name="DLC/Touhou Spell Bubble - Character Pack Shikieiki Yamaxanadu (World)(En,Ja)[0100E9D00D6C302C][v0][DLC].nsp" size="121056" crc="3a8cec8d" sha1="e8755cef40bb3ce317b857d8b20c878588ff76f2" md5="2a95e5285fbb41c0975f3ca07f6f7457"/>
+		<rom name="DLC/Touhou Spell Bubble - Character Pack Tatara Kogasa (World)(En,Ja)[0100E9D00D6C301B][v0][DLC].nsp" size="121056" crc="33684798" sha1="9de47631cb0b27a8f598071e16a456974ec65bc4" md5="1455de7813f82b61aca6837f22938bcb"/>
+		<rom name="DLC/Touhou Spell Bubble - Character Pack Tomosatomimi no Miko (World)(En,Ja)[0100E9D00D6C3020][v0][DLC].nsp" size="121056" crc="b5b21aa1" sha1="5930c7d9d1c8fa53d529eed425e4bf6855c42265" md5="2e72167b32de6461a32b17810f08c1f5"/>
+		<rom name="DLC/Touhou Spell Bubble - Diao ye zong Song Pack (World)(En,Ja)[0100E9D00D6C3013][v0][DLC].nsp" size="121056" crc="40b21c7d" sha1="1066e039562c6b6dea4b7add16423ddddc197bda" md5="9c2fa17c03e97ce21a46b48824160d15"/>
+		<rom name="DLC/Touhou Spell Bubble - Flandre Scarlet Gakkyoku Pack (World)(En,Ja)[0100E9D00D6C302A][v0][DLC].nsp" size="121056" crc="b35a30c2" sha1="dc236647de2940faefdd4a6dab9cabc3774cdad4" md5="8d68566b2922b1ad3462157033fa70dc"/>
+		<rom name="DLC/Touhou Spell Bubble - Gensokyo Holoism Pack (World)(En,Ja)[0100E9D00D6C3005][v0][DLC].nsp" size="121056" crc="ff4f777f" sha1="437bd05c9c19cbcc692cb6e3905b5c0b0d2bc068" md5="1980438db75895b6fb9bff13a204ee07"/>
+		<rom name="DLC/Touhou Spell Bubble - Liz Triangle Song Pack (World)(En,Ja)[0100E9D00D6C3018][v0][DLC].nsp" size="121056" crc="a6a8111a" sha1="82cfb9020ede64683fbdbc59fc864c37808bc72a" md5="902d5f8ca9e3b6d18f50fcb037341ec6"/>
+		<rom name="DLC/Touhou Spell Bubble - Marisa Kirisame Song Pack (World)(En,Ja)[0100E9D00D6C302F][v0][DLC].nsp" size="121056" crc="a4189b87" sha1="98c7be2589fb2ca8b5f8ec8277cff30ec5b3a105" md5="3fce509a078dfe744254acbda30e2e28"/>
+		<rom name="DLC/Touhou Spell Bubble - Reimu Hakurei Music Pack (World)(En,Ja)[0100E9D00D6C3031][v0][DLC].nsp" size="121056" crc="1ff0029e" sha1="e8f5e4a11b4456f5592bcdd70b1dfb846807051b" md5="c3149bfde06b3e5b510a1cfcbe5231fc"/>
+		<rom name="DLC/Touhou Spell Bubble - Remilia Scarlet Music Pack (World)(En,Ja)[0100E9D00D6C302D][v0][DLC].nsp" size="121056" crc="ab8df462" sha1="6c6d8b50df9cbda85bf4309ff010e21ed4c73d5c" md5="e35e4879c771db879443e64150a6ebe4"/>
+		<rom name="DLC/Touhou Spell Bubble - Rhythm Game Song Pack (World)(En,Ja)[0100E9D00D6C3019][v0][DLC].nsp" size="121056" crc="5003c03b" sha1="3dfec0746f0d72d8efc23804129c0c39a9c81013" md5="940781557d01f8452fdd2e82837cba84"/>
+		<rom name="DLC/Touhou Spell Bubble - Rhythm Game Song Pack Vol 2 (World)(En,Ja)[0100E9D00D6C3021][v0][DLC].nsp" size="121056" crc="c0f07782" sha1="6ac815b0272b473adf46c47810f607dba00e2328" md5="bf0f8266be94b8fc51cee657b616721f"/>
+		<rom name="DLC/Touhou Spell Bubble - Scarlet Devil Land Arrange Pack Vol 2 (World)(En,Ja)[0100E9D00D6C301A][v0][DLC].nsp" size="121056" crc="25f2a809" sha1="ced9afdeffbdd09f5119e34110492f69470163f0" md5="fd038cdb298c4ff92033bff81bd58666"/>
+		<rom name="DLC/Touhou Spell Bubble - Scarlet Devil Land Song Pack (World)(En,Ja)[0100E9D00D6C3002][v0][DLC].nsp" size="121056" crc="f034475d" sha1="444dc7cbe1352de6190ae74f0c51691a2831ca46" md5="059ee5945cd89b95405036a176c2315e"/>
+		<rom name="DLC/Touhou Spell Bubble - Shinra-Bansho Music Pack (World)(En,Ja)[0100E9D00D6C3003][v0][DLC].nsp" size="121056" crc="7afa8158" sha1="54bbfb86c9c3396d4c739c7a54873a8ed6871c2d" md5="a1c47908a17f5d21eb87d7e7baac36a1"/>
+		<rom name="DLC/Touhou Spell Bubble - Side Story Pack Cirno Arc (World)(En,Ja)[0100E9D00D6C3004][v0][DLC].nsp" size="121056" crc="ea607a97" sha1="624e2d98b4f2b48ad4032b0a530adc7deb24505a" md5="11b57ac68c8c25b874b38f02c9bb6a2f"/>
+		<rom name="DLC/Touhou Spell Bubble - Side Story Pack Sanae Arc (World)(En,Ja)[0100E9D00D6C3008][v0][DLC].nsp" size="121056" crc="c6dff1de" sha1="9e92edf88def00896975e52087607dd73a6af076" md5="55314fc99651c7e45f48e05eeae308ee"/>
+		<rom name="DLC/Touhou Spell Bubble - Side Story Pack Yukari Arc (World)(En,Ja)[0100E9D00D6C300B][v0][DLC].nsp" size="121056" crc="9c8aed77" sha1="74816c414e2ecd92eb2fd8bdfd389141e7d5cac5" md5="dac940a2eb97862a951f32df8cd72e57"/>
+		<rom name="DLC/Touhou Spell Bubble - Sound Holic Song Pack (World)(En,Ja)[0100E9D00D6C301F][v0][DLC].nsp" size="121056" crc="184f8ee2" sha1="63b79bad3c6f01b3543275277dfe19885f4480c7" md5="735e269543459d99f275b85502349098"/>
+		<rom name="DLC/Touhou Spell Bubble - Special Music Pack Vol 2 (World)(En,Ja)[0100E9D00D6C3006][v0][DLC].nsp" size="121056" crc="5017cde6" sha1="175b7b2efd82711eb85a9af00f705a729e8e3694" md5="693ef03805be23e30f92aaf9fbfe3d6f"/>
+		<rom name="DLC/Touhou Spell Bubble - Special Music Pack Vol 3 (World)(En,Ja)[0100E9D00D6C300A][v0][DLC].nsp" size="121056" crc="f142f151" sha1="90064ef47c46eb5d528c2dbfcce852b58dc69d31" md5="2ebe5b72aec65eb6733ebe0b835771f9"/>
+		<rom name="DLC/Touhou Spell Bubble - Special Music Pack Vol 4 (World)(En,Ja)[0100E9D00D6C300D][v0][DLC].nsp" size="121056" crc="f45ba417" sha1="051a750d325b9238ad5d0c3c53d343110d2b1f62" md5="b9e9aa716c9c7131d901f4c5b81a37ea"/>
+		<rom name="DLC/Touhou Spell Bubble - Special Music Pack Vol 5 (World)(En,Ja)[0100E9D00D6C3012][v0][DLC].nsp" size="121056" crc="d5ec80df" sha1="6a24fa398e01c664e1b2295654cf6b4c5abe305e" md5="6260849b84547e8be491568dd1795b43"/>
+		<rom name="DLC/Touhou Spell Bubble - Special Song Pack Vol 1 (World)(En,Ja)[0100E9D00D6C3001][v0][DLC].nsp" size="121056" crc="267e9595" sha1="612a9b65dd0601db8f77294d0b3b9ed570c586e5" md5="7d19f54ad4c4ec64e581981c819b5704"/>
+		<rom name="DLC/Touhou Spell Bubble - TamaOnSen Song Pack (World)(En,Ja)[0100E9D00D6C3015][v0][DLC].nsp" size="121056" crc="8e600267" sha1="06de5aac18e53cec34fcc77b828bc225fbfef0f4" md5="f62391841404056bbe3a9323ea7fb857"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Chireiden Arrangements Pack (World)(En,Ja)[0100E9D00D6C3014][v0][DLC].nsp" size="121056" crc="e3ab89ff" sha1="dc3c407fde78194243bbf2d273afd9360d02270d" md5="470b57309621906c0007eb01d96b6950"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Collaborations Pack (World)(En,Ja)[0100E9D00D6C3010][v0][DLC].nsp" size="121056" crc="68da0007" sha1="2acbba522f0413d1f02b2a70494c7dc663c3a2a7" md5="b1c1c81085cc6540789655361fbb0c27"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Eiyashou Arrange Pack Vol. 2 (World)(En,Ja)[0100E9D00D6C302B][v0][DLC].nsp" size="121056" crc="c8f24556" sha1="06049a43814ff268a8a273cf57710e6380e46eac" md5="fa386f0593c851c5f87ff96be0b998ba"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Eiyashou Arrangements Pack (World)(En,Ja)[0100E9D00D6C300C][v0][DLC].nsp" size="121056" crc="fa7121fe" sha1="4033b8f80bcc7e4599c7b52b5e2a29f4228addd9" md5="87ccbfa9fdbd6af4285321fea348606a"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Eurobeat Pack (World)(En,Ja)[0100E9D00D6C300E][v0][DLC].nsp" size="121056" crc="c4076410" sha1="1ff2564a4974d48ba1efd315b3591b132e0f1055" md5="98c1c7cece36121ba2282cf2cdd1b1b4"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Eurobeat Pack Vol 2 (World)(En,Ja)[0100E9D00D6C3017][v0][DLC].nsp" size="121056" crc="9ec0fb07" sha1="226490da3e611a7be718935e26033c2a0dc6c356" md5="78965af58b6b2e2306a7499900d17ac5"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Fujinroku Arrangements Pack (World)(En,Ja)[0100E9D00D6C300F][v0][DLC].nsp" size="121056" crc="60dc270b" sha1="8995019e7e791b12845874823bae18bfa940b217" md5="4d8e3cf830ad62476a2fed56c3bc91d3"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou LostWord Gakkyoku Pack (World)(En,Ja)[0100E9D00D6C3023][v0][DLC].nsp" size="121056" crc="c11cf992" sha1="454b164e1011ae81582d5997eaa0ca1066638799" md5="3eeb4302148778d160139c982ba4a604"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou LostWord Music Pack Vol 2 (World)(En,Ja)[0100E9D00D6C3027][v0][DLC].nsp" size="121056" crc="ed30c8a0" sha1="ee4df42fd9ab90a123ab4dd92fc5198b90391acc" md5="0dbb40cec00c8d7fdbad61abd431b6a3"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Seirensen Arrange Pack (World)(En,Ja)[0100E9D00D6C301C][v0][DLC].nsp" size="121056" crc="37da38a4" sha1="050d7641052752753130bac3c5a5447d80254167" md5="9ca5210893538c77664fd785a04c3070"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Shinreibyou Arrange Pack (World)(En,Ja)[0100E9D00D6C3025][v0][DLC].nsp" size="121056" crc="4b9b14f2" sha1="32d1bc62b9c08d3bbbbf58f815563562b4927608" md5="4c617ab06b3137745e761c9b0ac7dfe6"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Youyoumu Arrange Pack Vol 2 (World)(En,Ja)[0100E9D00D6C3024][v0][DLC].nsp" size="121056" crc="3e3c3222" sha1="acb25f5f2a1f81e197f704b3099bfc00dffe4d94" md5="1ea8a63738e5350c278bd111fd6afc60"/>
+		<rom name="DLC/Touhou Spell Bubble - Touhou Youyoumu Arrangements Pack (World)(En,Ja)[0100E9D00D6C3009][v0][DLC].nsp" size="121056" crc="018860d9" sha1="a19a48110dcd4f074249c64ee0844d95ce400186" md5="62af7ba52914ea35858747af329eaba4"/>
+		<rom name="DLC/Touhou Spell Bubble - Unknown (World)(En,Ja)[0100E9D00D6C3030][v0][DLC].nsp" size="121056" crc="be9ed760" sha1="7544d03e950d8c1e13bd0078bd0de6f9c48d20a4" md5="e9cf8a3758958dc87eb8478fe3400b3c"/>
+		<rom name="DLC/Touhou Spell Bubble - Yuuhei Satellite Music Pack (World)(En,Ja)[0100E9D00D6C3007][v0][DLC].nsp" size="121056" crc="c89b4b0b" sha1="a43756796e01c675a7ad6a820361a436dcd88ba7" md5="c8039c8326527d5f195455df13c9ef28"/>
+		<rom name="DLC/Touhou Spell Bubble - Zuntata Music Pack (World)(En,Ja)[0100E9D00D6C3028][v0][DLC].nsp" size="121056" crc="a6b52ad9" sha1="673354a88e9b95b952b5d35c0a3d8a952724fcf7" md5="c3baf1af53b6b8f1048068b5e6fb867e"/>
+		<rom name="Touhou Spell Bubble (World)(En,Ja)[4.8.1(47)][0100E9D00D6C2800][v3080192][UPD].nsp" size="2421868384" crc="a6fb5d65" sha1="945e7325e23039eece7865f4c6407fcfe50e7cec" md5="3a7affeceff1246ab895cf8354dd4a9b"/>
+		<rom name="Touhou Spell Bubble (World)(Ja)[1.0.0(0)][0100E9D00D6C2000][v0][BASE].nsp" size="649480032" crc="f2cda97d" sha1="ba7006470737cb08dfd5095c2174dfba756fd6c4" md5="cc7f650b5c5f764b201ebff6e9d031b5"/>
+	</game>
+	<game name="Touhou Spell Carnival (Japan) [0100B3901CB14000]">
+		<description>Touhou Spell Carnival (Japan) [0100B3901CB14000]</description>
+		<rom name="Touhou Spell Carnival (Japan)(Ja)[1.0.3][0100B3901CB14800][v196608][UPD].nsp" size="300701536" crc="ac7f7532" sha1="2b4060d7bb422ce00c90710445d3217ca12ecda7" md5="14a36bb5a072961e404c8bc18e3dac9e"/>
+		<rom name="Touhou Spell Carnival (Japan)[v1.0.0][0100B3901CB14000][v0].xci" size="3992977408" crc="1bf17e53" sha1="07acb474a7d56d658df15872b0453a75836b6e4a" md5="47f85c4632cc9538a39e3ceab705e73c"/>
+	</game>
+	<game name="Touhou Spell Carnival (USA) [01005C601EE64000]">
+		<description>Touhou Spell Carnival (USA) [01005C601EE64000]</description>
+		<rom name="DLC/Touhou Spell Carnival - Gensokyo Safe Adventure Pack [01005C601EE65001][v0][DLC].nsp" size="124112" crc="3d164f8a" sha1="b993c5b90bf51b4965debf0baa57aac84defe89e" md5="1d2972f186883d17fbe44d929266234a"/>
+		<rom name="Touhou Spell Carnival (USA) (En,Fr,Es) [v0][01005C601EE64000][v0].xci" size="3992977408" crc="c1c62526" sha1="757f41e02b2cf230986873ecdf3007c486f1f33e" md5="d475d297fcce0b44e126261d8ebc46ae"/>
+	</game>
+</datafile>

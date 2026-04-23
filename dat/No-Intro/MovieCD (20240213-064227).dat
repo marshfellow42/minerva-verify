@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>396</id>
+		<name>MovieCD</name>
+		<description>MovieCD</description>
+		<subset>Non-Game</subset>
+		<version>20240213-064227</version>
+		<author>Aringon, Intothisworld, NovaAurora</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Dominion Tank Police Part 1 (Contains Acts I &amp; II) (USA) (Disc 1)" id="0003">
+		<category>Video</category>
+		<description>Animation, Comics, Television</description>
+		<rom name="Dominion Tank Police Part 1 (Contains Acts I &amp; II) (USA) (Disc 1).cue" size="131" crc="b8d1bb9b" sha1="517d9f6ffbc857e4ec05c1d720583b12e773820a"/>
+		<rom name="Dominion Tank Police Part 1 (Contains Acts I &amp; II) (USA) (Disc 1).bin" size="732603312" crc="a9246bb5" md5="947cd69e253419a561a902427ba8e84c" sha1="54f6d75d3475ba7ef36fd0bda3a3777c8d37ea60"/>
+	</game>
+	<game name="Dominion Tank Police Part 1 (Contains Acts I &amp; II) (USA) (Disc 2)" id="0004">
+		<category>Video</category>
+		<description>Animation, Comics, Television</description>
+		<rom name="Dominion Tank Police Part 1 (Contains Acts I &amp; II) (USA) (Disc 2).cue" size="131" crc="b98c9d4a" sha1="8a1a9692c6911edf7e7e988aa319824269c7035a"/>
+		<rom name="Dominion Tank Police Part 1 (Contains Acts I &amp; II) (USA) (Disc 2).bin" size="505797600" crc="1e3eccf8" md5="42e033b15919e2a5f02858b90b9ccedc" sha1="64a341c96f3e45fb1d0d85ccb8818035b0747f61"/>
+	</game>
+	<game name="Ghost in the Shell (USA) (Disc 1)" id="0001">
+		<category>Video</category>
+		<description>Animation, Comics, Films</description>
+		<rom name="Ghost in the Shell (USA) (Disc 1).cue" size="99" crc="d5634e16" sha1="f9c61bc551fe6ca2f78e4af87ae8cb798d107f49"/>
+		<rom name="Ghost in the Shell (USA) (Disc 1).bin" size="781404960" crc="a286d97e" md5="9f4b0a10ff1e8204b25fc5f515ebdff3" sha1="72235fcfc784d60f93a138cb03fb9f37c45e06b1"/>
+	</game>
+	<game name="Ghost in the Shell (USA) (Disc 2)" id="0002">
+		<category>Video</category>
+		<description>Animation, Comics, Films</description>
+		<rom name="Ghost in the Shell (USA) (Disc 2).cue" size="99" crc="d43e68c7" sha1="674180fcdf86f2d43cf35e4e1368cf70ce3549d4"/>
+		<rom name="Ghost in the Shell (USA) (Disc 2).bin" size="561351840" crc="2233aa87" md5="3242b9ee07ec341eaccbcc8e88ecc21d" sha1="5168f3cb26e5e897a0b1560ea29cdb40fb58d984"/>
+	</game>
+</datafile>

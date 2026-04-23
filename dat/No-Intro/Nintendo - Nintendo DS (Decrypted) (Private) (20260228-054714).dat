@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>28</id>
+		<name>Nintendo - Nintendo DS (Decrypted) (Private)</name>
+		<description>Nintendo - Nintendo DS (Decrypted) (Private)</description>
+		<version>20260228-054714</version>
+		<author>aci68, ajshell1, Arctic Circle System, Aringon, asapy, Baronluigi, Bent, buckwheat, C. V. Reynolds, chillerecke, Connie, coraz, darthcloud, Datman, DeadSkullzJr, Densetsu, DeriLoko3, diego-rbb, DirkDagger, einstein95, Flashfire42, Fonix, fuzzball, Gefflon, Hiccup, hydr0x, iAmGhost, Icyelut, InternalLoss, Jhon591, jimmsu, Just001Kim, kazumi213, Kirtai, leekindo, Lesserkuma, Liam, MaxG, MeguCocoa, michal99, MisterSheeple, Money_114, Mr.K, NGEfreak, nhlay, niemand, nnssxx, NovaAurora, number, NWPlayer123, omonim2007, Powerpuff, PPLToast, Prominos, Psychofox11, psykopat, rarenight, relax, RetroGamer, Rifu, root, scorp256, Sir VG, SonGoku, Tauwasser, TBemme, Tescu, ToeKnee, togemet2, Tori, u53r123, ufocrossing, UnlockerPT, Vallaine01, Vigi, Whovian9369, Xenirina, xprism, xuom2, zg</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Cult of Remute Portable, The (World) (Aftermarket) (Unl)" id="z351">
+		<category>Miscellaneous</category>
+		<description>Cult of Remute Portable, The (World) (Aftermarket) (Unl)</description>
+		<rom name="Cult of Remute Portable, The (World) (Aftermarket) (Unl).nds" size="231187456" crc="5dd72030" md5="462890b0a3a4e21ba1b7152109652cf8" sha1="191cb5e8fe7ca9699dfb946106ea84049657e347" sha256="3dd79d251cfabfe63d420b8b70845b9d0f6217d926db19ae10f303b4286558b9" status="verified" serial="####"/>
+	</game>
+	<game name="Remute - Digital Bubblebath (World) (Aftermarket) (Unl)" id="z586">
+		<category>Audio</category>
+		<description>Remute - Digital Bubblebath (World) (Aftermarket) (Unl)</description>
+		<rom name="Remute - Digital Bubblebath (World) (Aftermarket) (Unl).nds" size="532653056" crc="8f994a2f" md5="b31c9e137d1e101df8b6203ad22b5e62" sha1="56d6e1ae25dd068f61cab90c821da842650ed500" sha256="88ef3e6068188c74af2fd3ddba29e5cdf2062af13ecf5e2031216497c0573303" status="verified"/>
+	</game>
+</datafile>

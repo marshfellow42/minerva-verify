@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>120</id>
+		<name>IBM - PC and Compatibles (Digital) (Microsoft Store)</name>
+		<description>IBM - PC and Compatibles (Digital) (Microsoft Store)</description>
+		<version>20220516-185828</version>
+		<author>Hiccup, MisterSheeple</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Minecraft (World) (v1.17.3023.0) (Beta, Debug) (64-bit)" id="0002">
+		<description>Minecraft (World) (v1.17.3023.0) (Beta, Debug) (64-bit)</description>
+		<rom name="certificate.cer" size="1456" crc="f8ee27a5" md5="69e0d2fa69e2e85b967647fbfb9a265d" sha1="51bef46e5163b0f513bacb90eb2e8114627ec366" sha256="364bf2e1912831315839dd5887d23b5b5e207522e9d65759f5fb645dff02c948"/>
+		<rom name="Minecraft.Windows_1.17.3023.0_x64.appx" size="628711266" crc="0f29b8dc" md5="4a984128d13e426e90cfc313f5bac487" sha1="ea314535525ce1ca2de7c7074e8464e782fa835d" sha256="6b375b6bd6ad9b478501df721e44b056710dd19544cba87c1d3ec44212d2059e"/>
+	</game>
+	<game name="Minecraft (World) (v1.16.0.51) (Beta, Debug) (64-bit)" id="0001" cloneofid="0002">
+		<description>Minecraft (World) (v1.16.0.51) (Beta, Debug) (64-bit)</description>
+		<rom name="certificate.cer" size="1133" crc="84e8abfa" md5="de7786175385bc72e4577beb401ef559" sha1="0f968328edd435867eab2abe608b09e781a6611c" sha256="05328562659b36ad1e942fea6a060229342bec258f8e17dea39ec2feb3892020"/>
+		<rom name="Minecraft.Windows.DEBUG.appx" size="237442585" crc="0df78e3c" md5="94593c72fd9d7065f92b36baada7bf61" sha1="a3fe61b7661a6fdc8e0f1b539916b7276e368bb5" sha256="d7146cebd2b9e25784991366602079b1ea397ea023f674c733587b881ea522d9"/>
+	</game>
+	<game name="Minecraft (World) (v1.18.3004.0) (Beta, Debug) (64-bit)" id="0003">
+		<description>Minecraft (World) (v1.18.3004.0) (Beta, Debug) (64-bit)</description>
+		<rom name="Minecraft.Windows_1.18.3004.0_x64.appx" size="835321934" crc="30800245" md5="8f35765bf00ee64ea0ab62b2c98b0366" sha1="6d9ceba946440319080ad36614e3399e4871906c" sha256="6528e77b1109b800f1a9c5a0ba7fba3ddecdf9d32e13a704d08960a5595237aa" date="2022-05-08"/>
+		<rom name="certificate.cer" size="1456" crc="f8ee27a5" md5="69e0d2fa69e2e85b967647fbfb9a265d" sha1="51bef46e5163b0f513bacb90eb2e8114627ec366" sha256="364bf2e1912831315839dd5887d23b5b5e207522e9d65759f5fb645dff02c948"/>
+	</game>
+</datafile>

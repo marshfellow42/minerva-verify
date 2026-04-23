@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>182</id>
+		<name>IBM - PC and Compatibles (Digital) (FANZA) (Doujin)</name>
+		<description>IBM - PC and Compatibles (Digital) (FANZA) (Doujin)</description>
+		<version>20230901-012035</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Fashion Komyushou-kun to Business Bocchi-chan (World) (Ja) (v1.1.1) (Windows)" id="0005">
+		<description>Fashion Komyushou-kun to Business Bocchi-chan (World) (Ja) (v1.1.1) (Windows)</description>
+		<game_id>d_202251</game_id>
+		<rom name="d_202251.zip" size="346618905" crc="1fb4a890" md5="27bd8d287d78cb1ab867317d3026f716" sha1="f90be96d2309f6b5539760fe30b89df1b79bd7b9" sha256="2fa11c6001b2ce4af163792666fc6638d4f1307324dee737a888b54dfa3af653"/>
+	</game>
+</datafile>

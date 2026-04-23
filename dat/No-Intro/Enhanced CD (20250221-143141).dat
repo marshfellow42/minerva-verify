@@ -1,0 +1,755 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>338</id>
+		<name>Enhanced CD</name>
+		<description>Enhanced CD</description>
+		<subset>Non-Game</subset>
+		<version>20250221-143141</version>
+		<author>bikerspade, HeroponRIkiBestest, Intothisworld</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Alice in Chains - Nothing Safe - The Best of the Box (USA)" id="0011">
+		<category>Audio</category>
+		<category>Multimedia</category>
+		<description>Multimedia, Music</description>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA).cue" size="3665" crc="cdd42368" sha1="6a4ccd7600805576fc569aebd6d5f8f60521f530"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 00.1).bin" size="115248" crc="c9526dd3" md5="0b1ac99ab4d7e104ea5e25876f80693b" sha1="474c822e41f64ecfe82a939497b95f2c0d2f809c"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 01).bin" size="57659280" crc="73270989" md5="bc9772dc7f4b830e0489f7888f8954cb" sha1="52d19e8bd4076e33415267d17c240a2a56232037"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 02).bin" size="25747344" crc="55262003" md5="a3dd4d972ebe9392ed643475ec71bce7" sha1="c7eeb4f82559ed4b27cd331bad92e443998ba64f"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 03).bin" size="50509200" crc="913ea53c" md5="3b0439a828d6da3cca9b4e4d428a6fae" sha1="51f26b7662df1f2a6c4a75ce0786c86dff371270"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 04).bin" size="26572896" crc="afe10ff5" md5="e0bce29a8f90ca72017899df22fd6ccf" sha1="f7a00cfca0b4404562d4f6d31522520e93917096"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 05).bin" size="7796880" crc="94245a35" md5="223d616050773e668379195e3f1c7284" sha1="955464e966a4a1f3cf23c0fc80cf7caa1f0faebf"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 06).bin" size="50779680" crc="6ea73dcd" md5="2b0eef8ec3db79da71526357ffd5b894" sha1="5fa1f3445994e56084538c06d8aec585255c589d"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 07).bin" size="59592624" crc="866c6405" md5="0e9c49a9cb0b039496e224847518208c" sha1="30f204e1a295bdd690d311d7b416480621126b78"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 08).bin" size="73013136" crc="f7f8c5a0" md5="6dbb40b87a332ce727b010ddb380ef51" sha1="a56e1ebb70707c6f23ae74c50e095c70f6c32bbd"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 09).bin" size="46491984" crc="db1190f5" md5="15f6cca02b1b91c6c521598816d2a957" sha1="440d349a412a4b062e2f404f543907ed3b88f5a1"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 10).bin" size="45271296" crc="15d2e3e3" md5="30972f8ae728ae07c680b1ab3074370d" sha1="7e41a22965eb2d476e39fcfe88b65600cdd6d7df"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 11).bin" size="44793840" crc="05c3e764" md5="b5d8328d498443a35f30e3112b4c4871" sha1="e988a2d9d2d76e241eb08e3023c7693fb0255d97"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 12).bin" size="41976144" crc="54499290" md5="46f3a13dc9e81db583734b0be0b024a0" sha1="921c312364784fa91d4814de823cb86b536ec0e8"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 13).bin" size="50497440" crc="cfc2f07e" md5="33e2a523e711aea6cc559c57e6fb8acf" sha1="13218557a26f827aaf13e5f4bc2db60cf77327fa"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 14).bin" size="43542576" crc="4be37f68" md5="1a8a164975a1c9396d6f9f1bbcbd06a3" sha1="6838ffba18c6f5f3c1e401636fee01f764692f12"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 15).bin" size="37142784" crc="e92a6d4a" md5="7f6d99dc75d2dc475711a5f8ee788aba" sha1="04b304135a261b551b35d71e326d1a4bc8af445a"/>
+		<rom name="Alice in Chains - Nothing Safe - The Best of the Box (USA) (Track 16).bin" size="32706912" crc="386e7f45" md5="465ae8be47b01f2c98806d45acce9bbf" sha1="0b3f09c5f4b057bcde4095610aec2455dfcc4206"/>
+	</game>
+	<game name="Beatles, The - Abbey Road (USA)" id="0003">
+		<category>Audio</category>
+		<description>Documentaries, Music</description>
+		<rom name="Beatles, The - Abbey Road (USA).cue" size="2601" crc="368604f8" sha1="025c114e9a357cc18b0612b9def2d051c2b7aac9"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 01).bin" size="45553536" crc="7ba836af" md5="7711c6b2a16bf4b4b6424ec84a494f04" sha1="73fb05ea17cb7319de748330efdc487a1b14ccfb"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 02).bin" size="32285904" crc="68d32ab6" md5="3a0caa0aee91555081c7e2fffe738778" sha1="66bb2625b95a5f6ab1d8bdb2954600eed2073163"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 03).bin" size="36606528" crc="81773136" md5="1e38efd6f00d36a33755985a2850201d" sha1="ea2d90306cb4a427a9eddd29f379cce585411806"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 04).bin" size="36775872" crc="b7b1c5e4" md5="99881dece04c812972cc7f3934d6c59b" sha1="353ea0920f8169c2d52af8507a262010fbdab678"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 05).bin" size="29898624" crc="c9127bf5" md5="f3220759243fc995469a6a55de2c96a3" sha1="5f2fee9b4586cacb314754383c5407ec4e5cf569"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 06).bin" size="82428192" crc="dd53d94e" md5="e4ae3879b0dfaa1538088f2263f107de" sha1="82a9422dc06aee5fc778a9794d27cf47272d7d89"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 07).bin" size="32859792" crc="a9828bba" md5="4ce967b20cf3236b6eb9224d0c8ea54d" sha1="ac916b5b3dc1c06ea43003150c9e0666a9839997"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 08).bin" size="29355312" crc="a80cfbf4" md5="cfbbf653a43605f39bd42b17837617d4" sha1="464efdcff6ececfbe1366c8298ea1e96dc53878a"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 09).bin" size="42879312" crc="2c5b8b76" md5="13307d39c4051a696c088867adf67d57" sha1="1935b6757948a32b4495c9a2f96ab44dabc19cf3"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 10).bin" size="25801440" crc="a821202d" md5="d6fee7700d7d53484b5902a720580ce5" sha1="f285615d3d47294045fb968662c6b9afbb4a7a07"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 11).bin" size="11736480" crc="7edc6cac" md5="6f56e1cb8878229a1d322eccdac1ac4e" sha1="81f62a47b1986708bdd3f449155d97f441cc1823"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 12).bin" size="12813696" crc="91152d50" md5="7afee4caaba1968d2f68f0bfc51db5bb" sha1="083857e21614203a9f1c416d2f654c2690064233"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 13).bin" size="20786976" crc="2b6b011f" md5="8c29ed6e9da838e3899436fb3df339bc" sha1="44171347919d3729e284a84d1e0a7f7e8b4e55a4"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 14).bin" size="16325232" crc="bc0aab71" md5="5ea1a29f8504ba126c71284c1e2a3522" sha1="12e694181ae578d895fe67f70127f55df3dd4cbb"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 15).bin" size="17016720" crc="a0642423" md5="9de9a89879576cd8519733661de6774a" sha1="0969c975f318cc1d62e04f5180ccb0031e24a313"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 16).bin" size="22348704" crc="64c1faba" md5="f13dc32f54acbb715fe26737ed6f4ecd" sha1="2ebed4e15fce79a144950de8ded2abdfab9dac83"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 17).bin" size="7215936" crc="c9aed175" md5="b0e0fac6046aeaf7401b420bd1fdd50b" sha1="c705342ce512ef95dc144f0728fda643f1b995e3"/>
+		<rom name="Beatles, The - Abbey Road (USA) (Track 18).bin" size="261384816" crc="3c4eb92d" md5="aae654639c061b30511c719613e42580" sha1="86f429c1d0f292ddaa21a61184b90f89daf7d83b"/>
+	</game>
+	<game name="Beatles, The - Rubber Soul (USA)" id="0001">
+		<category>Audio</category>
+		<description>Documentaries, Music</description>
+		<rom name="Beatles, The - Rubber Soul (USA).cue" size="2307" crc="403b8da3" sha1="6df78a4a6d2ed429f9d8ee2293fe300017c0ce1b"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 01).bin" size="26262432" crc="32a1ef9c" md5="511e4d39c0d8fa37dec9d3e72e56caef" sha1="46626d2abbd5f30d0a89200d5aeb2b8b616e9270" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 02).bin" size="21873600" crc="1c83e39b" md5="f3ceb17256e9f387a36cc9084c55968b" sha1="4f03e0a37ca2d6a4c70f31ddb8ea8536f68f2bbc" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 03).bin" size="35294112" crc="f9fc6354" md5="027b454a9cd5020f1def87c299f15127" sha1="d63f502cb0019a898f85198a0f3a82b423dd1e67" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 04).bin" size="28710864" crc="d22450e5" md5="b63909ea28b8c62b1c0fc93cbf92adb8" sha1="57cbe8c26656548421ad3bbfb9b746cacedcc503" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 05).bin" size="24583104" crc="ee3ffe23" md5="f9e960a7897018dec0f1010804d4f640" sha1="5353902bc8f8a5a0576950631f7154a8ea4d937c" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 06).bin" size="28717920" crc="09bf1a47" md5="95be18e6694729d69f549a8cb4353215" sha1="bb050d7521d2648149d9a3497943be4ab6d65c30" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 07).bin" size="28588560" crc="2bcde032" md5="66d7bdcf803ee2cff971d8980dbdebf6" sha1="e988124bd35d47cd4d253bcb615d6e6647e3ebba" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 08).bin" size="29736336" crc="7dfdc3e8" md5="a808eb18117f4704a49b59ccfbfdb2d6" sha1="511128dbd3d9f1b7aee3de28712c9b5d4f32c34c" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 09).bin" size="26859840" crc="ce399e23" md5="744508b9631d80aa9003eb3d190dea44" sha1="879b9c85b3fd914d91618434fce2bbd6aab9d449" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 10).bin" size="25827312" crc="d9e84358" md5="32bcc0cb976e7d92111962a669edeffb" sha1="2f3bd07e8e027c06aa8f32378c81615b954613d4" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 11).bin" size="25740288" crc="1260c7fe" md5="0786b63dfe123ab9b4ea138ae995dd3e" sha1="8670c8cdaba7bbb2c7ed862b12de0d79445b0b69" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 12).bin" size="23684640" crc="1807c6c5" md5="5ffaf9caa050ed14fff6254730f55262" sha1="06677d7f33b363e40458677a62926d5872173b53" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 13).bin" size="25225200" crc="c6942abd" md5="f41bdb5ae0f9bb85849c074fc558fe81" sha1="83de9fa778a88a4b750f13241ea9900ac299eed9" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 14).bin" size="25039392" crc="150e8fc7" md5="11b8a99641cfe965376fe64bf79d236c" sha1="967053139d3605f65f8d493f709f36ec00443d3d" status="verified"/>
+		<rom name="Beatles, The - Rubber Soul (USA) (Track 15).bin" size="246976464" crc="7ed02e45" md5="f04241351fae840275e83cd60cbf7097" sha1="d1bc6eafee6d12a22fd34e72e27a62a36c12bc14" status="verified"/>
+	</game>
+	<game name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA)" id="0004">
+		<category>Audio</category>
+		<description>Documentaries, Music</description>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA).cue" size="2291" crc="26eeec60" sha1="02f32cce792e93ff7fab9addbd8c0c0e6f1ff2aa"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 01).bin" size="21678384" crc="3f80e2dd" md5="bb700367ebb3ba83f0838e89b76af54c" sha1="a729333a5711f9139b654743ad5a833fda3c5f10"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 02).bin" size="28948416" crc="e8900fc4" md5="648d77258133b28662df903ed308530d" sha1="24282d90964fd4c5d2d8068079a006edfe9bb03c"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 03).bin" size="36721776" crc="2dc8e9ff" md5="a43257f1c89d9e5445748c5a74fb8643" sha1="e1195234a52c6c0a80ce3df0b015b797abb199f3"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 04).bin" size="29708112" crc="54e591d6" md5="dfea333f5d3dff419c35ec835c632ee6" sha1="079b191d20d9cc434d81b9b0f6e01513e5431212"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 05).bin" size="27664224" crc="cfcd57bc" md5="b7ccdb9e8ae20f2f8d1827421d6c17c5" sha1="959eb6c7a6ca6b991a4f9601b553f9b0bd39537c"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 06).bin" size="37954224" crc="98035abb" md5="917d6ab4cbb8d1897d11f41aefb11ce8" sha1="e792c4defdcc9ac62218b42a5da8f2868809cdfc"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 07).bin" size="27694800" crc="bb9a7372" md5="da93ee61cb8ec2b7918cdd7450573bd0" sha1="cb33580d02bf9e765004fdc087b22bb25e2f51ff"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 08).bin" size="53837280" crc="857a2a4b" md5="b3f34b818418f5be07e3720d62660531" sha1="471b64d500a00d703f623bb2261393e55db406ff"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 09).bin" size="27812400" crc="e5cf26ad" md5="3a48d13255d45efa9e7b217d11dd9d70" sha1="31e5d5fc7a6247fa0e5b656aa47d859611a16444"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 10).bin" size="28593264" crc="ca8c642e" md5="e115bb4eb6fd62b605dcae6332efc9ec" sha1="b39330fa2215ed568e291b2a1d2917fa98c39482"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 11).bin" size="28440384" crc="2b7898a3" md5="161fd54eef8762c3a4c1ccaffbe58b0a" sha1="a09cb735ba838c9aeba2b620537b46b80db7a2ac"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 12).bin" size="13947360" crc="9e67a0f6" md5="07e7b53226d026ed25c8be2a2695cb34" sha1="bd97c098af850f1936aaa61764990265bb87eaa3"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 13).bin" size="59519712" crc="97ee73dd" md5="508a2b191ced21ceab7a276a26240c07" sha1="9bd334fb2c37078947ba7d046d624539dc3db0c4"/>
+		<rom name="Beatles, The - Sgt. Pepper's Lonely Hearts Club Band (USA) (Track 14).bin" size="268704240" crc="df7d8796" md5="9f9169af919d269b01dc4f1be4de0769" sha1="0ccb6312407f95eae6d08e7112246674b51e956f"/>
+	</game>
+	<game name="Beatles, The - The Beatles (USA) (CD 2)" id="0002">
+		<category>Audio</category>
+		<description>Documentaries, Music</description>
+		<rom name="Beatles, The - The Beatles (USA) (CD 2).cue" size="2168" crc="c315abb5" sha1="521ffa053182377d150886963df95aaac6c54c6b"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 01).bin" size="28767312" crc="fdfe9151" md5="8abe05744a5d8464d35b1f119a67456d" sha1="b254a4782f205bf4d1db26be425e1527f257e24e"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 02).bin" size="42281904" crc="56094d58" md5="91467dce091fadd802835c2e24841ae5" sha1="0263bc29aa143b06e762bdfb13c298228b98827a"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 03).bin" size="29745744" crc="757dd8db" md5="6f8f859b777bd33e25c05fedc4ef2922" sha1="576c1c20f59b8701d31bc113bc1cde7f602b1660"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 04).bin" size="25566240" crc="5a01b22d" md5="9966de5c4f16ef7586aebfc65edd3897" sha1="145b1543892e458acd76a5806ada6964e521ffa5"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 05).bin" size="34445040" crc="e9245db8" md5="ac659c63341470731d4d628b2cfc7673" sha1="509c23c23b08d09f1804f1d7fbcc858a8feace04"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 06).bin" size="47493936" crc="50bd9321" md5="e530e1e8d4bba11d3dff63734ebc6f68" sha1="29c1260c98bb60e60f055d01a20570a5817c8f21"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 07).bin" size="32511696" crc="ac9f5720" md5="d45542ed547bb1b53c9f7536a91c4c93" sha1="4e0c870974026ec18085046457a744f7c1b1ad2b"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 08).bin" size="45525312" crc="3c334255" md5="892b105829b1919ecae4baf1eca7103c" sha1="f069642640724767edce3d653ab6bbf9993eb844"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 09).bin" size="28376880" crc="98794c46" md5="1de197bda499043180dcbec69178481f" sha1="acf8dec6821ac6b1c9520c4f37e613d3a6d05950"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 10).bin" size="30761808" crc="8efab025" md5="2d930b2da63229578fcece759b5a931b" sha1="e4c01d56823d83087b9334380a409ef52b781ac0"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 11).bin" size="32215344" crc="6ba9462e" md5="bc6535e6a5fa598f72e9ef17300518fe" sha1="e697e8c5d69da95dd715ec67abb7cb614db9a8be"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 12).bin" size="88555152" crc="2fa400ba" md5="3401a79260aba049cd249fb70eb3250b" sha1="9515b29bd2e2c929de66f0d4422df89a0640eda6"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 13).bin" size="34179264" crc="4df88a89" md5="44f001dbd0d86a9a92144a21fa6340b9" sha1="2ba5472bbb5a3680d53ec570d188472623cc0ba8"/>
+		<rom name="Beatles, The - The Beatles (USA) (Disc 2) (Track 14).bin" size="276225936" crc="12f85c05" md5="720394a80d617c564465fd28b87e4949" sha1="dd71681f03991b97edd94fdd20b10a70ab49065d"/>
+	</game>
+	<game name="Britney Spears - B in the Mix - The Remixes (USA)" id="0035">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA).cue" size="1954" crc="d565147a" sha1="64ca33ca191ad4d0b859ba40193d5cf76f2eb371"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 01).bin" size="71653680" crc="afd08074" md5="6edd2936c8da78e15286f338a4ac4c7c" sha1="a9b77ba332349d3bcf6bb3759ff0e66f90596a3d"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 02).bin" size="42531216" crc="cf0c90dd" md5="80996c04ea73e66d22e0ffd9a3d79411" sha1="a81ae38194aa1bc0e57255927fdf529a517f2531"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 03).bin" size="56297472" crc="a878fe03" md5="fd9815bb3283063cd1fd9903049468b3" sha1="ac6d8accf5e9fa604cf436392d65d8d38b4922bd"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 04).bin" size="41597472" crc="9657c423" md5="4c64df7bcaf0845fa298a322e4faebc9" sha1="23ee91a3f18ba71125bccfd3cd7b8b85cb6c631d"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 05).bin" size="61972848" crc="889a0dae" md5="4b3a62bb0f033dcf6d6563aacc1a5442" sha1="145d9daa5bac152440f7895f79f0c5e6de2fc58e"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 06).bin" size="47242272" crc="36912ea0" md5="b4fba4ec5a7bc77d6f7dc2faf4ff27e9" sha1="c6665a5d45a11830c1d265380055040fcd143530"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 07).bin" size="36143184" crc="3cd13c63" md5="92900fd4d8e78ec69856dffc0675b90a" sha1="f7a93fb0008724a386dd4344503a1bb818672e92"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 08).bin" size="38770368" crc="25d668e9" md5="0098947490086731c65ea459cf9e71e3" sha1="a64aa2e9fbc1857761fe583a0f4b5876215a6770"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 09).bin" size="39920496" crc="27ecea0f" md5="2feef2f8799794710813d8eb5745a0af" sha1="3ff2906992b391945e5d54f70b2b6a005562f742"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 10).bin" size="48909840" crc="2e0d908d" md5="e465fe98630c6c66dcde55ade1b2a455" sha1="b17ccbdebc09ce617fa2c6543265d4fa9aa53663"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 11).bin" size="87929520" crc="fcf264c0" md5="3087da476267d5515410441f0a6225ac" sha1="e9e4d6561b2dc26f8c47341009acf22baf8d8dbc"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track AA.1).bin" size="15876000" crc="22ee4a2a" md5="c1dc35f27a0f9d2314f637497d055169" sha1="dd6968e8d779a1bbeb02d753379db270b8d62f9b"/>
+		<rom name="Britney Spears - B in the Mix - The Remixes (USA) (Track 12).bin" size="25429824" crc="efd17246" md5="e3d457f31aba3715de807e9615d18647" sha1="4a3849e868f6d6947b05a75388736a7ea9e49c07"/>
+	</game>
+	<game name="Chinski dla poczatkujacych (Poland)" id="0018">
+		<category>Covermount</category>
+		<category>Educational</category>
+		<description>Educational, Instructional, Languages</description>
+		<rom name="Chinski dla poczatkujacych (Poland).cue" size="5117" crc="a33fc135" sha1="034d4f842879105642ed5676d2675e5211df9507"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 01).bin" size="8300208" crc="446fddcd" md5="b75fff570a8f4f7578f27337826a84af" sha1="00665482f69597968012828fd9e71b17d8ec9ee7"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 02).bin" size="45762864" crc="3e232ff9" md5="38a65601c26eb985a3f4cfe02dd0c8ce" sha1="5fd86f32925f933de16ed51a24122e1c75003d5b"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 03).bin" size="38871504" crc="2de313b6" md5="c2342db0aa9291ab2eff5394c70b288c" sha1="7569abf645c3c56eac456afe451b52647aa89434"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 04).bin" size="35324688" crc="8f3a73ee" md5="7d5a6f4e58b2eb5181057b84e347e243" sha1="cf8e3a7406c90e86c18f1c6b201465a856a5ae1d"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 05).bin" size="6235152" crc="54c19164" md5="2a52f62733a87aeaaf6a140b5214d3a3" sha1="3790013016ae907d2a53021ffa5ca8043719431c"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 06).bin" size="13420512" crc="c1cf1d29" md5="9d41df8ba71ff740a2ec3040b3a8370c" sha1="f8ec2fb58e07496f569abe32e08e9ef9dbb4f9e3"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 07).bin" size="18432624" crc="55e3e482" md5="1da6d31ac7708e6562e0460aab455bac" sha1="2e820cfbc957aa8d1d1e11069f046be5073c6d64"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 08).bin" size="12632592" crc="658cad71" md5="4f1700024637f19be63532fc5a030664" sha1="396a239075aafc9143f78f99a2879372c95e1faa"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 09).bin" size="31902528" crc="a6065611" md5="acc2b230cc91e3810a8ce66b4bdc799e" sha1="7de426bb82442a40bbf338bb629dbeecdaed06d4"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 10).bin" size="32539920" crc="06d98389" md5="84c58c320c1934a32da7d5aeb2b53ce3" sha1="f711e91159c54a9f177cc091e4aed73bb58bc4db"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 11).bin" size="26502336" crc="3b736ee8" md5="d8e25fbd7c0514985b14db8683f5cbec" sha1="0fc8c8e02e968b3272468670d1242d9ca81495a0"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 12).bin" size="6698496" crc="53562cbf" md5="ae1b756c6620a91046028647303203c4" sha1="afd1d2969faab18268d1f6e580afe4d04e4cafde"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 13).bin" size="16666272" crc="a6f8cf55" md5="b73212fef861a51b88f13315fc7f4c57" sha1="be88d8f2b7664490b0077c65c2325d740c997c9e"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 14).bin" size="13563984" crc="3de12dd4" md5="7dbded7b0156533672c9e513498b372a" sha1="81182cbaa91a162123858e224a4324fe02e5495a"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 15).bin" size="54387648" crc="e9617d65" md5="24026f343879c0770424c74db704199f" sha1="e9a524ddfe53846663631daf389bea33954b223b"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 16).bin" size="24274992" crc="17d778c1" md5="be4f873c246873ae496320b379839284" sha1="e0378fd22224707ba6f33dd35073a8158d09c764"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 17).bin" size="5628336" crc="6ce3a8da" md5="9d274c14dd9273ecd93e97343470d609" sha1="5a27e1b34a8f07148e277ae575c54abe9ae0e26b"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 18).bin" size="13469904" crc="30506da7" md5="e5f63d58f62e77fa09f6b8d8866deebc" sha1="17dce31974d65816f8cc97f8fe7fdff2a8058e0f"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 19).bin" size="9803136" crc="454d8638" md5="2e5884bf0ccb9bebf3cd1226a0e57829" sha1="424d6eaea7aab8eb299875be6e2fbb89b090b2ea"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 20).bin" size="59418576" crc="4ca4fb49" md5="84a9de6237e75b11b697b95447b95f9b" sha1="a88645fb6bf35d9c7995d9a6feaccd12146c2dd0"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 21).bin" size="17447136" crc="aeca19d4" md5="cc64b874fa634d021c123d00a437c793" sha1="a7d008110037e3a4747acbbb0d8acf613bcaff81"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 22).bin" size="4866288" crc="1c46479f" md5="d830ab55470f9a2088b4be060390de74" sha1="13506408ae21dfb2cc06550d9f3b65f46d2add87"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 23).bin" size="12674928" crc="a77ac397" md5="038f5d388e0cfa341bfe026d47af1512" sha1="f4be6bb3b20f923cb732b71169c31be7f7b37768"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 24).bin" size="12559680" crc="86495ff0" md5="1296e4590271c69dd216d23901c189ed" sha1="215a00892a2ce54a50dacddd60d3cf362ca8b413"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 25).bin" size="72411024" crc="376af19d" md5="c11f0aba1724afeba1ba7e985c7dd69d" sha1="6de7698621a25048c65deba7847af516ec0f44ee"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 26).bin" size="29287104" crc="0fbe136d" md5="b34ebf9ce2ef46917f50fdda6fcb3213" sha1="73396c477748ca92a3ecb1a43826938643c14a86"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 27).bin" size="9873696" crc="4262274e" md5="64a09143fc6e0a8cf5f2a2f515aec1fc" sha1="fc4cd8a83e626a89fb19eea77fe60c23fe7d7783"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 28).bin" size="27501936" crc="a9a984ce" md5="5b4f648effa0c546cba7703e6413dd91" sha1="5bf6f76820e2a7dc6cb713d73bc44646e794f66b"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 29).bin" size="10193568" crc="5cf59cb2" md5="2d6fd1a4a38ea688f631f6c04450b3fc" sha1="9a68495fd1029b3e4e8cfd7d642228697a4184f6"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 30).bin" size="59098704" crc="2448ad77" md5="47a69602aeb0903f49dc3381d691aeec" sha1="58097f6f52144b17bad510b2c28cae9799208849"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 31).bin" size="19389888" crc="a5d176ab" md5="f5b1f2aa1942619d2f83322b1b4816f0" sha1="3c2afff6a65446b52b7ce00c48545ac4ba7593e3"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 32).bin" size="5155584" crc="32a3d1cd" md5="f9fd72436f1a770adaa4b93d0491cb3f" sha1="483e1a3296f257b3e461161756ee82d5edcf1b2d"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 33).bin" size="13110048" crc="761e6e66" md5="a557d6abf727b1b76fce2408ffcab0c1" sha1="f67f1c62b1de24f458bd97a73f2ba18bd8e3b79b"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 34).bin" size="10788624" crc="df0a33fb" md5="eb3bc1bb815a529738b3f68735fc4df0" sha1="278daa05b532e0d7b03b4f54cb1e8d5623aa4b28"/>
+		<rom name="Chinski dla poczatkujacych (Poland) (Track 35).bin" size="13516944" crc="7e9f4661" md5="d6295d0ec990143417dd61be9a3010f4" sha1="a6983460adedf05f4ff53a548498cedfa13ebfb4"/>
+	</game>
+	<game name="Chris Botti - To Love Again - The Duets (USA)" id="0038">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="Chris Botti - To Love Again - The Duets (USA).cue" size="2974" crc="88ee3149" sha1="d0107fc94322ea50d7f5ef7ba810f9dfe65fec80"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 01).bin" size="46748352" crc="9a4a7945" md5="338ab77aff60c499f43a2766eedc5cf5" sha1="f03fecbe3e402db5391c5ba5009da8563f233351"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 02).bin" size="54016032" crc="8693677c" md5="7a48f8f1a82497f867bcb0a0bd46b3f3" sha1="d28b35c535662bdca71fb0241cea8d4ecac7e68c"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 03).bin" size="60133584" crc="cd34da06" md5="2dce4f4c5bf4601b0902ac08ad4c69e9" sha1="cc66a765e52895639281a30e4b25cb05dce1507a"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 04).bin" size="33857040" crc="d6fd6fb0" md5="69d4ab1eb006df90970baf21fa07736c" sha1="e6eaf5a297cc3cc72e0ce9eb73ea0c73293cb407"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 05).bin" size="42218400" crc="2e946d32" md5="fe1c4493877821eefd723bba95f7f710" sha1="d27becc9671e6b42409950e199659104e25d5e53"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 06).bin" size="65931264" crc="6b40a41c" md5="b5dcc4d8c34a61ea71b45ec7cd0545cf" sha1="d63787ae9617dfd5e7819514824447ee84285236"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 07).bin" size="48996864" crc="1681595e" md5="3d71b2660d9a2da8d3da0c0d2fafb753" sha1="4e9ac076683d3055f4c901ac84a36718d32a534d"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 08).bin" size="42580608" crc="9cbd68c1" md5="b753264394f1cdbedeaed2166351cfb9" sha1="45acd1f276fbffab2655a86ada3d0f8cd17fec00"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 09).bin" size="51240672" crc="ad59571a" md5="064c1894c740366f1000fb17ad7b2520" sha1="8a4553650196deeaa9eba94aacfe79d261f5ff6a"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 10).bin" size="45642912" crc="6e5a1ef7" md5="a44cf06a2a3f8a81b069d6c4d05d1649" sha1="6f6d24c1c8af9f821ec53fe676ebdfa88e8490ac"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 11).bin" size="40082784" crc="386c59ef" md5="6dc20e48c598ecaa16bdb3ec4b876f50" sha1="8ee6a35f34d264ba016119e8df348f8f5adb5a1b"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 12).bin" size="54237120" crc="8c67e09b" md5="9cac82e16b9c4cd77b614a0bb8debcd5" sha1="7ec06adbd8c6a99135be2536a5e8d2655e18264c"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 13).bin" size="46404960" crc="b13f3e23" md5="369254c1fea8e98bb557a4157205c225" sha1="abf83d9e91866781420b3a168c4ae05520b69ed4"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track AA.1).bin" size="15876000" crc="e569d5d0" md5="5387be246bd3aaf3bf11410e82659d51" sha1="5965683bbf72603b4a45b8e8881dab400e949b89"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 14).bin" size="109977168" crc="c99b298f" md5="40ff2b7b9933d90cc1b32085a0c1da90" sha1="780ceccce058b82bd4c7009983fa59075d3ae6de"/>
+		<rom name="Chris Botti - To Love Again - The Duets (USA) (Track 15).bin" size="1764000" crc="b310c7ad" md5="fe2454807613bf9e270aa2098e2d3cd3" sha1="a2f3aeb114f3f9d4998dcf6f1698e186493ca8d2"/>
+	</game>
+	<game name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA)" id="0019">
+		<category>Audio</category>
+		<description>Films, Music, Soundtracks, Television</description>
+		<rom name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA).cue" size="1910" crc="0177bbbf" sha1="598e98c14e84867ad4e0813366ca52c05bd73982"/>
+		<rom name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA) (Track 1).bin" size="34348608" crc="78d6a3f8" md5="94cb4f69c82db132877b1b25a3b9eba4" sha1="be47459f8e6c251841c1c7a60b09441747106200"/>
+		<rom name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA) (Track 2).bin" size="34931904" crc="4ac0d2ac" md5="88810fe1e95024c211a212dcaaccbbf6" sha1="228f13a21f7f25c2bb85b306d177e95eba030388"/>
+		<rom name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA) (Track 3).bin" size="35745696" crc="e4aac71f" md5="652d39a657bd34dd9c6e1f8f9e8cb655" sha1="85db03d3602bb74ab5cf9c66b88b73fa75f2356e"/>
+		<rom name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA) (Track 4).bin" size="41882064" crc="e15aaf35" md5="1cbaf69a8b6f8ee141f896444085a782" sha1="9c6362b10cc68692f18e2134a9ef910a5dd537de"/>
+		<rom name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA) (Track 5).bin" size="30051504" crc="48b17c9f" md5="cb7b3f4ca6e64196a4d83d6d209cf2a7" sha1="3cd9ab958250fd3f194e81cbf7f280bbc7662d86"/>
+		<rom name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA) (Track 6).bin" size="30173808" crc="5e8d79dd" md5="2b3cd25f3e13fd2b76191281f855e338" sha1="efbc3e83b5374c504095da2a4cb0f8c11ea9308b"/>
+		<rom name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA) (Track 7).bin" size="33134976" crc="57ebab05" md5="96f04fdb4e4f2f5009edb281ae50c6a6" sha1="78c5f770ba30ab0c3028b65fe6d2b4d4a398bad8"/>
+		<rom name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA) (Track 8).bin" size="30199680" crc="41a97a45" md5="665056e4d55920c67beab6532a0917e8" sha1="6d0d851886e47790b2da2bd05ba98e2635a44051"/>
+		<rom name="Christy Carlson Romano - Greatest Disney TV &amp; Film Hits (USA) (Track 9).bin" size="391121136" crc="7205fe6b" md5="c304927634e9993a176b4ec7f1b4f807" sha1="1f81fa621debb4243d2ca3a80454b8b606a0db8f"/>
+	</game>
+	<game name="Counting Crows - Hard Candy (USA)" id="0007">
+		<category>Audio</category>
+		<category>Multimedia</category>
+		<description>Music</description>
+		<rom name="Counting Crows - Hard Candy (USA).cue" size="1987" crc="7e687f78" sha1="90c814cbaf643ebe5b548936b4182e3830c6d624"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 01).bin" size="45993360" crc="23b38c37" md5="c5b7ed394f947548c8ce369724f36a3f" sha1="cdbe5c4ce2b82d6aba03a74a5f0d3da76fa68418"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 02).bin" size="48039600" crc="c894258d" md5="e311478c7e31f513267c7e090926b267" sha1="7e91eac14bbf9e619c84e98a5de9b858f2351405"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 03).bin" size="46609584" crc="4ee5af6c" md5="bf4215a16b54f4b6bd31f660409b20ff" sha1="e93a1789a93b1fd1ac55b337b36afb0f6e2999aa"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 04).bin" size="41089440" crc="047aeed4" md5="74a69534e2dae25277ca6284c4e5a3be" sha1="396ee8e5d1d8a0bb7059739f93cd7af28c9f9cb2"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 05).bin" size="45271296" crc="d70711d4" md5="7bad713a33c41946b8cefe7e1fd82390" sha1="3826204645564801e1c4173cebcaa4a4d1e6d2c4"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 06).bin" size="29823360" crc="cb8b6565" md5="64ffefbed03cdbc6c44ae210dfdfaac5" sha1="7bff6e84eb85a5095afb185849b4221fd1abf85d"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 07).bin" size="53112864" crc="4f133540" md5="87583df7536de95eeec86ef82d89b8c1" sha1="86c8d51db431a840d29c9b104f2d0beddb60ec68"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 08).bin" size="40595520" crc="4d2e73dc" md5="b9fa741bc9e7e7b5b5c7ddc3d7059d34" sha1="2bf61a6bf61e7e8ab7e79f4a43b54a3e4b59a646"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 09).bin" size="43048656" crc="6b4e7f0a" md5="d5c54c019e22aead0f71b078764c153a" sha1="aefc6145325413cd00ec17a36abf7cda69115889"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 10).bin" size="41341104" crc="3693658f" md5="4ddf844033fdff47879dfef0db6e93ef" sha1="874359f316e964e891821e8a9368b98ecb4864ee"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 11).bin" size="49156800" crc="9695e382" md5="49522f13b4cffd3e39e52919a0a4e9b9" sha1="bc2bb2ce1bfa1b159b3037f90cd52a36df13e84f"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 12).bin" size="54350016" crc="51600e98" md5="28b15db7383ccf45f630ea7adc6abb86" sha1="2421d443cd9fe7a178475079d4f412c620f7271d"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 13).bin" size="92657040" crc="bb714b1b" md5="701c58f636b86a0aece47b536e759385" sha1="55b24858d560be5137604bd01255b5652818aba9"/>
+		<rom name="Counting Crows - Hard Candy (USA) (Track 14).bin" size="64261344" crc="b4c436a1" md5="beb279f6ffca049b67217edaf7f329bd" sha1="c39886c21e527aaf18ffce648f0265239f503893"/>
+	</game>
+	<game name="David Bowie - Aladdin Sane (USA)" id="0023">
+		<category>Audio</category>
+		<category>Multimedia</category>
+		<description>Multimedia, Music</description>
+		<rom name="David Bowie - Aladdin Sane (USA).cue" size="1684" crc="d93b802d" sha1="65957062bd1999df8fdee7fc13cdf32180c82eb7"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 01).bin" size="46903584" crc="17241135" md5="ef90282adba9861bd7466f3e12bbe9b4" sha1="bd5496268a50b95609b83dc98fd842e148c36891"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 02).bin" size="55043856" crc="cff9d665" md5="80543c78abec0690e35ff15b9ab632df" sha1="7759bdc8ca9f99c3b4a23131ea02573d80a25902"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 03).bin" size="47867904" crc="ea604901" md5="3fe57e1594d9306c673c756d7d4334b2" sha1="d7205908407b1e433be4f5ef3aae21c90de34d70"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 04).bin" size="47898480" crc="d1416961" md5="a0cbd08e967b83e8dfb7ebeaea6368a6" sha1="4e8a0a8ee0d345b68fe61e31067122cb0edfa6e3"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 05).bin" size="31893120" crc="43e381e8" md5="2546f6e19b08e3bd91d2cb3684e5df75" sha1="b65d9679c8c15fee72dc7f5a40cbb178810edceb"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 06).bin" size="55761216" crc="395a6ac1" md5="5c2b42d8f18e8aaaf2e688081512920e" sha1="2039e8d2bfc850bfb641607b1037f30eb63f6e68"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 07).bin" size="36660624" crc="6dbc5ad7" md5="4df421b74efe7688d1cf56ead4fb696f" sha1="98b903eac08528a8e67c8379fbb0a44c32c1931f"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 08).bin" size="33598320" crc="bdd133ab" md5="249882bb6606bf9ccb8d9c1a704b0f92" sha1="031c8344a2350145e4e55b10cd3c43d1f4e784f0"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 09).bin" size="44130576" crc="ed23c2ba" md5="4aa9b63d7fe2abbdfe8128477e72b2e7" sha1="faac44920c3c6d5ca614f128f1a8426b6b127fcf"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 10).bin" size="41011824" crc="ac7c84c8" md5="119698d417774e5dabaa36bd298c0576" sha1="cd9e1aa45d9d46819811ef28afd9cfd3ad062274"/>
+		<rom name="David Bowie - Aladdin Sane (USA) (Track 11).bin" size="28162848" crc="4818b4da" md5="1bd3e35e096e34b58f27abe69f303e2d" sha1="02924092c2b50955432f7106ecda3a9ca252748c"/>
+	</game>
+	<game name="David Bowie - Hunky Dory (USA)" id="0025">
+		<category>Audio</category>
+		<category>Multimedia</category>
+		<description>Multimedia, Music</description>
+		<rom name="David Bowie - Hunky Dory (USA).cue" size="1764" crc="c26dbc72" sha1="f0b49423b3e35034afeb98594c4dbd6563e88edc"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 01).bin" size="37878960" crc="6bd79191" md5="98fe8d69844ee5aaeab1c4e906a2de8e" sha1="a9f5d5425097a3b98045a2e81e74698b9542b8fc"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 02).bin" size="34414464" crc="fb40598a" md5="af885c148ca229423b98a403aae3bd08" sha1="e250fea3ffd71b2b18d149938a5fa26770d22deb"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 03).bin" size="30559536" crc="74724ab5" md5="aad5a49a524d1d770218649dd64cabfb" sha1="038b63bd9a52bcead52cab87d17f47ddd4d28eb2"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 04).bin" size="40913040" crc="21346566" md5="f9b304bf67259cc6ba6bb08a0b5f79b6" sha1="ca970d449f79f7f3a9ea7456f70f45d6462aaac2"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 05).bin" size="30698304" crc="28fa74b3" md5="179f6ee4bb0262a0f3f52cd3c045c271" sha1="3baf67a03cf58370a524d23dfff55d5b09767318"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 06).bin" size="54215952" crc="dd8be3c8" md5="bb15502e362e718aacd51ffb680b357e" sha1="f29547dc4971e214ed48820ba79560ccb5639fee"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 07).bin" size="33690048" crc="7f951cd1" md5="cfed9a1a40d7d6f9382bed60517adb7a" sha1="c7554e8f3af931c4c08506b2a18a3a697a8b4c80"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 08).bin" size="41214096" crc="9e650765" md5="6c065a5a2d5d2c7f9ddeec440981542d" sha1="a6a93e1b40dba64272a22c9f96941216122543b9"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 09).bin" size="45076080" crc="ff00eaab" md5="7ed6c67a2e25eeb7b49fd72922ca0157" sha1="156313a11e315e1eca913b9fd5de5e2cf939c263"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 10).bin" size="34202784" crc="2b61b0a6" md5="73148a64738fad1ce316e681cac0c62b" sha1="0fb52f1324f59eb9afb0774546f139bcb50a2cd9"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 11).bin" size="57713376" crc="606ca166" md5="3bbbc6ad0ccd819ac04b5179096b424f" sha1="9b2f1b7acbd6603e45961ab6774b6cef072a7318"/>
+		<rom name="David Bowie - Hunky Dory (USA) (Track 12).bin" size="28158144" crc="ed4e95e5" md5="79a5be5f07ce81852da42e72ad2e3b77" sha1="137a467b3e66a24ae02966953d959c6d1cd4eb59"/>
+	</game>
+	<game name="David Bowie - Let's Dance (USA)" id="0026">
+		<category>Audio</category>
+		<category>Multimedia</category>
+		<description>Multimedia, Music</description>
+		<rom name="David Bowie - Let's Dance (USA).cue" size="1366" crc="979979f6" sha1="5f9b76f98f1e8c147d20dc63278510678aae3332"/>
+		<rom name="David Bowie - Let's Dance (USA) (Track 1).bin" size="50591520" crc="dcc253fc" md5="21562b3344609e863989e84354509dee" sha1="a58f8fe37fbb4b5774352e8b0b3c8995eb554e5c"/>
+		<rom name="David Bowie - Let's Dance (USA) (Track 2).bin" size="58929360" crc="0fe110e7" md5="32a274cb40518220fad8cd045b5abb20" sha1="dcb3b9dcbe978188e730eb7fc3aa8a39754006a8"/>
+		<rom name="David Bowie - Let's Dance (USA) (Track 3).bin" size="80791200" crc="7ee02dc3" md5="f1617f26af0369052044dca76d5b67c1" sha1="abd9e28634846611833454f2542a23a1ed27c7ae"/>
+		<rom name="David Bowie - Let's Dance (USA) (Track 4).bin" size="33245520" crc="5717d87b" md5="08fa5724c6d3a0ff462404ddf3381a0f" sha1="9f20729304f21cce5b4b465966e56c0d80e53155"/>
+		<rom name="David Bowie - Let's Dance (USA) (Track 5).bin" size="55401360" crc="fd15d5e1" md5="8bb27df84977ad2703146d1490c588df" sha1="c47f779a69dfd070d927c3e6f662ee6cdbd0bd7b"/>
+		<rom name="David Bowie - Let's Dance (USA) (Track 6).bin" size="46212096" crc="775a5030" md5="24e94e2b2f52c04c39e7eaf3b80a24c2" sha1="0849352567af3cef0e8d0624b2db1111a5c83686"/>
+		<rom name="David Bowie - Let's Dance (USA) (Track 7).bin" size="55163808" crc="9d7a5082" md5="c75c1444cc45abdbfcb015d5614251e4" sha1="aa1e8d08ded1c99c78a7619820cbcdeb49a1ae30"/>
+		<rom name="David Bowie - Let's Dance (USA) (Track 8).bin" size="40701360" crc="883317ec" md5="f567fd84055d35954c196f57e8299c4b" sha1="07145eb3c5489b9fdb2dbe8de233d769d69ccaab"/>
+		<rom name="David Bowie - Let's Dance (USA) (Track 9).bin" size="28158144" crc="dbdc0c9e" md5="ffed51ce09cc8c24010a276d130767a5" sha1="37b3946b6b8aa950a9bde3c77839e23a3876ce14"/>
+	</game>
+	<game name="David Gray - Life in Slow Motion (USA)" id="0034">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="David Gray - Life in Slow Motion (USA).cue" size="1745" crc="8ffde1f8" sha1="46064636b643cbeb54e5c7a3992a29927dcde48c"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 01).bin" size="48232464" crc="a5fa2655" md5="5ff8987906ba463de8605df6b5eb7b4b" sha1="39911ec5a36e9d4d4390b32bdbb7526998a6d401" status="verified"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 02).bin" size="36862896" crc="02799a6c" md5="e8b45f7f525b1a0d67aba7ddf47e371d" sha1="e28e828a061c6deb3077b43dbb83f1c01b8bb4cc" status="verified"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 03).bin" size="44927904" crc="3bb6746a" md5="c96d5e6d16083017576cb7cf2dcbf798" sha1="1e4e666af464b5ba8350e1c0c1ee0518e1342ef6" status="verified"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 04).bin" size="44241120" crc="dc3a59ac" md5="a7845f1e1f808f9880e8830d6c444441" sha1="8e0f6a22a27d19043c2e5a7d43d0f4d9db52e88a" status="verified"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 05).bin" size="52597776" crc="433cfe91" md5="a604cf6a90409fe6d2d412159dc9e923" sha1="5c551d39d63f0176dcb243ca0ab1cf536448d730" status="verified"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 06).bin" size="38895024" crc="046b56ca" md5="1f649d03448e03367eb2e0f5623c3f2d" sha1="f28157bdbfc758cd2e2d0c5ea80abb7f7ade8f92" status="verified"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 07).bin" size="35526960" crc="269ef80a" md5="0fc88fbf5497893441e890f8dce95683" sha1="7c2c9a337c08235784e055ffae6cd3d4f05f828a" status="verified"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 08).bin" size="50198736" crc="e1468aba" md5="5d6c813ee3e40e683e19b4a3affbe239" sha1="60904352492f439cb47c35f880434cb0e22bb376" status="verified"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 09).bin" size="71006880" crc="53edf976" md5="38a7ee1c8ef611c3462fcf94f0d92fb1" sha1="a72ce22e5ed40d414ef590a7981761f14fed6f00" status="verified"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 10).bin" size="54272400" crc="c32588e3" md5="383808c0f6a784623cd31f4fe1639e63" sha1="ec4e187b6ee44c05d4e5507bbd3ae44c88918ed1" status="verified"/>
+		<rom name="David Gray - Life in Slow Motion (USA) (Track 11).bin" size="25827312" crc="47d7f2ab" md5="0f37e65beca6a252d374a8285e4dc198" sha1="39cdf40186d71220c8dee408d8211442254051d4" status="verified"/>
+	</game>
+	<game name="David Gray - White Ladder (USA)" id="0027">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="David Gray - White Ladder (USA).cue" size="1753" crc="e3c2b335" sha1="45642304edae6306f41259176a6528ed1cac4d13"/>
+		<rom name="David Gray - White Ladder (USA) (Track 01).bin" size="58969344" crc="4924d31d" md5="22da2bf0a17cbf5ecb8d70c39f9653c4" sha1="2eeb5419ef65be76a9b2251f792398fe3ff779af"/>
+		<rom name="David Gray - White Ladder (USA) (Track 02).bin" size="47141136" crc="464b9a5f" md5="6aa7820411d51aae7a58e07066cc47ad" sha1="df237fa5356f93fa3716ed9070d3ccc1f2eed2c5"/>
+		<rom name="David Gray - White Ladder (USA) (Track 03).bin" size="48909840" crc="dcbed017" md5="b8ef3f8972938a6ff72ecd8aeb04e368" sha1="be81cf1d72a37f93e7a14b74d3add1e916bd2558"/>
+		<rom name="David Gray - White Ladder (USA) (Track 04).bin" size="32109504" crc="d7222453" md5="6b5f96151110c0d17a7dbf664f1bae4a" sha1="23eb004c8df70bd8f7f6e680b4f95ac0cf4e9e64"/>
+		<rom name="David Gray - White Ladder (USA) (Track 05).bin" size="46534320" crc="1854b6bd" md5="13d3548da4b088693b379fd84f628821" sha1="4bd75e305a57ad82260574ef2c3b7f31136fd789"/>
+		<rom name="David Gray - White Ladder (USA) (Track 06).bin" size="63722736" crc="734c19a1" md5="46707db6237ee1d29ae9138ca3fc0bc9" sha1="8b8e284bcb3fb6e062b235403874b2d5edadefb1"/>
+		<rom name="David Gray - White Ladder (USA) (Track 07).bin" size="44452800" crc="2dfd3cdc" md5="17461bf2f29d3b2a95c2412f8c7dd1dd" sha1="4c56a7c1588682b35e92525c6b4387febb395da2"/>
+		<rom name="David Gray - White Ladder (USA) (Track 08).bin" size="43669584" crc="d1b2743f" md5="18c32fda737968ef3a58a618d6533344" sha1="39ea82c13b5df49b05f44d9815453d32237efd77"/>
+		<rom name="David Gray - White Ladder (USA) (Track 09).bin" size="55366080" crc="85ae8ab0" md5="6cf1972db9c06d70b148131476a7756b" sha1="e673407d49e7438e313b7141969f1c03e28a30a4"/>
+		<rom name="David Gray - White Ladder (USA) (Track 10).bin" size="95239536" crc="e3c078f4" md5="ba7fc2676d49fbd886c4be0d432099ba" sha1="c82f3f1aba485c77b5a5eb44f54ece61dcd31880"/>
+		<rom name="David Gray - White Ladder (USA) (Track 11).bin" size="39654720" crc="654e3884" md5="114cd168fd62ff3ec257b1521863cf39" sha1="e00099284ea1670d794d5a42083457f9dd8fb68a"/>
+		<rom name="David Gray - White Ladder (USA) (Track 12).bin" size="132718656" crc="5f2b872e" md5="1f789bcb30fba846d5e7cee8a20b4219" sha1="e3995b03dec145de37d48cc1d2a4ee29ccc91325"/>
+	</game>
+	<game name="Dogg Bone - Doggmatic (Japan)" id="0029">
+		<category>Audio</category>
+		<description>Multisession, Music</description>
+		<rom name="Dogg Bone - Doggmatic (Japan).cue" size="1757" crc="1905d473" sha1="00568ea6441f8274548d2536c34a0b5ddc76d88d"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 01).bin" size="23571744" crc="85b92627" md5="c3bddc596187e3a3e1d60355cb8e53cb" sha1="0cb3b620741a72b25106fc77e7eff089fa743c5a"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 02).bin" size="12536160" crc="05a103da" md5="5db38425d38ea9279643bba95f932092" sha1="1520a24410830063891a2807ff1b63c72c8ec3a7"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 03).bin" size="50791440" crc="32230dd6" md5="c4ad492ba70d05f8adebfb0284951362" sha1="75b7f7b59411e3642dd9ad2dc1e5d88c60726280"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 04).bin" size="32638704" crc="920a4eeb" md5="adda2fec58da5f9ff959678f8e4ebb8e" sha1="9feae29b2e63846438ed0b5fc05a37b604461181"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 05).bin" size="26330640" crc="e8b7f775" md5="251f527c03b6abea4a1230812d4462a6" sha1="b153b327e258ab3e00e0216eeb86fe1bdd94a8c2"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 06).bin" size="33304320" crc="2c39b987" md5="17cc07272b6c2b2ae2bad159d7e35840" sha1="f6a855c59a42382429fdaa6ca956062679a77196"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 07).bin" size="49648368" crc="f34ef6c5" md5="3a1d153598e30e65fcf25640941109d3" sha1="f18c8478799f4a1de4f84d76b9d01b9b0bc05c8c"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 08).bin" size="44918496" crc="9d1a49f8" md5="a7606f452cfed21c0c33779cf06a72ba" sha1="4525313e5c5e4982bf97a6d6b8617d5cdc256688"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 09).bin" size="29576400" crc="b10304f1" md5="db1173e1bfdec0acf5a548b63c3ccd35" sha1="00d86df0010f59da37f2742cd1b1bccb9e21f595"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 10).bin" size="58411920" crc="7bfc5eae" md5="c62ab8754ac6863391b6f0ad7c5de3b7" sha1="95d53f04ba24fb939974b3f2ba27e8886a5a5eaf"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 11).bin" size="24820656" crc="f03865b1" md5="eb40a2cb33cbc44b87029e8d33292ca0" sha1="d9795b9216cb7aa938ec376e3607b8285004bef4"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 12).bin" size="20373024" crc="920a8ae9" md5="eb76580d5e296173be6d368fd976fbae" sha1="e5b65ebd0543a1c903230258e6136513b61b0f6a"/>
+		<rom name="Dogg Bone - Doggmatic (Japan) (Track 13).bin" size="154902720" crc="f1c1f357" md5="156acbadc4b66ded9eee1fd216ff377d" sha1="674397262b49e490204cd2831b7c1a2a55d90987"/>
+	</game>
+	<game name="Fiona Apple - Tidal (USA)" id="0010">
+		<category>Audio</category>
+		<category>Multimedia</category>
+		<description>Multimedia, Music</description>
+		<rom name="Fiona Apple - Tidal (USA).cue" size="1469" crc="e55a96c3" sha1="5a9ad5927423b378fe42a77bc09303b24aa13b07"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 01).bin" size="43836576" crc="ca2f41fa" md5="266e76781d1c0942b4070993308e7ed5" sha1="d7c5fc53e8d6c032a3c120cdc842afde98f818ea"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 02).bin" size="41668032" crc="a0433689" md5="3f5cfc66bb1698dc2c52fbe4f22254b1" sha1="008d682d3a6cafd59188075f7ece2e1c14ced83e"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 03).bin" size="57200640" crc="e6cb0574" md5="6b12766567cfbd1ad252aa3b0d2c66bf" sha1="01359641ee4a66d943ea1678af375bcb5bf74145"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 04).bin" size="60246480" crc="44d47067" md5="fd7b63bc9aa01874f589d2a7e7f3458a" sha1="cc373159d5e8c1320c9682632b9cf04b512fd1be"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 05).bin" size="63170016" crc="8c24f8ca" md5="3df4bb82367e44a87492dbb9db1c2acf" sha1="b7da25b70474d1f81708d1261bfa7018dcd5e4ba"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 06).bin" size="50864352" crc="101a4517" md5="b9ff3fbe05e8bdadbc89ca154cc0c5b7" sha1="26d63dea67db1643b1dbf11ddf1f34b2cdbe6851"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 07).bin" size="62539680" crc="69316018" md5="9a84c9dc5dbcbaf85b0d0345ea34ebd7" sha1="de45b70133d1ea054b6f648ee2e9beec17651a6a"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 08).bin" size="44958480" crc="5b646942" md5="430afafb8c37cda95ee2035549f3ee26" sha1="7db1d9344b9a95118f7539f6c322f1a98bdfd553"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 09).bin" size="61904640" crc="ab3d1ef4" md5="ee5d6209c07768e30f2d5f7e581af5e2" sha1="dcdd6e18ef6564722c5740c4551df7bfc6dda751"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 10).bin" size="60975600" crc="abc5db92" md5="68325d3f002e25f7ed345f6d7e697298" sha1="d979337f824deb8443b2f526ba6a88d48f54dc49"/>
+		<rom name="Fiona Apple - Tidal (USA) (Track 11).bin" size="87348576" crc="f2cb61a6" md5="cb01b59bdbe895bd221c0d5f7d947ce6" sha1="5296dca993db51bbddf9936bbcc474eb763197cc"/>
+	</game>
+	<game name="Foo Fighters - In Your Honor (USA) (Disc 2)" id="0037">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2).cue" size="1690" crc="571d5dd2" sha1="8f0433fd7d21f726e9bdc25a1915627ffd5d2f22"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 01).bin" size="55229664" crc="32ab535a" md5="3cd816aed61083e9c62410a3ee755c55" sha1="bb7fa1fbbed4fe1b58579d5e6910a9c88d535231"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 02).bin" size="53432736" crc="816549a7" md5="39f5472860a54663a0e1f8a3d8a6c207" sha1="04e398fd0bc00b6b96f5c9e9485f769892344408"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 03).bin" size="36973440" crc="0386a063" md5="126dac58645ed6db3e4440b35fb16bf1" sha1="2dd4d8302b7fc29248ca08700ee3ad684913aa28"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 04).bin" size="46880064" crc="4d579ae7" md5="4c91a7f3cae00feba66c9376613ce97a" sha1="12594ea4470f5b7a76a884e1ff36f923248f604e"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 05).bin" size="34080480" crc="aa6a71a0" md5="84e5ea7e3000117c8e8aa1bb51dbe0fe" sha1="37431d0ed1c91281b29acc9f9f47581a779bdc36"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 06).bin" size="55772976" crc="6ec7bbab" md5="86269125438cd81756872bd5b8259335" sha1="aa33b4bae198d42566cbab3e55bdd381d33e58c2"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 07).bin" size="47950224" crc="ab4cd3c8" md5="d0a6a51c6e51aa2746737250f69b3949" sha1="61db47283d8a3371b6e0401a74c26592395629c2"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 08).bin" size="40414416" crc="f3890356" md5="20aba9aaa35e90a3643f67c141f37f3d" sha1="ffe62db1c7daabe813025bf499a206e04cc8c90c"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 09).bin" size="35390544" crc="9a4e29c9" md5="af54fae5b872aeba6ee303d12a9e31d8" sha1="ed43f67d39b229bb32ed86415c1a645a26a10180"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 10).bin" size="51715776" crc="a8e67114" md5="2f670ca4eae861c1721c450e3623f9ef" sha1="e099fbdfb4c4a77a29da68d716e6ac64a050a034"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 2) (Track 11).bin" size="53790240" crc="04890853" md5="140c4667e1c801d357296a6dd84645c5" sha1="a323b8cdf43a350a6c840833646272bd9f480d1c"/>
+	</game>
+	<game name="Foo Fighters - In Your Honor (USA) (Disc 1)" id="0036">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1).cue" size="1690" crc="fbd2092a" sha1="ab0fe652b2833d78812cc9a53a415c04019ae561"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 01).bin" size="40588464" crc="416a40f7" md5="3ec4d30c38f4fb4b8bcdf2143f6c55f2" sha1="54144165d621b61e316d3c120a8be9af1bcf4192"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 02).bin" size="34675536" crc="7145c147" md5="ef82e710c44879d3b6ddbfa7c65adc18" sha1="150634fdd4ef71cfc22e77ca83d1b1aa75f5cd97"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 03).bin" size="45092544" crc="702c7c39" md5="eba76e1203a282640abdf5315ef6d728" sha1="bec96551fdc3555ae890b07304d40954af7abbfe"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 04).bin" size="44471616" crc="e59f5f4e" md5="a69999775d1fa0c1eba5bf3fc1d93979" sha1="636baf6c4f0032a35fc810ef1cec7f30afc0bc49"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 05).bin" size="20638800" crc="1fdf16c4" md5="731226231058186477bd07b4b7e9d215" sha1="de27b2b720df03a8cc300156290595e04217fd47"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 06).bin" size="35178864" crc="34564e3a" md5="527e59eee8bd9bb0c8f9e0960aeca756" sha1="8740640f2e25dff150cbfd1a1f2390f4a5fbdfb3"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 07).bin" size="49145040" crc="fe3a1bf8" md5="a2f9bf92ad810e8a8d775e5a646e6c67" sha1="a659c248723dd9e5ff22957414daff286e8feb5a"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 08).bin" size="50916096" crc="433a7f59" md5="936eca70e155be7b4d23fcb19426366d" sha1="4de66a93b460e15a4a7229e758dbb18deb4e3b9c"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 09).bin" size="42042000" crc="4b4e187d" md5="5cd0d4e9021a12062bd0e380d06fbbb7" sha1="e32b9d0cae6f8e8a52a90ab565c38b164c281dcc"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 10).bin" size="62092800" crc="700a100f" md5="50549d4d9691aeb7d5ef888ee3985720" sha1="2e55d0610422d6b96c487f51ac5cfe91c6aa0012"/>
+		<rom name="Foo Fighters - In Your Honor (USA) (Disc 1) (Track 11).bin" size="50255184" crc="8273ddb4" md5="f93e086cc9d01c6258dc3fdd033a5059" sha1="4cacc2e01a2f104edce53dba4533775d1f16b15e"/>
+	</game>
+	<game name="Fuel - Sunburn (USA)" id="0020">
+		<category>Audio</category>
+		<category>Multimedia</category>
+		<description>Multimedia, Music</description>
+		<rom name="Fuel - Sunburn (USA).cue" size="2002" crc="fee66d7b" sha1="b2319e2d49594a19ad91d5d72333675f3f463259"/>
+		<rom name="Fuel - Sunburn (USA) (Track 01).bin" size="42060816" crc="7625d5f4" md5="1dffdd4c083308230495e0ac4a7c2f38" sha1="88696f3c19bf1b111ae25db9865b513ef84854f2"/>
+		<rom name="Fuel - Sunburn (USA) (Track 02).bin" size="40924800" crc="3b3779e5" md5="2808df34a7b11af11b23b9f9c1c9837f" sha1="59fb027675283545d2b2119942cbe54807dc0373"/>
+		<rom name="Fuel - Sunburn (USA) (Track 03).bin" size="37763712" crc="5b6fdaaf" md5="836c389e16c87f4dfb3dba9e425d6a38" sha1="e0bf11a8ddfd674c1787471176057a25b1f3c2d2"/>
+		<rom name="Fuel - Sunburn (USA) (Track 04).bin" size="42129024" crc="ff84a1de" md5="c00c1adb4cfc75c6a5980129b3b28646" sha1="858dd7228c9854f64a5645874c56f13de03f2403"/>
+		<rom name="Fuel - Sunburn (USA) (Track 05).bin" size="46506096" crc="d514e351" md5="c323f0743a15ba6e92473fcc4d7caec1" sha1="c57dbaa842cfd423f651be73316f2c171e3343ca"/>
+		<rom name="Fuel - Sunburn (USA) (Track 06).bin" size="35157696" crc="2737d528" md5="4b39f494697da1bf577dda2e3ffb5027" sha1="a57547f7b19022c16700c337a90983b5b13aa30a"/>
+		<rom name="Fuel - Sunburn (USA) (Track 07).bin" size="38803296" crc="425d1f3b" md5="e6ed0fbf5917a8c253007eaf2e7d15d8" sha1="08ce940833548c0b8ba191176923e7bf7f58023d"/>
+		<rom name="Fuel - Sunburn (USA) (Track 08).bin" size="40023984" crc="86df7b59" md5="919e8510d79ac890f2b446a87f819d07" sha1="b407d783b852ca666b65b6448a06cbea061a9b70"/>
+		<rom name="Fuel - Sunburn (USA) (Track 09).bin" size="38191776" crc="56a5a7b8" md5="5ae224a74ecf7d44d9eae2b03d22a05e" sha1="51294dbcec72675014b59951e13270d50d7fcf4d"/>
+		<rom name="Fuel - Sunburn (USA) (Track 10).bin" size="40543776" crc="f87c0a0b" md5="bca5c2121c3fdf39f1adfa269f7e61ed" sha1="3f6a82989f143ebbf48549225f767c202905d238"/>
+		<rom name="Fuel - Sunburn (USA) (Track 11).bin" size="43265040" crc="e185c3ba" md5="0c65702f1493049ae2023476e5c51cf9" sha1="42b3e310dc350bf9bdc6c88d53bdec6d5fa48763"/>
+		<rom name="Fuel - Sunburn (USA) (Track 12).bin" size="109669056" crc="4cce8144" md5="a5e00a75dfc4e760cfe10bd9aea87544" sha1="ef8021c4822840ec8df74c865d83fcc0bf10d791"/>
+	</game>
+	<game name="Korn - Life is Peachy (USA)" id="0021">
+		<category>Audio</category>
+		<category>Multimedia</category>
+		<description>Multimedia, Music</description>
+		<rom name="Korn - Life is Peachy (USA).cue" size="1910" crc="e414fb5c" sha1="8eac0aa0ee55f1bf46f889649cea092684db8d23"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 01).bin" size="8681232" crc="48be8e87" md5="56c3ad4b4a6bad20e6ff78a6fb016c4c" sha1="d2556c34d1a4b56a12f98a0bb1d2d204a8ebe36b"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 02).bin" size="41428128" crc="8bfc6a69" md5="9addc8a9dbb6c13939938410e61df2d6" sha1="03a3456d75252a421efe3867195a07e55a6dc667"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 03).bin" size="30872352" crc="af62794e" md5="beea9a65787a20b033cb00c0d71ccbf9" sha1="2e50c52ac16b85e469a7d5c23c7cfa3e7c7927ea"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 04).bin" size="38572800" crc="da503d0f" md5="7b6ada2f8e7e930af833009817c5ad95" sha1="37e91e76696736eba645541e1cb1cea76eb265a9"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 05).bin" size="21351456" crc="f85d86c1" md5="ac32dd5d79a22d4dcdd485c87e3421d8" sha1="b47d39353616bfca59a0c433c960917bff587028"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 06).bin" size="35439936" crc="70885c7e" md5="c023d60140375b69183e154153d436c8" sha1="eafc7742790aa2d5d3ddaf4291a7a0eff0dfb0fd"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 07).bin" size="54785136" crc="8d1cc381" md5="059c329554e95103d776c271b7384908" sha1="865b24e943e6aa4fb91562b84d5c0e1da89b2468"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 08).bin" size="32203584" crc="2c9b4999" md5="7a313b6b9056e56eaf3b8c119229eb26" sha1="fd6a16309c4eda1c34f2a0667c70f98b23253746"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 09).bin" size="37361520" crc="ac5aed23" md5="874239a93b731f274964c9d0d65dffd8" sha1="c3ca627d3708fd3fecd1c5fb8f925ef6578c4978"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 10).bin" size="42420672" crc="a1b47f3c" md5="559a1ea892f138b77ad0a54b714aed56" sha1="e43f2a7321007cd6838100fa057064dc7cca811f"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 11).bin" size="26953920" crc="56ba2475" md5="72b33377bfde862ded5b7a6b1e9363c5" sha1="ba6c187ce07071a0cbb681259ff36fc70e792ca2"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 12).bin" size="10238256" crc="56a9cf39" md5="6b59822524c34ad36df0abf860dbd638" sha1="d2e21d517fb491f6b34dd9d43a8670541d256e49"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 13).bin" size="38702160" crc="6ce12dc9" md5="b49c14d2a77cc8f3cf720084f56d39aa" sha1="5ea1efc4a0b97a37c6732bb15d742337a7bfce12"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 14).bin" size="91234080" crc="b8c04c6f" md5="de5777567e097b6322604affa5c7ce04" sha1="42e7903762d607a9651097a4ec31c89b81fb5a12"/>
+		<rom name="Korn - Life is Peachy (USA) (Track 15).bin" size="81797856" crc="5fec5da4" md5="af7cbcbcff624cee2f061c234fff37f8" sha1="0e05841ec6743d48fe1975408d538d77a6e69063"/>
+	</game>
+	<game name="Ladies &amp; Gentlemen - The Best of George Michael (Poland)" id="0024">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland).cue" size="3049" crc="6abc58f4" sha1="e1dab0c8a23a08718caa8bcebe825b2a46baa76f"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 01).bin" size="49996464" crc="d768b288" md5="1a9c41ac6ae6cc65875bc8c3a5c605a7" sha1="b22e65518df08cc9b818dc41241e4c56a2295311"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 02).bin" size="49751856" crc="b51b6629" md5="9c647feb9ca670d1686907d56eece8b5" sha1="c30f1c26bdac25cd0a5feec9a5bf5e147bf26f67"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 03).bin" size="57722784" crc="2d0d4cef" md5="71ff25213a2faa359ffb876cd623afcc" sha1="29c01780417b8eddbfee71a4e512c44039aec881"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 04).bin" size="39678240" crc="490261bd" md5="ed3ffe6c922f5f579e7bdff7c2d10e61" sha1="17122374157d40ca36390f04a23b2575335c8f9a"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 05).bin" size="68513760" crc="b55b881e" md5="476b098212dcee4be340678bea176c6e" sha1="9eec905bbb2b5bb42c47139f9e963b6003cfe880"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 06).bin" size="59376240" crc="51c4fa52" md5="651fe8b99cb1a0b9a5575f05a0161ba9" sha1="31102b7d3dc9c8cd814166be52a520b11da71308"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 07).bin" size="45024336" crc="8b09babe" md5="fa71dc85ead7a1f3b2d63e95d684b6a2" sha1="d062a8b406a235fb7c1523752c8ff22a9692d444"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 08).bin" size="48773424" crc="f037913d" md5="3b14bc6dcc5f2156980d6e3118eaf22d" sha1="7cad7750ae0e9b09e51723e50c427d4c95d9670f"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 09).bin" size="48364176" crc="56016c65" md5="3a16f334438d5709fc5592a3983ec299" sha1="c6e18e4eb52f3690b1fa013b456cae7951e1a00b"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 10).bin" size="53206944" crc="0cf9aa29" md5="dcc940837cd813c38391f25c67c40b1b" sha1="dd1fc224d09aeb1edf41b383d2e2981d92bc0fc0"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 11).bin" size="65086896" crc="c7cfa339" md5="d8884635059c31a0f5d9ac78cf15b94f" sha1="e2e8767aa66f1e55fe8e057be7572169441e00ea"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 12).bin" size="51167760" crc="fd0860f6" md5="c7d941dead1c9310f88b7af5fbf3a691" sha1="4cfb4c848d595b91ace6fb138ff95a5e7bb20647"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 13).bin" size="41983200" crc="6bca7552" md5="a74611bd775cfc7ffdfff13f06f55119" sha1="f280669a9e8d8b8c3b1607c60129f85241840ca7"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 14).bin" size="34308624" crc="5f3d0e67" md5="a9283cae5035f2c97b8ebb08959bb4c2" sha1="1f212f7bff6ea4f38c698c843ec8295186589a13"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 15).bin" size="66792096" crc="ae5c1f31" md5="13b37d08d7c85a2f2e463f8a3e48f6eb" sha1="4e386dddf2449250348a71a7d0ebcf71f8292686"/>
+		<rom name="Ladies &amp; Gentlemen - The Best of George Michael (Poland) (Track 16).bin" size="1176000" crc="a96333f6" md5="f7de8e96683d35399d057f7d3b8fe132" sha1="d5af571ce5b4f31e8ed5b7f03b0db46cb4dc2c5c"/>
+	</game>
+	<game name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA)" id="0006">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA).cue" size="2652" crc="3bbe2bd7" sha1="60f91f63b37381998d7afa21a7d2e9d2c6d9db25"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 01).bin" size="29329440" crc="2a89d8e9" md5="dec77c1283eb7de7df0f77d85ce9bda3" sha1="e2f6233199c70b6668fc38412ea33df58a280c8a"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 02).bin" size="70748160" crc="76869b5d" md5="c760416f665be257e423737e245ac5ed" sha1="a0acd0bb837781c1c96ad20934423ba6ed4df51c"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 03).bin" size="68424384" crc="03b4e0ca" md5="124766f4fa0b2272d4248e978777bece" sha1="c86bf678b74a716e2259908420f5bbd572e505b4"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 04).bin" size="26307120" crc="c2fb2565" md5="fe1e52c2e00da1ce07e33119cc5adfb6" sha1="43b287b94d78a018819012cd3dbb237a0050b833"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 05).bin" size="59023440" crc="7f3c7913" md5="0edaf86e58ea56748163020374f0771c" sha1="fb946509a9a81624842900a29e7dd245e59fad9d"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 06).bin" size="50116416" crc="29479ca0" md5="aeab803a3f33d700425545f1ac14a607" sha1="ef2bc3b8e2748a8e6e1a2fb26131dca8b90aec10"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 07).bin" size="25695600" crc="00cbc4e0" md5="088bc87b47b2335d54b739c72a4e72d1" sha1="7568575976e74759d4b793dde68e7ca58fe80deb"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 08).bin" size="78479184" crc="98c702f1" md5="ce64ed02bdb4a7c84b1ec3b2d6668c5d" sha1="fe5f0f7f601f014f21a62a5445ebf544f58bb3ab"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 09).bin" size="52092096" crc="024f35ca" md5="2b7432cfd1831ba27e74871cd61b170f" sha1="bdee9e7e5279f5872c80377cce6b5fa3cced2b46"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 10).bin" size="38996160" crc="4d872f21" md5="ab3b9ab3d1b1c8fee9a0f9d244ab7e18" sha1="514e4888e3a2a19163ab425ae7b1c20d0473ed1e"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 11).bin" size="62222160" crc="54135d8c" md5="95c5d3a2bc730310ee4acb6e789167ad" sha1="e701cad32e9455b92f0f46fa1bc7f69e394521a5"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 12).bin" size="75652080" crc="8fb660ff" md5="b603016010ac05a2226a6d435146e76b" sha1="10028f03e38348a0f4b988ade71ac2e22e2df3ae"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 13).bin" size="85130640" crc="89fb626d" md5="f92e1a8771485fd3027cdb103de652b1" sha1="eb1439bd789352c470604042af1977e007490ca1"/>
+		<rom name="Led Zeppelin - Early Days - The Best of Led Zeppelin Volume One (USA) (Track 14).bin" size="71298528" crc="bb954dca" md5="871ea12f674071b81b54afbdb1b7bc16" sha1="9021376ab4e36463f686ecedf7e27c2d9f2685d7"/>
+	</game>
+	<game name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe)" id="0017">
+		<category>Audio</category>
+		<description>Films, Music, Soundtracks</description>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe).cue" size="3703" crc="ad399edd" sha1="e306c9fd9d0184be92a0711a913334934c903020"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 01).bin" size="40917744" crc="5f05770f" md5="c18f9b546a1e18a26061492d851abe62" sha1="1811f10ae8f02310e3fdd69df42056c40532432c"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 02).bin" size="29795136" crc="9b8f9afc" md5="5e370a3aebbda8a12bd0cdae9259b030" sha1="c4e0b1002ab1f528cc30899454851b1eb337c502"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 03).bin" size="43312080" crc="04771b94" md5="6036fb3df59e1b15d23b6f7ddb7d7738" sha1="57a4ea06881b357dc55e2b6e08269a347ab44584"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 04).bin" size="29317680" crc="d60ce25a" md5="dab48d7770900a982ef3b5584bb9b064" sha1="83c2eb3b838d2343bf5b91a037e6d5cb352c89f4"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 05).bin" size="31486224" crc="050fbc1b" md5="677926407a4c4453a318a18291eb52af" sha1="0b97cf82e35b6d323235607b0fead2656762d913"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 06).bin" size="40473216" crc="7682f5cf" md5="86ddd6d5d65612b6d93a6a69f87b81bc" sha1="b223247655899965ab4c7a50580a2236bd8a672b"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 07).bin" size="34868400" crc="f5bb9da7" md5="0a867e27fba049f234838383dc2222c9" sha1="c57233912331f46026da2bf86f70e0967907f001"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 08).bin" size="34503840" crc="25676e00" md5="436a1269bacf4fe10653cbe875cbb271" sha1="5a4363b35ab82ff63d737ea023ee36175468caf5"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 09).bin" size="26170704" crc="18cc5878" md5="6ce686f06a9b584585e5c364d065f662" sha1="ff0ad1fcfb9e9866cd04042218f205a2e8611fad"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 10).bin" size="28877856" crc="6fc187ec" md5="2ba61a47157521428336420c0153e1a3" sha1="b15a3f7ba0670ad0c18d95b3d2ce7fbcf5ef226a"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 11).bin" size="39071424" crc="c336ec9c" md5="5ff04542c7b891657d2a8de7a5496c93" sha1="69283b798a3d13dccb35dd5412c00ac7cf3e3c35"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 12).bin" size="41108256" crc="85ecf8b6" md5="cf8fdbae5da6140f4e7461c425301506" sha1="957136f2985e88cf8b949f070d654435e38a2a81"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 13).bin" size="57753360" crc="4cdac1b5" md5="a539e2564207c29aa3013010407c4f9c" sha1="a8888181288bea12cd18e7ef2260fbbee100dc64"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 14).bin" size="54284160" crc="1cb75637" md5="660f82dc0052eb900ddfaf5d3ee03c0a" sha1="6a898a5389669ebd7e67334f5d3b4717211363bc"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 15).bin" size="48820464" crc="87a223ed" md5="064158efa4e0869abc49c3818b956cd2" sha1="b7359ec4a6239113999082cc4f78e2dc4b1e3bf5"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 16).bin" size="34515600" crc="a39d8e2a" md5="83b2afb8be517c1791aad376f087baab" sha1="3176958fcc3b2d182e1d1932cf442f2a550b61fe"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 17).bin" size="53103456" crc="1b371a8f" md5="aee623bbaa59d66ef2afc01643017626" sha1="5a607adf1297d25dcdae35923b9c8530ba735500"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 18).bin" size="39866400" crc="32604270" md5="bef9a44c7d0e04a1a7224cdd9c9d6c43" sha1="b735a101ce5bb8cb92fa5527d933cacb4031eb62"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 19).bin" size="61975200" crc="628e11fe" md5="2dffdb3b0a99be56ec42f1cb13a97ecd" sha1="412829b7b09336c139b3a35533b98d3ee6df9392"/>
+		<rom name="Lord of the Rings, The - The Two Towers - Original Motion Picture Soundtrack (Europe) (Track 20).bin" size="37747248" crc="8a924e91" md5="23fb979a1f9910aa546ae4d9923aa431" sha1="2fe195855195abc1eee5e3d2789cb79a697328ab"/>
+	</game>
+	<game name="MGMT - Oracular Spectacular (USA)" id="0013">
+		<category>Audio</category>
+		<description>Multimedia, Music</description>
+		<rom name="MGMT - Oracular Spectacular (USA).cue" size="1872" crc="779d7114" sha1="f038eea29f2ee5e504c5962786db213319c4b926"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 01).bin" size="46040400" crc="833c826f" md5="4fe06842dd94927efaf9a6e79cd2c966" sha1="c9d5c02b882be7c52774ba4fa30092f342b9d968"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 02).bin" size="44236416" crc="d3844acf" md5="85937e8d619e5a7a308eb9434375c3b6" sha1="55656dcf3cc72d9fad62f4bad1f685f4a9ba136d"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 03).bin" size="40477920" crc="9121ff88" md5="7595bda383b79fbe6e4e385da2c6c4c4" sha1="7e4185c821ba6c35c9baebd327288f6b47ec5838"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 04).bin" size="40508496" crc="04d81724" md5="8f9c61d2d3a67eac72f46a133abc260d" sha1="df6bc430a36872e5ca8810861c855eb0ab113540"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 05).bin" size="53420976" crc="2ec8f2e6" md5="e61f7950d4f91d2d4e68175cf18b9fc9" sha1="4c3632aa385c71326fc8dca435c7002c73b26bbb"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 06).bin" size="41985552" crc="8e25c7fe" md5="aa263e52bee362fab095034266c81f96" sha1="760eadb45b04606584e26b93ae97959d448aeecd"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 07).bin" size="28889616" crc="277600ad" md5="d209d9993912ea39e6c508aa7672e758" sha1="2a9e636bcef8c4e627e4c82181dc4ad34aa26366"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 08).bin" size="50577408" crc="0cd63abf" md5="97e73c3d3a09b40799b956529ea02936" sha1="663a9c2ef160b37aa85e6ae96f99dcb384e8b6c6"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 09).bin" size="38742144" crc="56805bf9" md5="9c3d8546e85327815037deed27b05451" sha1="ccb81a78a35b25d7ed25cd4e5b5369dbf96d1bd3"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 10).bin" size="42380688" crc="665964a0" md5="08c218796a800f5a88a3ba0c3ade2a61" sha1="81c1f33cf2371eb4ec905315405f2f5b07f15267"/>
+		<rom name="MGMT - Oracular Spectacular (USA) (Track 11).bin" size="316830864" crc="bd18b5d4" md5="3724022b2f0458a109fc79fd27750d91" sha1="e41226974c61b4227b083a0ca68b453d512934bf"/>
+	</game>
+	<game name="Monster Magnet - Dopes to Infinity (USA)" id="0009">
+		<category>Audio</category>
+		<description>Music, Pre-Gap</description>
+		<rom name="Monster Magnet - Dopes to Infinity (USA).cue" size="1418" crc="20eb8e19" sha1="7d8712b832d41dd6372b1e6ce94b638eaef04128"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 01).bin" size="92485344" crc="71088b0b" md5="ffd0ac42935928f404d3577995162540" sha1="0ce785dea377635c475e2e9b2fd2dad792744d02"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 02).bin" size="47317536" crc="5ff03807" md5="13671e1a6a0d14eacc8ec815dd5ecad1" sha1="48ecc5d3a642f446f2903dee3d24b098f11c301e"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 03).bin" size="69219360" crc="6b7d5985" md5="72d94ed5506c8d58cbfdb9d93b8ec6ff" sha1="01bde18c363bdc724a0e97a231fa03d81dee210a"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 04).bin" size="59710224" crc="c5de4ed6" md5="df2b80b6a5171cdf27c394fc599e6015" sha1="b8166f7a56ae9d8bba3920099852749920fe5e36"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 05).bin" size="54237120" crc="f15b1747" md5="a334d85cd5f903d25f7d783a3899739e" sha1="288c903108a52d0051d7b9b1d68ace398194cada"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 06).bin" size="40285056" crc="aad5f37f" md5="7688b4a454eba9ec8a2125afa6d8a361" sha1="611ade4bc9b5b3e6ecc2dc9eefbc8dfd99ae0e06"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 07).bin" size="91191744" crc="a13df84b" md5="ac35af17c243ba782317dde1c2ef1d72" sha1="6ddab638b564c738e9de4373df7cca03d23a7124"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 08).bin" size="35016576" crc="d37e0010" md5="97ecdd591b2c6f0ffd2920dd6cffa4ea" sha1="351a67feebf3df8025130e15218b3bbd462a27f3"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 09).bin" size="48251280" crc="287fdaa4" md5="e5df4e26d34ab59d77e534fc5449e50e" sha1="10b616efffa54838881327a562dc1956e87ea5f4"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 10).bin" size="41376384" crc="c5a2b940" md5="dc79572e1611f8348c9231e45776890e" sha1="89f7d8f1dafd09610342808a6b3f319228c99ed3"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 11).bin" size="54138336" crc="fc4b2553" md5="563f245c1058761acab682dd101baac6" sha1="e5125164565c50c1205c1f02546f6e73e03d6635"/>
+		<rom name="Monster Magnet - Dopes to Infinity (USA) (Track 12).bin" size="60204144" crc="91ee5ef3" md5="5a698ea9bc28acbb81d986a55008e009" sha1="eda4b78ae5354899beb7ac3d724da66ded716a37"/>
+	</game>
+	<game name="My Morning Jacket - Z (USA)" id="0033">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="My Morning Jacket - Z (USA).cue" size="1646" crc="05bf813f" sha1="9f5c4c84e4d7823c4aa540ddf4207db966b13a63"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 01).bin" size="44582160" crc="09e3fb4c" md5="849cd449e0065a6847706a7fc3ab61ac" sha1="abbf51b15631ce789b402e0772f412858b9eeeaa"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 02).bin" size="40042800" crc="e9a80bb8" md5="152543b4fed4c0566500e3503dfa0e13" sha1="dbd35083af5ec045f37b5a08d9a8b970db74fd08"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 03).bin" size="38643360" crc="d44f102d" md5="8a29cc51ac84d3b9cb64c3342066e7c1" sha1="b37d59026af57e7a91cc16a33d4887003d9cc569"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 04).bin" size="25589760" crc="68b0df8a" md5="8e25aa793e537a5c4d45b0a75ba6935a" sha1="26520449f20259a7f9d291fa73b47904472e4e6e"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 05).bin" size="58952880" crc="42ead41e" md5="28bd4379623723f31f49ed6158812720" sha1="c33b570161cfb6637b4b6b28c5afb8ddf0d199ea"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 06).bin" size="56570304" crc="e0f702a8" md5="7924156a300a811b8c917e4bd4cab0ed" sha1="c1081532f84f1f6ddeb979fe4bfd9e1910304cea"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 07).bin" size="41606880" crc="e9be20da" md5="daf41f20ee5e98d5f98a64fe5ff28336" sha1="fd83aa99c6c0e058b55d940e595e3ae03b3a7722"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 08).bin" size="64480080" crc="5f8efdcb" md5="c723d03f9e74e0aa00c26f0f3e201fd1" sha1="8b0e555c3f680c2af84e195d5916c4fb0a102d23"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 09).bin" size="42171360" crc="b93082d1" md5="732fed0ef96eb7e38c2f7e0c72273058" sha1="53495b2396c23082aa1f83e45117ae9c98f267ab"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 10).bin" size="85723344" crc="55e0f9c0" md5="a59e39209ce9f91a4ba92a20498ce71f" sha1="0d376256321a09073aec24893449e4b69c361b13"/>
+		<rom name="My Morning Jacket - Z (USA) (Track AA.1).bin" size="15876000" crc="22ee4a2a" md5="c1dc35f27a0f9d2314f637497d055169" sha1="dd6968e8d779a1bbeb02d753379db270b8d62f9b"/>
+		<rom name="My Morning Jacket - Z (USA) (Track 11).bin" size="25613280" crc="10c5c005" md5="9f24bac656cb44781ebc027f06f43e35" sha1="fed1b5101f3980dad4429be81ea0dbadf4b77253"/>
+	</game>
+	<game name="Our Lady Peace - Healthy In Paranoid Times (USA)" id="0032">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA).cue" size="2417" crc="03fc0f3d" sha1="608d4db560966945108d758d5039e08510af7fb1"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 01).bin" size="47947872" crc="fb0700f4" md5="13d999ee8d436a0935069825a382b7d4" sha1="077738a0f8d67f0e4d0cc5709a6d6931d4bd6e5f"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 02).bin" size="46922400" crc="3724fcce" md5="f6a6ae3c6c2e1bd4efb25f7d013a71be" sha1="30411cc11723924b4ebe422a105e162dd10061a2"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 03).bin" size="38038896" crc="c5c3a7b3" md5="11403e52d4ee9867a8df5ba764d41213" sha1="150abc509093e323d3e8bf3b85e64d0d5b7967c1"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 04).bin" size="43502592" crc="1454c97b" md5="9c7431957cfca6c4bddcb932833431b8" sha1="9dcaf1040f7374e17773173661095af9ff7ad1bb"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 05).bin" size="46583712" crc="324af3c1" md5="5aac9641531e2ab72fb3588bd84c9c66" sha1="1ec8af30ba5764286c62f2110f0ebadb9ebdda21"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 06).bin" size="35503440" crc="6cb42783" md5="e9f119f11032402725c368240640838c" sha1="6d521af67d116d889b0bf92a2cb585a3348d28b6"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 07).bin" size="48604080" crc="fb38e8e3" md5="2088022d20bab8d8a8feea66832ffae1" sha1="33fc9a44cc94a6514ba097d063a80caec3852da7"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 08).bin" size="40012224" crc="40c9f63d" md5="e32a2e1863d262882cdb8883db2abafe" sha1="c7612c37daa10aa173863f383fae0ca0e834ad26"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 09).bin" size="36211392" crc="e5a6a443" md5="96e988cd067e7bf95a1f9b85f3e8e613" sha1="c8a4c953adb9026acf02340023538cea1c02da57"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 10).bin" size="39805248" crc="5c5f8dc9" md5="9714a3eccc0b5d107da4243f86c66ad8" sha1="352c74a7e3b479184632643ab39b5f7a4f15f279"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 11).bin" size="37648464" crc="40192784" md5="b6aa97ea24ba1e765759b74a47cd84eb" sha1="22b5bbf0a39a325c52b921010c4645e0d1cc271a"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 12).bin" size="23757552" crc="679e339d" md5="5a3dcea7416391e0990da47b03e53686" sha1="2160b25dfb4febd3bdd1a3d9f47aaf24154c5aef"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 13).bin" size="109930128" crc="b9ec5d3b" md5="c9463accdcdaa3a117c249e2caed2eed" sha1="ec06a0a18abe2d531e132ca36eebc61877965b19"/>
+		<rom name="Our Lady Peace - Healthy In Paranoid Times (USA) (Track 14).bin" size="1764000" crc="eec8b915" md5="38ecfa836202b6792f76ef384786cda9" sha1="b9c4c7ec1e407fed52a1cf8763eb4560a16ca366"/>
+	</game>
+	<game name="Pinocchio - Mein Album! (Germany)" id="0028">
+		<category>Audio</category>
+		<description>Multisession, Music</description>
+		<rom name="Pinocchio - Mein Album! (Germany).cue" size="2098" crc="3ba23c4b" sha1="799c37d6a0ee6a6502952a2a0efe0e440098069b"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 01).bin" size="8022672" crc="ed520994" md5="31c3efced6f90875dee4e4450a0ab0aa" sha1="5d8a5e47562e00c21bbf09fe5a549dd15b383b28"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 02).bin" size="34741392" crc="49af908d" md5="2fc161d3be733f01fb9596c09947e761" sha1="4d90da9edee854422d335e18cfa16b822dbf14b1"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 03).bin" size="35898576" crc="9e5b086f" md5="eda43dc39934a8bd395e9685314ae29f" sha1="61b950a7e66c1b77eb21144634567e243ddd1d7b"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 04).bin" size="36197280" crc="f37d2607" md5="6584904c269c5876b48cb4ac88ccbd8f" sha1="f713af7a1e0ffc25d7ad74225f6ad47e946b9ca8"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 05).bin" size="38158848" crc="931b1a35" md5="b0bb58ff6093411287999e4c6911d34c" sha1="ae37d19bb05ad15b53d533d2cf3d56d8435e13d3"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 06).bin" size="31100496" crc="e9e40cde" md5="ab8890affad49a15d200a2e504888491" sha1="743f67dd91aed4f68bf938d92a34b15db1c9de3e"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 07).bin" size="32111856" crc="6b9bcfb0" md5="7a60554188973e1f9fdb29a4bac804ca" sha1="c5d184cede277a31c3ef48cb0dc0b0d92273b65d"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 08).bin" size="24877104" crc="c02c1651" md5="02c7d272f1c13ef810a180b363d29053" sha1="2459d6bb98cd9ca8ac58b854f7059d0cdaa670b3"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 09).bin" size="28080528" crc="54c5977d" md5="ccdf47cdbd535b2a7b8e6b7cecafdb1d" sha1="cfe5dbe7108f0d19e11d2d47b75c809a14719705"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 10).bin" size="35896224" crc="8745f54f" md5="267aebd4f51d1533c87361e560c17212" sha1="24a39625c749def2e79c1238482029e637f7fa60"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 11).bin" size="45642912" crc="d5432f9c" md5="fca1234bfd51ee5fa294ff66571f1c46" sha1="793c0b6c8cedcbc8794d6affce4a7d3928bdb625"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 12).bin" size="15019872" crc="694afa4b" md5="14d8f87c7ee44ae35363a5e880ced5eb" sha1="c47f6f742ebb66a64a6f99957523b7da7421fa6e"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 13).bin" size="36514800" crc="6e64f546" md5="27da8ecc50a01f7184dc09ccc8722f02" sha1="b094b45a63364b9dba5c197ad824c99b94b0a457"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track AA.1).bin" size="15871296" crc="6186a425" md5="46b5b365cb79f53208c0423f0291c92c" sha1="ebb492c7f82dc1b4bdfbceb2ca7fbcffec723cc6"/>
+		<rom name="Pinocchio - Mein Album! (Germany) (Track 14).bin" size="353787840" crc="749a6983" md5="10bcd5ad260e0c73132df8c85e319a0f" sha1="1a04a38586daa1f5ce7de1335477a41f713f30f9"/>
+	</game>
+	<game name="Pokemon - 2.B.A. Master (USA)" id="0005">
+		<category>Audio</category>
+		<description>Music, Soundtracks, Television</description>
+		<rom name="Pokemon - 2.B.A. Master (USA).cue" size="1793" crc="3016136a" sha1="ec7c8ebc171ece730cf2b616e49ce2144f2d5596"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 01).bin" size="34607328" crc="73877c00" md5="0fc755cb876cf9e391bd1ebd1b56eb4b" sha1="8bbddc0413a5ca9179dfb9d1f8e54cb5e8db4cf1"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 02).bin" size="43039248" crc="de224227" md5="2a5363f9fa610d06689bb4444e1718d3" sha1="a43bda625e4de606379413dd0c7d1400027a4d5b"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 03).bin" size="36952272" crc="8e5db1ee" md5="ba40a51393f7a92f1ace63c5546a6e32" sha1="465bc9ab395d26122ff2ae09ace51aa8ce39ffc1"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 04).bin" size="38991456" crc="5f3d174d" md5="c61ba1b45795908d83b25009dcaea88e" sha1="aba80617485d0ecd0032ef0bea92fffcd47124b7"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 05).bin" size="36959328" crc="99e21df6" md5="a3cdfb471ad8255040d7d9cb03a0709d" sha1="09a79a4985aaae3f1a34b9f53fe4324ddce2475e"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 06).bin" size="49544880" crc="30f0eb34" md5="13179c00e1950e1144c2d56c09795b1b" sha1="f5c257fc0ceded4545bf8c50f4bc80ff3a774bc8"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 07).bin" size="32723376" crc="081bc03a" md5="3ea3c1204dcce3d07edcd1b44abc9ba0" sha1="e2cafc3c3ad6b7236d6b0b5103b0d7832f1a6ab5"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 08).bin" size="41221152" crc="e48fae3b" md5="6ef2ac6b1688f72b1176f3fa54494632" sha1="d5c05a31f1ae1dcb8688f281675d0ee66ca2c6a0"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 09).bin" size="41098848" crc="35988805" md5="520b4dfd9dc9ea80445f35d16d29bdf6" sha1="7822a1ddd5cf824ce0264e37ab28134b997e25d2"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 10).bin" size="41533968" crc="0942eb8d" md5="2c4699d5125cb2e4d1c666327e77f503" sha1="c519da8b0c488a8bdc72bfca27f2005b6fecad32"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 11).bin" size="49942368" crc="2246e88c" md5="79c7bb7a440b58b521509cc0a36dae4c" sha1="ed0bec32d2c51ce6e6a1414373807d6060834731"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 12).bin" size="32290608" crc="f3637b92" md5="f6b195af02c17574d477f892cb5f6cd2" sha1="b23e7caaca073979b13152596c5a34de09dcc199"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 13).bin" size="33831168" crc="ee25f440" md5="b565879898ad0798dedf6274d95ef941" sha1="83a57033189fc2d9f91876ad4f35d4af625df7d0"/>
+		<rom name="Pokemon - 2.B.A. Master (USA) (Track 14).bin" size="75682656" crc="7e5613d1" md5="96dc2839730acef1a66a1fab9117baaf" sha1="2680e34b298509fba766c48e48f98d9beda53888"/>
+	</game>
+	<game name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9)" id="0015">
+		<category>Audio</category>
+		<category>Video</category>
+		<description>Archival, Audiobooks, Historical, Literature</description>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9).cue" size="2788" crc="17a04d1c" sha1="74bab44ba1d5f5bfba38a35b599202c5b844c6cd"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 01).bin" size="17743488" crc="bdf1426c" md5="f8943711114ad16ae96680a59c1f3cd6" sha1="62589b6400d10230b4785c536263c49129a635c6"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 02).bin" size="53644416" crc="c3c37f29" md5="ea4dfafebdd799198429dd496d57d9e7" sha1="a2ba9339538810111c9c0a65ab8e9efce604f56d"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 03).bin" size="48674640" crc="8b847ffb" md5="5780cf1e39eb29871fae12120612c817" sha1="f72964a0eb959ee4c98c213e11c6fdde973faf43"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 04).bin" size="48107808" crc="8ba0e8cd" md5="e2da988df292d99eed15118d12e65940" sha1="03c26064a4ad164648b967edcb7b73c63ada24d5"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 05).bin" size="50885520" crc="e82901e1" md5="35ba538b9cb109576654e990c17b79f3" sha1="764e7caceb3573710ee58f7983cae50bc76d93b5"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 06).bin" size="15024576" crc="a2345d49" md5="d276d044c77556c35b017688d292eee3" sha1="397fa7ae955d4f0d5abf23eb58cf5f1e83363307"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 07).bin" size="40132176" crc="ce632088" md5="6c2985859fd6fdf5cbc1985a89657d5a" sha1="19a5230ff3023612f26d9d3e1ba16a8884f3da8b"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 08).bin" size="48427680" crc="11165740" md5="2646fb689e8de0d96b43f3ba88c53da3" sha1="d51c321eb7bfa2dbfd6fd374994888dd80d5b16e"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 09).bin" size="34108704" crc="4c7dc7c7" md5="d33aa73fe4c7388b3923da4a41bd2a36" sha1="75815d5b2741f948cb7f1daf55a404ed600312f8"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 10).bin" size="29816304" crc="80bf2d2e" md5="b201d84af5ec4927de53b7f5252f0a21" sha1="8ecd1c7b54ab841c67c3c60491783643d220350d"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 11).bin" size="44608032" crc="ca63e762" md5="7347fdc3afb329d4c8895f876e1b1dc2" sha1="971e6bd0bdf4920b1e1b707d7d2ac7ea198d5fd0"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 12).bin" size="40405008" crc="d35e9a89" md5="025e3abb2f800c498083b88ee7abeee1" sha1="d7328d3e3fc15f75966be33212f2574af217ee1c"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 13).bin" size="30597168" crc="3a00e108" md5="78d8e6ef8000b2e706d71d50061d1366" sha1="bd65494ce5c43e732f7014774ee37af920932d46"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 14).bin" size="48709920" crc="25936dbd" md5="be5cf4de7ffd4d8d6004ce28b64f086d" sha1="6738b599d4d6fad8fd35cbdeadd999c812d753bc"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 15).bin" size="41849136" crc="148f2afa" md5="9b3e5add9197a1d1c24ceed1b2d12ee0" sha1="b7e7b119eb96c3c65d1ebd3e5a198c00efb2df89"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 16).bin" size="46339104" crc="095a7c2a" md5="f5778a24493e25b287aaa47a4a8964c8" sha1="0b456d3d9cf60e027b927718ea4bb1d78466bbbb"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 17).bin" size="52007424" crc="0dbd4ca1" md5="4f10dc60898051712fac1e1ba805617f" sha1="003008162704447b2483fbcdf00e3c4534b02fc5"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 18).bin" size="43178016" crc="db0ce400" md5="08f652c5f07a29bb60ecbbfe2edc4af6" sha1="30907d2c754265fc3ae6644145922e6042b8d640"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 19).bin" size="23795184" crc="4cf7fa54" md5="e12455ab3997516bb5c1649cb1fc9d51" sha1="24b8608e0017e8c5a295e3176e9d5983f9ed45dd"/>
+		<rom name="Powers, Ron - Mark Twain - A Life (USA) (Disc 9) (Track 20).bin" size="31512096" crc="60e5a066" md5="c27b54768b0eee13bfcd4b41a0f18d8a" sha1="a6c9b0b4917c26f147fe29ed6139d5fee91500eb"/>
+	</game>
+	<game name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8)" id="0016">
+		<category>Audio</category>
+		<category>Documents</category>
+		<description>Audiobooks, Business &amp; Finance, Educational</description>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8).cue" size="2077" crc="f78546b7" sha1="87e6df9b236cf27a5e8ce5823e67d2c0856bbc12"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 01).bin" size="81816672" crc="8716e5d3" md5="add82a75c550e2114dab84d5197e70d8" sha1="6fe1999dac509e91874d521e5ce5162c8b7f1116"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 02).bin" size="43669584" crc="2b0f20fa" md5="41b2aad43b71d09afa1e752cfd687522" sha1="977ae239d81ea8afebb1f8dcbad1c8b7a4408077"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 03).bin" size="54575808" crc="48e209f0" md5="43234df5d07763a86a14d08a33e8ee1d" sha1="3508784c9b349ddc6b903d3497397e73a689e39e"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 04).bin" size="71489040" crc="5f76a08f" md5="21ada6ef117ac08f7692df24663887eb" sha1="9582993fe6add17109b8e5adf151a8dcd13cc895"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 05).bin" size="34887216" crc="863aa898" md5="17041174cc487143dc2648e54b895fff" sha1="760bbfb3c10491b287b08fe97373e1e36bf015f0"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 06).bin" size="64647072" crc="b8a74f2c" md5="56a49308aec42422a2d7611836b5517f" sha1="3409416583065b25a54908ca8f6f2950b404d4b9"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 07).bin" size="92664096" crc="d943a189" md5="4198fd2a15f004af9a3716b09bef465d" sha1="0ef99e7349a7e6e8e9fa5a17343f99ed4c7b4a31"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 08).bin" size="56638512" crc="67e7df03" md5="a76b56fcac83f4cc0dc620675802fc7a" sha1="8c66386fce75fd9ff4549fde4b5f1dd9a5f75287"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 09).bin" size="68271504" crc="02d3dc7f" md5="dfabadef5aef2ef83f45cee3f8b092a6" sha1="6960e4d6263079c9585f77c0fde8f1a4064a82c9"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 10).bin" size="41406960" crc="6478d71d" md5="1396d90d508d20516228757e270a9a0a" sha1="9f30b0f80a7db747f9c82040de9b570a32d5504a"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 11).bin" size="69837936" crc="d8becaee" md5="cd7da515bfef183fa90a429f0347c110" sha1="96c8d19b68bd4ea8120235b9e2ce653455542178"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 12).bin" size="46477872" crc="5310a470" md5="3218eb736495da729a5a020ba5bd3933" sha1="204ec6744d715c1c08feb62256e54925e9ff1b0b"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 13).bin" size="37220400" crc="9915375d" md5="ef2293db880eacabb6f0b5c9a9c06d5c" sha1="94ba3c3e3b4c7ff7d4a8deb4b306f1e6999ff162"/>
+		<rom name="Schmidt, Eric &amp; Rosenberg, Jonathan - How Google Works (USA) (Disc 8) (Track 14).bin" size="5169696" crc="f9c646e2" md5="a302887e0e65aa35a13ae73e86e79401" sha1="199df2e72b633a2ece3d04f6b9d1f5227876add6"/>
+	</game>
+	<game name="Silverchair - Freak Show (USA)" id="0022">
+		<category>Audio</category>
+		<category>Multimedia</category>
+		<description>Multimedia, Music</description>
+		<rom name="Silverchair - Freak Show (USA).cue" size="1807" crc="ffd6783b" sha1="e65296e2eafaef4b9372e1b1926eb8196cf0da13"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 01).bin" size="41606880" crc="0f0dad6b" md5="bf28addc25859576ce19225fbff16bf7" sha1="3dc34f27335ae124e4f613cbd010e0b1871b1fb3"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 02).bin" size="40266240" crc="31dc928e" md5="cfe3c47053599bbd1375a4f539b7c35f" sha1="552419948b7af319ee590b8f2aa57cfdcd5258f7"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 03).bin" size="42888720" crc="5a72ba46" md5="450ce8cf70117835f551838f1abcf5c7" sha1="c27cfe91261d872a0a0cc7ff3e484bd480d2f4fb"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 04).bin" size="14617680" crc="24e42fe1" md5="e543074556ce7622ce56eb7978748d73" sha1="0da1d1d4edc153e984ba586204565602ce91732c"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 05).bin" size="41329344" crc="f83a9874" md5="158a6b44c1f897a8ba15035e3235e4b0" sha1="7ab65f6deb873e87626dff6bf1001f5caa2bda70"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 06).bin" size="43523760" crc="ebdb05d1" md5="9611f1902b39e126811d0c2aaf9c44c5" sha1="ff57291a76bf43f0472cbd3b13b6006c1c3ba893"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 07).bin" size="38243520" crc="564dfc45" md5="dfebd26d947bb491107b01d5ec8b9559" sha1="21c52781b558308e35763e709da12811f1f77413"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 08).bin" size="34637904" crc="5f807243" md5="15ef1a0ebff2bdf3c1768e3342f46c75" sha1="3244a440593cd7ada505d1c8a838ab291b9d500a"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 09).bin" size="46346160" crc="174d2b96" md5="e82f54304cc0fb73ec26cbfffae9e7fb" sha1="f67d725db22b69799db8d369423b40f8561ddd90"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 10).bin" size="42324240" crc="e9ab4fd9" md5="e719c2865ecedf40bf9f8362989dc2f9" sha1="0fb89cd30fb28f8a5431559ba78b71ad2b317b4c"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 11).bin" size="37072224" crc="164b3a9a" md5="142a481c3c5efee3910756cb805e0734" sha1="d9dd3a2e4809d5d7f8335dfa31138b50b18efa1f"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 12).bin" size="66032400" crc="74d814d3" md5="abb7f8f737c6d3c5c47dca4f1ed0ed9d" sha1="099f4f6c25a33ce03177a8d7bde042a77546dc11"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 13).bin" size="37149840" crc="c8c13f5e" md5="f545f0872d62b42440c0381969407997" sha1="509e2132039269b35f509b30f8f1c58472248054"/>
+		<rom name="Silverchair - Freak Show (USA) (Track 14).bin" size="187783680" crc="e708ec05" md5="02a9a0452c97e56ceb933684c93088f7" sha1="21401c3914e01819d5c88995b9ab686dadb8e4b0"/>
+	</game>
+	<game name="Squirrel Nut Zippers - Hot (USA)" id="0014">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="Squirrel Nut Zippers - Hot (USA).cue" size="1455" crc="6efe1726" sha1="0ed3cb0ac5fb32a39ed6cabbf2dd8a1e12314225"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 01).bin" size="26619936" crc="c466fa16" md5="c37e3e91414c96aceb5730bc67fc8745" sha1="5fb3abf7322667eb59d706ee58c4cfa734238c95"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 02).bin" size="28082880" crc="faa3ef62" md5="59c6229de7bbf7895763e6baa8f552f5" sha1="58e6b65f8922f392173cd9a8d582624a22a202af"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 03).bin" size="25512144" crc="85144613" md5="c81e8bdea0f744961c81b8ab5df45bfd" sha1="d6ffa7d11155efcd28e3dac640745501a1376c7a"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 04).bin" size="37878960" crc="5872d181" md5="ca6a94702df647435ae0d1c6b2766f3e" sha1="16a928570ea7412aaf66185bd4e682730d9d60bb"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 05).bin" size="33233760" crc="2e43f803" md5="cbd489a4a82e1fcf789782c27d5b725b" sha1="1f430da6a0a3a034a1a288edd4979a7776bc87dd"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 06).bin" size="30606576" crc="39e0fe8e" md5="f175f2aad16f8e73b8c4b1b20066c649" sha1="03ae16bb206dd2bc1c3aa3621bb8a68382b7891f"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 07).bin" size="34038144" crc="ebd91724" md5="39833a99621179c845c19bf34575d5ee" sha1="b6e1ac10851bdece5d6a4a40806215bbfded0a6c"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 08).bin" size="33852336" crc="50d6f4b9" md5="e140bfa9099b7c13e393b0b24aaf9539" sha1="a42692c4ee23b7d068fa4779a9c50b2efdbda928"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 09).bin" size="40313280" crc="5d0f94ea" md5="15adc960f28806b826e80d629196b7f8" sha1="e3736b685cba5270d13542e60789251f8d4d62b1"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 10).bin" size="40971840" crc="9dae5cb8" md5="59eb57dfbdd4a2483a87d2ed1b87446f" sha1="0f60deaa9a4751fa17591d1007f25121edfc07e8"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 11).bin" size="48568800" crc="0c0be3c0" md5="422e479d3907f54b03f977a77207fe55" sha1="679869f6167a3c12c6b5300dcb0e9a1f464fd45c"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 12).bin" size="29635200" crc="d2c05498" md5="78ef37aa7efe477ea0d86d652dc1528f" sha1="688a64b078ba7d3dab52a1954c542176e9ba1326"/>
+		<rom name="Squirrel Nut Zippers - Hot (USA) (Track 13).bin" size="347879616" crc="293a920e" md5="7b17134dec8c76b11f3a072cdda74d59" sha1="4ad291e3bb03165a46e78c9a626ade72010d430b"/>
+	</game>
+	<game name="The Dead 60s - The Dead 60s (USA)" id="0031">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="The Dead 60s - The Dead 60s (USA).cue" size="2585" crc="3acc5c00" sha1="b60660cfb01f254e33e87a1d107134f5f42d2860"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 01).bin" size="25152288" crc="ddca5fdf" md5="c2f7bca8adbe640756a3574a50266409" sha1="b0694ded2cc9ea83f2dffad25f55cc61f33e4356"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 02).bin" size="16628640" crc="2a83bedb" md5="38ed371329a6d4c534d78dd0fe96dbef" sha1="9ace929d9ebb1b790bc8efc76f72fd482d9e5732"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 03).bin" size="34031088" crc="855cfef5" md5="d32f97b7e7abaab8d09408951005a24b" sha1="72f48e230c65584d9e13f9aa8bbc946ae987216c"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 04).bin" size="33076176" crc="467319d2" md5="deae8463580aa50f444468ffcc9fe7eb" sha1="78d3d44f768c31a0643ac3b9dcbf6b4747703455"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 05).bin" size="33751200" crc="9af094bc" md5="c5fee55a1f39919986dd51a6c037bdfb" sha1="f95ac74b7252712c2fa0e007399cd0c23eb7b3e5"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 06).bin" size="28238112" crc="5d0332e5" md5="1eafadfec3821e7534047144122605f5" sha1="c74bfbc057681632969630384f168c10abb18735"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 07).bin" size="29508192" crc="2d245b3b" md5="3d193efc331848bdc22dbec62c574c5f" sha1="c7dc3f0892520f6edccc89d084ec0f6c7a9e7839"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 08).bin" size="24597216" crc="f97db2de" md5="be0383bc7848d622c67804be27d39927" sha1="b7aeddc5e280fa7dbc0c62544fda1dc35ec2d8b4"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 09).bin" size="39294864" crc="0bbe2840" md5="05ddfe2ded26498c42cd6a8342cf1452" sha1="f50e61975d5f45d6545641d3c10ea97f67ce68de"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 10).bin" size="20744640" crc="b87171ae" md5="131a9f6cd162289dc078c3a7b7f712e8" sha1="a9dd4f8ecd456d6f3c9bc751ca51caeff600779d"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 11).bin" size="33102048" crc="8b843f0d" md5="d7a64df22130833fe49abe972142d19e" sha1="527ce10ca24f2a968ed4ac92bf98d57b4fe071dc"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 12).bin" size="31079328" crc="833544b4" md5="d05fd63839f5cc0678e50371ee42a793" sha1="855745db36a98d5b235ae6b3cdfd2e34c573d928"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 13).bin" size="30766512" crc="56fdd144" md5="be78e371ef5cf4f6e215c07524f4f717" sha1="eb79b3364a475ca06f8da36e59c8f5ee5779800e"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track AA.1).bin" size="15878352" crc="927a8333" md5="ae198577ba8379f136cc6d65375b8b49" sha1="29e4015c8aa51ce99f693514a4c356d555d92a89"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 14).bin" size="110395824" crc="7d5f7f59" md5="ace73cb372e4df9dad3ad96774cf0d22" sha1="d874e5391f23e03f2c80f28a7f41fdde3450285c"/>
+		<rom name="The Dead 60s - The Dead 60s (USA) (Track 15).bin" size="1411200" crc="e7aa1c10" md5="46fe7dffb9903b9aef144378ebe528b4" sha1="0fd12515b1d5cbe8a85cff93b695faacfdf6fe52"/>
+	</game>
+	<game name="Velvet Revolver - Contraband (USA)" id="0012">
+		<category>Audio</category>
+		<category>Multimedia</category>
+		<description>Music</description>
+		<rom name="Velvet Revolver - Contraband (USA).cue" size="2047" crc="761ec7ec" sha1="045169a5a0e499b704644617d1a0071a26f3535d"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 01).bin" size="47235216" crc="767528fa" md5="de8a931594de63c9ffbaf277bfc2facc" sha1="52420c74435a280bfb7db97ec8f068f99c796116"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 02).bin" size="41599824" crc="66e6520a" md5="bb3436087e08b3314ac12ad19b7242a0" sha1="4a04af79534883bf23ea4951171eaac553a912b5"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 03).bin" size="46840080" crc="d9f96037" md5="b3cb165886b37b6005d714da56ad6c87" sha1="ca9e0fca72210b760b2a9a0e69620181e2a02b36"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 04).bin" size="45308928" crc="5159531a" md5="0d44a2b5966219fad88152e07322823e" sha1="80df5e402cb4e69ba0755635cb7c31c093672ae2"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 05).bin" size="39031440" crc="6dac0b67" md5="7d5a525af73022b43fd68d9012b047ae" sha1="b56f08b8d4d4cf3b1fc67bfc4b43033b7d8c32bc"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 06).bin" size="47882016" crc="fdaa1694" md5="2e1260a84384c14480cae4cc5d19d6d9" sha1="65ed45f2629c90c2dc5ec25ac7e05df064a800dc"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 07).bin" size="39341904" crc="4f045ac1" md5="8158d79383e0fc72edd90dee99e825c8" sha1="fe7af6455ce4b7deccd135a9774c4d7142ed6a18"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 08).bin" size="45160752" crc="98584d44" md5="0549de94568321ba1f2b050f405a14f1" sha1="4160cb26e28dca3fca999626cb7d5536794d361a"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 09).bin" size="43441440" crc="c0469341" md5="ae1ef44d921b091b4e057f41ef4ea998" sha1="01c376622e2bb718dcf78a8397318a573b387d8b"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 10).bin" size="59477376" crc="8cbeb7ec" md5="2aa08daf578a901520ef4121f17878eb" sha1="e2173102db6730e12d61d234c9da5413e996ba39"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 11).bin" size="43801296" crc="cb4d623a" md5="d63d152c571aa50a4f3d34e63362143e" sha1="c89846f867a2b1eacccac000e651a1dfcbda2ef3"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 12).bin" size="41736240" crc="7e88e7f4" md5="58c60adc7221f43616737a969807e7fd" sha1="683d4319df599283a176b7abcd2a32dd6cd17ac1"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 13).bin" size="61711776" crc="135faae1" md5="8efded19b81e235029fb7fdc0f94265f" sha1="ad48bbfe9f9d623fcca43a51ad5651f6f57fc1d3"/>
+		<rom name="Velvet Revolver - Contraband (USA) (Track 14).bin" size="66161760" crc="656f80b0" md5="da4bec768fcb1ff48b27b2be17c1ed36" sha1="d4af9c97ac04a8b6b71ecf0f5df27bab6d30dd32"/>
+	</game>
+	<game name="Wilco - Yankee Hotel Foxtrot (USA)" id="0030">
+		<category>Audio</category>
+		<description>Music</description>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA).cue" size="1835" crc="998de505" sha1="93fbfc0872eab236f635e4c4b8278b1c73375809"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 01).bin" size="73770480" crc="6e13022f" md5="5fc0ff8985deb8e76674193bdf95ef9a" sha1="d6d2df56c837100f11d8830efc1428c96dc9d30c"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 02).bin" size="37072224" crc="18d578c8" md5="83175cf4b8c65cd4fb3d85f9e6c9cbc7" sha1="3a6239ad6615433f029e37a3145b6d9fc774e0c9"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 03).bin" size="54425280" crc="777c2cc7" md5="c214ba761b095a4b6b580afb21e19412" sha1="ec6831f551940ec24d1f6393136427ab998716c3"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 04).bin" size="40172160" crc="2cabefca" md5="7ebbdccadc5238a0ad9895f79befa8e7" sha1="c83ffe0cbc61c3e062f336ac3f22cff92f73a08c"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 05).bin" size="41030640" crc="090e32a0" md5="dc71054bcec90c81ffd861eaeea981ca" sha1="3b3e6dba404aa9cb8e6133aa9fb59e1bb5f522e6"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 06).bin" size="50250480" crc="c9535ba9" md5="9b0a898c15bd098da90cf875ba59e769" sha1="ee4f28750f78b6a503315025dfb56458889c3a7c"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 07).bin" size="33381936" crc="057a09f8" md5="9b1a95d30baf80fc8461e3b8857fc779" sha1="60669729501a010df2f14a725e3cd8dd6c77da99"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 08).bin" size="41611584" crc="f747ab1a" md5="4d18e7dc9e0c6e30f474e03683c8354d" sha1="b260acc413719b00685dc4591ec8db3e971ab9a3"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 09).bin" size="42531216" crc="55da2345" md5="d4fbd58405e2c465f213e3206553b92a" sha1="a78c51d96adae4192569496a488a2f389eb7d2bd"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 10).bin" size="55648320" crc="b4175925" md5="bbf5e688d94a28e1af42e50907d161c3" sha1="387663ff288f55c5bb7a81d35353a16e546e50b2"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 11).bin" size="78620304" crc="412f05bf" md5="a1493e837510859c90bf63217c5db7ed" sha1="439bb3de2d57b5ddd4a89b5eb0bba64b743b16a9"/>
+		<rom name="Wilco - Yankee Hotel Foxtrot (USA) (Track 12).bin" size="46242672" crc="48075a38" md5="7999fd1db4ba852c4879f829571bdd7d" sha1="afdc29b768b38a2516a186565d80b1aa504fcf91"/>
+	</game>
+	<game name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA)" id="0008">
+		<category>Audio</category>
+		<description>Music, Promotional, Radio</description>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA).cue" size="2045" crc="d71cfcf6" sha1="8e0a293707774fb25a61fb16b50fd96a7ae996bc"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 01).bin" size="40661376" crc="c05b7075" md5="abfbef66aaa24b3868bf223a73a98b91" sha1="6a288df8eae6af1354ba153bdd0d17ff2f70dc48"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 02).bin" size="38088288" crc="b850933b" md5="832f21ef6a519d265e479c9c0ac845d1" sha1="4818c00e5ff96215f042a30f143f4787055d55ce"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 03).bin" size="29494080" crc="96f7204e" md5="935827b392d7f71c6d2f90c8083f7d1d" sha1="a8732c07ffeeff4478a4f60016441a25543f2726"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 04).bin" size="45139584" crc="d2d8b801" md5="2b152cdbf2fbee9e385c7f63a1e9fe56" sha1="db14bacc94cdfc0ea86f675e910f3cdb3d30d993"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 05).bin" size="44673888" crc="7c4cfbc3" md5="bd3c7c10b7b4f5e7d8621b9f32bbc482" sha1="a61cce4072e816ca17c69ceb09231fa0f4780545"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 06).bin" size="41418720" crc="34a65999" md5="8f10b2238be73141e2e5605b2c1b8a3a" sha1="360932696f0731cfa87a568b3db504b447611f23"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 07).bin" size="42491232" crc="57c9e281" md5="3fd73e8c82aa13e2aacccfdd7f519317" sha1="e1bfb7e8e657b90ad77f185c41947d9939f4e1c4"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 08).bin" size="49342608" crc="244382fb" md5="c5e12db6540c3445dafda3fbda62c97c" sha1="1984e81f2c5294d69c5608c4d66cef15a889da8f"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 09).bin" size="44744448" crc="4a6195e9" md5="76a6f330d3c5e01f8f0d852374ffe9e4" sha1="37e2a6a1afaa4c4363d6dcbeb08a411b42467753"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 10).bin" size="33327840" crc="1c83d43b" md5="b120b69084daa27db36059c301eb5dd1" sha1="c9e8956e092e78cb6f46a42ed4abb70d33c20a36"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 11).bin" size="39040848" crc="8f1874ff" md5="3992ebcb0b94f9ce160ba5510f3037a3" sha1="51b398bc9ca23cb0f6bff59ab5fe36f7c9499502"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 12).bin" size="48935712" crc="6ed5c793" md5="b95436e1545fd692e8e8f5ec6bd6ecdc" sha1="70a766ee1da396ec6d6e273acb0fa4d0281a3347"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 13).bin" size="40306224" crc="a24e95d4" md5="1e7f7eaccb8ec503ac630bd80f3d8c9a" sha1="12a5dbb66209e73755a068472a851aa12edf34b5"/>
+		<rom name="WNUA 95.5 - Smooth Jazz Sampler Volume 12 (USA) (Track 14).bin" size="92285424" crc="d4e51dff" md5="a4b60318db45cd243bb7f9f363eb5f5e" sha1="0a77e68a6d7ac0e34d6230851bb260d924ce8a5c"/>
+	</game>
+</datafile>

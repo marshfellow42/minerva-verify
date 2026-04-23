@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>74</id>
+		<name>Atari - Atari 7800 (BIN) (Private)</name>
+		<description>Atari - Atari 7800 (BIN) (Private)</description>
+		<version>20251221-060908</version>
+		<author>Arctic Circle System, BigFred, bikerspade, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, nnssxx, omonim2007, Psychofox11, psykopat, rarenight, relax, smesgr, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Attack of the PETSCII Robots (World) (Aftermarket) (Unl)" id="0146">
+		<category>Games</category>
+		<description>Attack of the PETSCII Robots (World) (Aftermarket) (Unl)</description>
+		<rom name="Attack of the PETSCII Robots (World) (Aftermarket) (Unl).bin" size="262144" crc="1311daaf" md5="cbd28de0e42b4ba26d779fa1ed98a18e" sha1="ebca6073da3551bde92e55dfe3d53f4286f71e5d" sha256="ece3ec2b39e0adc3378619cf3b84c302106bfecade081d89f882a9e195a15859" mia="yes"/>
+	</game>
+	<game name="Baby Pac-Man (World) (Aftermarket) (Unl)" id="0134">
+		<category>Games</category>
+		<description>Baby Pac-Man (World) (Aftermarket) (Unl)</description>
+		<rom name="Baby Pac-Man (World) (Aftermarket) (Unl).bin" size="49152" crc="df85ae94" md5="be8cc3b4e19885f6aed52be1d6150885" sha1="5cdbf10255039a701acccd71bb90ed508bbf65e5" sha256="35cf4169358f2e902da0adca9c5757883b31917000843d6f16f8dae488480618" mia="yes"/>
+	</game>
+	<game name="Danger Zone (World) (Aftermarket) (Unl)" id="0136">
+		<category>Games</category>
+		<description>Danger Zone (World) (Aftermarket) (Unl)</description>
+		<rom name="Danger Zone (World) (Aftermarket) (Unl).bin" size="49152" crc="d8c4f0fb" md5="3143207b9993d0d422febec4da37c920" sha1="aa2ac19bc89781978a967eb87b782d1b49e2be17" sha256="99cbbfa1028a181a03a98197624c23e0f6a13d1c4468e65c94a8a8546abfb9cc" mia="yes"/>
+	</game>
+	<game name="Knight Guy in Low-Res World - Castle Days (World) (Aftermarket) (Unl)" id="0137">
+		<category>Games</category>
+		<description>Knight Guy in Low-Res World - Castle Days (World) (Aftermarket) (Unl)</description>
+		<rom name="Knight Guy in Low-Res World - Castle Days (World) (Aftermarket) (Unl).bin" size="147456" crc="6544071f" md5="a6f24db7b9baf8ebe4eb7de0d615595d" sha1="726b25ddad37be4b4f8a398415b8151f1b3574d8" sha256="3bddd122bb77d189fc58faf6dc9ba59bf0372518b989332c81428ccc3ee032e2" mia="yes"/>
+	</game>
+	<game name="Pac-Man Collection (World) (NTSC) (Pokey) (Aftermarket) (Unl)" id="0139">
+		<category>Games</category>
+		<description>Pac-Man Collection (World) (NTSC) (Pokey) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Collection (World) (NTSC) (Pokey) (Aftermarket) (Unl).bin" size="32768" crc="6a7e9d26" md5="0233d704314b025df573939281bd4473" sha1="ba9422e7b529092a7c03e907e4bea11c7c7d9e14" sha256="1cd223ac0f983709c5f32ae9075a663531a84a4eaea201947823f5e6ba075a06" mia="yes"/>
+	</game>
+	<game name="Pac-Man Collection 40th Anniversary Edition (World) (Aftermarket) (Unl)" id="0145">
+		<category>Games</category>
+		<description>Pac-Man Collection 40th Anniversary Edition (World) (Aftermarket) (Unl)</description>
+		<rom name="Pac-Man Collection 40th Anniversary Edition (World) (Aftermarket) (Unl).bin" size="131088" crc="b5e304c2" md5="8f98565baf25fdd778ece872e89c741e" sha1="63c67606bf3924e9bf7397fba7aabff039433ceb" sha256="ac04a9aec1d1c0ff459847cbe48b8abe05228ad72ffa984f89e1ebfb7045a3fd" mia="yes"/>
+	</game>
+	<game name="Popeye (World) (v2.40) (Aftermarket) (Unl)" id="0132">
+		<category>Games</category>
+		<description>Popeye (World) (v2.40) (Aftermarket) (Unl)</description>
+		<rom name="Popeye (World) (v2.40) (Aftermarket) (Unl).bin" size="147456" crc="960094f5" md5="ba8069ccaed2636dec38217dafc3de89" sha1="7d89b96fb535015967afcb4139e92778ef1975c2" sha256="7ebe16e307fb01d6b65002966d33a5028093f83d10fd1d700185db8b4ed51fe6"/>
+	</game>
+	<game name="Popeye (World) (v1.30) (Aftermarket) (Unl)" id="0147" cloneofid="0132">
+		<category>Games</category>
+		<description>Popeye (World) (v1.30) (Aftermarket) (Unl)</description>
+		<rom name="Popeye (World) (v1.30) (Aftermarket) (Unl).bin" size="147456" crc="afb69b4e" md5="7ca3cbf891b4c551358a311328d3e5ea" sha1="2ec22433d39abc61a1bb5535a8d349a19d01a5ac" sha256="47be509f56dc05a3981191dc205db76b939e4619117dbd5befe7a650e3c47f38" mia="yes"/>
+	</game>
+	<game name="Rikki &amp; Vikki (World) (R14) (Aftermarket) (Unl)" id="0128">
+		<category>Games</category>
+		<description>Rikki &amp; Vikki (World) (R14) (Aftermarket) (Unl)</description>
+		<rom name="Rikki &amp; Vikki (World) (R14) (Aftermarket) (Unl).bin" size="524288" crc="3ea5d821" md5="b3bc889e9cc498636990c5a4d980e85c" sha1="b26d3125a109fed15e380dc32f2e55d84f350450" sha256="974dc24cbd7a817571aefd12bde86d1730b2c57a436d4d0ad15a094329e1e5a2" status="verified"/>
+	</game>
+	<game name="Rikki &amp; Vikki (World) (R12) (Aftermarket) (Unl)" id="0130" cloneofid="0128">
+		<category>Games</category>
+		<description>Rikki &amp; Vikki (World) (R12) (Aftermarket) (Unl)</description>
+		<rom name="Rikki &amp; Vikki (World) (R12) (Aftermarket) (Unl).bin" size="524288" crc="77f665cf" md5="592be737ce78a17a572d3bbd527c7a61" sha1="4982183b2e374e4d104b187b788b9e4001ba5d85" sha256="b6d207a36191aaad9c67b873cdc183ae0cac3fdbc6d879649ff5e05a0f5179a9"/>
+	</game>
+	<game name="Rikki &amp; Vikki (World) (R13) (Aftermarket) (Unl)" id="0131" cloneofid="0128">
+		<category>Games</category>
+		<description>Rikki &amp; Vikki (World) (R13) (Aftermarket) (Unl)</description>
+		<rom name="Rikki &amp; Vikki (World) (R13) (Aftermarket) (Unl).bin" size="524288" crc="ed893425" md5="79d3fb83577cd3fd8d1542f58353cfcd" sha1="87572d8de855c3674ddf7d183774366d81b9c003" sha256="d4c1fadeb1a5fc9cc63b92cf0206e3e73e25ed15f1aecc70ca8cb353d2a321c7"/>
+	</game>
+</datafile>

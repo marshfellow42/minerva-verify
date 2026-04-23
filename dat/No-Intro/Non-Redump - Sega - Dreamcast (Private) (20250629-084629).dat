@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>165</id>
+		<name>Non-Redump - Sega - Dreamcast (Private)</name>
+		<description>Non-Redump - Sega - Dreamcast (Private)</description>
+		<subset>Non-Redump</subset>
+		<version>20250629-084629</version>
+		<author>Arctic Circle System, bikerspade, FakeShemp, Hiccup, NovaAurora, rarenight, Seventy7, SonGoku</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Unl)" id="0119">
+		<category>Games</category>
+		<description>Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Unl)</description>
+		<rom name="Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (Aftermarket) (Unl).cdi" size="25426153" crc="342b681c" md5="7ca1fa8f839c8e0f7ca8fa3736dfb05a" sha1="4b2d3933a4785c228a04e968402fe09ce8bc8998" sha256="d84a8fef27b072e4288e4143d825badfc0d585262821a535c5d1a1130b0a02ff"/>
+	</game>
+	<game name="Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (v1.5) (Digital) (Aftermarket) (Unl)" id="0125">
+		<category>Games</category>
+		<description>Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (v1.5) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="Alice's Mom's Rescue (World) (En,Fr,De,Es,It) (v1.5) (Digital) (Aftermarket) (Unl).cdi" size="48755680" crc="e8ef8fd7" md5="90d7065d7bfe42c5400eeb3931770141" sha1="c02c6fcdf2b37ac06969ec1a7c5bc1d9e7fdcad5" sha256="c63b0aec3e9111aac81e2209fff52b95d163263ae6f76af8b5216157bc726bd4"/>
+	</game>
+	<game name="Andro Dunos II (World) (Aftermarket) (Unl)" id="0108">
+		<category>Games</category>
+		<description>Andro Dunos II (World) (Aftermarket) (Unl)</description>
+		<rom name="Andro Dunos II (World) (Aftermarket) (Unl).cdi" size="435498173" crc="5df61f0e" md5="d8f25143b91a7f3cd7aa4a435a26a7f8" sha1="9dd2678ae6848cfdb65ed32e8cd3113da9a5347d" sha256="38c36b8bb5466676c9c527fc96156e38bc6f59f3bf4ec09d041f62e3d4832c77"/>
+	</game>
+	<game name="Arcade Racing Legends - Road Trip Edition (World) (Aftermarket) (Unl)" id="0109">
+		<category>Games</category>
+		<description>Arcade Racing Legends - Road Trip Edition (World) (Aftermarket) (Unl)</description>
+		<rom name="Arcade Racing Legends - Road Trip Edition (World) (Aftermarket) (Unl).cdi" size="158061865" crc="d6d01e2a" md5="13872d847a333e6faaf3f4327fe98823" sha1="99f168be23797bc8a23a011ee1aa0610bcf4575a" sha256="709783b1de973604a9f5acca5f3ad493d19fee721dc48e1d83415668a44ac6d4"/>
+	</game>
+	<game name="ARMED7 (World) (Aftermarket) (Unl)" id="0117">
+		<description>ARMED7 (World) (Aftermarket) (Unl)</description>
+		<rom name="ARMED7 (World) (Aftermarket) (Unl).cdi" size="749644232" crc="fcfd50e8" md5="0b0e1ebcad9e643be5150630c578ae60" sha1="2999eec31926893f4dfcbe81680f67124516b5a6" sha256="cb1b23b94579ad6e7d4a2453fcee7d47799dd7988e56042fb2e77db314240dfc"/>
+	</game>
+	<game name="Fade to Black (World) (En,Fr,De,Es,It) (Aftermarket) (Unl)" id="0118">
+		<category>Games</category>
+		<description>Fade to Black (World) (En,Fr,De,Es,It) (Aftermarket) (Unl)</description>
+		<rom name="Fade to Black (World) (En,Fr,De,Es,It) (Aftermarket) (Unl).cdi" size="809333722" crc="1fad72aa" md5="b9ac515d771a706dc849de5d68fb9573" sha1="f6f89b6fb2a91af83321f7cfbcdbbeee05e2994b" sha256="d7f9f0a37b4b3df447978a692abbc5e05be3c93b905b8ed2cc7de0fb5c9bebad"/>
+	</game>
+	<game name="Gigantic Army (World) (Astro Port Collector) (Aftermarket) (Unl)" id="0110">
+		<category>Games</category>
+		<description>Gigantic Army (World) (Astro Port Collector) (Aftermarket) (Unl)</description>
+		<rom name="Gigantic Army (World) (Astro Port Collector) (Aftermarket) (Unl).cdi" size="570489625" crc="2cbc5145" md5="7a4b47b27358257e3a5f179ae70aef22" sha1="820b09938a6836dbe51b34753b7f85d03c732f27" sha256="07fca499dc2c6380cc555d71c64baa086f09bc83f81823de17354b5e1e6f6853"/>
+	</game>
+	<game name="Rocketron (World) (Aftermarket) (Unl)" id="0115">
+		<category>Games</category>
+		<description>Rocketron (World) (Aftermarket) (Unl)</description>
+		<rom name="Rocketron (World) (Aftermarket) (Unl).cdi" size="571771750" crc="3b534785" md5="d002559cb2fa481208e1fcb664f56bf7" sha1="95f65075bb111897f65bd29f80c2abc6ecfd96e6" sha256="a40a1d8281ead991c1ae276d006d6a4d55f2765d0b940b8177825cd41d6638fc"/>
+	</game>
+	<game name="Shadow Gangs (World) (Aftermarket) (Unl)" id="0123">
+		<category>Games</category>
+		<description>Shadow Gangs (World) (Aftermarket) (Unl)</description>
+		<rom name="Shadow Gangs (World) (Aftermarket) (Unl).cdi" size="815141774" crc="8cafa426" md5="2b19a29148ebbb6b7e4ada2bd28a2320" sha1="de5c3a2075c9217b50d58ac6036c2131c848e89c" sha256="0e107b662dcd12f0f75c76bdabe6d0b22d0dbd24142a8d836a1acb8268c063fe"/>
+	</game>
+	<game name="Super Charged Robot Vulkaiser (World) (En,Ja) (Aftermarket) (Unl)" id="0116">
+		<category>Games</category>
+		<description>Super Charged Robot Vulkaiser (World) (En,Ja) (Aftermarket) (Unl)</description>
+		<rom name="Super Charged Robot Vulkaiser (World) (En,Ja) (Aftermarket) (Unl).cdi" size="570407586" crc="b9436b21" md5="e2c1d4e763998666bdccb17e8a20f943" sha1="d8b27f8f9ebfdac77a3b67dae3031741a3b7aeff" sha256="e4d7032aa9a48534d3fa6f7f9fd5cb0100bd4176ee9c07c9da2c0b18410e1427"/>
+	</game>
+	<game name="Textorcist, The - The Story of Ray Bibbia (World) (Aftermarket) (Unl)" id="0124">
+		<category>Games</category>
+		<description>Textorcist, The - The Story of Ray Bibbia (World) (Aftermarket) (Unl)</description>
+		<rom name="Textorcist, The - The Story of Ray Bibbia (World) (Aftermarket) (Unl).cdi" size="57875423" crc="75e6bbfc" md5="83a77de5d4893ce1ba175cffe7c40a4c" sha1="17b359c63ec6e6f30a682223020d78ff3c4751df" sha256="b516fede45452fca3aaa31f90e2dbfb28857dfc9e15296d95cb28bda50f1ec7d"/>
+	</game>
+	<game name="Wolflame (World) (Aftermarket) (Unl)" id="0113">
+		<category>Games</category>
+		<description>Wolflame (World) (Aftermarket) (Unl)</description>
+		<rom name="Wolflame (World) (Aftermarket) (Unl).cdi" size="570489554" crc="4eda3470" md5="b5884ee094863eb0998105a1f68328fd" sha1="7f8f1b5b0eb74aa8e3369b1e6d96ddb60b216341" sha256="6c945ee15174f6e611c1065e9e88a039f4c6e68b864ffe03367618d923440a10"/>
+	</game>
+	<game name="Xeno Crisis (World) (Digital) (Aftermarket) (Unl)" id="0089">
+		<description>Xeno Crisis (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="XenoCrisis_DC_CDI_v1_0_0.zip" size="516469997" crc="cd042b76" md5="d030d46da88110cc317c32c30729572e" sha1="af558770aa984bfa18e2eec51471133cb363438b" sha256="dc31c0920b20a5e16ebf083b51c46b4a714c1813bcdb1158b55703368af60d91"/>
+		<rom name="XenoCrisis_DC_CHD_v1_0_0.zip" size="387536395" crc="94691a6b" md5="243971ffe999778ccb95576475ab41c7" sha1="a23510402c02db8e243407dfd625fe1de0d167ff" sha256="cc0ea23b7dece52ca2ad03555fa26111ca2e781662a852a918d46749ea2ef864"/>
+		<rom name="XenoCrisis_DC_Covers.zip" size="4672397" crc="3ffa3e27" md5="5b4e2d4181ebe8cb7af1eef5f5142d0f" sha1="2d7d1edeb82fa3d9af19f9124d81bf8502985a2f" sha256="fb7ccf8ad721fecb2ad9830ab52b5b52bfca4ce5e2f755c167672aa09963a02a"/>
+		<rom name="XenoCrisis_DC_GDI_v1_0_0.zip" size="516983897" crc="8c65ca8b" md5="fab91782fd56cf7e2f243d877e96f250" sha1="039ec30f2359c5e4036e44e3033d426ea18c4e64" sha256="375ab09bc2f3e7e062c4dbee7ca4230b38eddf924ef40754b22ba89588d2c90d"/>
+		<rom name="XenoCrisis_DC_Manual.pdf" size="3138823" crc="e9bd753e" md5="0106207a0ac71d541df343fc91629a1d" sha1="e8065fa7682f15234b05d790570f849547e9a813" sha256="012c7dd53988616a4eb040baf0fa491d42ae46e17b94b407bba3e26087ece36c"/>
+	</game>
+	<game name="Xenocider (World) (Digital) (Aftermarket) (Unl)" id="0114">
+		<category>Games</category>
+		<description>Xenocider (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="Xenocider (World) (Digital) (Aftermarket) (Unl).cdi" size="730817918" crc="08b485b6" md5="7e13ff345454635201368bbecb0c37cb" sha1="76e27e784b640a8b2c5c40473006db82b840af85" sha256="b852da42a8a95404498a01882dffe7eab71192f90ed1c588a299dadef6c2b3ed"/>
+	</game>
+	<game name="Zangeki Warp (World) (Astro Port Collector) (Aftermarket) (Unl)" id="0111">
+		<category>Games</category>
+		<description>Zangeki Warp (World) (Astro Port Collector) (Aftermarket) (Unl)</description>
+		<rom name="Zangeki Warp (World) (Astro Port Collector) (Aftermarket) (Unl).cdi" size="570615761" crc="43bfcb90" md5="9b1a49787ce922b792aa8fcd68b9b44a" sha1="a484c115bc43603e8bef4758d8f9df7b37c9bdff" sha256="f6433420607a527815de3de4b724e872a0df2b5edc8beb99a0cdd6da3ddf9aa6"/>
+	</game>
+</datafile>

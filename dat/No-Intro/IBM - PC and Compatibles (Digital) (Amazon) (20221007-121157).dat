@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>311</id>
+		<name>IBM - PC and Compatibles (Digital) (Amazon)</name>
+		<description>IBM - PC and Compatibles (Digital) (Amazon)</description>
+		<version>20221007-121157</version>
+		<author>Hiccup</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Star Trigon (USA)" id="0001">
+		<category>Games</category>
+		<description>Star Trigon (USA)</description>
+		<rom name="Star_Trigon_Download.exe" size="29560469" crc="5b289edb" md5="96453410e50e39d96e0c2d5df0a92336" sha1="888888c586a5ad35e2e0b522299a2039c40b01be" sha256="fed680c1a5551de92ff7e7edbea1b56f02763e9341b9a6373844b0b6b2b154ca"/>
+	</game>
+</datafile>

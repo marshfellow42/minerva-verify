@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>30</id>
+		<name>Atari - Atari Lynx (LYX) (Private)</name>
+		<description>Atari - Atari Lynx (LYX) (Private)</description>
+		<version>20251222-090626</version>
+		<author>Arctic Circle System, BigFred, C. V. Reynolds, Flashfire42, Gefflon, Hiccup, kazumi213, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, UnlockerPT</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="8bit-Slicks (World) (Aftermarket) (Unl)" id="0102">
+		<category>Games</category>
+		<description>8bit-Slicks (World) (Aftermarket) (Unl)</description>
+		<rom name="8bit-Slicks (World) (Aftermarket) (Unl).lyx" size="524288" crc="9d09bc4c" md5="38c8b97abb1bace158e1ba4e0c117031" sha1="fa13a14bd5f101fa9ca407839772c985cb6b0dbb" sha256="fac450c2886739fd2f3b3dc419ae890fa1657692c60a25ec711d08e750092742"/>
+	</game>
+	<game name="Alpine Games (World) (Aftermarket) (Unl)" id="0133">
+		<category>Games</category>
+		<description>Alpine Games (World) (Aftermarket) (Unl)</description>
+		<rom name="Alpine Games (World) (Aftermarket) (Unl).lyx" size="524288" crc="95a1ea09" md5="3befceb86939e847a776b90c330779d8" sha1="fb71ad96f0730f88acd7d51eaa761e475a015d6c" sha256="8ce40c297e73b763017571d5d7d2ea9c67f06071f954d6da42215c98f6c974c2"/>
+	</game>
+	<game name="Assembloids (World) (Aftermarket) (Unl)" id="0135" cloneofid="0158">
+		<category>Games</category>
+		<description>Assembloids (World) (Aftermarket) (Unl)</description>
+		<rom name="Assembloids (World) (Aftermarket) (Unl).lyx" size="524288" crc="10e48982" md5="b3b69e886804b02ffaf11ca6ed8b6055" sha1="8871e2ab081abcd408819e7b3f048ee8d6a51c96" sha256="f336b67a4ebd7913f1d08cee73eb1ae73763c2892c9921273f5e1727a4cb4819" mia="yes"/>
+	</game>
+	<game name="Asteroids Chasers (World) (Aftermarket) (Unl)" id="0136" cloneofid="0154">
+		<category>Games</category>
+		<description>Asteroids Chasers (World) (Aftermarket) (Unl)</description>
+		<rom name="Asteroids Chasers (World) (Aftermarket) (Unl).lyx" size="524288" crc="7bdd3194" md5="e9133e85ebb08ca1dfbb5a2b534a5bfa" sha1="81a9a28f071742e92b1c567dc9efee842d5f69c5" sha256="ea73bcd573e69ab30a777afb22d49f2ea18cc79c2f1c217ed9f1fa24efbd7c7c" mia="yes"/>
+	</game>
+	<game name="Bug's Trip Redux, A (World) (Aftermarket) (Unl)" id="0103">
+		<category>Games</category>
+		<description>Bug's Trip Redux, A (World) (Aftermarket) (Unl)</description>
+		<rom name="Bug's Trip Redux, A (World) (Aftermarket) (Unl).lyx" size="524288" crc="427d0e97" md5="8e94fcf9491ef7a4669aab865c5c7a32" sha1="759da76571a3099cab403c0bf0e3ac39dda3d18f" sha256="aa8a411725d0eb5dcc0a1e1d7d4dfe9fc10a0e4e872c900490e861ba606f0601"/>
+	</game>
+	<game name="Championship Rally (World) (Aftermarket) (Unl)" id="0105">
+		<category>Games</category>
+		<description>Championship Rally (World) (Aftermarket) (Unl)</description>
+		<rom name="Championship Rally (World) (Aftermarket) (Unl).lyx" size="524288" crc="ede3a0fc" md5="55c771c76dee5b118b9f013696f5084f" sha1="7c0a8a812fab9bf970dd901f1491ea76f6561ec9" sha256="f22da53329269ac26241d3c23525d0daf2bb13d9884754022b532d923ad953d2"/>
+	</game>
+	<game name="Critter Championship (World) (Aftermarket) (Unl)" id="0137" cloneofid="0150">
+		<category>Games</category>
+		<description>Critter Championship (World) (Aftermarket) (Unl)</description>
+		<rom name="Critter Championship (World) (Aftermarket) (Unl).lyx" size="524288" crc="7739fda9" md5="69e3c636621c85ec528f325b88eecfee" sha1="80e25fe23bf7c4aefbc7850a389886d805a94808" sha256="091e445e6206c1a2e3a37f6aa30e1d5229c92fa3a5af8b5f65795b607fdfe1f7" mia="yes"/>
+	</game>
+	<game name="CSS - Traffic Regulation (World) (Aftermarket) (Unl)" id="0142" cloneofid="0418">
+		<category>Games</category>
+		<description>CSS - Traffic Regulation (World) (Aftermarket) (Unl)</description>
+		<rom name="CSS - Traffic Regulation (World) (Aftermarket) (Unl).lyx" size="524288" crc="5afa6e4c" md5="bd6dfa49c9d1d15381a2e8d9d6556089" sha1="b953a22c778de0e0b9b2ef730efe5d2420b37e3e" sha256="bd2dccb4f5749f7d9509a5b3e5a33494e7fd8f3e9bb09e2515fe11bcf3d88825" mia="yes"/>
+	</game>
+	<game name="CSS - Traffic Regulation (World) (Digital) (Aftermarket) (Unl)" id="0418">
+		<category>Games</category>
+		<description>CSS - Traffic Regulation (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="CSS - Traffic Regulation (World) (Digital) (Aftermarket) (Unl).lyx" size="262144" crc="72881b3d" md5="9d1d7301b9ce5e9e52ae039f9d5ad811" sha1="19d52ea7730ba61708d6bda8dd267898ab99853f" sha256="92dbf9a53d057ecaa4d7bafc410020a6dba34dddf433813f4d324756dc211e0a"/>
+	</game>
+	<game name="Ponx (World) (Aftermarket) (Unl)" id="0099">
+		<category>Games</category>
+		<description>Ponx (World) (Aftermarket) (Unl)</description>
+		<rom name="Ponx (World) (Aftermarket) (Unl).lyx" size="131072" crc="bb27e6f0" md5="d14b4efc6e57f3e5bb58455ff96f7419" sha1="25465134779238ac23a9d6858bd1ea171f471a66"/>
+	</game>
+	<game name="Raid on TriCity - Second Wave (World) (Aftermarket) (Unl)" id="0141" cloneofid="0151">
+		<category>Games</category>
+		<description>Raid on TriCity - Second Wave (World) (Aftermarket) (Unl)</description>
+		<rom name="Raid on TriCity - Second Wave (World) (Aftermarket) (Unl).lyx" size="524288" crc="e30c979d" md5="cafed6264068d07abf28fa07fba516f3" sha1="68b27ae2beff32f7f58d23a9d8491754a1574fbc" sha256="ed64159ae6d2914be0a25e608bcaa10d274a2c7f4396d83c165114d4559c994f" mia="yes"/>
+	</game>
+	<game name="Sky Raider Redux (World) (Aftermarket) (Unl)" id="0107">
+		<category>Games</category>
+		<description>Sky Raider Redux (World) (Aftermarket) (Unl)</description>
+		<rom name="Sky Raider Redux (World) (Aftermarket) (Unl).lyx" size="524288" crc="b8879506" md5="4d091a303e7c3cbc2f7810200a238cdb" sha1="cba9b7bca1cb2e4c8eaa7c20f2c8514ee25bda6a" sha256="1e8c160a6ea0a01cefc8a81fbb10c9fdbedad394e860433da444421441535c43"/>
+	</game>
+	<game name="Unnamed (World) (Aftermarket) (Unl)" id="0106">
+		<category>Games</category>
+		<description>Unnamed (World) (Aftermarket) (Unl)</description>
+		<rom name="Unnamed (World) (Aftermarket) (Unl).lyx" size="524288" crc="b2fa93d3" md5="3303bf3734bb8e32a7fb7d144be07765" sha1="31daf897951d2f7adc37ca662086f0119e167cc9" sha256="0510faf5282a2518ee09fc832bd726d7c34a4f9e7687e697b82a3f8f4c05569c"/>
+	</game>
+	<game name="Vikings Saga - Protect the Love (World) (Aftermarket) (Unl)" id="0108">
+		<category>Games</category>
+		<description>Vikings Saga - Protect the Love (World) (Aftermarket) (Unl)</description>
+		<rom name="Vikings Saga - Protect the Love (World) (Aftermarket) (Unl).lyx" size="524288" crc="50b0575a" md5="c2a1fd87ce91f8edb5bd19c93ac8fbb4" sha1="7431d87e766e0eaa1cffc34a024238bb1cadc03e" sha256="3ab0dfa65fe3d28a5ab22801160807e68469a692b606aab986211a6e166b131e"/>
+	</game>
+	<game name="Vikings Saga - Save the Love (World) (Aftermarket) (Unl)" id="0109">
+		<category>Games</category>
+		<description>Vikings Saga - Save the Love (World) (Aftermarket) (Unl)</description>
+		<rom name="Vikings Saga - Save the Love (World) (Aftermarket) (Unl).lyx" size="524288" crc="18b006a9" md5="c5cab263eb6860582e4716f958317abd" sha1="1cd34df558203dc0052a4cca59a40841aa3674cb" sha256="6d530ed9a0010e752a7647401677e5e37a7149528c0ac103a3f9ac1e28653a4d"/>
+	</game>
+	<game name="Wyvern Tales (World) (Aftermarket) (Unl)" id="0100">
+		<category>Games</category>
+		<description>Wyvern Tales (World) (Aftermarket) (Unl)</description>
+		<rom name="Wyvern Tales (World) (Aftermarket) (Unl).lyx" size="524288" crc="7f8b5efa" md5="d7588e5cd114ea18898d7be34426d7cb" sha1="efc9b55447ccb099b34e93bb38b8d22ce4ed0529"/>
+	</game>
+	<game name="Yastuna Volume 1 - The Alchemy of Cubes (World) (Aftermarket) (Unl)" id="0138" cloneofid="0110">
+		<category>Games</category>
+		<description>Yastuna Volume 1 - The Alchemy of Cubes (World) (Aftermarket) (Unl)</description>
+		<rom name="Yastuna Volume 1 - The Alchemy of Cubes (World) (Aftermarket) (Unl).lyx" size="524288" crc="d6731c4e" md5="52a37b2eca8508d958129b77379623d0" sha1="0e13487e11aa8e6a35eeb5f6bd3f512c4d61f3eb" sha256="95f21fb0f3efee6a9d1a24a1f5d6dc0ce04432fc976bc87ef548d52102e6b122" mia="yes"/>
+	</game>
+	<game name="Yastuna Volume 2 - The Space Incident (World) (Aftermarket) (Unl)" id="0139" cloneofid="0112">
+		<category>Games</category>
+		<description>Yastuna Volume 2 - The Space Incident (World) (Aftermarket) (Unl)</description>
+		<rom name="Yastuna Volume 2 - The Space Incident (World) (Aftermarket) (Unl).lyx" size="524288" crc="0c6e1cdc" md5="b5e622bbdfd29735d61056e1f206cbfd" sha1="d5440f41b4ec0520c10633954491e2469bae7bb0" sha256="eab880c34a065b58360d14f1ce5476bfdfb03167450883bc924b3e77b603a9e5" mia="yes"/>
+	</game>
+	<game name="YNXA (World) (Aftermarket) (Unl)" id="0143" cloneofid="0145">
+		<category>Games</category>
+		<description>YNXA (World) (Aftermarket) (Unl)</description>
+		<rom name="YNXA (World) (Aftermarket) (Unl).lyx" size="524288" crc="350265b9" md5="2de80f7d6212d5df86423b6381ecfe6f" sha1="6ca8b281a46360a940c85dc3701833a6ba95b40f" sha256="fac30cc75b2c641e2247a8a2fbe040b26d3eeead8ef7adac759b96943934eac5" status="verified"/>
+	</game>
+	<game name="YNXA (World) (Game Jam Edition) (Aftermarket) (Unl)" id="0144" cloneofid="0145">
+		<category>Games</category>
+		<description>YNXA (World) (Game Jam Edition) (Aftermarket) (Unl)</description>
+		<rom name="YNXA (World) (Game Jam Edition) (Aftermarket) (Unl).lyx" size="524288" crc="1340b068" md5="ecfd11e3e72e7e89db003dce98ecd9d9" sha1="5a653f81d453c33bf4cc7000b2c136980ec83b56" sha256="e6ebab096f44533faf3d38dffcf3b6350b58187a8d90e5936d123fe3417eded0" mia="yes"/>
+	</game>
+</datafile>

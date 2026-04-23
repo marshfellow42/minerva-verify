@@ -1,0 +1,464 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>118</id>
+		<name>IBM - PC and Compatibles (Digital) (GamersGate)</name>
+		<description>IBM - PC and Compatibles (Digital) (GamersGate)</description>
+		<version>20240610-144049</version>
+		<author>ajshell1, FakeShemp, Hiccup, proffrink, SonGoku, UnlockerPT</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Against Rome (World)" id="0023">
+		<description>Against Rome (World)</description>
+		<rom name="GamersGate temporary files\2231\Autorun\Demo_hover.bmp" size="37016" crc="8fdc32a2" md5="25446fcd8308d0635d631f35e49da602" sha1="dff352c01470df5e952172c43b8644ec3a0cc752" sha256="1c391e4372ae8efa980ec88dbc21cecf9d90e1b6b7d08757897009706140d9cd"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Demo_normal.bmp" size="37016" crc="66745554" md5="da34db8d83a63367b8746f26ad2c6b57" sha1="e9300f15114857cad6a71ad9af3e5a6536cd0834" sha256="09749813d3bffa2b1cc099538fa01f2ae48abb3e00567c9b115dbf55a54ea3b0"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Demo_pushed.bmp" size="37016" crc="4a0d8540" md5="11d3d801a6905c8e1a6bfc04af404401" sha1="d117e66e1bb7b6a189fda8044ab664128444dd44" sha256="b714159cc4334b01468fcbcd66537809a35b44e7726fc9ba8b4b87292a640456"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Exit_hover.bmp" size="37016" crc="d9e1646a" md5="8533de4113ccc48cfb75064b996c901a" sha1="ab5a06e1156bb6910b700906acaf15e124f05e65" sha256="81e7f1a37e8f4d27d0d89eb13eb432c8ad9efafda2ea3edfa6b50b4b67655069"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Exit_normal.bmp" size="37016" crc="23ac5e37" md5="ca2282425bd4c17bf8ca0cbe57b8db77" sha1="d0fad9722f56c059faa386bad5a104e5f36bfdd6" sha256="227b8be10fa25cc89fbbdc5c5c77f077abc71b4622cb1d1262ff6f8b3ab8d045"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Exit_pushed.bmp" size="37016" crc="259d434a" md5="10abb4b8c6cdc58957b3244b88449cff" sha1="18a533b259ab67f3e1e914b000afda81db8910a6" sha256="6b40fd7ac657b2ba016c74908296375b135d8eb823c5e088b609f83538b91838"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Inst_hover.bmp" size="37016" crc="37e568a5" md5="3801d145f468abb2e621a47a26d59b5e" sha1="0b287422ef38a0057d86fac80627f5e7e831dc1d" sha256="c42a3e678983f00f46ab43b08c02ebfadae096def4023ec96f0c2271c5631e38"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Inst_normal.bmp" size="37016" crc="8300bfe6" md5="49b46112dbbfcde67d01cadec65d2a2a" sha1="2104805f073ce42b99093115a9f627f9cd7d9013" sha256="aff0131ab89b98b37b3222102f353e803c6dd07b0dac469896e93db69781119e"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Inst_pushed.bmp" size="37016" crc="857156df" md5="4c8b32d57d771205627bac20e73cf828" sha1="b35e8fc8fd061dd28114bf203c08e925e808e048" sha256="521fd61134e7f8aa2ae28c044f15049509f081aa8c9562b4f8bdd6fb141a9c9c"/>
+		<rom name="GamersGate temporary files\2231\Autorun\menubg.bmp" size="921656" crc="b82eefa4" md5="c02dd9725a12b5826c4b398d62e1a7a4" sha1="9b879cbf208d2cdd6ef9da4c102afaaeffa79a95" sha256="b9d2d98cb93c0f18538fedf3228951e4aaa0802a685d3b5cb94633f2bf8cbf79"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Play_hover.bmp" size="37016" crc="5138cd65" md5="fea2e2cfd781fed6e0e0c20adb08be47" sha1="e343cb91c001ae87199ecbfff87f0f682bfb4d05" sha256="d0985296fba55dc4c30b4f701fa15d4b780de996d97940c31622f9840a355f29"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Play_normal.bmp" size="37016" crc="6373470b" md5="153454acebb267166464e72cda014e81" sha1="3499c7ec9ce3e45ac1a150d8857ee259e753d85d" sha256="dd420268741539dd358aba60d49008cec8b34793e884c33875082add8d16cc02"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Play_pushed.bmp" size="37016" crc="50444274" md5="be2875888ac29371c5962f3a0f1ff2a7" sha1="b102a7bee44c65ab9896e0de72c1ff15d884da50" sha256="f069d1e901dce4fbe12624d35a2ef4cae750f73761bfe699401027a63f99db7a"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Readme_hover.bmp" size="37016" crc="77b2d626" md5="11e4efdf12b5dbec066371b5a725e2ce" sha1="3c07eaa92b977114cdee892bfba54cef79209efa" sha256="b63bfe8c230c46927f54ac05a117f910ee53a092089c9b6d8ea9bdea29d5094b"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Readme_normal.bmp" size="37016" crc="e98b1697" md5="9b79e84c7b17cea4a956bb35125ecad7" sha1="7d0da331b95e7e4220d3d26a8abbf2b065fc28e8" sha256="42b3adb0933da4b6f98b596fad0acb203addb22bad32c30d9530d7d094e893a6"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Readme_pushed.bmp" size="37016" crc="cfb1c98c" md5="f41a8b4fa9100f10dcf7d196649970e6" sha1="4d8823047c910179b42a32108b02195515bcf064" sha256="ea91eabb17b95d3c3e7ceddd408e29316e2afe3ff7231276e20713a8f876814f"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Reg_hover.bmp" size="37016" crc="cbc70b9a" md5="d1ecba3b6bac34aee1b89e5f6c49a82f" sha1="092a815ed24ea2f7ac9aee040d60756fe44c41c5" sha256="3e606a855b1e8592323deb5d59a901cd3cbf362991ba8d65e2ee12191e416aeb"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Reg_normal.bmp" size="37016" crc="d3d93aff" md5="52fca5644816929bb6397788a74c7e1c" sha1="9a3ce81e6fcd45dcd20df5aa293affceffac7ed2" sha256="2a98a1114b5cd210da368468208a51918d4b3aa759aa5412403b3cf30a2ff9e2"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Reg_pushed.bmp" size="37016" crc="63173649" md5="7022a98fce42da3878d84ed5ac8dabd8" sha1="288229849ba674a6598565b78c579bca73fdcca5" sha256="7decf0affd60dc5c1683ea6ba9ad7771b77d7f191bee012936e1b40721bc7c2c"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Register-AR.url" size="207" crc="e5240e27" md5="927f0e8246594de9c398ac81548f73fd" sha1="4703926687e3db86b4ef95d9cbe7d26c1a68d6d9" sha256="16793df57ce36ef30dc936147d6c03ae9a56511dcdfa1b6d2034ac32e51b7b4f"/>
+		<rom name="GamersGate temporary files\2231\Autorun\ShelExec.exe" size="89088" crc="f022da16" md5="42474e14905a608197fb66cc93429349" sha1="b17d964602d9416224f1321406975dca4301e13b" sha256="f883570e373292d0bd41385e88d28dc046c6f7cff6fd9bae3e1aa7bb7f39319a"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Spell_hover.bmp" size="37016" crc="91afed40" md5="a931977ca88012179766849297c23ecb" sha1="35d8a81a4e9fd7c9c4f61e6f1aa0670861efcd48" sha256="96160dba3139baf99a23fdae1ab36644bdfea06ab2a5c46e1a032a1140473b90"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Spell_normal.bmp" size="37016" crc="9c6021ee" md5="62fe9c0ab1f9629a1e66162fe429f6d1" sha1="8ca903db5616f08aec9755aacc9b235497de34a3" sha256="d23721220b766a90f9e2bbb8d77ff6e303cdfd31fd5bf2d0579b14f2a282ba68"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Spell_pushed.bmp" size="37016" crc="c9334c64" md5="73e9fcdbff67ba74db2b3bdaae4fe3cf" sha1="fcd62f794563b50e89b8b7eccb6960a2e436cce1" sha256="1ecabb115bed9ccc2dc5074b6b24687de44a6f5b18e1b077d24c97505da02a15"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Uninst_hover.bmp" size="37016" crc="7389641d" md5="b3c337fcfdab8860396e0111b6480659" sha1="b247a9679a625dceb35ffc5e23139c7b85fb9f89" sha256="c2f9e8bfaac521f7fee09aea920771d8299e1be4138ef53289db59a286bdb360"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Uninst_normal.bmp" size="37016" crc="607111c1" md5="7f12f7e5f1fd98c19396c27219845c82" sha1="9284c15c8a610ed3293ca2427b5f7e145e34c3cc" sha256="8b4f8a8ebed5b4609bd3e44aa77d234141cbe10a5cc0d6a6429af900e310a977"/>
+		<rom name="GamersGate temporary files\2231\Autorun\Uninst_pushed.bmp" size="37016" crc="40fc575e" md5="9a819514520a32b7daa6c006c85c6724" sha1="5e55c23afe92c225369a3a3c9452b7ec91e69bf1" sha256="f8687e946d326b4408a23030b2dc1741aecb87b5574e7788e8bafe9ca010f06f"/>
+		<rom name="GamersGate temporary files\2231\Bin\Against_Rome.exe" size="2466816" crc="d1f392e1" md5="ffa06345c252163954a31320335fcd7c" sha1="02b84c03dcc5042c8fe2412aa123dab3bcd082f4" sha256="becbbd791074226c27a81f4faca802ac6403832a40bd244e2ea1a1c34d59f79c"/>
+		<rom name="GamersGate temporary files\2231\DirectX9\BDA.cab" size="695962" crc="b6d631cd" md5="8900f15a6bb4e88a40e61dff0383904c" sha1="31713f533548833af5e5b91ae9e87fde3e24a59c" sha256="47acfa0dd8b6697fe711f3c8ea17396fc9dfffa0ef996877fc3ddd75d4d20f5d"/>
+		<rom name="GamersGate temporary files\2231\DirectX9\BDANT.cab" size="1148983" crc="b0dec38b" md5="9221e786c2964a3be42caeacc5b3ca1b" sha1="70e1d4c477f407a5c40c09a2983ecf0a6d56692d" sha256="aa89db72a50a7b4418f30e6a17e0ba406bfd7df73ddbbb03a2a21537b0b3f0b8"/>
+		<rom name="GamersGate temporary files\2231\DirectX9\BDAXP.cab" size="968075" crc="2c99f100" md5="631960433b7f02713dca800787222f22" sha1="2390024b9935c3850339a4acf5d17056bdb04844" sha256="c46515b9b634ad01f0787bf089425b12971bb591271ab2f76b99c9bcde0543c7"/>
+		<rom name="GamersGate temporary files\2231\DirectX9\DirectX.cab" size="15442567" crc="c47134f5" md5="a1b4db987c324b6dbe24ef3de08b63a0" sha1="0cec78fe253be46e0e47971d4f03dc99bb3f2117" sha256="62de2b6d1fe75e78351c016f71d54e3b86c1b8a9ec91a2c660909000ee8dcc2d"/>
+		<rom name="GamersGate temporary files\2231\DirectX9\dsetup32.dll" size="1977344" crc="4fb1e5dc" md5="79be973d4caa42bb4accc7aa352eec6a" sha1="f254b2999e72f7123759e0636546fe4bbebafe06" sha256="f0b1b1658f0dca4442a71af5c043d9dc806388e1df0888c177297d933cd7e289"/>
+		<rom name="GamersGate temporary files\2231\DirectX9\DSETUP.dll" size="60416" crc="19e0d1da" md5="56ce7e1515e71705d3c989491ae3bc35" sha1="86d7c7677eae6c1fc6a8dfc4b5123bc26a23a9b9" sha256="14df36b98eafb54dc915d85dfddac92532ee75f15368c267094fea0c7ec88cba"/>
+		<rom name="GamersGate temporary files\2231\DirectX9\dxnt.cab" size="13096627" crc="1ec80f1e" md5="06184481c9a20ed0db2377290a9371af" sha1="37f0daef2ad4f93f5b24710270aa4a0b4b2d13f2" sha256="a69aebd460ca19ae67343a5f938e34a1e8e87b61d9f5ccf4b7a82822fb917733"/>
+		<rom name="GamersGate temporary files\2231\DirectX9\dxsetup.exe" size="467456" crc="b081beec" md5="d0a578759da62de46f297eaaae443043" sha1="174b6cd1ec9210da6c8e54e2db34739a50c57352" sha256="571378509620ede1d4d04b30f9a9b9a04ef1022b83db5e919ae39a10380ffa4e"/>
+		<rom name="GamersGate temporary files\2231\DirectX9\ManagedDX.CAB" size="1104358" crc="ddf0da67" md5="4f35b8a97ecb14ee8bda8e8b7aa626fd" sha1="ec1d45664ad98215c8c1288f555341194b455e6b" sha256="a05cde5ab21d65c6040b3183f8ac493548cf1456ce792fc44377fb97b305b86f"/>
+		<rom name="GamersGate temporary files\2231\Against_Rome_Setup.exe" size="665600000" crc="e79e7b58" md5="266eda420171b03900d10763e5ae4012" sha1="f8463ee74bc14aeb32e16e74343c737ca3bcada2" sha256="b337f02a1af178c819c5f4b7f23fa51d95b147059637d3934b56d0340ffb3088"/>
+		<rom name="GamersGate temporary files\2231\Against_Rome_Setup.W02" size="515426941" crc="78a9ff19" md5="459353a6d9ef573961305086abc930bc" sha1="4d73d20888c69b3d99e75b7613e3b01bccb4efab" sha256="c11d15da338545b70dd5b177e847f5adeb5cf2a21313bd7358f7dab8556394b2"/>
+		<rom name="GamersGate temporary files\2231\ArcadeInstallAGROME13c.EXE" size="5251946" crc="0f5b4bb5" md5="c9037e22b784f6a53630a080c49a39f2" sha1="7114c5d9babeb6c4fa33a749bd26eef76524989d" sha256="ff15465b97b6874621a13278c0dfdf8f916693de4b9aeb7cfd4666bbcb27efbe"/>
+		<rom name="GamersGate temporary files\2231\Autorun.exe" size="94208" crc="1d185cfe" md5="2edf3120e774283443367af77e2f7cf7" sha1="141fcee6b0bde72caf386c7868a6b71584e15f09" sha256="584b45bf1e203c9b784ad392de279e098b938e835162fc070bdd0fc4045e49cb"/>
+		<rom name="GamersGate temporary files\2231\Autorun.ico" size="3774" crc="e19b721a" md5="5d10cdfc65fc64ace8b8f6b9d85507fc" sha1="98ff35c5cc18ec0f33358ee0029f2991426f2603" sha256="3bd0da3ff4f7dcabaf555fb75d66b25bfb792975236f93923cdb28a6771e3d3c"/>
+		<rom name="GamersGate temporary files\2231\Autorun.inf" size="47" crc="6f00366d" md5="fa175faf21eb0219167f82e653dbacd0" sha1="e3ef4c5356e3083b656cf6ec7e5d53a195cef299" sha256="130b524e75702a507de136b188254257b63f486ca3f9a5ee5905bb2882dd4102"/>
+		<rom name="GamersGate temporary files\2231\AutoRun.ini" size="805" crc="752d5420" md5="d83d9d9591fd8e6aeef0a95c5cad583f" sha1="69bf9b94708108e3fa10405487fc01f3b392279b" sha256="429acc9c08227400a2bc55a5e99cad9be3ec6050055ba05e6e2f940a1e649456"/>
+		<rom name="GamersGate temporary files\2231\ReadMe.txt" size="178" crc="9595f819" md5="dcb62c37bce93c3bf5bfcf7ef76e0883" sha1="e77addd11da3c866dac1fed1926fe1c9d64a3ffc" sha256="23215fe48741b8d3edc8b3fe8089de960931a56050aa04d3279ec76b14e7c71a"/>
+		<rom name="GamersGate temporary files\2231\ShelExec.exe" size="89088" crc="f022da16" md5="42474e14905a608197fb66cc93429349" sha1="b17d964602d9416224f1321406975dca4301e13b" sha256="f883570e373292d0bd41385e88d28dc046c6f7cff6fd9bae3e1aa7bb7f39319a"/>
+		<rom name="Download Against Rome.exe" size="290825" crc="0dfb0b2b" md5="eee203d1a2d8fe73cfa698db75871f9b" sha1="84e9783129ea6dba1fff57cc0a3ffbed23590d17" sha256="72c0984ae71fe406c0600e2e5009cfa4e4b66e4526de3ef2732ba85f3ceb9173"/>
+	</game>
+	<game name="Black Market (World)" id="0019">
+		<description>Black Market (World)</description>
+		<rom name="Download Black Market.exe" size="290825" crc="e43c7b12" md5="fba98711acf803caab7956a3ed3a20eb" sha1="1b5fa2385886dfb0e8ce998c02464ad6e948d5b1" sha256="5eb775fed017306b48f53f5b4a78bc79cff7da86a06817013aa8df7e2a23d902"/>
+	</game>
+	<game name="Bloom (World)" id="0008">
+		<description>Bloom (World)</description>
+		<rom name="Download Bloom.exe" size="290825" crc="0174d4f0" md5="50cdc482d3ef90bdbad8c54d8724c6e7" sha1="851b67150d0ddb6a163801c60aefb858f5ddd5c8" sha256="03597be7eeee3ee67b2079e15fa45040f69108b470ebd909785402c8314543ca" status="verified"/>
+		<rom name="GamersGate temporary files\52158\setup.exe" size="140316056" crc="513aa664" md5="cb4fb0e1839c4f974431dcb0d708cfd8" sha1="67582705eba85ccd6d2e6a129c59f9bfb208a0a9" status="verified"/>
+	</game>
+	<game name="Cardinal Quest (World)" id="0020">
+		<description>Cardinal Quest (World)</description>
+		<rom name="Download Cardinal Quest.exe" size="290825" crc="dc25c0a2" md5="fef47f3ed72c0d8947d70254570c2c4e" sha1="c972466afa0644c9555d73516ccd42cf29289b7c" sha256="811b5ae595263b0c6e4c1a428c7485417c72e29519e52042418eb184e2223150"/>
+	</game>
+	<game name="Cardinal Quest - Soundtrack (World) (MP3) (Extra)" id="0014">
+		<description>Cardinal Quest - Soundtrack (World) (MP3) (Extra)</description>
+		<rom name="ackall_-_Cardinal_Quest-_Original_Soundtrack.zip" size="105612589" crc="c509b067" md5="402254228dcee1bd2e57e8174b66e37c" sha1="7fa2e43cd672e32d52e78a4dc120542783b7e60c" sha256="cac3b3901d8b16b98adaf7491121bd63e68bfc9bcc7a9277135511f52823ebb1"/>
+	</game>
+	<game name="Commandos - Strike Force (World)" id="0033">
+		<description>Commandos - Strike Force (World)</description>
+		<rom name="setup.exe" size="349376" crc="61574a3e" md5="ac96c4b20aceff68b1add60da26e2d54" sha1="e7267f538d5452a2feae369e69e418034af5764e" sha256="a06518b10b797b88d6a5df3d6bcb2d63b385c976ede8f663c8aa7e027cd6ff86" mia="yes"/>
+		<rom name="setup-1.bin" size="14650304" crc="905f5a10" md5="3dfbefbb45551073c5669d8ab8b7ac12" sha1="5c50f81e36eb1011f6d35b251826cf6f7b79762d" sha256="827e7a8caf0dc931ec6a571cacaad683806f6c3d97e070ec9c0ab72dd626be43" mia="yes"/>
+		<rom name="setup-2.bin" size="15000000" crc="62582da5" md5="4217e0d81fd8bf8ce1d2502bd230ae08" sha1="eab7f90ec04398f7706a2c5eb1332e0b59c888d4" sha256="c660ae909a667fea8e1f92735e30fc24fbeea8d8e31c0185c9426b2b0ab847ac" mia="yes"/>
+		<rom name="setup-3.bin" size="15000000" crc="bac210aa" md5="35b0e5da8d86a907e71ecce53403cff3" sha1="8e7912ea3ceb6d13306824189aa228195e49d8cd" sha256="5dd91972102e82fb1f0b5008ff74beb7a1ae774e6abfd2a0156ad8d012081f75" mia="yes"/>
+		<rom name="setup-4.bin" size="15000000" crc="dd12a8dd" md5="4c895677d2cfb930058d79a8e316a129" sha1="3751b9feb4f565aef4e90a66aebd974c067f3288" sha256="b91864da3c870fc338e00177bf9cf1ac21f4b7bbfe0aae04b8e154318615231a" mia="yes"/>
+		<rom name="setup-5.bin" size="15000000" crc="52f45367" md5="28b48c3139f6d55387bb50364ef656a2" sha1="cdf8c3c2bfc3588389b7075f235770f03cfe16d2" sha256="cdc4dfbadea9a638931504623b5dda38681415242063fb2c7bfb4c8b5b83e2d6" mia="yes"/>
+		<rom name="setup-6.bin" size="15000000" crc="a974454b" md5="64ad08e6089e23b4b247093dfbd1f64b" sha1="398490c511999f2c3851d6fc00de6070979352fd" sha256="eaa189c8623aed49591db3992e9a4028b1d1453969e1f3f98c67ce48fa7615f4" mia="yes"/>
+		<rom name="setup-7.bin" size="15000000" crc="59673ab9" md5="77d4790204dc5a71dfa5610e1c17ff2f" sha1="e5f581f49389d8c6591355fc326343e71c873e4e" sha256="b2bc52ec1cbef96854b4c8cd365719710a6b05eb9f6346fde0ae856c8e4e2447" mia="yes"/>
+		<rom name="setup-8.bin" size="15000000" crc="932051bc" md5="37ac916be9a327ba299bdef186dc02e6" sha1="de2262b797cb1e2c9aa447e32a6aceefeeb70588" sha256="26d8bda50717a7bfcdc63a33ddf2d65e09919c736d27adb1152361d6f3db3a9e" mia="yes"/>
+		<rom name="setup-9.bin" size="15000000" crc="b5e74ec5" md5="1949d7348b127e8c9d3ee5b03d1f0029" sha1="b6cae12ef7a09ec24691e23a6e89169db1efbc5e" sha256="0049cc481196c81e8469db562c54a96176dcb423069410aae4b4d700c2a8a684" mia="yes"/>
+		<rom name="setup-10.bin" size="15000000" crc="fe7709f8" md5="4e3d0e26d2b6e6578e28eff7e500049f" sha1="b6bb49b484ed9447c007607cb4bfdb3604c83d1a" sha256="3176b39a2bd313d6f5dc01c4ab08b5a30e924a3f107ab9f9f1495bc38306fbaa" mia="yes"/>
+		<rom name="setup-11.bin" size="15000000" crc="026270ae" md5="0a05e6586676784e58a9175f525bc537" sha1="96f6e525ed9500bb65811fe4cddbe7ea4a2fc952" sha256="a5ba5b3a87f32f47656b958b43276346fb08533baa832656357e646f17fac404" mia="yes"/>
+		<rom name="setup-12.bin" size="15000000" crc="0651321a" md5="0e6b33e51979ed52c8cf283cdc5c1dab" sha1="0ec3ee9a3f2bbeec4a5b7b597f2e2737afa010b8" sha256="212078575de0cd45ec80514fbba80e75bfcc155f78d657cd0b72bb48c79f01e3" mia="yes"/>
+		<rom name="setup-13.bin" size="15000000" crc="a27aba23" md5="ee8446efac21c88d1432333762e73003" sha1="2537716d6ad8fcc8efb39d6f5f2dda7082eaeeec" sha256="cde6c3c328c3634d257c8eedda8f2d3ca3a5de7e1db874bac624c97d72674890" mia="yes"/>
+		<rom name="setup-14.bin" size="15000000" crc="0eaeb8a3" md5="fdc626288f56a6061b7374a8f3c66625" sha1="e6a3ca24529cb43524fac38225089cdb95acf16b" sha256="c6879d4935a502ce10b67592416acb8e6151e53d96fc490ef0397ee97936a0cc" mia="yes"/>
+		<rom name="setup-15.bin" size="15000000" crc="4482933c" md5="135bad91a18fabe45ddc19b7a39b9cd0" sha1="0e929f1f32fbba29dfabdf994d7ab8602eacb6eb" sha256="25008546698f7f2b8168ce4036f65938747731a6d5ef909dab15d3fee7f11523" mia="yes"/>
+		<rom name="setup-16.bin" size="15000000" crc="38eb1a60" md5="a3bc4ee2ebf75e3dacacd0cfc09cdb83" sha1="638cb286aa52a47975a0ee6a03908b24c87aa6aa" sha256="0d0d4029d4a49037d5c504cdd18702c70d2a2fdff64ef50d762130c25e410321" mia="yes"/>
+		<rom name="setup-17.bin" size="15000000" crc="590e8b28" md5="68a5ac5b25aa4c9f845cb3531bd356fb" sha1="bf183f2e0f2adb20b6df9704eae0230a315fbedf" sha256="e7256be01abbbb5b84e41c6326a5278b65cf911424b8fa985205a844628714af" mia="yes"/>
+		<rom name="setup-18.bin" size="15000000" crc="0a465304" md5="d0337e168b4846a82943bcdd3d2cf175" sha1="2787b4eba27ddcd4efa7af999d08ad45aa6ee699" sha256="96bfc776b00722a553a36bbc4c4d8894676d144c105afc97ae4476c82e76302c" mia="yes"/>
+		<rom name="setup-19.bin" size="15000000" crc="6250ccd6" md5="60b676d31c5158ea77827f764a770cfe" sha1="57c95f068e830c1587114e4d11011c30fe5ccef2" sha256="796935a271b17d501719b44be63374b9c0e400ba2398561917922b7171d517da" mia="yes"/>
+		<rom name="setup-20.bin" size="15000000" crc="a93d5a3c" md5="ca4167af3ca2f24a160df1d02a57d403" sha1="fab98b12eaefd417d1bfedc2149d8c2fbe95748c" sha256="fdabc0ee0f9431d4110e547c3026f3ce4c772b3e18d892fcd964d64b2b946e2e" mia="yes"/>
+		<rom name="setup-21.bin" size="15000000" crc="098529fd" md5="cf024af556c4fb0c4b43f7078c7ac1a7" sha1="b9dee68cd752aa4b771d62170c8ec0dd812e6ea5" sha256="d94c5fa8d69df94b629dea2a43db2f7c370bc72a086e6b4b9cb159d42668a9eb" mia="yes"/>
+		<rom name="setup-22.bin" size="15000000" crc="49310b10" md5="c0d9c33d72531e9f0a3a492c9a6a3cc3" sha1="3543dccffd28c505a870bf34f77d6f2f486e62f6" sha256="99e2fd73fa1e0e2d0cc4266af37b1aff5a621637a7db29f9cc3134a6ee971f5b" mia="yes"/>
+		<rom name="setup-23.bin" size="15000000" crc="b938c589" md5="c1347d17571fa5e1d11e1a870222f854" sha1="3441474e1258f257446951b94da7930377019b6d" sha256="34fbf1d1b69b385814407ca85e31c1ff59cc9059927469295f5c4369a4d8204d" mia="yes"/>
+		<rom name="setup-24.bin" size="15000000" crc="7363a571" md5="27d631daf31d6d0dcf6ff02995f71846" sha1="80effaa59722276d66dd0197a5743eacb6f22167" sha256="0d0bd4185a0633c5fab8526dc55cae0cba9f5081ed2c828d565a4bd959df1fb3" mia="yes"/>
+		<rom name="setup-25.bin" size="15000000" crc="5dd1245b" md5="64c107e883db4d4458a59e64be7f80fa" sha1="5931fea24a6a89980eb7e40036ac4258def7ea3f" sha256="1a9133310aba0fb544d47679d3207e2c383e70a4c0a5d5014d19aa82f57dffff" mia="yes"/>
+		<rom name="setup-26.bin" size="15000000" crc="6b283aa7" md5="3908ed30a954dabc7f7706daae9f1dff" sha1="8c95127d54e1fe7d1c8c246e04aec4d09286f592" sha256="0b06c605be512b4a4590dddb71017ed07510e57f3beee01a43b7281da60c54b3" mia="yes"/>
+		<rom name="setup-27.bin" size="15000000" crc="22494db0" md5="f266180717ee762bb3e5fa696e361085" sha1="f24c75b18fde5b87b4cec2aa0972ecd391722f18" sha256="a18d9fe626a2abb61e6068e91503054dab4c7f11231f147124a3f486f32f8540" mia="yes"/>
+		<rom name="setup-28.bin" size="15000000" crc="2ac6e178" md5="986ff24b76e1dd2457b1744fecab63f3" sha1="d03db0e4493175ac7f22c67ea7bc1967c5d47028" sha256="148e97dec78cf8fc84630efebc1b8d7a49d09dba084ebb46529a3d8fdf27b6c6" mia="yes"/>
+		<rom name="setup-29.bin" size="15000000" crc="8d1b378d" md5="859c4794cc55995b546645ad3cae7874" sha1="6778b54e5c88df15dabcbe36d619b2c8e37335e0" sha256="228e3e5b825a599bab11ae9f5faf410aa25743db9c5347d64f86a7d35dfb0ee0" mia="yes"/>
+		<rom name="setup-30.bin" size="15000000" crc="de637552" md5="0be3dd9f7a6021af796a0b6b0fd56020" sha1="95901399a0345c0acc7d1eaedd43c15ac91b9fc9" sha256="6c1f4efc963dc10598334cbd921ae3f68d07f8b0dcc4b57646a7f55a38a501a7" mia="yes"/>
+		<rom name="setup-31.bin" size="15000000" crc="f029ed34" md5="ea5aa1a3d5d0a5a63cdc50b6facd3bd5" sha1="895259d5797d4fc1049c25f9eed8d4bb80b67dc3" sha256="bcda9b237423f73987782ed0e7e5c611a1bef8a7b5b7aa87913590bf17abfd1b" mia="yes"/>
+		<rom name="setup-32.bin" size="15000000" crc="86262957" md5="0e377d384c180a7966a7dd26b8fe838a" sha1="f25b8f34a8fe72f9e7502ea65629cf7b81031d52" sha256="24f6f1caeb1238bd1ecb7ad85790a98a34c6e57480974b0acbe0f8a4f63eaaae" mia="yes"/>
+		<rom name="setup-33.bin" size="15000000" crc="a0db2c72" md5="bea0b5454d598877723064d4cd6cfc2b" sha1="196f91ed6cab4adde4373262a0775607e8417021" sha256="0cd5464910337b1708c1d5439e3edfa2fd888bf6f3cdb84cfee9b59091c13b57" mia="yes"/>
+		<rom name="setup-34.bin" size="15000000" crc="e6e9b453" md5="4480930aecea63b0bfca3991eae9426b" sha1="c1b9e18d50b802457d05ebe6eb97352b75d203bf" sha256="e65d081887d1fe383877b6e1b747f539fdbd0f81779a53311c19dae55df9b3a3" mia="yes"/>
+		<rom name="setup-35.bin" size="15000000" crc="0e46d9dd" md5="6cb6a11347347c0fdebcb1112a40bced" sha1="0cff1ac3ceabc409512a6ac11517aeb1005b3b37" sha256="c6a9308f49e4eb262bbdd78ffbe775e58a077bc8e542894c898af74a453e1381" mia="yes"/>
+		<rom name="setup-36.bin" size="15000000" crc="c873fec9" md5="1fdd36b779e63129a3b259f6d80dbdaa" sha1="a9b7145ffc7d200d85ffa4000b59133ac6d52d4e" sha256="cafd9a98006b0ada67f30ccfe3c1531e038a8d8723d2944d919f28f5732b44c3" mia="yes"/>
+		<rom name="setup-37.bin" size="15000000" crc="205e1f55" md5="5cd2170ee4d712a45c597fe0033e31a8" sha1="18c1db922eb918d00ee40caa1e37fcc9e416a527" sha256="cd98bc5bb4cf05c641365fdcab64530cd5d59871facf391a2a6305fe63480729" mia="yes"/>
+		<rom name="setup-38.bin" size="15000000" crc="9603cd17" md5="c73f8e7c3bb54341dc0a9edd2775df56" sha1="27ce38ff47195ea2f1267e9f8d324b20fb66288c" sha256="77f7e7fa51f3d33d5193f456583f188a699cbc0d90138bd0d88732b7658d3e46" mia="yes"/>
+		<rom name="setup-39.bin" size="15000000" crc="e44353e4" md5="b8e7017f8ed328fb16bbc79adbc1e311" sha1="8cffd2754da95ade7db0eebe1a995102d61e081e" sha256="1aef906f39a8db8c0a3f67cf85ef81ae9a9d89408ec5548a322a580c97c09016" mia="yes"/>
+		<rom name="setup-40.bin" size="15000000" crc="a825df22" md5="2c538c347acdbd3c63315d8f453a4bfe" sha1="cd03ef9d49ec478d9dd9f0be125bb4d0dcaa03d9" sha256="648323b337c6496a6820321bf9d49e1d4ba0e590705c79cc999ad3dc84487201" mia="yes"/>
+		<rom name="setup-41.bin" size="15000000" crc="7a71afcf" md5="a57dae04570584591eab27b7a1a37196" sha1="e7cf65a0610cae22f8090be87f7d22bca6704d28" sha256="709d8a33de6761d866173a30b2e7da726189f3f4085d5bd0536a6e5eab0239cf" mia="yes"/>
+		<rom name="setup-42.bin" size="15000000" crc="da31f9f7" md5="a34fda7b5fcdc49361042e35e100d2ea" sha1="e86f93f5c0a4b43d696dd549a48aaa2a8a6c046e" sha256="79cb7a4f6c389036ec248d7eadb2f3a4afa0a92f3bfff744e3c82f7fd7e7be43" mia="yes"/>
+		<rom name="setup-43.bin" size="15000000" crc="a6c68f26" md5="5dbac20644b8e74ab45b0a8ea8b2cbf0" sha1="5668c94b40682efc2b591a4926c892477e5f6e6d" sha256="40d75a9d03e4faa1c559757e85366217d1fde03976dc5204a085274d22217fe3" mia="yes"/>
+		<rom name="setup-44.bin" size="15000000" crc="16b93c46" md5="3e006b593d4ea40a3a3a2d065370b698" sha1="5a92165e9bd50a2eb709169904bbace1f8699bb7" sha256="93012f1e69b453ac531571ebd2b7febc06ce64dfd45b286dcbc2747a11606b67" mia="yes"/>
+		<rom name="setup-45.bin" size="15000000" crc="8a71113d" md5="0125438f20624616e788eb993ee6d600" sha1="8ba0784a2d2af2ef61b7fda38fd254ecab908067" sha256="ec6d986d86fea40fb5c69b77a86a8ad6b495bec5c526b7ed8de1e16aa0277e4e" mia="yes"/>
+		<rom name="setup-46.bin" size="15000000" crc="0387c858" md5="40c6ca53d028116610f31e0747d6af3e" sha1="73b7018d95153ed1bdbf47a266f38d0231b6f3fe" sha256="8e09a90e96a252792a5cb7ad979f0f011e069c4e7a11e01010d58acebe8c2f47" mia="yes"/>
+		<rom name="setup-47.bin" size="15000000" crc="6e11cf01" md5="391fd5d860e9f36f5cc336ccc9e197f1" sha1="e6f82f8cf41faba28565a8b999246a514a601938" sha256="434d343b44253eae7b96be50d6b13824636a18c58b76290b62ce365ed2375889" mia="yes"/>
+		<rom name="setup-48.bin" size="15000000" crc="5c81e42b" md5="6e171faae8b06473aeac2601ba405c5a" sha1="04bcde5a5796cc1ece39e1b806d951af2dc4432a" sha256="21495381be469f843f2e7be9306c5dd864e4f0501d3db854144cb8c1cf9526b1" mia="yes"/>
+		<rom name="setup-49.bin" size="15000000" crc="d80d208a" md5="17b35d505e95b29163492b43b88f08e2" sha1="97999e3cd0f65940e0165bd26b89af84596b73da" sha256="de5bdc00c78ba847da0f25f69afdc286250f6be1dffb5f7ae0701244e2f3b070" mia="yes"/>
+		<rom name="setup-50.bin" size="15000000" crc="73899273" md5="4a76b18f5dfea7bed8f0328fdac628c4" sha1="e001558d76fa757aae08f3989d79fd4cc9f33e80" sha256="c6d52813b72ceae17bafea7dd68436bd047322bf73afbfa33debcec3c9f9c758" mia="yes"/>
+		<rom name="setup-51.bin" size="15000000" crc="dee8898a" md5="d2ec3c171ec4678680b64cf95d9398b3" sha1="627c51701e7df89590386f3a8960543b6a02d530" sha256="9ae91e41da9c18474b12fda1df3f4b6747aba7558a846e0dd2e8aabaf4643e1d" mia="yes"/>
+		<rom name="setup-52.bin" size="15000000" crc="cf25512d" md5="b3c35b2c2e6acc6163e170fef5001afd" sha1="ce19aae282b43f9cbbc7d01b0a667c0874d89a29" sha256="6ec2ed9553d76d031a0a52ff28040055f156a12d2a24542ced38b45f62345951" mia="yes"/>
+		<rom name="setup-53.bin" size="15000000" crc="a480bb17" md5="f1bfb8bcf08b3494171fd38b93131364" sha1="b9032b420b3e2117f87045918ee9d9cd044b55c8" sha256="03b2341d2c471f5f1803fd3d869ce4112b0015fd00c1455f45ccf4aeea9a8a41" mia="yes"/>
+		<rom name="setup-54.bin" size="15000000" crc="e96acd46" md5="7288fd49688182e1cefa7f81d0d36fd4" sha1="e2afcfe245becff81d670ae5aace557c18851786" sha256="48e66b01b01613ebba6581110ce730258d9e24604c5f9beca6097f7898c2dbb4" mia="yes"/>
+		<rom name="setup-55.bin" size="15000000" crc="2584f3e0" md5="6f6dc2438e059d059163810e4686ded8" sha1="96b6fa18628a8f593ff046d794c7b43edd9f3f38" sha256="f1fb6760e8fbef2247c47a51ca4c19930e7a950845681f1bde1087c0c37d3135" mia="yes"/>
+		<rom name="setup-56.bin" size="15000000" crc="faaf62f4" md5="b86a8e64499daf4cda8f823d877efef5" sha1="78ed6f43ca5f1b831db41a8cb93e3a3771adb34b" sha256="5bb794410d55544eecfe36eeb92e5e531c9cfd4e52b841eadc88cf6a4dcbeeb4" mia="yes"/>
+		<rom name="setup-57.bin" size="15000000" crc="3ed28f73" md5="ecd0a2d0c181e4a0952de6f0363a5ac4" sha1="65a96cd36b941e645540ed9e0f4d4dd17fa693ee" sha256="48d4ba9b28ceec5a4d528fda32e36c59b741a4beb5b84afd8b769c578408b8e7" mia="yes"/>
+		<rom name="setup-58.bin" size="15000000" crc="faf407ba" md5="bcf40435f2e18f3a73eb8f0456fd3970" sha1="5f22feff4d87be24638b3e3df01b75c4b3a51d18" sha256="73deda011483a4629e93ee3be7f384effa3e275cf52828dade05581e4fa2139c" mia="yes"/>
+		<rom name="setup-59.bin" size="15000000" crc="a71155e0" md5="946de9cdd67aa990fbafef8bf7d47ebf" sha1="e0c8978807ed2f72a6d09447609ae290287d2f55" sha256="96bd6b3889aa387af741e72c47ae9843dc3c9bd449f725904c1c5f051a715497" mia="yes"/>
+		<rom name="setup-60.bin" size="15000000" crc="724368e5" md5="d7d565b34ad2b49dcba3b3af2a2d5301" sha1="846a89a570789da6d10502da4dbaa12a12e52b64" sha256="5fce35398ac28692e00dcf276d7032fed20988a56b160fa25c3e558278649aa3" mia="yes"/>
+		<rom name="setup-61.bin" size="15000000" crc="079ed531" md5="d050ee6be9bcdef6ebb7ee2e45d2288d" sha1="9cfd5d88036a2eb1c779081470498cba22c1e819" sha256="5f9808a7d9d13cf6e0bb16210294ed33bd918dd0aba1eb7d94ff854926c5eeb7" mia="yes"/>
+		<rom name="setup-62.bin" size="15000000" crc="b7b2d6ad" md5="1a3dd3e1987bcd6d91623c6c651f0122" sha1="6ead6ee50ecea97423a419702e882359174729c7" sha256="67f40ac6e98e2e18b7880476bb6e2d4fd0c69a95f301f2d34a2381e1431dbb61" mia="yes"/>
+		<rom name="setup-63.bin" size="15000000" crc="1deea9eb" md5="fb93d188f5ead10d48ac0fdb59f660f1" sha1="c9dfabcc455b741f539a2d8d161d8bd12e75ebc7" sha256="9d86e098e4008539f3a4544d1580143b19b94a9cacf20bad978d56eafe1c2bb7" mia="yes"/>
+		<rom name="setup-64.bin" size="15000000" crc="92e2e278" md5="7e1232d6fb94758d6da763706e1a2956" sha1="bb094f999af2fe8696331ed02e06454c27a4049a" sha256="773b751178a114b1674b2945c012f75f4d519cffc2474337f3b6c3e904a773b6" mia="yes"/>
+		<rom name="setup-65.bin" size="15000000" crc="d387e06c" md5="3de666d5422b09bd588f6678eefb58ad" sha1="bef9b423c175e6c65f64a91024c27fccc969a8eb" sha256="aa9437652a9ad9d1c99f79734c1be65325cc3516c810093290e49cd38f4b6bc9" mia="yes"/>
+		<rom name="setup-66.bin" size="15000000" crc="3944093a" md5="5c211f636c61438f2578945da5415a6b" sha1="e601b1504e71b9ea34e657aaa1c13dc833231175" sha256="21e7b70b4e3b3d6aff65da4381f58a41345b172c6c8c716f815ddee66eba8378" mia="yes"/>
+		<rom name="setup-67.bin" size="15000000" crc="6c0ee3aa" md5="cc31e1d3e218acd4b575900de45deee5" sha1="6347a8b16f0f69a8989f93e3cee7ff9edfb1f234" sha256="cee360a93d58c512efeadc279849dbd86a452067f26e13da92f4631367543e00" mia="yes"/>
+		<rom name="setup-68.bin" size="15000000" crc="f6d88dd6" md5="d111e8c645ef801b9b6179020cf34917" sha1="a9480c16419e433ed9e2d16e5496f27b4a1c7426" sha256="b29a3759f030badc0d2389a279f6075d505f5f365c72dbb5393095da339455c6" mia="yes"/>
+		<rom name="setup-69.bin" size="15000000" crc="29d0eec7" md5="8f1f57bb4783d21b2690a0dfbdd7d934" sha1="e2f13d5da43835da0c4ada620928b99532e97e0e" sha256="8f65fed0afbf677cd87b6162479ddc82aa10295d20f6ed5c3ebfa9bb6d53c34b" mia="yes"/>
+		<rom name="setup-70.bin" size="15000000" crc="1a7333ec" md5="b4a975d6e3993ed3bf36d61854e2756c" sha1="15268722a9822af8e01ba7d1c6b9fc4226dd5568" sha256="db579e484d3bdb87945e79dcfb3801c241d91113861bcd89bbd5129014b18eea" mia="yes"/>
+		<rom name="setup-71.bin" size="15000000" crc="ec19b535" md5="4847ce1d59e008abdce22b994c93eaee" sha1="24becfa04c11fcfc9427165b061ec789d88bc1c0" sha256="e1e104c2a39877dfe638f45d090ad3ca0f05028337023d6d525a29e3e0ffd329" mia="yes"/>
+		<rom name="setup-72.bin" size="15000000" crc="b2816003" md5="788d40ca5541884c3d06bb8b44d83704" sha1="649a95a012a09b8344687489e98ea34020a96162" sha256="182784f45dd06b6d4d1fadc99f8dfa568523e28057440eaedec5b510d2a20b27" mia="yes"/>
+		<rom name="setup-73.bin" size="15000000" crc="86570414" md5="7f9dcddd87044355182a233f03f9b13e" sha1="80dfbaff3e6014826be2f9e138ac5409d0609a9c" sha256="61bc99142b71ad022ad287bbacbe8408ef0ef5a54d00dded4040cede0527bf70" mia="yes"/>
+		<rom name="setup-74.bin" size="15000000" crc="f68f2b43" md5="ddf61467e8a73fa77658dd329fdf512c" sha1="8f9bab6b53aeb26cb1047eb14bdc16da9cdd5134" sha256="13b5afa41653c0a6fbdd6120cb4f3810befe7da524526e919ea328b9bf3fd1ea" mia="yes"/>
+		<rom name="setup-75.bin" size="15000000" crc="e256ef5a" md5="f96bf759567db7fd5cf3b2f958ee5ede" sha1="19c2ba0a2ebebd24c64216a28b5bf28d8e2fa575" sha256="245e894a5788735403aa3e68f9daa4ae14a5dad85c9e9aaba0c06e7f1ba663d4" mia="yes"/>
+		<rom name="setup-76.bin" size="15000000" crc="13a1db23" md5="df8ed4107f0b56991ede39aa40c31a17" sha1="7a97c33fb836c24926f77da64023a7146f0eac86" sha256="798de2b119e3aca3c4e9fd80a1ae6413b2ad14ae026580dea5d89a5f49af75bd" mia="yes"/>
+		<rom name="setup-77.bin" size="15000000" crc="c0266565" md5="f2816193674586f11a358568e750320f" sha1="99bc707e765fed02320409b5b2e586963579295f" sha256="102531184fc3cad725e75c6065f33a89463087d59a21574e92e736904d950245" mia="yes"/>
+		<rom name="setup-78.bin" size="15000000" crc="7aee594a" md5="51a44ab8d989a36d3b8ba3f23ac6c545" sha1="f02b93101ddb0b3db98399ed45fcba4bbed7b9df" sha256="48bd31d857d7da9934d55504e4f6cb8599e823cd22a6fde48f25bbca9f0f2bd1" mia="yes"/>
+		<rom name="setup-79.bin" size="15000000" crc="8cbf16ab" md5="3207e35604523ef77ff7af9728417aaf" sha1="9df3c55b301b1329203701012b5f9c8d2d8afdfe" sha256="167abc19c649c23b8e809826dce5546936c51f2238721e263b895cd4ffaca978" mia="yes"/>
+		<rom name="setup-80.bin" size="15000000" crc="53b6d1eb" md5="272a88158479a19a1d163098d87f9599" sha1="f45d47fdd5c02c3eaa66568af9856d5b0e784994" sha256="1c2aee1480889b853b7474ce86b74e8e6becc702868bbf8b362593a5192fb1bb" mia="yes"/>
+		<rom name="setup-81.bin" size="15000000" crc="17c5ab2a" md5="5d3ac86f1cd7ad21d458ae4445680560" sha1="b7c7146a7b5fa05e01f1b24ca4c6b502e1c2dc7c" sha256="359fdaf8f4ef128e4dd5f537e2ffe355d5f9d1600c1fe4b2faa3c4789d235e18" mia="yes"/>
+		<rom name="setup-82.bin" size="15000000" crc="4273c202" md5="07e7789b86048d0dfcbcaa8d9cbc1785" sha1="2064a23449b6c078db85106d1880509dddc5e9ec" sha256="89d25d0d2e835ea174fda594c9fca80cff5473a4435af356405838681d028401" mia="yes"/>
+		<rom name="setup-83.bin" size="15000000" crc="c6246fcc" md5="714fc07d8d16a55023543e43c8675561" sha1="461d01f92a48ab446f4b37cbbc6c8ef739ac5737" sha256="f65df1e6e2bd95ec2209b2ffc9fe8c54b7d3efa917cdd506f7f84f210f86fbab" mia="yes"/>
+		<rom name="setup-84.bin" size="15000000" crc="5badc58d" md5="5aa84e68bc943be90f7c75ce409d8d29" sha1="ed71d5634884f98f22c7dc162f1a0f929744d30b" sha256="f3905295b92c41ec469ff27e351f9714e1705efdda092393d0cbe4dd2988e566" mia="yes"/>
+		<rom name="setup-85.bin" size="15000000" crc="30020ad2" md5="e9f719595e0ec012f33f2195566aedf8" sha1="b9d7a1a74354b23b56f642e2d50a084bcade7b44" sha256="b4ce783788a793047add0687dd8604537f776ab70e4b4c1bc8ba6dd733daa1bb" mia="yes"/>
+		<rom name="setup-86.bin" size="15000000" crc="0688c18d" md5="d9bece15ad3529313221659b0e5ed70e" sha1="37f3e42ebac252848ae1009f749a0ede9e9aca9c" sha256="6c18b7c25a58a5c0d49af2d4038f9b2cd413d2108e982830ab07407fd57b75c9" mia="yes"/>
+		<rom name="setup-87.bin" size="15000000" crc="c42b2fa1" md5="884eaeda67c3d0aa2ecc56028d932a6f" sha1="e9d1b5b06080747caa9165f71b1419c475e95604" sha256="b92d4b166505f348ef7a6ebaed4d87c49d4b788a4e4ad6181fa88c4ddb3366ec" mia="yes"/>
+		<rom name="setup-88.bin" size="15000000" crc="aa60a5e8" md5="d3b699566f93c7b10fccc35960d8897a" sha1="10a2c863494f077b3466910e3c83e7ffb3a6b6b8" sha256="c6a4653c53afd23c2afceff788884d672d0bd6fbea6845a3bc9b34ede9f19181" mia="yes"/>
+		<rom name="setup-89.bin" size="15000000" crc="3ff16ee8" md5="b47b2b400a19bcbfbc3c5cff44402c31" sha1="d19f22f3b4edc9e41a2f4c8ad57d78be2d309d0c" sha256="1e3f01daf3f1d649df800150d9b3c9d59a262bc6be2b21b939c1a0b74b42392b" mia="yes"/>
+		<rom name="setup-90.bin" size="15000000" crc="49f4191a" md5="e7ed74483942169e6c238fd914683b8b" sha1="a875c50bbf068b150e3b76ddee1f51759dca8716" sha256="c849174fe86ce0bdea6ccdf233f7d61ad33b281eb8e6c2402f5eefdf04794810" mia="yes"/>
+		<rom name="setup-91.bin" size="15000000" crc="d85cad49" md5="1108e36bfb60cf9ce6e7221962ac50ab" sha1="09ca8d4e74d9debc608f40a15b9ce01836974f31" sha256="bf3d17efb9ce67eaf9902d064fc0b8eb731ac88a9b6d1a5c312830d76c42a7c1" mia="yes"/>
+		<rom name="setup-92.bin" size="15000000" crc="b6e2c8bf" md5="b428ffc7beb598117d0568515fecbf26" sha1="7bb9c0027c6dd9a056c68f9f8db6a610fc051248" sha256="cc312e07f7f2a7e6bd7dbbb7302785fea81ec808419017a46dd0bab43019fd1c" mia="yes"/>
+		<rom name="setup-93.bin" size="15000000" crc="e9edf4a7" md5="88dae792035a529b47ccb2766dfc660f" sha1="7e8e6bebfe5b3f67fed4b5fe6bde6d45287dfd8c" sha256="3ac8e3e4e178d19d2634c122ed818ceef2864d0a25bc22b2be18981b470e6e40" mia="yes"/>
+		<rom name="setup-94.bin" size="15000000" crc="75ccc62b" md5="c9a5271cf7bc799b310fce040927d3ce" sha1="b6a5283bd38d52a8606911cf752adc43d549dd9c" sha256="e2ea54dee25f16e08ab927a13e67a3648e567f3b23e5782d30b50cef74ea4230" mia="yes"/>
+		<rom name="setup-95.bin" size="15000000" crc="852639f9" md5="4443a2d6abfc0ad6c9587e714f9f42ac" sha1="f0ab15e0fb7a88db311ca2169e0778a65f668116" sha256="7a63879553f6f3638dc88b455bb309cea0435c2c9bb0938ec445b74cc3e0945b" mia="yes"/>
+		<rom name="setup-96.bin" size="15000000" crc="d208ef86" md5="5bb25b8b80f10b3bf9721923e9e7f109" sha1="1db0c3aa0ba56a2a84ff46ce9b5affd64d4ddafc" sha256="3bbd95af864d67910778efe8ae89b8c95b11ebe812d85bd2d86bbc2876cab6da" mia="yes"/>
+		<rom name="setup-97.bin" size="15000000" crc="f722719a" md5="a976b6911a53d132c3ec61bdb8a3e9ec" sha1="849f724b7af3328af09f7c4c4aa13b85a6ae7e13" sha256="ac7611991cae5856752e11e54b62dd92ac7672c981f877ab661ea844a1ed7ec0" mia="yes"/>
+		<rom name="setup-98.bin" size="15000000" crc="40d4c9e8" md5="850c630b777b92eb7ab0c726d4833e53" sha1="e733f69821767199f412bb8b5e092bb53ec57cfc" sha256="660c1cabbd654f50b66e32e36ee287c62e03e88447388d8b95a40e30638ec4a6" mia="yes"/>
+		<rom name="setup-99.bin" size="15000000" crc="4c3ad16d" md5="c743535af9e2d6e215926ab5e50fa475" sha1="776f69e6b3930f2d5714150c7ad38962db8c592b" sha256="e9c5cd93aaec98ac3d57afa3632a2639223eef5b30d5c047605c136da0dad8ae" mia="yes"/>
+		<rom name="setup-100.bin" size="15000000" crc="dc92081b" md5="1d65abb93ff9efbdd85a7de41df08997" sha1="70a558592e7ddac9edc316e3aebd930b68badd95" sha256="fc81998105dcc1cefae153f17b35ba49a4a3bb12493f2dbcc2cd77f18d99d1df" mia="yes"/>
+		<rom name="setup-101.bin" size="15000000" crc="81af73f8" md5="cd3d1530784b19b9abad50f73d07433e" sha1="e1828f7c0084b014c8046a08387a9061ae9897ba" sha256="3dbad7fc20db9747974e65db5a72a2c6ce186adccb475a2908c80fbed6417a25" mia="yes"/>
+		<rom name="setup-102.bin" size="15000000" crc="df680bf0" md5="bf8d489152f6eb060090a0f95b8499ce" sha1="552a2cf47fd45800a5cf02e096917c0fd7ac85af" sha256="29604634811e7d2f8b765adb71c298889dfb939515d468fb6495ba9450e99c6b" mia="yes"/>
+		<rom name="setup-103.bin" size="15000000" crc="62116a7f" md5="53204808a4d968a613fbe9522511b6f6" sha1="b1a001b7668ea43ec5689b370017f1ff7e465d56" sha256="92cf337cb01e3426985cf7ea3b70248e9002a83d6437590ec0d5af75674c93a6" mia="yes"/>
+		<rom name="setup-104.bin" size="15000000" crc="bc592f4f" md5="0108f396a254caf372207d79bda6c919" sha1="9163f7573fdef0e0c9de875170d40c66c010ebeb" sha256="8001856507fcc43cf32dbadfc669aaf7875012c85aa47bf4459999591658b27f" mia="yes"/>
+		<rom name="setup-105.bin" size="15000000" crc="b1e4aad2" md5="d4d5cb6089c20a45bf515bc9feb86dfe" sha1="5f09c3007acf8230518b233438c32a88ea33dca2" sha256="5c409e499a772cfe8a06f03c853a8b683ff119d081cc0c6f55e6d584a791189e" mia="yes"/>
+		<rom name="setup-106.bin" size="15000000" crc="58f00d4d" md5="a9920ea2dd00a82153a0db524ecaf50e" sha1="e8b5c82e5438f3ded5fb51565c18ee00198d6551" sha256="d56306de294409bd6e10640ce3f6f8680c4f7d0eee5cafa3c1e7c4b5a85c1b7e" mia="yes"/>
+		<rom name="setup-107.bin" size="15000000" crc="dda17368" md5="27f0bb1f9696a278c265e038a1e76275" sha1="b57ddf10391427e9ccf2fd467f1ac5f7a0ad9049" sha256="ed9cffef0942b124620a59063186e1a724710fed373e573a51ae73fba7a730a3" mia="yes"/>
+		<rom name="setup-108.bin" size="15000000" crc="39709c2d" md5="afa1f868bbbf074aace9046c9ea1e7d3" sha1="87ad0164a9e10cee00ef1057753e659ec537dd18" sha256="f369a0b0861ac751fed7cbcdfcc5c88443ae1a5b7eabf163ac72750cc78ce922" mia="yes"/>
+		<rom name="setup-109.bin" size="15000000" crc="1b0f8eec" md5="0c72ae6b04ecf889ce94f4beb95dd3e9" sha1="df0b88032d139bca3a92bcccb4c6f51c0ab2a681" sha256="8327813f61b3a46a105d2f66034936c4c6508cae82f5c986066cfbcab25a3c60" mia="yes"/>
+		<rom name="setup-110.bin" size="15000000" crc="9686d1da" md5="8a3e70b62a8616f927dd085a46872db8" sha1="9c639e4a2599d550f9d879431b1f7f0832f95560" sha256="7b1784e10b70a6ff8cb41f2afc726ba46cf76a2e050a389ed4dbfef369ce12b4" mia="yes"/>
+		<rom name="setup-111.bin" size="15000000" crc="991f10f3" md5="32a69f6571f194a89784803d5a164544" sha1="4c0e6b475ca95a37f57bf6761fcd5a3ff5cb66df" sha256="c5bcd4d416e280fcb810b453dd22bc976ee7a441670a15ab8cfa04051fb58f01" mia="yes"/>
+		<rom name="setup-112.bin" size="15000000" crc="c20d9304" md5="27be7805b9e1b89fe793671e33aa9671" sha1="5315db74ec0fe080701b760073d0ac0c37abd83c" sha256="617608b125b929632998f0d400a07c2c02c810a706c2c96a47299357d25a7177" mia="yes"/>
+		<rom name="setup-113.bin" size="15000000" crc="f71a3a2f" md5="8b66cd10d9b4c7291e781ef0032ce6df" sha1="f41eb6d1f0476b8918df6dc57ba8d2effcf1739d" sha256="55f60a9d938451c0b5d61820229489a6e78ca630ac71fea328e2806a087bf4c0" mia="yes"/>
+		<rom name="setup-114.bin" size="15000000" crc="b97dedcd" md5="a48a70a0734d707bb25758488742d2de" sha1="72134bd5207419c92c4fde53076fc5c0e6899e24" sha256="380b42d9f6920b1eec0eb6fb1ca9f868b4340c37934eae6cd3803159881745e6" mia="yes"/>
+		<rom name="setup-115.bin" size="15000000" crc="141713d7" md5="c25f2c06bc45804573d7e9fdcfe4d0d9" sha1="c95f653c09524cec1d0cccb4ec70c8d4dc0037a5" sha256="e755570aad192f87cc2d4e22eed2a7d4063b4925eb484ce068a526499f2156df" mia="yes"/>
+		<rom name="setup-116.bin" size="15000000" crc="27b78cbe" md5="df5b3e9e3d3c62b48a9630af149ff90e" sha1="e06823e4117d65409c812bf8478be9be7221bb52" sha256="6c878cc8c8d29ef94ac50c6dcc69f25234854eb8be14297301819d40f0b60ccf" mia="yes"/>
+		<rom name="setup-117.bin" size="15000000" crc="c34d6817" md5="e7923a348b98e3295f9aae5729cd859a" sha1="ea8f13c87e261cacedc98f4facad8a181ae5a3f8" sha256="15b0cd99594a4c43fa5df0518a707615e5f989dca9d5b03fe2e768574e15cc5a" mia="yes"/>
+		<rom name="setup-118.bin" size="15000000" crc="e4ea47f3" md5="d3e28276c111021f821e23b12c588a50" sha1="92f7a427599de89f9a0680651019e1844a9c7e72" sha256="41eba065c893e021286feed8e5afb54317b0248e03fabf18ef7e34af0df15158" mia="yes"/>
+		<rom name="setup-119.bin" size="15000000" crc="25c38139" md5="190b5739566d8d81ff655e24a09e2247" sha1="b83b6738f71363fe7b27b5b1bb2a654e0b2bf347" sha256="c1e165395b4288adccc361264ad1414df0d0dba55636e5695277fd4f42f88e29" mia="yes"/>
+		<rom name="setup-120.bin" size="15000000" crc="50e0b7e3" md5="36b303b220e1cfe193a499220075a52b" sha1="55ebab20ac0afd8e7df6cfade671f914dac8207f" sha256="0badcb9a7b24268812075becb01805ed0dfea5c19d94e9e4a6e5e9d461e6e9b4" mia="yes"/>
+		<rom name="setup-121.bin" size="15000000" crc="bad4cf2c" md5="2e022fe6f097cc0b3248403505884467" sha1="6812e1c3d61cf72955befd7ee279b9cf64eb6555" sha256="ef4d2757e053cc2d064c41a03d4afa4d087256db49aec7b67a5a0f7372dcb52a" mia="yes"/>
+		<rom name="setup-122.bin" size="15000000" crc="23a837d2" md5="1149199cd815861ca463473da46b62d1" sha1="90048f3ef089e7eb7e55a90d07d72f13294d4294" sha256="5125f8a345a880b245c3ab5a5d8f9a89cbc17d41c4e59a9857cfd3086ec28a8d" mia="yes"/>
+		<rom name="setup-123.bin" size="15000000" crc="a58b632e" md5="6b8be60c4e2e60a208246495211badc2" sha1="743cffb30ccb11a868c611299f723e9e93dfc221" sha256="43be4606e2db31346c8c879620af96cac4b8beb47e5b09f4446e69bc9cd343c9" mia="yes"/>
+		<rom name="setup-124.bin" size="15000000" crc="f3583c14" md5="1dad81d73bb8d61d0045e1eaafc9c46d" sha1="1e2678ef541fb6680d714ce215b150409009b9f6" sha256="bee5b5254b742cdbb8c090a5f4b1f2ad4b22ebe81dc98de823784a83bb454c6c" mia="yes"/>
+		<rom name="setup-125.bin" size="15000000" crc="555d07fb" md5="b22c8b6c4a9299dd1b2552df94b1dd59" sha1="0c0d9105e3b6317f5b14bd95929071073f1e4e2a" sha256="1f12e67ea070df58f35354b285995079bf27bff96210a3b642ea94485d72cf3f" mia="yes"/>
+		<rom name="setup-126.bin" size="15000000" crc="f20afed0" md5="002f807384028d5e6259a8a19ed00e2d" sha1="74d0bb19966ec84dcd46c21d55f67cda2e515440" sha256="686b7a71816244d12c94325c417922d42ada5f121c16166f3c266d79efd78530" mia="yes"/>
+		<rom name="setup-127.bin" size="15000000" crc="d6cdb6fe" md5="936b2866c925284ffcf845b57f2f944a" sha1="1dbca17654c25e65bba11f2674c157a756eb41e0" sha256="54d94b8fe5243f9f4fc34f469917906e2c5e0066870a2b427708f27ccb070bd2" mia="yes"/>
+		<rom name="setup-128.bin" size="15000000" crc="833b8d5c" md5="7268eb2663bd33defc12bf9532e2931c" sha1="b953a2591d7dc6836a4976f07dbd620c861369b0" sha256="eb2b093639bd36d2377189437699ed6b58c9336995256449e0c876187adeda7c" mia="yes"/>
+		<rom name="setup-129.bin" size="15000000" crc="cdf312a6" md5="4e00c967e9de7860cc4ab7ea467337c7" sha1="0bec2600edbfbed3d12162f2ae97b6e6c7931185" sha256="501d025a360191d99f8b0d5c7711fd8a1cd4187df9e8a1be2fa0cfc0f98f0d86" mia="yes"/>
+		<rom name="setup-130.bin" size="15000000" crc="ef3e23d3" md5="e8ff755ddef7575c0e253a2312ac0317" sha1="2b45fb8fa213d4839c3701e493b080300301778d" sha256="7878542792afa41e918c8563f23e7261d62e7cf1086292db19e6352664c7df30" mia="yes"/>
+		<rom name="setup-131.bin" size="15000000" crc="cad81c57" md5="14bf51b39b3f86a349953ad2fb6d934e" sha1="3376a8cb1c258228a95bebbca4b0a26698571d1a" sha256="e549827e6892cd2fc678faa35ddcb5327c0fe95e2e991a825fbb1389954f2ec2" mia="yes"/>
+		<rom name="setup-132.bin" size="15000000" crc="e4da34ed" md5="c5180c377894a5e8a61bfc7d2c06a2dc" sha1="acafa35db8e77f874456802d55e64cd2ce1e9cb8" sha256="4b69aaa6496f644f6664814cebd662e7bc9357b953a642f2463bde78f80607b5" mia="yes"/>
+		<rom name="setup-133.bin" size="15000000" crc="d156df26" md5="b9fc3fded6e6bcf8b58956f809408220" sha1="bee9e07f429e02e9f0ba7d211e0c10c5d0a8d491" sha256="454596b2381a703484328764d18929c276ab1a7f565583376da7e0e1c68beb3a" mia="yes"/>
+		<rom name="setup-134.bin" size="15000000" crc="65ce1d66" md5="d765f7ded4e0d791dd7adc00a4948886" sha1="ecbe8dba427e3ddf67989553a4967087fe67863c" sha256="c6d4caf2da726b78deee24ebba7598ff5aee444463bb2e2cdab329871e4f83ed" mia="yes"/>
+		<rom name="setup-135.bin" size="15000000" crc="bc820ae5" md5="b90a1cad6a3d7e805b2b6806e968a533" sha1="1fec0acf1170f204d971db759f25876e7e7d020c" sha256="4431b1dbefa37fd643d72fc944724d8aed46e7863c33ac1db224b5fc248ef0d0" mia="yes"/>
+		<rom name="setup-136.bin" size="15000000" crc="072657af" md5="207e77368dee62247ca9ac29f82fe297" sha1="bda01027402b109a94578e8be8f866042ec41a5c" sha256="3bd5d911145a9e4ba76599f302114811bc158fae381eb4860381b67bcbe223ed" mia="yes"/>
+		<rom name="setup-137.bin" size="15000000" crc="249a6186" md5="c1b2226d324acae7982400e625444ddc" sha1="1d46e11f2c85a188ba4fd42faad1f3c0869f1f22" sha256="4fe025eb3feb1f60fa826f71abdb7d9a85d580a4d819ceb50ba46ded60d53535" mia="yes"/>
+		<rom name="setup-138.bin" size="15000000" crc="6a5d813e" md5="8fdd0269dcd2ad0aa12aa56b6d438b63" sha1="bfabca209da985a5bc3e2495b330f3fbb929043c" sha256="f87f2a1924f38534088fea521ae3a2606fa937c744d372eb396ac9cdd8a6d8b1" mia="yes"/>
+		<rom name="setup-139.bin" size="15000000" crc="39f68609" md5="990ab696481aa09c0e10a9c81ab1a415" sha1="b1a1bc1d2118b253562e3071f2f45572c00b2636" sha256="c0a856ba2a88be824a8e7635bfc4a591ef3426c75caa8d9d7c6f8afd4662ddc0" mia="yes"/>
+		<rom name="setup-140.bin" size="15000000" crc="f110908c" md5="2b093160f7ffb17b24ff250a0b060cb7" sha1="3750193d2fa3524c382e953425188178bed42759" sha256="baa7a86224e5a51e421be2a7fa3181e17c750f6083f27b282f6e9103a569d4d9" mia="yes"/>
+		<rom name="setup-141.bin" size="15000000" crc="df0d1847" md5="cceeff1d4a9d5bb244c407bbb3bd88e2" sha1="2c6a3714c880605affb24c917569f867f4032407" sha256="6633358a86ab66a1dae43c03f89b705a9be063d0ceae66217b37ec3223481123" mia="yes"/>
+		<rom name="setup-142.bin" size="15000000" crc="4e83712f" md5="e27d4c3a644492e0b3ea23d43186ba50" sha1="b416923308be937775986ce5b4c9c83f7722d0bd" sha256="01f8b665267729ff34c0197eb4189634d742cad7008946b359318d94e99d0e1e" mia="yes"/>
+		<rom name="setup-143.bin" size="15000000" crc="c16efdb7" md5="0d37f0a4fa262dce0649ff05e677aaa6" sha1="b8b7fddd304ce8be2755b02e1be737c66ef3ffd6" sha256="6397d6d5e9c00340d28684affddbe76401f9eefacd3bd1645f815118f7f72fa8" mia="yes"/>
+		<rom name="setup-144.bin" size="15000000" crc="af66cb4a" md5="197d2a2b9985d2cf0fa854f43c5e18d9" sha1="bbd0c4f70d9c11d9e8b4e1f4508e7e6fa5bcfdd6" sha256="0cabcb5435429aae972f7ea75a83b4d01c1aeab6587466bab1120cfa37596009" mia="yes"/>
+		<rom name="setup-145.bin" size="15000000" crc="ce549028" md5="25214ec6d1de3dbda103cae786d09422" sha1="861cf490bffbd605dcef052ceb9632f9e66b18c4" sha256="806a04a0ebdbb2546cce3837dcbee8a70e80e4fd754d643ca92b7a5d0266d754" mia="yes"/>
+		<rom name="setup-146.bin" size="15000000" crc="0b853d88" md5="fdadb5fa9814dd4ec233ef40ce2fb9c3" sha1="753307673b1f607113deb036d32e404d48bb0606" sha256="348e19555ca0d651e3cd6eef511c40c888f287f92010e9353666ddde5efa674a" mia="yes"/>
+		<rom name="setup-147.bin" size="15000000" crc="2cf2eaff" md5="5e9d871adb34224c902fa3a5092c8571" sha1="901f8ef1a534b5f1cd960d59d15a89e902d8c16e" sha256="ce17d483464c4b73d5ebb8eaa2345d2fc62f992cc8402e0a7cfc10d483f9a04c" mia="yes"/>
+		<rom name="setup-148.bin" size="15000000" crc="4392047d" md5="236c3002ba69e0bd10e2b811b180aa47" sha1="3ab86c0699c6d09344dea69c223493a2434f05ce" sha256="6fb4df44de334f12e1c6ab1eb88e5a2d4c31a4f67fbc112fdc7aa7de47821f35" mia="yes"/>
+		<rom name="setup-149.bin" size="15000000" crc="6aab2e84" md5="3364036dce7b50aca6207d2d0ac342db" sha1="bf3165a22f8467dcc920a5ee3bcb50456c8732cb" sha256="bdf8cc049b2b661f90fac9b04230f5da1f24a67b771d3eb4f9d09630c372330d" mia="yes"/>
+		<rom name="setup-150.bin" size="15000000" crc="10c1f615" md5="4b2f35b8eaac3a18e38cac4657439bad" sha1="1c805edec4a9d9dabbf9c6c4af9b12e7df3abc20" sha256="d0ca33d054b555c7be3cf945a17eae7fbb13e1053808e92a7424046a39fffa81" mia="yes"/>
+		<rom name="setup-151.bin" size="15000000" crc="05207cdf" md5="cd0fb48d1664dfdd2c3fe8203bc2787b" sha1="5cb1f92db2ec137a7be665ee071e06a193a13c03" sha256="0c1b26767f2f66be8b42a5291a794fcee3fdeae4cbe4bbd4b23b54d3e16d5ad9" mia="yes"/>
+		<rom name="setup-152.bin" size="15000000" crc="7ed16813" md5="d4adc2e15affec32eb6eeabf745aaea1" sha1="d7e5dedba6aa601d29ac325692dd681a1738a6cc" sha256="06a12c0947d350dbe5f94a55486b4a9c37d337019d86d134f02708c532009062" mia="yes"/>
+		<rom name="setup-153.bin" size="15000000" crc="8e1157ee" md5="6a099189421e2eb00d79609819dbab26" sha1="2a65b8f24dfef399c417c9e7814efcf2622682d7" sha256="0bf8a476adb48707ef555690fbfc21f7bb55c1fb2b39b66277968689a8ae4c3f" mia="yes"/>
+		<rom name="setup-154.bin" size="15000000" crc="af42b0e6" md5="c0a4f595b87bbbadc8218cded6b3942d" sha1="5ecc29b65e905abaa88f2a7701edb3d862095c41" sha256="1ca466b2b5d603d50512efc320f093ea543cf60e0513aafbcc1b6f9ac3a6c1f4" mia="yes"/>
+		<rom name="setup-155.bin" size="15000000" crc="60d8dc41" md5="ab27c16e4e46460a8d2cb45a54049935" sha1="26a8cb64d187a4de818b283e9335f0b24139b5c1" sha256="044a3d2f7641b43fe8d44b92d7db4bbd1469477d0347c372be3a8a733747e0cb" mia="yes"/>
+		<rom name="setup-156.bin" size="15000000" crc="c166f8fb" md5="e1119d5bf96fe06770826ff620414e46" sha1="b34c8501abea3280cd131fa892f411a3d1c815b7" sha256="f6579ce824be3b5d6f8e018e759a9721b8b4acf8c966077aad385909e48bb1c8" mia="yes"/>
+		<rom name="setup-157.bin" size="15000000" crc="5fe5bd87" md5="329d23a9c78560349e01e376ff5423c8" sha1="e2417bab6abaf6206dd851a38513c8c5fcb454fa" sha256="551470d070da0b5fcd54021ef2d26366c225b4ea78d088b55133e2620af8c229" mia="yes"/>
+		<rom name="setup-158.bin" size="15000000" crc="b2bd1947" md5="1c2b7d962be6177ee72397f450064684" sha1="c94c071ab1ab08307c935e34659c019fe1fb227a" sha256="e868bd95a073698fd1f94216181ee9284af066bd56148ce91bae83bd52379222" mia="yes"/>
+		<rom name="setup-159.bin" size="15000000" crc="316dd2fa" md5="77424506374dbc300df774114cf2bd30" sha1="dedbc3947aa93f81ed0ed5db8316f9aa7f559193" sha256="3e342ff23d82cf7e2798bae10746f6ae7b92ee32518390cd8d32da8d366ee0ff" mia="yes"/>
+		<rom name="setup-160.bin" size="15000000" crc="5aaf4ebe" md5="e125135105e7eb5c9c6b610dccf68cab" sha1="117d7e770d286788d4eb706955593285b8a92a8e" sha256="8a0e63cb83eb50f8d533d413875dbc708b7bbd3b5c3ffc9e3b22124602450b9c" mia="yes"/>
+		<rom name="setup-161.bin" size="15000000" crc="79256079" md5="c683361bf564cf664ddeb2a3750f0394" sha1="b8558ef306de195d656c961a5766331ea8f9ed34" sha256="f6e0cbffd6ff51b17d0a676380810e21a035b03376615bc3f36d9dbed083bf27" mia="yes"/>
+		<rom name="setup-162.bin" size="15000000" crc="15658581" md5="f26c67748ac098889b75c33359262316" sha1="0f51762419941368c6c4f527357478e25d222486" sha256="4e05828565418f9ac4144162e67205ef428cd55ad37fe85a71dcbc5281bc77fe" mia="yes"/>
+		<rom name="setup-163.bin" size="15000000" crc="87ddaedb" md5="f9418f111dfe16820d9a236a8e8f9d08" sha1="e302c85bb22f38f1f2794f9a3ce49b2c6b8df8b4" sha256="2dd000ba592a2685fb189887311fcb062df0dcf2c5cddbd680e1ecb1e33fd5e0" mia="yes"/>
+		<rom name="setup-164.bin" size="15000000" crc="ef574036" md5="38b854e8538c355d7952d7534ec703c0" sha1="abaf5ad6bc4ff76a1d44e4f05092b3b9a21ee6c4" sha256="030fda5ee343435cb90cb482abb4ef47e57b028c435e0cc7d36c33dd24013e3a" mia="yes"/>
+		<rom name="setup-165.bin" size="15000000" crc="bafcae9e" md5="4144e5e161229c66df906e70f2f5a692" sha1="37ae2d9fa267616f8d4bd9702143287a3df3aa90" sha256="b6165a954997789251d8cd6c1bebf6140c645d5c5fd2ef380532791a998bc865" mia="yes"/>
+		<rom name="setup-166.bin" size="15000000" crc="4cb8e28c" md5="2aed70bc8d143fdcb70cbe329af316b6" sha1="1e74b5232287f4c9581622c38d5bf7e12002b5ef" sha256="91db288998d618d5148b836c9a8b0ffec3745dda2d0e82759a6d91a060bdde82" mia="yes"/>
+		<rom name="setup-167.bin" size="15000000" crc="29043fb2" md5="8bec9443222960ec1f4a1034547cc3f0" sha1="67baa916223eed223488c20eea68fa51c9771bcb" sha256="7075845cb0977bf2d08e546c5a4fecaf46dbe57b2883942698c4e4415325555f" mia="yes"/>
+		<rom name="setup-168.bin" size="15000000" crc="c9bc5611" md5="d4b4d6e4248f75a6ba62f4c2e681d9a0" sha1="0999878bdb03f4ccd29a068dfcd3df40d6882d6d" sha256="c8966b00d8bfda752c74d9cd8d440303e71cc5f4a331fc42e22e2c0bad5b3366" mia="yes"/>
+		<rom name="setup-169.bin" size="15000000" crc="d95906f2" md5="aa22f83c24ab4016426035c35c01f063" sha1="439ec111791faafacace3f792375c42182b7e8ed" sha256="36cba729500a04633c38208562cb10087326e58502f4595aa76238b9f5d6b1c7" mia="yes"/>
+		<rom name="setup-170.bin" size="15000000" crc="f2ad7c66" md5="8634426bdc3b35cf4b392541089d8a61" sha1="2b8311e1ec378da1f708c42c7f1dc8d5b43d102b" sha256="11817d176f983fb9a3aad784d73b3f509891a62375bb914a3d9595dedd8209f4" mia="yes"/>
+		<rom name="setup-171.bin" size="15000000" crc="60dd4bba" md5="a69946a4396c092f06c6bc5de5e31e67" sha1="894694037f078fc335068cf1788f4ab38dffbe14" sha256="8cac54c781c6eb460e049242352ac4a9994a10c2fd75f6ddaaeee675a23d0776" mia="yes"/>
+		<rom name="setup-172.bin" size="15000000" crc="ed734c37" md5="382e7195995273e88a4bba8183902a9b" sha1="114a0fc440bd5a5910a49d952c0b7af5269f49f7" sha256="bb6b94f72f8cb19263eb24bca56a79211e50f896584773822e6a63b3f27c1cf7" mia="yes"/>
+		<rom name="setup-173.bin" size="15000000" crc="d1354af3" md5="af21d9ce19994fb470cdbedb8f3cb99d" sha1="3d15cc055908604f6f92123c43fe9cf5789b1ad1" sha256="a1acb2f7f70a96798acb87d2c538b8bb76aaed1ec5cf4cda1d750cbcd39a177a" mia="yes"/>
+		<rom name="setup-174.bin" size="15000000" crc="5ec3728c" md5="25d481245c9f1db87163e21d330fbb01" sha1="45b0d692808aff1f7fff1e98c725c6ffee6c67b4" sha256="08c1396cd18d0fc9ac160ff0be8be88e087951d7df3287dd58f2b94a2926753d" mia="yes"/>
+		<rom name="setup-175.bin" size="15000000" crc="42861523" md5="50c0810df4a9fb946122e8f7a48f92c8" sha1="3b111d694f217073f923e79391900ffeb76bb6b6" sha256="b43c8ee8f7591897cf6e01c6d4adf8928f44c52d359465721346050d8a4cd0a1" mia="yes"/>
+		<rom name="setup-176.bin" size="15000000" crc="5670e70f" md5="dc3d310233b8c99f5440cc151babe12d" sha1="997b7cf4650e51e4f3d1bcff27921c5fd648a6c7" sha256="892b846e37d96dcf6f3e915b9dfecf09b135a14fdd43cfcc2d0ef5fb8405230a" mia="yes"/>
+		<rom name="setup-177.bin" size="15000000" crc="5f2488ff" md5="16fae181706346476bf276c888143ecf" sha1="17121e0c09fd2f14ddc3f061042521fdae3868b5" sha256="16b5980e0cd7e22e16f1c8fb2b985acd0222f8027a5c6f70ebb89709f7af17d6" mia="yes"/>
+		<rom name="setup-178.bin" size="15000000" crc="b158e4ee" md5="3d7d2913dcc61a6ebceaf19d584bac81" sha1="2816eb8d6ee3c111780ecd45e71a95ac8378203d" sha256="b465a23fce8fca118ade1a3298b7e6111630184de55ea0f5faa9926ff157ddaf" mia="yes"/>
+		<rom name="setup-179.bin" size="15000000" crc="e56f09a1" md5="99022962b0d62bf5b6e3b895316bf955" sha1="3c9eff3509aeea838978f265cbf06d3c287ed740" sha256="799fcefcd508ad515eec249563784bc1e356a7b974e46d2ceec4e8cb6134b6ff" mia="yes"/>
+		<rom name="setup-180.bin" size="15000000" crc="251bafe9" md5="240d6cc475647eddc269f4b2a1448920" sha1="f875cd90286f4db6715d4cb4b1cc637d09e6892f" sha256="8309e7f2737522efff3f0080c88b24b2ac331642106ffe7852b90f79e3a20ca6" mia="yes"/>
+		<rom name="setup-181.bin" size="15000000" crc="e86e15eb" md5="27b2cf576194f36522933cf11519fb0e" sha1="1464773263e17bf0d8649dbf67bcf4a6035bbd79" sha256="79018cff527592c2707265b7c6ab890fc0e65d20700e21580282685dd5f33d75" mia="yes"/>
+		<rom name="setup-182.bin" size="15000000" crc="ed73d5f0" md5="fc7536606aeb7a42b4832b491a6c3df7" sha1="a2968593e4558a3b55c4d87601702cc20d3f8a6e" sha256="34bedf2ef3b785aebdfb609677be6decd97a304888ef1024800109560cae2b33" mia="yes"/>
+		<rom name="setup-183.bin" size="15000000" crc="1b8a6dfd" md5="87624761068054301196b4bf165c0698" sha1="c72d11648df6ff5fde8d22f8a404157698d8a78a" sha256="dbdfe5652d00428497fe130a1c588fd69a9e003c499f6cf210bcd73e5f273f1d" mia="yes"/>
+		<rom name="setup-184.bin" size="15000000" crc="3b69a35e" md5="3f0168f83b4ef11f0fe3eb01c69cbb1f" sha1="15c2c2a9c3ae6ee1f522ca9074a7d4cdf3874106" sha256="861b46e1a459d6f08171ffdcde8bd6653f25725117e569eba6847589a53a9c3c" mia="yes"/>
+		<rom name="setup-185.bin" size="15000000" crc="7a6be0ef" md5="202dc14ddf27e4c6d904185dc1eb636a" sha1="63b990db60acec802e1d5fcdce9317ada8ed6030" sha256="b7539050336df3fb465cdc54c7b491d5439a3e131f7bd0fc79b618d44245bb81" mia="yes"/>
+		<rom name="setup-186.bin" size="15000000" crc="bd1d9c0f" md5="97950af93e6f44e90257c334b833fd51" sha1="b0b1bc4d7be3945dc267a57790cf6ac7c460a802" sha256="4467ed5b8c5671994c26113681a95757efbaaa03868a5ff40e97ede29caa4a13" mia="yes"/>
+		<rom name="setup-187.bin" size="15000000" crc="0f3a344d" md5="297b8e5639c3256cdb0ce0bade5b44ff" sha1="0dbfd85c5da6e15e917f8aa7d954ffe46871aade" sha256="6de4c5949e1e9c9bcd05606e03f03f059e42b906f1e5aa4937b954cd071103d8" mia="yes"/>
+		<rom name="setup-188.bin" size="15000000" crc="d2061839" md5="5e6275719de9f52a1a5e9fd53542441a" sha1="5d3e6003f7c8d8f0a088cb5289117ea595a87b0f" sha256="663b8cb5bcb794f592455a3bf84c56c842e050f6b58af099f168030fb1e409c8" mia="yes"/>
+		<rom name="setup-189.bin" size="15000000" crc="04b7771c" md5="fe81de4cfa969935206eae6cae68ccae" sha1="d1a47087046dfd575207d3d73123fb31db0d7ca8" sha256="9b2ace916dced989a9ce83446ab02ccc324d8b5c010547cb67cb41ba38e1a7d6" mia="yes"/>
+		<rom name="setup-190.bin" size="15000000" crc="1c8fd1bf" md5="b561f4e86d2e6907c59554041da5183a" sha1="d0559aea4f3bf43c7d838d041fd4f876d25cb7d9" sha256="ac58755a733d0593677c97e2c22319880d348c2bec6f501d876b6d7492fa1621" mia="yes"/>
+		<rom name="setup-191.bin" size="15000000" crc="b680a8b6" md5="105ee87750a2c43cafd1cfdf59d049eb" sha1="dd6e7d63ff8b00ac45725e446f8d1b7ec45e154c" sha256="0729d83943c1fdf1146b2449d7db257c75d57417a65fa3eadbd461e8afc4d3e6" mia="yes"/>
+		<rom name="setup-192.bin" size="15000000" crc="65a2ec23" md5="4907f73c4b1f8c4db5a749fe2a682d20" sha1="7ccf7b3ec47183ed65c5e14a4ff1e5fd1731281e" sha256="bddf3b9eec9de3f854e70b74aabc4c0d0eb370cf88aae92e7a35594f3b42c36d" mia="yes"/>
+		<rom name="setup-193.bin" size="15000000" crc="3771bd3a" md5="cac30c12af1f434ff04b100c7b4638f7" sha1="03b4c2cbe4e7b41971f282ef0213650bafbf4c68" sha256="7e1a6bcc145a232de30bbccac57e4a697442f31061cf77baabbc61cf588a646b" mia="yes"/>
+		<rom name="setup-194.bin" size="15000000" crc="e0de53a1" md5="e0b48e441b39b84f5a41042835764af2" sha1="58a8edde21234a0dc8d386735563b9d5270b4235" sha256="360285a60407c6cfc6e52244bd5ec6120d7d12a1838eadc9beffd63ccbe8f9ef" mia="yes"/>
+		<rom name="setup-195.bin" size="15000000" crc="07de3ddf" md5="981510b8fcbcb007a89c948277fe4724" sha1="07d2c17b3fdd7fae902e9ce90638a1854fda2d54" sha256="08c0a7134d38fc04bf9427453f3e0a2eb4a7db8802961a50586e213a14b71a81" mia="yes"/>
+		<rom name="setup-196.bin" size="15000000" crc="05e374e9" md5="59c633c32118e3873ffcbc2a09a6caae" sha1="1171d33c7c48f0b5cbec27ad3615ea0c9ccdff15" sha256="47dcf57bd373e291155f3dd7b772de5b2198d109842ffa82e7c5c7bffeb653ca" mia="yes"/>
+		<rom name="setup-197.bin" size="15000000" crc="9ae3d4f7" md5="27bd79e04ce9c2e12f1b8c80c21c508b" sha1="14607cb2aa823a31bb397f77517b4c9efd5c18b5" sha256="2f505d367084ac6fccb15f4811f635385438d968787d49acad913012fee4c5e3" mia="yes"/>
+		<rom name="setup-198.bin" size="15000000" crc="07ec1849" md5="f86fb0e00f13e17acc8e78b34803e74f" sha1="04ac2f2ff68d18a2d0ff677915d424fbd31b3b42" sha256="c47caeb40f3c25f4b582544cc7fb0c059073ae41ab3b1d553093b862e69921d2" mia="yes"/>
+		<rom name="setup-199.bin" size="15000000" crc="cae32ad0" md5="e6784e2cb9888df1a2d657a0d39d94ea" sha1="85d59caa044aa867ed1cd5005497229034946179" sha256="f1ddb2029d74a6c06ab398f77c1b09641fd1d56ff129218d14264e115d182e3b" mia="yes"/>
+		<rom name="setup-200.bin" size="15000000" crc="ae4c1313" md5="198068f3a45f45c635e895e6c36d98fc" sha1="77d988d8629905f588b9af4640101bb06dbee908" sha256="322b273c2c305d7c09d78bdb60fcbf96f8266e4b92a7def2b112aa228e32599a" mia="yes"/>
+		<rom name="setup-201.bin" size="15000000" crc="11dbbdcf" md5="7e14fbaac653b1310c30932a97b4dfaa" sha1="8c4608b8a1fad81355ab1bb6c79a4e2dfe15de7e" sha256="a488af2bbee04fcadeb52de513d67302477b4bf3fdc85097fe813d641286853d" mia="yes"/>
+		<rom name="setup-202.bin" size="15000000" crc="df091ab9" md5="00a71bba48b6618a417e2feb317d6ef3" sha1="68f14a35815ee51d4ebbebbaa593e1f28917f84d" sha256="04dfe2fb16db18458ad46af95c6328b04c341ac4b2b3df5e483eebe4c5ef4ecb" mia="yes"/>
+		<rom name="setup-203.bin" size="15000000" crc="11fbf4fa" md5="a8ca8cab4569c972b4170b2638f986e7" sha1="b7e6b82306113029f88269e48492e3d8076ff542" sha256="3883f9c29362346cfb20afd8abfca6946a64cd74955910b0905eda295a8b12e6" mia="yes"/>
+		<rom name="setup-204.bin" size="15000000" crc="da1c1567" md5="bd0fb704067179713493ec99fb97b907" sha1="fddc3e717aa4652335fff6b47f1e0f5da50870cc" sha256="65f9eb321a646235c70dae7e8d5079b251a54d6a8fa437e68326d36da5814b44" mia="yes"/>
+		<rom name="setup-205.bin" size="15000000" crc="69544e71" md5="c7c93fd71e2716be38512f385d1cc6d9" sha1="bebf15ae814292b76fc2b16df531ec3983f5401a" sha256="5cc3f2ffaebbbd36f1bf0d8e7edfcdd531b7092ca7cc2cc09082a00dd4fadde7" mia="yes"/>
+		<rom name="setup-206.bin" size="15000000" crc="4e25d086" md5="ab9a314d38a318caebae2e92fff33247" sha1="12980217e64e16498dd589f45743859242fe0c3a" sha256="a934c3d2593087a0dc1a99f953f2ac228259095506fd9c8a9b8cfffe711c859a" mia="yes"/>
+		<rom name="setup-207.bin" size="15000000" crc="0f759f06" md5="e3860757190497de941b6f0169df89a2" sha1="a3110ad39dee8518005fd846415c5ad1b6cedc3e" sha256="fc9c831c5d97d17406dad6f7e22c8f5408553d71b83f8754e6d8516fafa369c1" mia="yes"/>
+		<rom name="setup-208.bin" size="15000000" crc="1625610f" md5="a0399b7babe7f5cd44dc5b9dca68f99a" sha1="bd3c4916efd88a0807b3aa21de5f2037f709f7b6" sha256="48e79dafafc15fc3e12b747e6ebdeeb94f62e2140fc401014ab5f08a3e3fba50" mia="yes"/>
+		<rom name="setup-209.bin" size="15000000" crc="462e2024" md5="33f69d1c43665c5c9bac44196c082284" sha1="f6c39ed1b54253d246c1d1154187599dfe35f2f8" sha256="921d50a0c841a7ca3ce07e884189a9849b3f4d178dfcc12cb320b44ff0875a69" mia="yes"/>
+		<rom name="setup-210.bin" size="15000000" crc="8971ccaa" md5="909a87feec073d8803b032fd6c346cc0" sha1="c7eff67e614c4448f2b07327af1a0ccb234e5b91" sha256="e430941dc71f4de62aa2ef019dceff9980a303f28d4c65cf07b3324e10f25ad4" mia="yes"/>
+		<rom name="setup-211.bin" size="15000000" crc="702dc5b1" md5="6fdaba77a5ae76715b0a03c771bb999c" sha1="0b9779f633a89954ebcfec02abb37616c1c8c67d" sha256="2732b92954e0353421fd4a2ddd613e534e0133f7ac097dc05b08ca3aa63c2e38" mia="yes"/>
+		<rom name="setup-212.bin" size="15000000" crc="93c783f1" md5="d25460c68940adfc4f3db6301a0a7e85" sha1="147642e086f994b04c069c11ec4bbd8d73ef23ea" sha256="c4607264e2df0359e23191d2ded8efe3e700f12172d791979ea4b653c051ae19" mia="yes"/>
+		<rom name="setup-213.bin" size="15000000" crc="465e63e3" md5="66f18282afb3bf24884881ab25c88174" sha1="2d677b84699238038bef0a3b230bc74546b45cb3" sha256="68f2559a87511659346d3fee5edbc9bec1c021f6a5aee77889e7125381429e01" mia="yes"/>
+		<rom name="setup-214.bin" size="15000000" crc="5c31aa14" md5="3a9990a2fe921fc5ddf33c24f16f1874" sha1="c4074918f23f46214e0c5a489d6f8a3e8d5bcab6" sha256="e631d6dafe8d3480dd0a5216613651daa87067672b00fb247028ba66cc5b1ab0" mia="yes"/>
+		<rom name="setup-215.bin" size="15000000" crc="afcf01b1" md5="6bb23e0ff4f2621ddb864ccbdc1a8f4e" sha1="ba4bb5bb638a3ca51e842dfd9fc4c958b1b5d39b" sha256="dc92520a355a26cf2dd78bd6e69a0f8b69f11ff626ffd0a5e60ed2e8782a045b" mia="yes"/>
+		<rom name="setup-216.bin" size="15000000" crc="1dca9218" md5="2275fda1eb87d825b5a0c0b8c921149d" sha1="f56bd4cfb6910f65feb55dbffd00aa0593c9f955" sha256="eb6e1606a6097a0b77c315f244835067f7219e1cae955bf3f2be3d4eab8013be" mia="yes"/>
+		<rom name="setup-217.bin" size="15000000" crc="d18d60ab" md5="37dc3eefd61eef01e8ce5a373906cfb0" sha1="fb61e777f532d85b9d0d32100c3a5352d3930a6e" sha256="d552e6ec9ad1cb7c700dea0b35a2bd98ad0ecdcc3f798c171bd588e397c62141" mia="yes"/>
+		<rom name="setup-218.bin" size="15000000" crc="361a0a2f" md5="a8592b0c8a022f714a387ad514a07ff5" sha1="bd614a8591532ac4f09022b35e02b59b8df946a5" sha256="064d128bb1626a73534c3eedd2af698be5048efa0947108c44aa189967702013" mia="yes"/>
+		<rom name="setup-219.bin" size="15000000" crc="dac9cf3b" md5="ae14ffee1082dd833ad4959e2d42dc98" sha1="268cf702a9dd34dd0e19526cb401279bd3227628" sha256="3ca8811e28ce6503788c286bb50e83dec5455d7e163f26dae51f3b9f27c6ed5e" mia="yes"/>
+		<rom name="setup-220.bin" size="15000000" crc="959fb680" md5="d31e65b3c7d2008227d8d4b085438834" sha1="e45575a124cbf8a80e18bb49d50e5bcc8d94385b" sha256="02fa28940f932f5ca2fb3e9dcc7a1272f9c10892e2d7905e90c574a3f0c52ccf" mia="yes"/>
+		<rom name="setup-221.bin" size="15000000" crc="2b495c21" md5="fd16ee0218a96494075371c8273c82e2" sha1="b381d01632c453868bdd067ca32296070ccccee4" sha256="cf890448f79fb0baf3797fe322fee3c35df324e8ab39222d7fc266105e98532b" mia="yes"/>
+		<rom name="setup-222.bin" size="15000000" crc="de0ef7f5" md5="4f64965e194dee462c89acefd78502b0" sha1="c0ad07002cdbdbb9d1632cd332350e261035a30d" sha256="a1fbb9eeed4ea89548d113d1cc8b15b48f47f38f7228d68d1b2299ae4648f949" mia="yes"/>
+		<rom name="setup-223.bin" size="15000000" crc="c1c0b4eb" md5="2759f98473c302936a77ccbe90bc67fc" sha1="05461fdb5f3970fad6930f7bde5894cd8cc21547" sha256="57e8763c93652b95275f306ae47b935a3ecdc1e87667f8394b225e0aab2d75f1" mia="yes"/>
+		<rom name="setup-224.bin" size="15000000" crc="10e2d98a" md5="12a42e7c14df90d2a8ec82a4bab9baf3" sha1="e58550e0b09b0948dd8740286a1dee07f901ef58" sha256="473d8e93f295ab7c2c2cb9843e75fbc559eddba6cfc756445aac158ad259cff0" mia="yes"/>
+		<rom name="setup-225.bin" size="15000000" crc="b7cf30d0" md5="300122b85ad5c959ea03285726b1c0ad" sha1="79475c45ab2308292e4fc1b982b67926a5d6519b" sha256="edb329d8f4166e9576e878a9477bdd7880b586498b64411467c2442ba30bedf8" mia="yes"/>
+		<rom name="setup-226.bin" size="15000000" crc="a7f988be" md5="695fc70fcf7e2d2a3d096b51f5575def" sha1="74f9d3c9595c2492949409989b8938bf68bbb7d2" sha256="bc5b64dc3bdf5ca7112a89c11f0c0b24c5d5922782cac864b94731d162d449b0" mia="yes"/>
+		<rom name="setup-227.bin" size="15000000" crc="03f52040" md5="ffdad41c15107e1fd43e33c2701d283b" sha1="ca71903f328a9541051f6c5ae281017931f10512" sha256="7f85c6557aa40b0b88e4e2c0d09799764ea879050a0b5b5317a65c91a946c098" mia="yes"/>
+		<rom name="setup-228.bin" size="15000000" crc="580677cf" md5="bdc749b4ccd788d205761906be00c650" sha1="6633e11e6e3fdeb15c76fb7227187ef390721bc7" sha256="b4168734f59dded2288846ea5eb50d1c50642b4cd5f32634fff9c4f8c3adc837" mia="yes"/>
+		<rom name="setup-229.bin" size="15000000" crc="b7d3b39a" md5="73c2c355c6a392e13434fc5f428c96b3" sha1="2e6a3259b4ecebe2a47229be77da917f897b2d1b" sha256="a5a6fedf2c7b5d4ccf32f418e7caf28617bcf9592f3e673d73b8325896795bf3" mia="yes"/>
+		<rom name="setup-230.bin" size="15000000" crc="9f15b249" md5="36fb43dd046fffef33433df110fa7d76" sha1="c0218ba77a4a280a6c5874341fc04bb523d2708c" sha256="546627acfc075a197fc0d3a8b80dba137dc5f71cb3bf47a09896268e3d469df7" mia="yes"/>
+		<rom name="setup-231.bin" size="15000000" crc="9767bc6b" md5="7344b4826a52057ee96813acea9957d3" sha1="0cd693d42aece2373cad0a7aa5f2ce227357a79b" sha256="fff4f108bd54a12491d3fd29c30d0a52b70f53666a69cff50b7781f185b981f7" mia="yes"/>
+		<rom name="setup-232.bin" size="15000000" crc="69038a07" md5="f1039b4c9e59a2a138cee14f4ab301a0" sha1="3a9bf5587fc6073b94e055aca9e5c961c53db649" sha256="0273ba40107d0ef5c394036bf86fdbc1f6ccd3d45bac7b6c030e6b5e4a7d1bb2" mia="yes"/>
+		<rom name="setup-233.bin" size="15000000" crc="1bb6a137" md5="0df4cc741beea2bda3f1cdda65a501d4" sha1="1eb92bbeab08687f26ccb4f9a1726aa1dabe0ed7" sha256="95de5643f0f7cce79f9b7f0a9d2992db80b5db591e9b4c8eba7e12cbe46a2c1d" mia="yes"/>
+		<rom name="setup-234.bin" size="15000000" crc="a3c61959" md5="b6378e351b54764e961aee79c912bdff" sha1="3faa2c838376fd13d099e5ef3cd5458e225ae9e6" sha256="baedfa40bf107f2ca14c414743441538c1041e73d7f48c3ef5c2588b3784de81" mia="yes"/>
+		<rom name="setup-235.bin" size="15000000" crc="9e0c5457" md5="634c658f8a39c202e30ed1aa9a69de9f" sha1="8fcb2cf58ded3d64e6674008dd53181967e0b650" sha256="0c59a11a709d92da4ca4b4f8d541b4451df021e3583fb52e0ac4b1fa0a948fc2" mia="yes"/>
+		<rom name="setup-236.bin" size="15000000" crc="aead0e48" md5="443bc99917c91196ad56361e8e3c8d0e" sha1="a5f4ce5089314df0c75d9b3766119abe3fbc0935" sha256="60a048b1cc72797141222e081b33754d844fe24e1521166d1a526186d9176750" mia="yes"/>
+		<rom name="setup-237.bin" size="15000000" crc="86effc9a" md5="76b4de60cc98f12d452b381c0b2e2f26" sha1="7f4a649ff59acbdf1f76b899326dbe811fa6c79f" sha256="f91359a56b2c32888d558f12055dde900d8a517df3d18ae89ab28e5d3f49e2b4" mia="yes"/>
+		<rom name="setup-238.bin" size="15000000" crc="3ac9ef3f" md5="7fecf5043dd6794c24e8fde3c40ce25e" sha1="50f1d62908f4b0db99388f22455e9f0f76030feb" sha256="dcfe3338aa40bde8d50bae7628039e618d1413f96d3780d714e8e608d4147fba" mia="yes"/>
+		<rom name="setup-239.bin" size="15000000" crc="3dd507e4" md5="52de5b762674749092dd34b0ae45fac1" sha1="2f0acbb51ee86ae9c7c2eb5312747f64052e9132" sha256="28f052d16729fd9f56ffd673eb2512c1a34d71a74b504d2885fbd02271ea9547" mia="yes"/>
+		<rom name="setup-240.bin" size="15000000" crc="bda7bc86" md5="e7ced0345d8a2864a30f2ae3c9d96f6e" sha1="ca6933d87d5adfb86370718964c397862c76b8df" sha256="26a1ce307208acd352beeb1588f9b7de1b9444b514a6f533bcfa5680b52baf1e" mia="yes"/>
+		<rom name="setup-241.bin" size="15000000" crc="ab01d000" md5="7709db72ca01d7a5cb8af2bf05f3884b" sha1="4972e4e9f6c205410343120899daecc8db26fc18" sha256="4b8c8ad13573297d822adab862530f48baed12d8b13c768d06ff49b8a2c9e58e" mia="yes"/>
+		<rom name="setup-242.bin" size="15000000" crc="8214b8fd" md5="6272e68b613568449dc27acb88bc81b5" sha1="e24cfa24ae61fe61ed720761e112de5f8a3051eb" sha256="7ba5410c786933f4ada312fa3a242fbf889aa05eb6eb26a8fb169392013a43ce" mia="yes"/>
+		<rom name="setup-243.bin" size="15000000" crc="35258c1e" md5="f22aaf7323656615f70a51ba4c3243a2" sha1="84685df6bbe4f4f4483ad2b62af4458e46505716" sha256="1bc68d96c64010b368352200f76c0757b0b11bec7170a113ef8aa41142d846ba" mia="yes"/>
+		<rom name="setup-244.bin" size="15000000" crc="afc22db3" md5="fe85a2756bcf5eef46165261c98fda80" sha1="70283e16c0a594405079fd46ccd1eed19b04c3f5" sha256="770253add0d10a4b20e6d03d3ace06fb6c36e99af4c01af00d03b3eb2cc82f92" mia="yes"/>
+		<rom name="setup-245.bin" size="15000000" crc="c236ec40" md5="f525923f037ef3bccd27a7c64cb59ab3" sha1="971cfb00a13e02a66d8b778cb8838965b0e6f2bb" sha256="4823426782c7286917c10cfe7382db65620cda52dc297c9e326b6896be5e99e4" mia="yes"/>
+		<rom name="setup-246.bin" size="15000000" crc="099e1488" md5="f8e5f92f0e366f4f7046b3b7f72c2e79" sha1="64f1fda81ba61e5e4a409f865eaf0e4cf2cea54b" sha256="f05d90059b6ba93d88610876b8ca6c6552bcde313d3b18326bbc12ccfdd5d7ef" mia="yes"/>
+		<rom name="setup-247.bin" size="15000000" crc="bf8176f9" md5="268bdcc90077784e37b2446f5b4273d7" sha1="cc47ed94292d45142ee8dd2e664cb4e646417fe2" sha256="2d703dac445e61d302bdd2dad5d80926c2f18a845466c37873f638edcf5bb297" mia="yes"/>
+		<rom name="setup-248.bin" size="15000000" crc="5b945e71" md5="bfbc5862868146bba2f10a867a48ea2e" sha1="5ba984ac1561a6bbb25ba3b8e4b890bb5a378fc8" sha256="4de72570ff02dfde2aeedaf7023364b574bd7510e6f1a730c76b9c0d94a48628" mia="yes"/>
+		<rom name="setup-249.bin" size="15000000" crc="ff874e5d" md5="ccbdb600d525c3fdf60ef9e03a9591c4" sha1="34845701e12b2e94e008f728c8680e9439b1518b" sha256="ec060865dda4f40a359e1afbbb267bc46e29a8d5d0fe8828e06f7b75fe51ed64" mia="yes"/>
+		<rom name="setup-250.bin" size="7300489" crc="ec024413" md5="c1b8577f48b999bafb879038baf459d0" sha1="21a7ecdc6f2c3f521e7c1b66f4ab0c11ee66cd65" sha256="4c8d69d50c2a8726be3cbfdce5ec08e242cf6e2765e51821fd36903317706c10" mia="yes"/>
+	</game>
+	<game name="Crayon Physics Deluxe (World)" id="0028">
+		<description>Crayon Physics Deluxe (World)</description>
+		<rom name="crayon_gamersgate.exe" size="30457717" crc="1fe76659" md5="a74269075877b97423c4d0efa67b2929" sha1="a0bb08271b5960a1427bdc80918d9c7433a070ff" sha256="832dae44907ba10dcb3f3a097bc0fb7b8a77452f45851d15e1ed7efd0b3fd344" mia="yes"/>
+	</game>
+	<game name="Crayon Physics Deluxe (World) (Demo)" id="0029">
+		<description>Crayon Physics Deluxe (World) (Demo)</description>
+		<rom name="crayon_release52demo.exe" size="25714284" crc="03a9f7ea" md5="11195122c6f1e50b67c3e1b62daa75c3" sha1="4ffd64c630f69e7cf024ef946c2c64c8c4ce4eac" sha256="3c221f4c4283d89c180337071b5d3f8b88b68cea0558e6f72abcb34ef954b923"/>
+	</game>
+	<game name="Dead Meets Lead (World)" id="0012">
+		<description>Dead Meets Lead (World)</description>
+		<rom name="Download Dead Meets Lead.exe" size="290825" crc="c98cf3a7" md5="12b413d3e78b54bc32ca833af12b465d" sha1="fa4e2e025b375f47c2d4dbfaee4bd0579d8d9991" sha256="452dfb59c29219c9fe9ef61d9f51943b7b81282681f47e3921c9df927013fa8a" status="verified"/>
+		<rom name="GamersGate temporary files\29701\DeadMeetsLead-1.0.2.0.exe" size="281034184" crc="9a81e789" md5="8f8ea4aec0cf7c112715b936f53dfec9" sha1="fbccb846e6c9a4e1918702f826db8bc6576f424f" sha256="2fa8640ad9e0951d6ad16ebff1b67e3bdb90ac961e45d7c85a5b9d28b9851bd5" status="verified"/>
+	</game>
+	<game name="Dead Meets Lead Challenge (World) (Demo)" id="0013">
+		<description>Dead Meets Lead Challenge (World) (Demo)</description>
+		<rom name="DeadMeetsLeadChallenge-0.4.1.0.exe" size="138648811" crc="4f381694" md5="e1a48ca6df606d94445b72cef45c3f86" sha1="c0cc5f5969684c0fb40dbb8c2dc8eaf762560016" sha256="88a23f90f9251231e4fd1ece13582aba7c1067ebe745fa7faae74c5a0aff3d3f" status="verified"/>
+	</game>
+	<game name="Delve Deeper - Gratis Grottos (World)" id="0009">
+		<description>Delve Deeper - Gratis Grottos (World)</description>
+		<rom name="Download Delve Deeper Gratis Grottos.exe" size="290825" crc="9b2f13ff" md5="9216c3f073435ac4b1148759667d58a6" sha1="ed541f9955fe3355972ac803d23a3b2a889ff053" sha256="af21a0030ba6742b4f55d1cc99e4b411f085d16afcd9b1062b7f563c6d2835b4"/>
+	</game>
+	<game name="Deponia - The Puzzle (World) (En,De)" id="0024">
+		<description>Deponia - The Puzzle (World) (En,De)</description>
+		<rom name="Deponia – The Puzzle.exe" size="290825" crc="6d8f91bd" md5="fab1afb187951d1dfe071c76a6fa0d7b" sha1="492d590ccc2dd126dc6f980435cf197cf569233b" sha256="7d8b0e9acd6e0d1fdcb455a1afe9735681cbd9b360e8221f5600297dfa69dcfc" mia="yes"/>
+		<rom name="DeponiaThe Puzzle_PC_FULL_1.0_DE_Daedalic_noDRM.exe" size="82620742" crc="4f7cdd1c" md5="7df631fe37ce5bd7a71cdfc7218e0060" sha1="39a9643a8afe84684d36322e3869f0ce8342c023" sha256="a360ca67be9aa3ccbf47b12b192b38a74eda59b44ff2e8b847c91c975f50acbd" mia="yes"/>
+	</game>
+	<game name="Devil Whiskey - Soundtrack (World) (MP3) (Extra)" id="0016">
+		<description>Devil Whiskey - Soundtrack (World) (MP3) (Extra)</description>
+		<rom name="DevilWhiskeyMusic.zip" size="53039718" crc="c915fe70" md5="aff28a5d6b8b0ba89dcb0d46c95bceaf" sha1="75c039ff7570df404a0212a5aa1490bc9e9a14c0" sha256="684aae4a28c0eda42e18acc04de3a7f806cba3319632ca75d04573a9732a99f4"/>
+	</game>
+	<game name="Edna &amp; Harvey - The Puzzle (World) (En,De)" id="0025">
+		<description>Edna &amp; Harvey - The Puzzle (World) (En,De)</description>
+		<rom name="Edna &amp; Harvey – The Puzzle.exe" size="290825" crc="308c46c2" md5="c978f75c560d2c7cc1a485cda54a756e" sha1="d6a93af779b5365d55cfc078b3e25e616c80bdd5" sha256="03a49b1d36f240ffc90cd7d15ed5429ea01ba7f0016d051fee807440e5bc29b5" mia="yes"/>
+		<rom name="EdnaHarveyThe Puzzle_PC_FULL_1.0_EN_DE_Daedalic_noDRM.exe" size="72612910" crc="67f39845" md5="80e541f88cd42395bd6cc023c50e0c55" sha1="fe983701daf2e250bec33795248ee863d01eef92" sha256="a2597c294aac70b3cce0deda1b557f2ec5a86e547e236b9d1b0404408365364d" mia="yes"/>
+	</game>
+	<game name="Eyes Bandegades Genesis Of Darkness (Episode 1) (World)" id="0021">
+		<description>Eyes Bandegades Genesis Of Darkness (Episode 1) (World)</description>
+		<rom name="GamersGate temporary files\39512\EB_Episode1.exe" size="249614481" crc="a6c06a81" md5="1f1a2c61d37a53229e5b1ad75b9915bb" sha1="5eb6c3c9beaa60f65b20499484912dbaeca1b0bb" sha256="337c022d2a25f30ae49fd88f7ec36ff412f31d55e1da05d27502966a4ebefe93"/>
+		<rom name="Download Eyes Bandegades Genesis Of Darkness ( Episode 1).exe" size="290825" crc="d053f072" md5="95c60f57d65727ae0b508623963c3799" sha1="c8ce6bde53921b232bbe1cc86dab365dc2a8bbec" sha256="e9c97d5b913664ced846add4ac1bb82623f62aacc042f30e31b5f0c3d1d4371e"/>
+	</game>
+	<game name="Garfield's Wild Ride (World)" id="0027">
+		<description>Garfield's Wild Ride (World)</description>
+		<rom name="setup.exe" size="25378865" crc="6949268a" md5="130c75ac8d4cffa58628a19d15c69c69" sha1="01e614ab406f81cbf1bdc24e4375948afa7c1b14" sha256="5ffb1b59b32732f0d78f9ab5bf4bd476174fd4beab8dd23e54bfdf7ac8b0cb5f" mia="yes"/>
+	</game>
+	<game name="Guilty Gear Isuka (Unknown)" id="0004">
+		<description>Guilty Gear Isuka (Unknown)</description>
+		<rom name="Download Guilty Gear Isuka.exe" size="290825" crc="5ce41f9a" md5="1a8b68e80ca59b717af2cea3cfa0234f" sha1="d3913d8d4ef0e3b67c02490ada722d9e8975ecfe"/>
+	</game>
+	<game name="Gun Metal (Unknown)" id="0005">
+		<description>Gun Metal (Unknown)</description>
+		<rom name="Download Gun Metal.exe" size="290825" crc="4e5aa748" md5="c7b26807199b608acd746a3d59a18fce" sha1="1cecf957a13b04f7f947b94e2f1c7ffc892f5180"/>
+	</game>
+	<game name="Independence War 2 - Edge of Chaos (World)" id="0032">
+		<description>Independence War 2 - Edge of Chaos (World)</description>
+		<rom name="setup_independence_war_2.exe" size="993392217" crc="bfcae9fb" md5="debbfa59c0c7a82b7b7bbad039cd987d" sha1="cee4228ad7e09c7f0ee3cfae0a331bb83f6c6fd7" sha256="0cc21a42f4aa4185ddcb48133768887e8441509b170515faa59354933d4b128d"/>
+	</game>
+	<game name="Independence War Deluxe (World)" id="0031">
+		<description>Independence War Deluxe (World)</description>
+		<rom name="setup_independence_war_deluxe.exe" size="1835700376" crc="29ad70d9" md5="1292c61b18b57a83fdc730360f82dd32" sha1="06990d1b9578fe1070f65201d63b8bf3f60a6796" sha256="c34b8b55cd1c8307b6ad2c9f0fb4efbe042e8f95585889cf412716cc1c750fde"/>
+	</game>
+	<game name="Master of Orion (World)" id="0001">
+		<description>Master of Orion (World)</description>
+		<rom name="GamersGate temporary files\20361\setup.exe" size="25154172" crc="44b56300" md5="260c72581d8cb7bdd238ece95bee5f57" sha1="4dc243d9caf0302b507e52638e59c6ae4addd5a5" sha256="08cb63fddd428af518bde6cedeefd7265e0ccd58e60c763d4a569fee7937b517"/>
+		<rom name="Download Master of Orion (2010).exe" size="290825" crc="c5aa2a4d" md5="243626de62c6d91be3f0df0a8a0964ae" sha1="dd9e8003219a7873f2ffa1f79efe76759b655f45" sha256="7686b8939b57841b18bfd3dad7159de888015f3e8de2a0a7afcc8672095f67b2"/>
+	</game>
+	<game name="Master of Orion - Manual (World) (Extra)" id="0002">
+		<description>Master of Orion - Manual (World) (Extra)</description>
+		<rom name="moo.pdf" size="985337" crc="63b414cc" md5="4185aca0b7a6a7cbdfdddf6e04b42240" sha1="b8c75952d157efb8c6865eede32d85468982e789" sha256="11f1830ebb3d25e9f2c7808a0968a079f31ccfda1186041f4cd446be92b7f3b1"/>
+	</game>
+	<game name="Master of Orion II - Battle at Antares (World)" id="0003">
+		<description>Master of Orion II - Battle at Antares (World)</description>
+		<rom name="GamersGate temporary files\20221\setup.exe" size="165537325" crc="f079b02f" md5="f1b64e00de46c1bac01d31efeff69c3c" sha1="7b2df831b5b6b24d017da73a52db4faf202f7542" sha256="7f906f37a2e7b5629b1a78bc017a324bf6034caf1aa297d40c1497f0f64a0723"/>
+		<rom name="Download Master of Orion II Battle at Antares.exe" size="290825" crc="c0c5e46a" md5="68ec9d53fb311befb5f518eff53dd222" sha1="72a4f742ed1aed0bbebee6aa28dcf631d9af411e" sha256="e2aaf0761793341095436f41e32e04895c4f0cc60991700fa55f91c0012d8ded"/>
+	</game>
+	<game name="Mordor (World) (v1.1)" id="0017">
+		<description>Mordor (World) (v1.1)</description>
+		<rom name="MordorV1-1_DepthsSetup.exe" size="5443072" crc="1c8522c5" md5="7c75ca265c7853d9a50acc53c66689be" sha1="1c7e7a4addcb945392dd7a019cc168d995aa0682" sha256="5657adb3519d675eb40cecd76f1689107865bfc5601627ca51a60388ccd13432"/>
+	</game>
+	<game name="Narco Guerra (World) (Microsoft Windows, OS X)" id="0034">
+		<description>Narco Guerra (World) (Microsoft Windows, OS X)</description>
+		<game_id>52737</game_id>
+		<rom name="narcoguerra1.0-setup.exe" size="20118912" crc="6f1898e6" md5="02b386fc4370ec3c719aca8ded1e0c4a" sha1="aad4659a1571dc2aa502f5401a36e5a87fe9eb7d" sha256="81443a2a53ca8ebe75239c11cd29afdcc8ce497e9a97faeebafd0dd682c93a3e" mia="yes"/>
+		<rom name="NarcoGuerra1.0.dmg" size="27428996" crc="7c9e0bb9" md5="f57a634537cb76645297419b21a9a524" sha1="89dba11e8d5b1f1b4f90a528a7cadd6f7c0b249a" sha256="a20fd6e76a123ab7987371937a92607a858e4fbd022e1c300e4d844bc7904a92" mia="yes"/>
+	</game>
+	<game name="Paper Ball (World) (En,Fr,De,Es,It,Nl,Pt) (delisted)" id="0030">
+		<description>Paper Ball (World) (En,Fr,De,Es,It,Nl,Pt) (delisted)</description>
+		<rom name="setup_PaperBall_1.0_build_002_c_033.exe" size="15647871" crc="b9681b34" md5="ae45e93542700fb9960bc78dabb15f5e" sha1="d5ae8b08fc4291105007bcb0bb5db2eb1fafd6c9" sha256="a280c68363d78aa499d1672548c2d068c50d42fe5cfa581e1b7e1f2c58abefce" mia="yes"/>
+	</game>
+	<game name="Patriots - A Nation Under Fire (World)" id="0022">
+		<description>Patriots - A Nation Under Fire (World)</description>
+		<rom name="GamersGate temporary files\2431\Autorun.inf" size="59" crc="acb53e40" md5="2c526e51ff8f29079478deb76e915824" sha1="7753ee85f5842ec6db295c37eb9ff2944291e828" sha256="e47e0fd44cfb7b270d6a223a5dda6d377c597966304a5f0e14a353a345f6be5c"/>
+		<rom name="GamersGate temporary files\2431\Patriots.ico" size="18854" crc="5158c743" md5="6e4b1474d515c042660820171fdffde6" sha1="d69b43a5c75ba922470bbfbaed5699c2e27c0c67" sha256="acdc87d70187954a3fbc63feb073f9d79db678a55a7e9af9e2120dc9fae16745"/>
+		<rom name="GamersGate temporary files\2431\Patriots_Installer.EXE" size="524124983" crc="2e55c891" md5="f43f42de8e17b7f4754f928b11df4405" sha1="c8fa5f6b97647565aa80f3fcf4590bf85f9e9247" sha256="fe42374655db93c878d0274adaf29c193f79c91a0689e4d0dd45f59e1c152c0f"/>
+		<rom name="Download Patriots A Nation Under Fire.exe" size="290825" crc="3f35e4c7" md5="67eb00883b0d84cf0d609a99dc29a971" sha1="75d18ae281880d5570b48079e634cfc2155d0f4e" sha256="24ac3f8e70bf552fe4821ae8a74a38a90204373eae87541dc1d61a1613e73e1b"/>
+	</game>
+	<game name="Puckbang (World)" id="0015">
+		<description>Puckbang (World)</description>
+		<rom name="Puckbang.zip" size="1199639" crc="6f0d19e6" md5="4f948384122a93b0cbaec42ed60f252d" sha1="492c32cd544a18d962254c129831504ccf2592dc" sha256="ffc7bfe0b70fab24a2e25997ff08f1f42d6dbc048ccd82a680a9c75f0e8bf4e5"/>
+	</game>
+	<game name="Steel Storm - Soundtrack (World) (MP3) (Extra)" id="0018">
+		<description>Steel Storm - Soundtrack (World) (MP3) (Extra)</description>
+		<rom name="steelstorm_ost_bonus.zip" size="48255896" crc="9d4b72d2" md5="ba3e5b93a39391ad60cc6366bc98b4a9" sha1="5221c167ffe5704e95f9ea42d091a5f60e434365" sha256="22505e595196ae64e13a00d45e2973fc13463b34f0099dd07f88c6137acb55b1"/>
+	</game>
+	<game name="Street Racing Syndicate (Unknown)" id="0006">
+		<description>Street Racing Syndicate (Unknown)</description>
+		<rom name="Download Street Racing Syndicate.exe" size="290825" crc="9c575a53" md5="a0ffa94d3814f7d202703cc3135469d9" sha1="77920c142aa68c6c6751e2594938dc89181c5eef"/>
+	</game>
+	<game name="Unreal Tournament 2004 - Editor's Choice Edition (World)" id="0026">
+		<description>Unreal Tournament 2004 - Editor's Choice Edition (World)</description>
+		<rom name="Unreal Tournament 2004 Editor’s Choice Edition.exe" size="290825" crc="635413be" md5="70a05462ca9d1f21471857a78c8a4078" sha1="aa11f570801248f4351c30e1c7b536f359739db9" sha256="c95004ad1330c4027953857bb492ef563868fb9d0bdf061402056dae2eb1267a" mia="yes"/>
+		<rom name="setup.exe" size="416655" crc="00943caa" md5="df6fdc6a3204091bc17513f7a35fe3f6" sha1="56293198031089246baf23a76c645af617d777d0" sha256="b38075db3547cbc20ed20d2519d1b1c75e5274c8ed7ea0e217c8041a020b196e" mia="yes"/>
+		<rom name="setup-1.bin" size="536454144" crc="3a2e6f74" md5="d2ded988e8dd89a884215623be0a4597" sha1="2e00d9019caff4ceec69ad87db31d49571a925ac" sha256="96f7e3d586df33affbb5c1788e310419e820438d4e49ba0e08cdda009bbae22b" mia="yes"/>
+		<rom name="setup-2.bin" size="536870912" crc="42e22f00" md5="55b1aabb4ff8480ee8e9f687b5797067" sha1="0e307ce467182e29bf391df589e1578c2800b99a" sha256="5959f3fc48058bd17f290d3714c5a676530276729927b4143fd38e0f1c263e00" mia="yes"/>
+		<rom name="setup-3.bin" size="536870912" crc="7e4a33d3" md5="bb593c65def2a3fab4f288b6f9db7162" sha1="89574dc1c2ffe71a9b9438bb1fec773fdde9188e" sha256="d6a1ac207502a276aed92f8f8bbdb0090e09ab4b639c2e46ed559c3493b1da29" mia="yes"/>
+		<rom name="setup-4.bin" size="496913346" crc="c64776a9" md5="7bbbdde5a3204e8424f6542070728028" sha1="62ed51dacd97f7b16d88f8e049bd84aa41edd393" sha256="2b0b7562037d34edcf6849ba3c0ba2e0e0643e272bf0401347d59da8c5863ab4" mia="yes"/>
+		<rom name="setup-4(2).bin" size="496913346" crc="1e3dc0b5" md5="6868ae96feda78558303db9335fa97d4" sha1="709552359f2d137a80545c35e5ad67edbab73df1" sha256="69950e72f803c3ccd83db4fc61acc2211f8235aa8201eb6a39cd59572735c982" mia="yes"/>
+	</game>
+	<game name="Volvo The Game (Unknown)" id="0007">
+		<description>Volvo The Game (Unknown)</description>
+		<rom name="Download Volvo The Game.exe" size="290825" crc="45138a70" md5="3478f0b0bf434e2b7b42fcc22a85bb18" sha1="8dc490fefa104cc87dcb55c9e650da5dfa64bafd"/>
+	</game>
+	<game name="World Train Royale (World) (Demo)" id="0011">
+		<description>World Train Royale (World) (Demo)</description>
+		<rom name="WTR_Demo_Installer.exe" size="61600764" crc="aea695c8" md5="e12310a304d1e2de99b693253e191102" sha1="ab62d7c86c80b7e9c5019916adbe84113b689e3c" sha256="0ec682b1c2f10fdbe7f0fdade2497e37d7387afcabee3820ca3a552cf70268c1" status="verified"/>
+	</game>
+	<game name="World Train Royale (World)" id="0010">
+		<description>World Train Royale (World)</description>
+		<rom name="Download World Train Royale.exe" size="290825" crc="2c928472" md5="6136108413bb3b6a093b7fde55a0561d" sha1="b76807ec3b163aed3b1c29950b8523d91fbf7951" sha256="6b8483d45013a0d23c73380fb83d08ec4a725c61931f164ae38f408af3cb381c" status="verified"/>
+		<rom name="GamersGate temporary files\9641\setup.exe" size="57732578" crc="fdf609c1" md5="e179a1903dd648ead88a283133600785" sha1="9d8e6128113f5474da968f0dc589c17611271283" sha256="393dacb273051d6726bb10c359c69fbd4258ed55edbfc9cc8b1232a2e3635fc4" status="verified"/>
+	</game>
+</datafile>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>408</id>
+		<name>Panic - Playdate (Seasons) (Encrypted)</name>
+		<description>Panic - Playdate (Seasons) (Encrypted)</description>
+		<version>20251123-182102</version>
+		<author>rarenight</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Black Hole Havoc (World) (2025-06-20)" id="0045">
+		<category>Games</category>
+		<description>Black Hole Havoc (World) (2025-06-20)</description>
+		<rom name="BJHONJJIRDOXGVYDNXPDAndrew_Loebach_-_Black_Hole_Havoc.pdx_protected.zip" size="54096724" crc="205164cd" md5="d033491d77b45ca52d92cb28b343a781" sha1="19f2c683c0c76217de6fe95dc233e24bd91b8c1c" sha256="1fd5af498beebae9a96a5a3a60d0598c8ee551e760cb8107468914eefac71813"/>
+	</game>
+	<game name="Dig Dig Dino! (World) (2025-05-06)" id="0042">
+		<category>Games</category>
+		<description>Dig Dig Dino! (World) (2025-05-06)</description>
+		<rom name="UNSTBZWPHIOZMHMEGQLKDigDigDino-ReleaseCandidate-20250423.pdx_protected.zip" size="35766450" crc="bbcc0387" md5="c58f89909154b3b0ae46e6a099942b95" sha1="d162b34c6fe8516c7a4ff5576e33d96b8b89e2c5" sha256="3dedccd11e3d1aa45a1f5815e9729d9e1b2b4316507ac97bbbf4d08f7fd97790"/>
+	</game>
+	<game name="Fulcrum Defender (World) (2025-06-16)" id="0044">
+		<category>Games</category>
+		<description>Fulcrum Defender (World) (2025-06-16)</description>
+		<rom name="TTEHSWCCWIBMRARWBNGBJay_Ma_-_FulcrumDefender.1.07.pdx_protected.zip" size="20720481" crc="ed659abe" md5="f33d5ad703daf78ad3c05fe14eb32c70" sha1="d25ff70112ca6de9a621080001ae094483d23531" sha256="0b4e3f3c800843a2c6f3016055de99160cbb4323f6117aed23f7ad97b91e04df"/>
+	</game>
+	<game name="Whiteout, The (World) (2025-06-10)" id="0043">
+		<category>Games</category>
+		<description>Whiteout, The (World) (2025-06-10)</description>
+		<rom name="UNZFPJSPVCBSPKCGESKGSteve_Chipman_-_The_Whiteout.pdx_protected.zip" size="4833837" crc="9c28594b" md5="0f42d63357a1b4583d92b47b30e943f7" sha1="8ad4740d1880eac7a001d582075dc0f026bc77d8" sha256="cf76d14aca8e66dc013b3e11bd5968ca69e7c50da57fd220727c1d99ae5a1b34"/>
+	</game>
+</datafile>

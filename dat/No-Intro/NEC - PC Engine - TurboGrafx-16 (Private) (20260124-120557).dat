@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>12</id>
+		<name>NEC - PC Engine - TurboGrafx-16 (Private)</name>
+		<description>NEC - PC Engine - TurboGrafx-16 (Private)</description>
+		<version>20260124-120557</version>
+		<author>Arctic Circle System, bikerspade, C. V. Reynolds, fuzzball, Gefflon, Hiccup, kazumi213, Lesserkuma, MeguCocoa, Money_114, nnssxx, norkmetnoil577, NovaAurora, omonim2007, Psychofox11, psykopat, rarenight, relax, Rifu, SonGoku, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Atlantean (World) (Aftermarket) (Unl)" id="2507">
+		<description>Atlantean (World) (Aftermarket) (Unl)</description>
+		<rom name="Atlantean (World) (Aftermarket) (Unl).pce" size="524288" crc="fddc5814" md5="29abb6671fc4a4217473cd955cb76ae8" sha1="518341d715c8fb651edc1bacb2848dbb0acae097" sha256="3c8fae4c07587b12ffe3f3af5f1d2c93ad2a4b71ebb461eef9e4d6681511fd72"/>
+	</game>
+	<game name="Atlantean (World) (Itch.io) (Aftermarket) (Unl)" id="2517" cloneofid="2507">
+		<category>Games</category>
+		<description>Atlantean (World) (Itch.io) (Aftermarket) (Unl)</description>
+		<rom name="Atlantean (World) (Itch.io) (Aftermarket) (Unl).pce" size="524288" crc="6448ae74" md5="f3f3b9579ba48f6f9d4dbf5bc1991363" sha1="e90014509556cd2ec26e4f875ed5e92bef6c6906" sha256="b0825033f46180dff2f009243539417fc91594ec78203012043990b8c44a51ab"/>
+	</game>
+	<game name="Billy's Bad Day (World) (Aftermarket) (Unl)" id="2519" cloneofid="2523">
+		<category>Games</category>
+		<description>Billy's Bad Day (World) (Aftermarket) (Unl)</description>
+		<rom name="Billy's Bad Day (World) (Aftermarket) (Unl).pce" size="1048576" crc="4b202408" md5="20411b69df4301e1df1c492f5bf1dca1" sha1="a946f863f9cb0c3614793ca90718af3a9bd83d6a" sha256="00cb6986690afb8db6b706555ee4a44b0ace1f7acea4387fcea6f22b0f4786fd" mia="yes"/>
+	</game>
+	<game name="Billy's Bad Day (World) (v1.01) (Aftermarket) (Unl)" id="2523">
+		<category>Games</category>
+		<description>Billy's Bad Day (World) (v1.01) (Aftermarket) (Unl)</description>
+		<rom name="Billy's Bad Day (World) (v1.01) (Aftermarket) (Unl).pce" size="1048576" crc="069d48b5" md5="f55147e09e1342f9824500add176cf65" sha1="f828ca530fc47cef1b729b92b0e3c2b8308b32c6" sha256="2a698f244895d5223a3a24d233bd65bbd5f6252c28710f899753c986ba5f0531" mia="yes"/>
+	</game>
+	<game name="Billy's Bad Day (World) (Digital) (Aftermarket) (Unl)" id="2538" cloneofid="2523">
+		<category>Games</category>
+		<description>Billy's Bad Day (World) (Digital) (Aftermarket) (Unl)</description>
+		<rom name="Billy's Bad Day (World) (Digital) (Aftermarket) (Unl).pce" size="1048576" crc="40b87112" md5="d71198527266a6def78b4ba5d7848c52" sha1="3269ca87d1b5546b251950b2ef0074be26186f4e" sha256="93ae1ebd6f43a761e2ad1d76e9ca148f3311a16900d69f769ed0e5337b70b903"/>
+	</game>
+	<game name="Remute - Electronic Lifestyle (Japan) (Audio) (Aftermarket) (Unl)" id="2516">
+		<category>Audio</category>
+		<description>Remute - Electronic Lifestyle (Japan) (Audio) (Aftermarket) (Unl)</description>
+		<rom name="Remute - Electronic Lifestyle (Japan) (Audio) (Aftermarket) (Unl).pce" size="1048576" crc="199ed2a4" md5="9b787d7a6555ed9e579811ab660598ef" sha1="f037df62a8aa63d76320195dcf9bea5464723704" sha256="1cf93f73d06b67df6522d85fdc6ec637edb9388ba4cd763986b6313c2a9f6218" status="verified" mia="yes"/>
+	</game>
+</datafile>

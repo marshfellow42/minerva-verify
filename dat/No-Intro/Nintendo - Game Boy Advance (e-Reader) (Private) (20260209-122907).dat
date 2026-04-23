@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>41</id>
+		<name>Nintendo - Game Boy Advance (e-Reader) (Private)</name>
+		<description>Nintendo - Game Boy Advance (e-Reader) (Private)</description>
+		<version>20260209-122907</version>
+		<author>Arctic Circle System, Aringon, C. V. Reynolds, Gefflon, Hiccup, MeguCocoa, Psychofox11, rarenight, relax, root, sCZther, xuom2</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Bomb Hunter (USA) (Aftermarket) (Unl)" id="3262">
+		<category>Games</category>
+		<description>Bomb Hunter (USA) (Aftermarket) (Unl)</description>
+		<rom name="Bomb Hunter (USA) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="56b21657" md5="ed5db59b14fefac57b5c0dea16a6df1d" sha1="ae28b7cc1f9449f47cf4416e3915c8b64a53a7e4" sha256="9cff851ed6c60083e1a828221ae158854322e948a183eed3d2934fa6538b09fe" mia="yes"/>
+		<rom name="Bomb Hunter (USA) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="9ca91f1f" md5="b19e8a60c02edc87fbf0137d4e25480d" sha1="a1ab1b2699b2bc7fd80756ce3101fe5b61d4b16b" sha256="982c8f1797cb2e5d036efd06ec462609e3117f9e5bfca7225b5114c4cea8ac5e" mia="yes"/>
+	</game>
+	<game name="Bomb Hunter (Japan) (Aftermarket) (Unl)" id="3263" cloneofid="3262">
+		<category>Games</category>
+		<description>Bomb Hunter (Japan) (Aftermarket) (Unl)</description>
+		<rom name="Bomb Hunter (Japan) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="3e67030b" md5="e28123da4ef08d972114c595ff3ed31a" sha1="ebb714ea20def1cde0d1d42d1e8b42a70524dae8" sha256="515d327cf4b600ffa9a0a2455e0223550170e6c59a4c83d2f090f70df4d2be36" status="verified" mia="yes"/>
+		<rom name="Bomb Hunter (Japan) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="47e743ca" md5="80a9e70fc860eaa56b47b51b13fac238" sha1="9553a8e577189976c58a0ed5aa6780d7e569c0c3" sha256="f994298c0391c6fcdf6e95871c7d79be8cdca4929b76bb62278cbe8583454dba" status="verified" mia="yes"/>
+	</game>
+	<game name="E-Snake (USA) (Card 1) (Aftermarket) (Unl)" id="3264">
+		<category>Games</category>
+		<description>E-Snake (USA) (Card 1) (Aftermarket) (Unl)</description>
+		<rom name="E-Snake (USA) (Card 1) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="522164c0" md5="5b7ee90409d07cd94f3e434ffc9210d3" sha1="54db68abe2ed4d8d23065bfe1aa784b6514f9b6c" sha256="82a78cc06458d0ebee1278f500bb7629dd8298cb1999ed0af2d8e8c0e4ec1a1c" mia="yes"/>
+		<rom name="E-Snake (USA) (Card 1) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="d94b98df" md5="5fbaf32019788df5797a86553cf224d2" sha1="97074ee8ea36b6b1584ccf45d40e47fc70869532" sha256="698747a97b209a55df2eb8ef77333bf32ca302a1df277186c4b91da52246526c" mia="yes"/>
+	</game>
+	<game name="E-Snake (Japan) (En) (Card 1) (Aftermarket) (Unl)" id="3266" cloneofid="3264">
+		<category>Games</category>
+		<description>E-Snake (Japan) (En) (Card 1) (Aftermarket) (Unl)</description>
+		<rom name="E-Snake (Japan) (En) (Card 1) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="f3094dfc" md5="a4f36cf41f21e91b38409c77cbc3faac" sha1="41677d7da93a3b60c51554aae432f26c6e100654" sha256="7c7dcb5a8be506e42e4c1903d71e29b544a09276a3a17f0274a9cb700eb810e8" mia="yes"/>
+		<rom name="E-Snake (Japan) (En) (Card 1) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="0c7d0022" md5="5236bdb73d1b0d6f3b33f9a77df01a43" sha1="7bdb90e74138cc243f72ba36f632abd401635d02" sha256="72644235789946ebf2844809b339830d82ff07d293a33ec3cbd0807dae423af8" mia="yes"/>
+	</game>
+	<game name="E-Snake (Japan) (En) (Card 2) (Aftermarket) (Unl)" id="3267" cloneofid="3265">
+		<category>Games</category>
+		<description>E-Snake (Japan) (En) (Card 2) (Aftermarket) (Unl)</description>
+		<rom name="E-Snake (Japan) (En) (Card 2) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="eab8ad9d" md5="f4a550c527d43194d842e4101de8814d" sha1="04e24c00e3da250e0321d6e482014c83a13c0861" sha256="e4514aefcb91ebf427c892226d0956d00e5c5c7bb9a330587199658e153c6086" mia="yes"/>
+		<rom name="E-Snake (Japan) (En) (Card 2) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="45a28b17" md5="81b438774fff9cfe31c599892aaf6f69" sha1="d6293c236249bfe8dcef2796c08ccb349cad95af" sha256="8e56f7a7f929c6366e821de57c8262347f3cea02479e95437c81dc8f31ef0b1d" mia="yes"/>
+	</game>
+	<game name="E-Snake (USA) (Card 2) (Aftermarket) (Unl)" id="3265">
+		<category>Games</category>
+		<description>E-Snake (USA) (Card 2) (Aftermarket) (Unl)</description>
+		<rom name="E-Snake (USA) (Card 2) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="8edb4705" md5="7455fb8baf174f33bcd93f69cae1e59e" sha1="bafd572d5691c953a34fb0c2ab9b0ae64f8c04aa" sha256="75750d5558a3104b4f7a1532acee330c9b36f91006484b14545a5fa1e33498f0" mia="yes"/>
+		<rom name="E-Snake (USA) (Card 2) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="080a2dad" md5="7000c5aceac25ee9183ec6e671c708e1" sha1="75e60a56571893364c96d8a7259cb34f385fc137" sha256="8a97319d181a9e7aefdca40187916a657c3553840c3b586635084f27708f875a" mia="yes"/>
+	</game>
+	<game name="E-Snake (Japan) (Card 1) (Aftermarket) (Unl)" id="3268" cloneofid="3264">
+		<category>Games</category>
+		<description>E-Snake (Japan) (Card 1) (Aftermarket) (Unl)</description>
+		<rom name="E-Snake (Japan) (Card 1) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="47457dc5" md5="1c70f5131e9b898092e42956d3001e26" sha1="b125c1d0ad44c7d72eced8e6de08e74de48250ce" sha256="8c1a81facb6711b87b8185da5347069601906fe786da08e8665eed93c2b874f3" mia="yes"/>
+		<rom name="E-Snake (Japan) (Card 1) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="a541c9a5" md5="b7ff614c7452dd792f498a39839dcfcb" sha1="5cffd208bcc434bca5d746038eea2f355f1b9449" sha256="6ad34ffa560e5ba1385a12ba2660c2443836dd7f234c40798a96e5386acca5c4" mia="yes"/>
+	</game>
+	<game name="E-Snake (Japan) (Card 2) (Aftermarket) (Unl)" id="3269" cloneofid="3265">
+		<category>Games</category>
+		<description>E-Snake (Japan) (Card 2) (Aftermarket) (Unl)</description>
+		<rom name="E-Snake (Japan) (Card 2) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="03edfbeb" md5="39b70c617b812749e06e6767c91339ea" sha1="40dbbde965f11aca4e2fca89a8421a870ec6f942" sha256="51c1dab218e3fdb40da500d8489b82d4c198a6c2ece0b9946c17f9162e20a62b" mia="yes"/>
+		<rom name="E-Snake (Japan) (Card 2) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="9b03e930" md5="467506058dc117da816d71a1d43ee670" sha1="7322e3b7837a95b46f99468da3bba909c6584b9a" sha256="9090eb4c6acb33459bcdbf4910a6ebcfc718af551bb4604e242f02dcea444bd7" mia="yes"/>
+	</game>
+	<game name="Exo Attack (USA) (Card 1) (Aftermarket) (Unl)" id="3270">
+		<category>Games</category>
+		<description>Exo Attack (USA) (Card 1) (Aftermarket) (Unl)</description>
+		<rom name="Exo Attack (USA) (Card 1) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="b74ca489" md5="3f50e7c893175de5eb0d7fac35fb397a" sha1="42c06acde5c0267aa36ed2b409d9b622e6ebd5a0" sha256="d86741c4532f945aac4b96898ef2196ba58209407ec1ff7bdf4dc31ced89906f" mia="yes"/>
+		<rom name="Exo Attack (USA) (Card 1) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="2cec11e0" md5="0e450eca95ba2b9dfcdaee86fbb12f35" sha1="6294d0fcb38f1ff12897d9867e8cf3f0bddf6981" sha256="616798cd40b7ced0503981862d6cc98045eefae6bd77c1a6164595f45246cae9" mia="yes"/>
+	</game>
+	<game name="Exo Attack (USA) (Card 2) (Aftermarket) (Unl)" id="3271">
+		<category>Games</category>
+		<description>Exo Attack (USA) (Card 2) (Aftermarket) (Unl)</description>
+		<rom name="Exo Attack (USA) (Card 2) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="d6ca810b" md5="69d8e97b01baeb928b4c94aebf3a2d73" sha1="1d8b1a15fd4403f0f177d85446c3a3f1369f5436" sha256="f44dfdd24e35c2bc1b9ad88dcbf9f5fcc72d7c682791ee9135bf4b0036180c87" mia="yes"/>
+		<rom name="Exo Attack (USA) (Card 2) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="0e5d0064" md5="a165c3164fb55d1fed399fa8da562c56" sha1="43171bd4eb59d37b91a67ef02a3aa8c6167d26a4" sha256="0f7dca321297ab655149555f395907262a101b6f8128ae82a25125bf6d674cd5" mia="yes"/>
+	</game>
+	<game name="Exo Attack (Japan) (En) (Card 1) (Aftermarket) (Unl)" id="3272" cloneofid="3270">
+		<category>Games</category>
+		<description>Exo Attack (Japan) (En) (Card 1) (Aftermarket) (Unl)</description>
+		<rom name="Exo Attack (Japan) (En) (Card 1) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="ba721af0" md5="1beae114e1604e49cea7dac59309552b" sha1="c96f6e2366de842d242ec73b3821c82a26a6e5f8" sha256="94177e40ecf82cf560b528d440e2a54a605994a5344a5fbf62d533e01fc69f59" mia="yes"/>
+		<rom name="Exo Attack (Japan) (En) (Card 1) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="5574cbd8" md5="b493d0c579fe0bb7c30c9d8013a8294e" sha1="71126829368124f0c01fbf2b04b2f7c1de9ec489" sha256="ce93a13feb087addfcc78e958019cedf9c6b5eda8f6c2a13b13012da4665cae8" mia="yes"/>
+	</game>
+	<game name="Exo Attack (Japan) (En) (Card 2) (Aftermarket) (Unl)" id="3273" cloneofid="3271">
+		<category>Games</category>
+		<description>Exo Attack (Japan) (En) (Card 2) (Aftermarket) (Unl)</description>
+		<rom name="Exo Attack (Japan) (En) (Card 2) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="4876cf13" md5="5d97d20236c2f7c054740db973fe1587" sha1="66aaf628ffb20c4bfb1d27045928cfc52152c438" sha256="1d3f59eda84cd1035fa9d7729485c045a206b80100cf999919ea41ab2d2dc0e9" mia="yes"/>
+		<rom name="Exo Attack (Japan) (En) (Card 2) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="9bbe15bc" md5="8e96825565f9b0dcf79effc294dbb573" sha1="4bc4e7c12deb3aa4bc6dd3b3ce90931bdb1813c8" sha256="4560708a85c75daec924a3194870d5082ba44c811d41596c7b7dc0440732e3e9" mia="yes"/>
+	</game>
+	<game name="Exo Attack (Japan) (Card 1) (Aftermarket) (Unl)" id="3274" cloneofid="3270">
+		<category>Games</category>
+		<description>Exo Attack (Japan) (Card 1) (Aftermarket) (Unl)</description>
+		<rom name="Exo Attack (Japan) (Card 1) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="e8b6b82a" md5="ec7a522474fdc56c7cbe7fec436f2830" sha1="926f1de5c398d2e1246a2f899325c9216f263e01" sha256="36f499b71249b6cb06bb1da1f24aaf47b6e2f540420f9d481bc81c6d93cf7af7" mia="yes"/>
+		<rom name="Exo Attack (Japan) (Card 1) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="dc608903" md5="b9a4dd31d9d2dadbef27fec7a02d2c13" sha1="61ea5a2d26a47ee0d5991f911f3bbb964791a993" sha256="517a0ddf9a4382046e96e12d817af72101cc7c370647e5986851abecbd41aafc" mia="yes"/>
+	</game>
+	<game name="Exo Attack (Japan) (Card 2) (Aftermarket) (Unl)" id="3275" cloneofid="3271">
+		<category>Games</category>
+		<description>Exo Attack (Japan) (Card 2) (Aftermarket) (Unl)</description>
+		<rom name="Exo Attack (Japan) (Card 2) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="107f0d9b" md5="cef1a9b1268254730c29c0be06e9bf67" sha1="db7f7f92a95cf2eeca21376b21b8e37978439706" sha256="2f2e86e5f7a03bb85e325081a7bb74723095a20881c4c65f8c122612765cefc1" mia="yes"/>
+		<rom name="Exo Attack (Japan) (Card 2) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="2c3adaba" md5="fc13d16ccb02f7a8f47bc9b7035f7ed9" sha1="2a9877eeb3db95961272825eb689a80f25517dd5" sha256="2f42dc79a959ce54329c27ad5d7dfa78452d740f3e823b35b3e4730b8ed33bd0" mia="yes"/>
+	</game>
+	<game name="Franny Answers (USA) (Card 1) (Aftermarket) (Unl)" id="3276">
+		<category>Games</category>
+		<description>Franny Answers (USA) (Card 1) (Aftermarket) (Unl)</description>
+		<rom name="Franny Answers (USA) (Card 1) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="3f9b56d1" md5="81d9759e015cb5732b94c1524557a625" sha1="fc5d340722592b4aa4e16080be70c125412e1eb5" sha256="630cf96af3a2a242ac86ac588fc73197585ecea984d0208553db716ca04cbf81" mia="yes"/>
+		<rom name="Franny Answers (USA) (Card 1) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="cb2fe71c" md5="3d421d4025e6a6d4b647ae7b12a3973e" sha1="a6f87abae4ef6d5413dab3ec3e54f5d467157717" sha256="e574e8c31209cdb2a80eb1367a74e71362cd2e39a0bc71d6c8730f4cf2f39938" mia="yes"/>
+	</game>
+	<game name="Franny Answers (USA) (Card 2) (Aftermarket) (Unl)" id="3277">
+		<category>Games</category>
+		<description>Franny Answers (USA) (Card 2) (Aftermarket) (Unl)</description>
+		<rom name="Franny Answers (USA) (Card 2) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="1a657a43" md5="68f5fac0d6578051011fcc99bd624671" sha1="811d3b3ddc30c1e8290c8d934030e3584e566d32" sha256="a6405d634c18233a8e2db691dc1a99b0476cf1cad4e8d93fc276e418cfda6fc6" mia="yes"/>
+		<rom name="Franny Answers (USA) (Card 2) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="f36cb6fa" md5="d1df3c4754072907afbb0e2384cbc272" sha1="111cd68ae594b4f68b4e90a2be1c282ba3d7cde9" sha256="5982935497d77ac7804fb7c88dc5bde953de27e5a283d17b3074a070d3d29ad8" mia="yes"/>
+	</game>
+	<game name="Franny Answers (Japan) (En) (Card 1) (Aftermarket) (Unl)" id="3278" cloneofid="3276">
+		<category>Games</category>
+		<description>Franny Answers (Japan) (En) (Card 1) (Aftermarket) (Unl)</description>
+		<rom name="Franny Answers (Japan) (En) (Card 1) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="14b329c3" md5="87a29af5a22fd62031643a79787facd7" sha1="2440de203f6a24540a7306f1f98c49a058dcfd9a" sha256="c26178162abb552e4b64e25abd2d71988704f6e2041b6ce90eafdcc9f9684517" mia="yes"/>
+		<rom name="Franny Answers (Japan) (En) (Card 1) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="2db93197" md5="b10fe0b5bfcd83fa9262112188b41b35" sha1="a750fffb650021a9df66bed27d1b4de288b12795" sha256="85f09ef5e3049371d84e4471acbbc46c427fab255e6dafb1edfdc9e24ee654b8" mia="yes"/>
+	</game>
+	<game name="Franny Answers (Japan) (En) (Card 2) (Aftermarket) (Unl)" id="3279" cloneofid="3277">
+		<category>Games</category>
+		<description>Franny Answers (Japan) (En) (Card 2) (Aftermarket) (Unl)</description>
+		<rom name="Franny Answers (Japan) (En) (Card 2) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="97b15a4e" md5="ee40db5580f7e82935df33824e04c56b" sha1="c0a07145f39d3e6015dcc838a7eadd5ded7f09fa" sha256="339e6b64aed3e70fbef5f0d6fd33230fe5fd8cf55157adbfd99653aed34f2f80" mia="yes"/>
+		<rom name="Franny Answers (Japan) (En) (Card 2) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="5e413c97" md5="c236bba043e038a8fdb1c8afe7787512" sha1="81e651329273575deafbea06941474e6a5ca82ad" sha256="fcb1d02947a73d8fba440507d5952bde4bb210eac8cf37c5600aae9d322646a0" mia="yes"/>
+	</game>
+	<game name="Scavenger Hunt (USA) (Aftermarket) (Unl)" id="3280">
+		<category>Add-Ons</category>
+		<description>Scavenger Hunt (USA) (Aftermarket) (Unl)</description>
+		<rom name="Scavenger Hunt (USA) (Aftermarket) (Unl).raw" size="2912" crc="b9a78687" md5="619a9afbed18a0e8d08a6e5850fc02cc" sha1="d5beaa2bfdbf904e506484f28b9963ee1c561155" sha256="9e7aed68ca0ea6fab7f441e641b13afb1d5bc1c64f0419d8c3810f4b0059b3bc" mia="yes"/>
+	</game>
+	<game name="Scavenger Hunt (Japan) (En) (Aftermarket) (Unl)" id="3281" cloneofid="3280">
+		<category>Add-Ons</category>
+		<description>Scavenger Hunt (Japan) (En) (Aftermarket) (Unl)</description>
+		<rom name="Scavenger Hunt (Japan) (En) (Aftermarket) (Unl).raw" size="2912" crc="4b77a34e" md5="1f1aceb244ef53caaa06ad19a9ff4441" sha1="81198a51438853b14651212d97355bde75aef5ec" sha256="2d835f435ed3488db00a3ed4ba6f2e52ad315e77c9d557ac8bc2314aa5fb3e73" mia="yes"/>
+	</game>
+	<game name="Scavenger Hunt (Japan) (Aftermarket) (Unl)" id="3282" cloneofid="3280">
+		<category>Add-Ons</category>
+		<description>Scavenger Hunt (Japan) (Aftermarket) (Unl)</description>
+		<rom name="Scavenger Hunt (Japan) (Aftermarket) (Unl).raw" size="2912" crc="5e4cd3ac" md5="9df9352bf7a8d19ae10109c7319d1199" sha1="af88e3c1f7bcdc6d28c1528b72115b4328257be6" sha256="0732e88488296130893e0da19fb1371a22ab0ffc4d12296f4e12799218538bd8" mia="yes"/>
+	</game>
+	<game name="Solitaire (USA) (Aftermarket) (Unl)" id="3260">
+		<category>Games</category>
+		<description>Solitaire (USA) (Aftermarket) (Unl)</description>
+		<rom name="Solitaire (USA) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="3780db44" md5="86e0705a627dd074883ef12a81f28794" sha1="2b65394cbf6a277527d00186f02c1b302456a904" sha256="d53dedd31af3688f71d3959376ba8ed03196b9fffdc1bddcf7de520976e17443" mia="yes"/>
+		<rom name="Solitaire (USA) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="8dfaffe6" md5="b8f94cca187dd2a5b3d3cec286ebb5de" sha1="e2eb23a7e311ddc315547407ad27f485f18c3bba" sha256="3b0fb63af41462ebe65ce520d0d7628864c4a6db8a62d663d2057207eb3f8497" mia="yes"/>
+	</game>
+	<game name="Solitaire (Japan) (Aftermarket) (Unl)" id="3261" cloneofid="3260">
+		<category>Games</category>
+		<description>Solitaire (Japan) (Aftermarket) (Unl)</description>
+		<rom name="Solitaire (Japan) (Aftermarket) (Unl) (Strip 1).raw" size="2912" crc="3389633d" md5="8f685ae6109a9abb27ed945b9955b306" sha1="02c39b20cc3e2b69db0161f7fffe1756c4337cbb" sha256="da02e8c567dd0df8a3778551e2f1fa719bc4331ad8e3626f1294a76b7d246e45" status="verified" mia="yes"/>
+		<rom name="Solitaire (Japan) (Aftermarket) (Unl) (Strip 2).raw" size="2912" crc="8d5da00e" md5="51d6289cdcdd94768911933dac8afd11" sha1="78b2b2d14e5b2f130b2487e55213f58fc6464153" sha256="ea27d777808a46385e51c92e7592c14ab7b46e1af82336c783fe15185481b978" status="verified" mia="yes"/>
+	</game>
+</datafile>

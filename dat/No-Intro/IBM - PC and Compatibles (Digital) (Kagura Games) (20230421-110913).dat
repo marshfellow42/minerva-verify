@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>314</id>
+		<name>IBM - PC and Compatibles (Digital) (Kagura Games)</name>
+		<description>IBM - PC and Compatibles (Digital) (Kagura Games)</description>
+		<version>20230421-110913</version>
+		<author>MeguCocoa</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="KGD-042 - 7 Girls War (World) (En) (Windows)" id="0007">
+		<description>KGD-042 - 7 Girls War (World) (En) (Windows)</description>
+		<rom name="7_Girls_War-Final.rar" size="1551218354" crc="6a9b515d" md5="5d12d24d3d1eeb485855dd09a55eecc7" sha1="ba032f149c7fa5138c291f50feb96175306c01ce" sha256="df668b9fde2a7b2a3561eff232b28a5b3f934dbadc0e982b8bedde3e455ba7ad"/>
+	</game>
+	<game name="KGD-044 - Curse of Kubel, The (World) (En,Ja,Zh) (Windows)" id="0014">
+		<description>KGD-044 - Curse of Kubel, The (World) (En,Ja,Zh) (Windows)</description>
+		<rom name="KGD-044 - Curse of Kubel, The (World) (En,Ja,Zh) (Windows).zip" size="520323074" crc="a78cb6cf" md5="e6ff1816e552780f1923f629ca2f2241" sha1="573eb411dcf9aded4c2fe62450c474bab36b6544" sha256="6c7865b636c217210a4f1e3c67b66851c1c156035aad0a290d82480e3da530cf"/>
+	</game>
+	<game name="KGD-054 - Dungeon Town (World) (En,Ja,Zh) (Windows)" id="0006">
+		<description>KGD-054 - Dungeon Town (World) (En,Ja,Zh) (Windows)</description>
+		<rom name="KGD-054 - Dungeon Town (World) (En,Ja,Zh) (Windows).zip" size="1336292545" crc="c1cfbc31" md5="f6615f84c68d15f4c4f472b55425aaa5" sha1="1ea1c17f6487a821a1974bea3bede9f16c2452d9" sha256="bc264d26025f8da5c2bae4c9f28a62b1358c590e8deedc6d0e63b47eb71e941a"/>
+	</game>
+	<game name="KGD-056 - False Myth (World) (En) (Windows)" id="0009">
+		<description>KGD-056 - False Myth (World) (En) (Windows)</description>
+		<rom name="KGD-056 - False Myth (World) (En) (Windows).zip" size="465618300" crc="1707c1a6" md5="defe92da6fb6fc4c80b68cac1841c636" sha1="157bf819a6591a414ed3ca424951cf14edc4dbe8" sha256="4e6df5623a262af68ee771f22fb854020751c48eabd0228334db48f341dced17"/>
+	</game>
+	<game name="KGD-058 - Ambrosia (World) (En) (v1.02) (Windows)" id="0010">
+		<description>KGD-058 - Ambrosia (World) (En) (v1.02) (Windows)</description>
+		<rom name="Ambrosia_1.02.rar" size="1324065055" crc="596c1f53" md5="b9fb2e67de9acc572847c17759cc25b7" sha1="331c7c6f604289821ecdc8b0f856728d84bccdaf" sha256="a25b3eb2d89315d3ed2cba450164b37d08545688bf3138abc08ab68cd82df976"/>
+		<rom name="Ambrosia_EN_Patch_v1.02.rar" size="464769112" crc="ed92016d" md5="54e436f9c0d863705bafe26a5ab48eef" sha1="fb3af585aac2eaff81f558e966693f3c851aeeac" sha256="62ee7411f6e9dc8a41ac3b474718a8c406aed8d66e154ee00c1cdc1892bfa194"/>
+	</game>
+	<game name="KGD-104 - Castaway of the Ardusta Sea (World) (En) (v1.02) (Windows)" id="0004">
+		<description>KGD-104 - Castaway of the Ardusta Sea (World) (En) (v1.02) (Windows)</description>
+		<rom name="KGD-104 - Castaway of the Ardusta Sea (World) (En) (v1.02) (Windows).zip" size="351363377" crc="e60dd3d9" md5="4a8aecd52eac4c08af11617c3709b5cb" sha1="c73fb1b8a69e862b4775206eebf3479968053684" sha256="faa1d2f3fde9c164947a28e0ab087ed29f43fa7aff061598a06b6eac67478c63"/>
+	</game>
+	<game name="Lisa and the Grimoire (World) (En) (Windows)" id="0008">
+		<description>Lisa and the Grimoire (World) (En) (Windows)</description>
+		<rom name="Lisa_and_the_Grimoire_ENG.rar" size="604613653" crc="222d5a1d" md5="377192e046dc3fe7aacd7ca83b142925" sha1="89822d444e754e3d0acec5ccfa3e65c2532258ff" sha256="e5ff78f648c244fdf67e7c4ec384dd21cfcb21f2192b8267ba2b47e0a47c4b5e"/>
+	</game>
+	<game name="Magical Girl Celesphonia (World) (En) (v1.06) (Windows)" id="0005">
+		<description>Magical Girl Celesphonia (World) (En) (v1.06) (Windows)</description>
+		<rom name="Magical Girl Celesphonia 1.06 KG.rar" size="2105191180" crc="c943442a" md5="e0df67400ef0fd1cc7125859fe901b25" sha1="dabe0cf9d0319038b7cc52a0e5548da9e17fa633" sha256="17725611a361389a5d224792ec75cfb535df9200d69f7e3be30754cde5f43686"/>
+		<rom name="Magical_Girl_Celesphonia_EN_Patch_v1.06.rar" size="1283729864" crc="4f0adac6" md5="97e53d30d7b89f33a9b672ae07c5a58b" sha1="5ac58eb3e09ad5cf829bd6ba4df4f9ae7e171a04" sha256="8f0d6a942e2d98f110adcd5bcd1569c8025643ddf808ab767bd978548cb18fbd"/>
+	</game>
+	<game name="Ruins Seeker (World) (En) (Windows)" id="0015">
+		<description>Ruins Seeker (World) (En) (Windows)</description>
+		<rom name="Ruins Seeker (World) (En) (Windows).zip" size="506835939" crc="d2ad8a85" md5="36c62d21c2e6a984fc7f02356307342b" sha1="57d718c7a30011e51fea5f793c300bb83f384df1" sha256="3cbaf50b94a62bb3db285ecd3e10c048b1b4c90f76bc63e51247d378bbdb4667"/>
+	</game>
+	<game name="Seed of Evil (World) (En) (Windows)" id="0003">
+		<description>Seed of Evil (World) (En) (Windows)</description>
+		<rom name="Seed of Evil (World) (En) (Windows).zip" size="608746563" crc="a16803eb" md5="741f5ba0d58ec4800f918551e2e1dcc4" sha1="479545807da0b7c98dce5e187a42a6cb95d020c9" sha256="44d28f93299e667df424a5d58a73232f8f87c22a11c9c5828c16f5a84244514e"/>
+	</game>
+	<game name="Slave's Sword (World) (En) (Windows)" id="0001">
+		<category>Games</category>
+		<description>Slave's Sword (World) (En) (Windows)</description>
+		<rom name="Slave's Sword (World) (En) (Windows).zip" size="735783409" crc="4a6e3102" md5="f3ad89dd3bdfad4035ce70d13db81fb6" sha1="75c3c01d213c125ed9323a805fa9256328a15aa5" sha256="42e27a19959ce4d041eab253ebc116a4f5e76a54f96c4f289fb3ec0dc4a26bbe"/>
+	</game>
+	<game name="Summer Memories+ - Expansion DLC (World) (En) (Windows)" id="0011">
+		<description>Summer Memories+ - Expansion DLC (World) (En) (Windows)</description>
+		<rom name="Summer Memories+ - Expansion DLC (World) (En) (Windows).zip" size="902330379" crc="6bcb5abf" md5="f367ca6bb142af69f744f84348829833" sha1="ea1baefb9b7ba16a2aac2fbb10f5c044d9cadd14" sha256="885e9cc0debcca193a44b82e66bb161ec49bcd8c6f192f4ffa6a2fcf3db6e155"/>
+	</game>
+	<game name="Tear and the Library of Labyrinths (World) (En,Ja) (Windows)" id="0012">
+		<description>Tear and the Library of Labyrinths (World) (En,Ja) (Windows)</description>
+		<rom name="Tear_and_the_Library_of_Labyrinths.rar" size="1215153481" crc="d6f0469a" md5="8ee671601034f48b062b664a14bcd57b" sha1="b5120189d78e1791aa79ad5ee3bb05ab17ba4b55" sha256="89f52ae214eb65441c60696609aa3fad045f8febbd3e5f49eeb21964135f6139"/>
+	</game>
+	<game name="Treasure Hunter Claire (World) (En) (Windows) (Uncensored)" id="0002">
+		<description>Treasure Hunter Claire (World) (En) (Windows) (Uncensored)</description>
+		<rom name="Treasure Hunter Claire (World) (En) (Windows) (Uncensored).zip" size="1246357348" crc="0b620bfb" md5="0ba358226727dd14bd15bb39df608060" sha1="1c8433e08e16ab5d7f02edad79fd10a380441e27" sha256="960d3b44b0e8d012b610f3ae3e5c298afc47dbdafd22abcb1a626ac112382896"/>
+	</game>
+</datafile>

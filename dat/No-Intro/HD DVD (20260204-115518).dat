@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<datafile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://datomatic.no-intro.org/stuff https://datomatic.no-intro.org/stuff/schema_nointro_datfile_v3.xsd">
+	<header>
+		<id>328</id>
+		<name>HD DVD</name>
+		<description>HD DVD</description>
+		<subset>Non-Game</subset>
+		<version>20260204-115518</version>
+		<author>Intothisworld, NovaAurora, UnlockerPT</author>
+		<homepage>No-Intro</homepage>
+		<url>https://www.no-intro.org</url>
+		<clrmamepro forcenodump="required"/>
+	</header>
+	<game name="Blade Runner (USA) (5-Disc Complete Collector's Edition) (Disc 3)" id="0001">
+		<category>Video</category>
+		<description>Films</description>
+		<rom name="Blade Runner (USA) (5-Disc Complete Collector's Edition) (Disc 3).iso" size="25697320960" crc="1f321df6" md5="dd559a9f5b1d68182a55e0e4410d959b" sha1="dd76a72bf1b5867c749a3411f6cccf91dae07a23"/>
+	</game>
+	<game name="Brave Story (Japan)" id="0002">
+		<category>Video</category>
+		<description>Animation, Films</description>
+		<rom name="Brave Story (Japan).iso" size="17847615488" crc="0d1a9a42" md5="dd192688085f3e0ad47a04b65bbc18c1" sha1="5fe1dec1058e55912d7f4b28ef8e0b1f543a0340"/>
+	</game>
+	<game name="DTS - 2008 High Definition Audio Demostration Disc (USA)" id="0003">
+		<category>Audio</category>
+		<category>Video</category>
+		<description>Ambience, Films, Music, Promotional</description>
+		<rom name="DTS 2008 High Definition Audio Demostration Disc (USA).iso" size="13369344000" crc="d01d3b6d" md5="defe7ea9355072eb8dc1967ac3016769" sha1="e2bd73ff9de1c803bdaad0a2f8dedfa2db082920"/>
+	</game>
+	<game name="Freedom 2 (USA)" id="0004">
+		<category>Video</category>
+		<description>Animation, Promotional, Television</description>
+		<rom name="Freedom 2 (USA).iso" size="7750680576" crc="defffe72" md5="80203d47c3e3b33c642967d0b436fb9b" sha1="b60cdae0bbc56479dc105af704f92c7de7fd552c"/>
+	</game>
+	<game name="Planet Earth - The Complete Series (USA) (4 Disc Set) (Disc 1)" id="0005">
+		<description>Planet Earth - The Complete Series (USA) (4 Disc Set) (Disc 1)</description>
+		<rom name="Planet Earth - The Complete Series (USA) (4 Disc Set) (Disc 1).iso" size="23798743040" crc="7f802c08" md5="d6c49b89e40dc069044bfc7eacd8fa8b" sha1="88c52e60fdbf5ec6087561da3e7668b3da275c11"/>
+	</game>
+	<game name="Planet Earth - The Complete Series (USA) (4 Disc Set) (Disc 3)" id="0006">
+		<description>Planet Earth - The Complete Series (USA) (4 Disc Set) (Disc 3)</description>
+		<rom name="Planet Earth - The Complete Series (USA) (4 Disc Set) (Disc 3).iso" size="24008589312" crc="a86821ed" md5="a5dc51a1ae61ef79daa01c122db7903c" sha1="3962eaffe4f3b2a1523eb8a401279a832b366dd6"/>
+	</game>
+</datafile>
