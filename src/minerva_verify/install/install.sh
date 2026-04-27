@@ -16,5 +16,5 @@ fi
 
 # Move into the directory and run setup
 cd "$TARGET" || exit
-chmod +x install/setup.py
-./install/setup.py
+chmod +x src/minerva_verify/install/setup.py
+./src/minerva_verify/install/setup.py

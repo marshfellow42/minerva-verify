@@ -12,7 +12,7 @@ console = Console()
 BASE_DIR = Path(__file__).resolve().parent
 DAT_FOLDER = BASE_DIR.parent / "dat" / Path(__file__).stem.replace("_", "-")
 
-def main(root_path):
+def main(root_path, project_name, author_name):
     if "ps3" in str(root_path).lower():
         console.print(f"[yellow]Skipping:[/yellow] ps3 detected in path '{root_path}'")
         return
@@ -34,7 +34,9 @@ def main(root_path):
             DAT_FOLDER, 
             actual_dat_file[0],
             database.RA_SCHEMA, 
-            Path(__file__).stem.replace("_", "-")
+            Path(__file__).stem.replace("_", "-"),
+            project_name,
+            author_name
         )
         
 if __name__ == "__main__":

@@ -1,12 +1,20 @@
 #!/usr/bin/env python3
 import tomllib
 from pathlib import Path
-from platformdirs import user_config_dir
+from platformdirs import user_config_path
 import platform
 import sys
+from rich.console import Console
 
-with open("pyproject.toml", "rb") as f:
-    project_data = tomllib.load(f)
+console = Console()
+
+try:
+    ROOT = Path(__file__).resolve().parents[2]
+    with open(ROOT / "pyproject.toml", "rb") as f:
+        project_data = tomllib.load(f)
+except FileNotFoundError:
+    console.print("[bold red]Error:[/bold red] pyproject.toml not found.")
+    sys.exit(1)
     
 system = platform.system()
 
@@ -19,7 +27,7 @@ match system:
         sys_cmd = ["brew", "update", "&&", "brew", "upgrade"]
 
     case "Windows":
-        appdata_path = Path(user_config_dir(appname=project_data["project"]["name"], appauthor=False, roaming=True))
+        appdata_path = user_config_path(appname=project_data["project"]["name"], appauthor=False, roaming=True)
         appdata_path.mkdir(parents=True, exist_ok=True)
         
         # config file in appdata/roaming/minerva-verify

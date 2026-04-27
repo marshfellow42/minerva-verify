@@ -187,8 +187,8 @@ def verify_file(df_dat, system_name, game_internal_name, file_path, database_sch
     
     console.print(f"[{status_text}] {game_internal_name}")
 
-def process_console_folder(folder_path, dat_folder, dat_filename, database_schema, database_table_name):
-    cache_path = explore.get_cache_path()
+def process_console_folder(folder_path, dat_folder, dat_filename, database_schema, database_table_name, project_name, author_name):
+    cache_path = explore.get_cache_path(project_name, author_name)
     
     dat_path = dat_folder / dat_filename
     if not dat_path.exists():

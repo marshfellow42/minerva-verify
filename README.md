@@ -9,7 +9,7 @@ A WIP script to verify all your files downloaded from Myrient.
 Just run the bash file
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/marshfellow42/minerva-verify/refs/heads/main/install/install.sh
+curl -fsSL https://raw.githubusercontent.com/marshfellow42/minerva-verify/refs/heads/main/src/minerva_verify/install/install.sh
 ```
 
 Then run the command

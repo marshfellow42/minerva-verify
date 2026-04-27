@@ -15,6 +15,7 @@ import subprocess
 import platform
 import shutil
 from pathlib import Path
+import minerva_verify.install.setup as setup
 
 console = Console()
 
@@ -37,6 +38,8 @@ def main(ctx: typer.Context):
     if ctx.invoked_subcommand is not None:
         return
     
+    setup.run_os_setup()
+    
     all_minerva_folders = list(ROMS_FOLDER.rglob("Minerva_Myrient"))
     
     if not all_minerva_folders:
@@ -56,13 +59,13 @@ def main(ctx: typer.Context):
                 
                 match folder_name:
                     case "RetroAchievements":
-                        RetroAchievements.main(folder_full_path)
+                        RetroAchievements.main(folder_full_path, data["project"]["name"], data["project"]["authors"][0]["name"])
                     case "Redump":
-                        Redump.main(folder_full_path)
+                        Redump.main(folder_full_path, data["project"]["name"], data["project"]["authors"][0]["name"])
                     case "No-Intro":
-                        No_Intro.main(folder_full_path)
+                        No_Intro.main(folder_full_path, data["project"]["name"], data["project"]["authors"][0]["name"])
                     case "Touhou Project Collection":
-                        TouhouProjectCollection.main(folder_full_path)
+                        TouhouProjectCollection.main(folder_full_path, data["project"]["name"], data["project"]["authors"][0]["name"])
             
         except Exception as e:
             console.print(f"[bold red]Failed to process {minerva_path}:[/bold red] {e}")
@@ -100,40 +103,37 @@ def update():
             
             match distro:
                 case "ubuntu" | "debian":
-                    subprocess.run(["sudo", "apt", "update"], check=False)
-                    subprocess.run(["sudo", "apt", "upgrade", "-y"], check=False)
+                    subprocess.run(["sudo", "apt", "update", "-y"])
+                    subprocess.run(["sudo", "apt", "upgrade", "-y"])
                 case "arch":
                     if shutil.which("yay"):
-                        sys_cmd = ["yay", "-Syu", "--noconfirm"]
+                        subprocess.run(["yay", "-Syu", "--noconfirm"])
                     else:
-                        sys_cmd = ["sudo", "pacman", "-Syu", "--noconfirm"]
+                        subprocess.run(["sudo", "pacman", "-Syu", "--noconfirm"])
                 case "fedora":
-                    sys_cmd = ["sudo", "dnf", "upgrade", "--refresh"]
+                    subprocess.run(["sudo", "dnf", "upgrade", "--refresh"])
                 case _:
                     print(f"Linux distribution '{distro}' is not supported.")
                     return
 
         case "Darwin":
-            subprocess.run(["brew", "update"], check=False)
-            subprocess.run(["brew", "upgrade"], check=False)
+            subprocess.run(["brew", "update"])
+            subprocess.run(["brew", "upgrade"])
 
         case "Windows":
-            print("Windows is not supported.")
-            sys.exit(1)
+            pass
 
         case _:
             print(f"Operating system '{system}' is not supported.")
             sys.exit(1)
-            
-    subprocess.run(sys_cmd, check=False, capture_output=True, text=True)
     
     if is_repo_up_to_date():
         console.print("[yellow]No git updates found. Skipping update.[/yellow]")
         return
     else:
-        subprocess.run(["git", "pull"], check=False, capture_output=True, text=True)
+        subprocess.run(["git", "pull"])
 
-        subprocess.run(["uv", "tool", "install", ".", "--force"], check=False, capture_output=True, text=True)
+        subprocess.run(["uv", "tool", "install", ".", "--force"])
 
 @app.command(help="Show the version number for the app.")
 def version():

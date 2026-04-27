@@ -111,6 +111,15 @@ def run_os_setup():
         sys.exit(1)
 
     print("uv installed successfully.")
+    
+    tool_check = subprocess.run(["uv", "tool", "list"], capture_output=True, text=True)
+    if "minerva-verify" not in tool_check.stdout:
+        try:
+            print("Installing minerva-verify via uv...")
+            subprocess.run(["uv", "tool", "install", ".", "--force"])
+        except FileNotFoundError:
+            print("Error: uv is not installed or not found in your PATH.")
+            sys.exit(1)
 
 
 if __name__ == "__main__":

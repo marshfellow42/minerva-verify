@@ -12,7 +12,7 @@ console = Console()
 BASE_DIR = Path(__file__).resolve().parent
 DAT_FOLDER = BASE_DIR.parent / "dat" / "Touhou Project Collection"
 
-def main(root_path):
+def main(root_path, project_name, author_name):
     for console_folder in explore.get_surface_folders(root_path):
         folder_path = Path(root_path) / console_folder
 
@@ -36,7 +36,9 @@ def main(root_path):
                     DAT_FOLDER, 
                     actual_dat_file[0],
                     database.RA_SCHEMA, 
-                    "Touhou Project Collection"
+                    "Touhou Project Collection",
+                    project_name,
+                    author_name
                 )
         else:
             try:
@@ -53,7 +55,9 @@ def main(root_path):
                 DAT_FOLDER, 
                 actual_dat_file[0],
                 database.RA_SCHEMA, 
-                "Touhou Project Collection"
+                "Touhou Project Collection",
+                project_name,
+                author_name
             )
             
         

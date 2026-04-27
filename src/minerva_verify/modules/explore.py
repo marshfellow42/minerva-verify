@@ -1,16 +1,12 @@
 #!/usr/bin/env python3
 from pathlib import Path
 import mimetypes
-import tomllib
 from platformdirs import user_cache_path
 
-def get_cache_path():
-    with open("pyproject.toml", "rb") as f:
-        data = tomllib.load(f)
-    
+def get_cache_path(project_name, author_name):
     path = user_cache_path(
-        appname=data["project"]["name"], 
-        appauthor=data["project"]["authors"][0]["name"]
+        appname=project_name,
+        appauthor=author_name
     )
     path.mkdir(parents=True, exist_ok=True)
     return path
