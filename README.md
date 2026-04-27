@@ -2,8 +2,30 @@
 
 A WIP script to verify all your files downloaded from Myrient.
 
-# CONFIGURATION
+## How to install
 
-1. User Configuration
+### Linux
 
-    - ${APPDATA}/minerva-verify/config.toml
+Just run the bash file
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/marshfellow42/minerva-verify/refs/heads/main/modules/database.py
+```
+
+Then run the command
+
+```bash
+minerva-verify
+```
+
+To update the app, just run the command below
+
+```bash
+minerva-verify update
+```
+
+## Configuration File
+
+### Windows
+
+- ${APPDATA}/minerva-verify/config.toml

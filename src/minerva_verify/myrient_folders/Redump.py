@@ -3,23 +3,16 @@ from pathlib import Path
 
 from rich.console import Console
 
-import modules.database as database
-import modules.explore as explore
-
-# Custom modules
-import modules.verifying as verifying
+import minerva_verify.modules.database as database
+import minerva_verify.modules.explore as explore
+import minerva_verify.modules.verifying as verifying
 
 console = Console()
 
+BASE_DIR = Path(__file__).resolve().parent
+DAT_FOLDER = BASE_DIR.parent / "dat" / Path(__file__).stem
+
 def main(root_path):
-    if "ps3" in str(root_path).lower():
-        console.print(f"[yellow]Skipping:[/yellow] ps3 detected in path '{root_path}'")
-        return
-    
-    DAT_FOLDER = Path('.') / "dat" / Path(__file__).stem.replace("_", "-")
-    
-    cache_path = explore.get_cache_path()
-    
     for console_folder in explore.get_surface_folders(root_path):
         folder_path = Path(root_path) / console_folder
         
@@ -35,8 +28,7 @@ def main(root_path):
         verifying.process_console_folder(
             folder_path, 
             DAT_FOLDER, 
-            actual_dat_file[0], 
-            cache_path, 
+            actual_dat_file[0],
             database.RA_SCHEMA, 
             Path(__file__).stem.replace("_", "-")
         )

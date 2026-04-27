@@ -36,5 +36,3 @@ with open(config_path, "rb") as f:
 roms_config = data.get("ROMS_FOLDER")
 
 ROMS_FOLDER = Path(roms_config) if roms_config else Path.home() / "Roms"
-
-print(f"Target folder: {ROMS_FOLDER}")

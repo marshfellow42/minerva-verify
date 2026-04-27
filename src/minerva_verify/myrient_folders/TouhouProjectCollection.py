@@ -3,26 +3,22 @@ from pathlib import Path
 
 from rich.console import Console
 
-import modules.database as database
-import modules.explore as explore
-
-# Custom modules
-import modules.verifying as verifying
+import minerva_verify.modules.database as database
+import minerva_verify.modules.explore as explore
+import minerva_verify.modules.verifying as verifying
 
 console = Console()
 
+BASE_DIR = Path(__file__).resolve().parent
+DAT_FOLDER = BASE_DIR.parent / "dat" / "Touhou Project Collection"
+
 def main(root_path):
-    DAT_FOLDER = Path('.') / "dat" / "Touhou Project Collection"
-    
-    cache_path = explore.get_cache_path()
-    
     for console_folder in explore.get_surface_folders(root_path):
         folder_path = Path(root_path) / console_folder
-        
-        print(folder_path)
 
+        files_present = len(explore.get_surface_files(folder_path))
         
-        if folder_path.is_dir():
+        if files_present == 0:
             for subfolder in explore.get_surface_folders(folder_path):
                 subfolder_path = folder_path / subfolder
                 
@@ -35,14 +31,10 @@ def main(root_path):
                     console.print(f"[red]Error:[/red] No DAT file found starting with {console_folder}")
                     continue
                 
-                print(f"DAT Folder: {DAT_FOLDER}")
-                print(f"DAT File: {actual_dat_file}")
-                
                 verifying.process_console_folder(
                     subfolder_path, 
                     DAT_FOLDER, 
-                    actual_dat_file[0], 
-                    cache_path, 
+                    actual_dat_file[0],
                     database.RA_SCHEMA, 
                     "Touhou Project Collection"
                 )
@@ -56,14 +48,10 @@ def main(root_path):
                 console.print(f"[red]Error:[/red] No DAT file found starting with {console_folder}")
                 continue
             
-            print(f"DAT Folder: {DAT_FOLDER}")
-            print(f"DAT File: {actual_dat_file}")
-            
             verifying.process_console_folder(
                 folder_path, 
                 DAT_FOLDER, 
-                actual_dat_file[0], 
-                cache_path, 
+                actual_dat_file[0],
                 database.RA_SCHEMA, 
                 "Touhou Project Collection"
             )

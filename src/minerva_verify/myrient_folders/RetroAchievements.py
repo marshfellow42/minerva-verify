@@ -3,27 +3,23 @@ from pathlib import Path
 
 from rich.console import Console
 
-import modules.database as database
-import modules.explore as explore
-
-# Custom modules
-import modules.verifying as verifying
+import minerva_verify.modules.database as database
+import minerva_verify.modules.explore as explore
+import minerva_verify.modules.verifying as verifying
 
 console = Console()
 
-DAT_FOLDER = Path('.') / "dat" / Path(__file__).stem
+BASE_DIR = Path(__file__).resolve().parent
+DAT_FOLDER = BASE_DIR.parent / "dat" / Path(__file__).stem
 
 def main(root_path):
-    cache_path = explore.get_cache_path()
-    
     for console_folder in explore.get_surface_folders(root_path):
         folder_path = Path(root_path) / console_folder
         
         verifying.process_console_folder(
             folder_path, 
             DAT_FOLDER, 
-            console_folder + ".dat", 
-            cache_path, 
+            console_folder + ".dat",
             database.RA_SCHEMA, 
             Path(__file__).stem
         )

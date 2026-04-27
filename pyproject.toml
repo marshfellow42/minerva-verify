@@ -1,6 +1,8 @@
 [project]
 name = "minerva-verify"
-version = "1.0.0"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
 authors = [
     {name = "Minerva Archive"},
     {name = "marshfellow42"},
@@ -8,14 +10,13 @@ authors = [
 maintainers = [
     {name = "marshfellow42"}
 ]
-description = "Add your description here"
-readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "lxml>=6.1.0",
     "pandas>=3.0.2",
     "platformdirs>=4.9.6",
     "rich>=15.0.0",
+    "textual>=8.2.4",
     "typer>=0.24.1",
 ]
 
@@ -23,3 +24,10 @@ dependencies = [
 dev = [
     "ruff>=0.15.11",
 ]
+
+[project.scripts]
+minerva-verify = "minerva_verify.main:app"
+
+[build-system]
+requires = ["uv_build>=0.10.7,<0.11.0"]
+build-backend = "uv_build"

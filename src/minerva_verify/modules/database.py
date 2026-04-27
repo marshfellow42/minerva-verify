@@ -24,16 +24,11 @@ def upsert_data(cursor, table_name, schema, data_tuple, conflict_col="dat_sha1_h
     # Wrap column names in the SET part
     update_set = ", ".join([f'"{c}"=excluded."{c}"' for c in cols if c != conflict_col])
     
-    # Wrap column names in the WHERE part
-    check_cols = [c for c in cols if c.endswith("_check")]
-    update_where = " OR ".join([f'"{c}" = 0' for c in check_cols])
-    
     # Construct the final query with quoted table name and conflict column
     sql = f"""
         INSERT INTO "{table_name}" ({col_names}) 
         VALUES ({placeholders})
         ON CONFLICT("{conflict_col}") DO UPDATE SET {update_set}
-        WHERE {update_where}
     """
     cursor.execute(sql, data_tuple)
     
@@ -61,12 +56,12 @@ RA_SCHEMA = [
     ("timestamp", "TEXT")
 ]
 
-def main(collection_name, data):
+def main(collection_name, database_schema, data):
     with get_db_connection() as conn:
         cursor = conn.cursor()
         
-        create_table(cursor, collection_name, RA_SCHEMA)
-        upsert_data(cursor, collection_name, RA_SCHEMA, data)
+        create_table(cursor, collection_name, database_schema)
+        upsert_data(cursor, collection_name, database_schema, data)
         
         conn.commit()
 

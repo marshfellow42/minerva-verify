@@ -19,6 +19,10 @@ def get_surface_folders(directory_path):
     path = Path(directory_path)
     return [item.name for item in path.iterdir() if item.is_dir()]
 
+def get_surface_files(directory_path):
+    path = Path(directory_path)
+    return [item.name for item in path.iterdir() if item.is_file()]
+
 def get_all_files(directory_path):
     path = Path(directory_path)
     return [str(item.relative_to(path)) for item in path.rglob("*") if item.is_file()]

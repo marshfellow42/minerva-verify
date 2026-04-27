@@ -7,9 +7,9 @@ import pandas as pd
 from rich.console import Console
 
 # Custom modules
-import modules.hashing as hashing
-import modules.explore as explore
-import modules.database as database
+import minerva_verify.modules.hashing as hashing
+import minerva_verify.modules.explore as explore
+import minerva_verify.modules.database as database
 
 console = Console()
 
@@ -183,12 +183,13 @@ def verify_file(df_dat, system_name, game_internal_name, file_path, database_sch
     }
 
     data_tuple = tuple(value_map.get(col[0]) for col in database_schema)
-    database.main(database_table_name, data_tuple)
+    database.main(database_table_name, database_schema, data_tuple)
     
     console.print(f"[{status_text}] {game_internal_name}")
 
-def process_console_folder(folder_path, dat_folder, dat_filename, cache_path, database_schema, database_table_name):
-    """High-level orchestration for a specific console folder."""
+def process_console_folder(folder_path, dat_folder, dat_filename, database_schema, database_table_name):
+    cache_path = explore.get_cache_path()
+    
     dat_path = dat_folder / dat_filename
     if not dat_path.exists():
         console.print(f"[red]DAT file not found:[/red] {dat_path}")
